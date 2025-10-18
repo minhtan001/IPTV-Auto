@@ -1,0 +1,40 @@
+name: Auto Update IPTV Playlists
+
+on:
+  schedule:
+    - cron: "0 * * * *"  # chạy mỗi 1 tiếng
+  workflow_dispatch:      # cho phép chạy thủ công
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: 🔹 Checkout code
+      uses: actions/checkout@v4
+
+    - name: 🐍 Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.11"
+
+    - name: 📦 Install dependencies
+      run: pip install -r requirements.txt
+
+    - name: 🚀 Run playlist generator
+      run: python multi_playlist_merge_grouped.py
+
+    - name: 📤 Deploy M3U to playlists branch
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git fetch origin playlists || true
+        git checkout playlists || git checkout --orphan playlists
+        rm -rf ./*
+        cp -r output/* .
+        git add *.m3u
+        git commit -m "Auto update playlists $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes"
+        git push origin playlists --force
