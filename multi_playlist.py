@@ -11,9 +11,9 @@ SOURCES = [
     {"name": "Vankhanh", "url": "https://hxcv.site/vankhanh", "output": OUTPUT_DIR /"vankhanh.m3u"},
     {"name": "Chuoichien", "url": "https://hxcv.site/chuoichien", "output": OUTPUT_DIR /"chuoichien.m3u"},
     {"name": "LuongSon", "url": "https://hxcv.site/luongson", "output": OUTPUT_DIR /"luongson.m3u"},
-    # {"name": "KhanDaiA", "url": "https://hxcv.site/khandaia", "output": "khandaia.m3u"}, # chưa chạy được
-    # {"name": "BunCha", "url": "https://hxcv.site/buncha", "output": "buncha.m3u"}, # chưa chạy được
-    # {"name": "GaVang", "url": "https://hxcv.site/gavang", "output": "gavang.m3u"}, # chưa chạy được
+    # {"name": "KhanDaiA", "url": "https://hxcv.site/khandaia", "output": OUTPUT_DIR /"khandaia.m3u"}, # chưa chạy được
+    # {"name": "BunCha", "url": "https://hxcv.site/buncha", "output": OUTPUT_DIR /"buncha.m3u"}, # chưa chạy được
+    {"name": "GaVang", "url": "https://hxcv.site/gavang", "output": OUTPUT_DIR /"gavang.m3u"}, # chưa chạy được
 ]
 
 ALL_OUTPUT = OUTPUT_DIR / "all.m3u"
