@@ -25,7 +25,7 @@ jobs:
       run: pip install -r requirements.txt
 
     - name: 🚀 Run playlist generator
-      run: python multi_playlist_merge_grouped.py
+      run: python multi_playlist.py
 
     - name: 📤 Deploy M3U to playlists branch
       run: |
