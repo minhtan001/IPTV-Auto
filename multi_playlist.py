@@ -13,7 +13,7 @@ SOURCES = [
     {"name": "LuongSon", "url": "https://hxcv.site/luongson", "output": OUTPUT_DIR /"luongson.m3u"},
     # {"name": "KhanDaiA", "url": "https://hxcv.site/khandaia", "output": OUTPUT_DIR /"khandaia.m3u"}, # chưa chạy được
     # {"name": "BunCha", "url": "https://hxcv.site/buncha", "output": OUTPUT_DIR /"buncha.m3u"}, # chưa chạy được
-    {"name": "GaVang", "url": "https://hxcv.site/gavang", "output": OUTPUT_DIR /"gavang.m3u"}, # chưa chạy được
+    {"name": "GaVang", "url": "https://hxcv.site/gavang", "output": OUTPUT_DIR /"gavang.m3u"}, # chưa chạy được, chạy với vlc thì ok
 ]
 
 ALL_OUTPUT = OUTPUT_DIR / "all.m3u"
@@ -132,10 +132,15 @@ def process_source(name, base_url, output_file):
                 attrs = [
                     f'group-title="{e["league"]} ▸ {e["match"]}"'
                 ]
+                # Bổ sung tùy chọn referer cho VLC
+                if e["referer"]:
+                    f.write(f'#EXTVLCOPT:http-referrer="{e["referer"]}"\n')
+                    # Tùy chọn referer (KHÔNG phải http-referrer) vẫn được giữ trong EXTINF
+                    attrs.append(f'referer="{e["referer"]}"')
+                
                 if e["img"]:
                     attrs.append(f'tvg-logo="{e["img"]}"')
-                if e["referer"]:
-                    attrs.append(f'referer="{e["referer"]}"')
+
                 attr_line = " ".join(attrs)
                 f.write(f'#EXTINF:-1 {attr_line},{e["name"]}\n')
                 f.write(f'{e["url"]}\n')
@@ -157,10 +162,16 @@ def generate_all_playlist(all_data):
             # Gộp 3 cấp: Source ▸ League ▸ Match
             group = f'{e["source"]} ▸ {e["league"]} ▸ {e["match"]}'
             attrs = [f'group-title="{group}"']
+            
+            # Bổ sung tùy chọn referer cho VLC
+            if e["referer"]:
+                f.write(f'#EXTVLCOPT:http-referrer="{e["referer"]}"\n')
+                # Tùy chọn referer (KHÔNG phải http-referrer) vẫn được giữ trong EXTINF
+                attrs.append(f'referer="{e["referer"]}"')
+            
             if e["img"]:
                 attrs.append(f'tvg-logo="{e["img"]}"')
-            if e["referer"]:
-                attrs.append(f'referer="{e["referer"]}"')
+
             attr_line = " ".join(attrs)
             f.write(f'#EXTINF:-1 {attr_line},{e["name"]}\n')
             f.write(f'{e["url"]}\n')
@@ -190,5 +201,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    
-
