@@ -4,9 +4,9 @@ on:
   schedule:
     - cron: "0 */2 * * *"  # chạy mỗi 2 tiếng
   workflow_dispatch:      # cho phép chạy thủ công
-  push:
-    branches:
-      - master
+  # push:
+  #   branches:
+  #     - master
 permissions:
   contents: write  # Cho phép workflow push lên repo
 
