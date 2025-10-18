@@ -2,7 +2,7 @@ name: Auto Update IPTV Playlists
 
 on:
   schedule:
-    - cron: "0 */2 * * *"  # chạy mỗi 2 tiếng
+    - cron: "*/30 * * * *"  # chạy mỗi 30 phút
   workflow_dispatch:      # cho phép chạy thủ công
   # push:
   #   branches:
