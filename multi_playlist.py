@@ -182,3 +182,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+    if not any(OUTPUT_DIR.glob("*.m3u")):
+        print("⚠️ Không có file nào được tạo trong output/. Kiểm tra nguồn dữ liệu!")
+

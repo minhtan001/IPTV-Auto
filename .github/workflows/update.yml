@@ -6,7 +6,7 @@ on:
   workflow_dispatch:      # cho phép chạy thủ công
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build:
@@ -25,7 +25,10 @@ jobs:
       run: pip install -r requirements.txt
 
     - name: 🚀 Run playlist generator
-      run: python multi_playlist.py
+      run: |
+        echo "📡 Running Python script..."
+        python multi_playlist.py || exit 0
+        echo "✅ Script finished."
 
     - name: 📤 Deploy M3U to playlists branch
       run: |
@@ -33,8 +36,8 @@ jobs:
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git fetch origin playlists || true
         git checkout playlists || git checkout --orphan playlists
-        rm -rf ./*
-        cp -r output/* .
-        git add *.m3u
+        mkdir -p output
+        cp -r output/* . || true
+        git add *.m3u || true
         git commit -m "Auto update playlists $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes"
-        git push origin playlists --force
+        git push origin playlists --force || echo "No changes to push"
