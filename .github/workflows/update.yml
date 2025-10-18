@@ -2,11 +2,13 @@ name: Auto Update IPTV Playlists
 
 on:
   schedule:
-    - cron: "0 * * * *"  # chạy mỗi 1 tiếng
+    - cron: "0 */2 * * *"  # chạy mỗi 2 tiếng
   workflow_dispatch:      # cho phép chạy thủ công
   push:
     branches:
       - master
+permissions:
+  contents: write  # Cho phép workflow push lên repo
 
 jobs:
   build:
@@ -38,6 +40,9 @@ jobs:
         git checkout playlists || git checkout --orphan playlists
         mkdir -p output
         cp -r output/* . || true
-        git add *.m3u || true
-        git commit -m "Auto update playlists $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes"
+        # 🧮 Lấy số link từ stats.txt (nếu có)
+        LINKS_COUNT=$(cat stats.txt 2>/dev/null || echo "0")
+        
+        git add *.m3u stats.txt || true
+        git commit -m "Auto update playlists $(date '+%Y-%m-%d %H:%M:%S') (links: ${LINKS_COUNT})" || echo "No changes"
         git push origin playlists --force || echo "No changes to push"

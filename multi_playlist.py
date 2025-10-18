@@ -180,8 +180,15 @@ def main():
     else:
         print("❌ Không có dữ liệu hợp lệ nào để gộp.")
 
-if __name__ == "__main__":
-    main()
     if not any(OUTPUT_DIR.glob("*.m3u")):
         print("⚠️ Không có file nào được tạo trong output/. Kiểm tra nguồn dữ liệu!")
+    
+    # 🧮 Ghi thống kê để workflow dùng trong commit message
+    stats_file = OUTPUT_DIR / "stats.txt"
+    with open(stats_file, "w", encoding="utf-8") as f:
+        f.write(str(len(all_entries)))
+
+if __name__ == "__main__":
+    main()
+    
 
