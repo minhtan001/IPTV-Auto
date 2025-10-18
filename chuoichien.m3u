@@ -1,33 +1,169 @@
 #EXTM3U
-#EXTINF:-1 group-title="Unknown League ▸ Nizhny Novgorod vs Akron" tvg-logo="https://hxcv.site/images/cache/match-aa8d10d0ace283738b0b8f1254ce2c21.png" referer="https://api.chuoichientv.com/",Nizhny Novgorod vs Akron [Nhà Đài - HD1 - Nhà Đài - HD1]
-https://gckc0525.edgemaxcdn.org/live/m4x4/playlist.m3u8
-#EXTINF:-1 group-title="Unknown League ▸ Nizhny Novgorod vs Akron" tvg-logo="https://hxcv.site/images/cache/match-aa8d10d0ace283738b0b8f1254ce2c21.png" referer="https://api.chuoichientv.com/",Nizhny Novgorod vs Akron [Nhà Đài - HD1 - Nhà Đài - HD2]
-https://gckc0525.edgemaxcdn.org/live/m4x4.flv
-#EXTINF:-1 group-title="Unknown League ▸ Nizhny Novgorod vs Akron" tvg-logo="https://hxcv.site/images/cache/match-aa8d10d0ace283738b0b8f1254ce2c21.png" referer="https://api.chuoichientv.com/",Nizhny Novgorod vs Akron [Nhà Đài - HD2 - Nhà Đài - HD1]
-https://gckc0525.edgemaxcdn.org/live/m4x4/playlist.m3u8
-#EXTINF:-1 group-title="Unknown League ▸ Nizhny Novgorod vs Akron" tvg-logo="https://hxcv.site/images/cache/match-aa8d10d0ace283738b0b8f1254ce2c21.png" referer="https://api.chuoichientv.com/",Nizhny Novgorod vs Akron [Nhà Đài - HD2 - Nhà Đài - HD2]
-https://gckc0525.edgemaxcdn.org/live/m4x4.flv
-#EXTINF:-1 group-title="Unknown League ▸ Long An FC vs Bình Phước" tvg-logo="https://hxcv.site/images/cache/match-061578f499ad6d4c9446b44f23066bf3.png" referer="https://api.chuoichientv.com/",Long An FC vs Bình Phước [Nhà Đài - HD1 - Nhà Đài - HD1]
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Nam Dinh vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-9813093bec6c4698ab6c826a8eddcb5c.png",Nam Dinh vs Becamex Hồ Chí Minh [BLV Chuối Hột - HD1 - BLV Chuối Hột - HD1]
+https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Nam Dinh vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-9813093bec6c4698ab6c826a8eddcb5c.png",Nam Dinh vs Becamex Hồ Chí Minh [BLV Chuối Hột - HD1 - BLV Chuối Hột - HD2]
+https://cyber.chuoichien.tv/chuoihot/index.m3u8
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Nam Dinh vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-9813093bec6c4698ab6c826a8eddcb5c.png",Nam Dinh vs Becamex Hồ Chí Minh [BLV Chuối Hột - HD1 - BLV Chuối Hột - HD3]
+https://gckc0525.edgemaxcdn.org/live/chuoihot.flv
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Nam Dinh vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-9813093bec6c4698ab6c826a8eddcb5c.png",Nam Dinh vs Becamex Hồ Chí Minh [BLV Chuối Hột - HD1 - BLV Chuối Hột - HD4]
+https://cyber.chuoichien.tv/chuoihot.flv
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Nam Dinh vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-9813093bec6c4698ab6c826a8eddcb5c.png",Nam Dinh vs Becamex Hồ Chí Minh [BLV Chuối Hột - HD1 - BLV Chuối Hột - SD1]
+https://stream.chuoichien.tv/chuoihot/index.m3u8
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Nam Dinh vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-9813093bec6c4698ab6c826a8eddcb5c.png",Nam Dinh vs Becamex Hồ Chí Minh [BLV Chuối Hột - HD1 - BLV Chuối Hột - SD2]
+https://stream.chuoichien.tv/chuoihot.flv
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Nam Dinh vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-9813093bec6c4698ab6c826a8eddcb5c.png",Nam Dinh vs Becamex Hồ Chí Minh [BLV Chuối Hột - HD2 - BLV Chuối Hột - HD1]
+https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Nam Dinh vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-9813093bec6c4698ab6c826a8eddcb5c.png",Nam Dinh vs Becamex Hồ Chí Minh [BLV Chuối Hột - HD2 - BLV Chuối Hột - HD2]
+https://cyber.chuoichien.tv/chuoihot/index.m3u8
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Nam Dinh vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-9813093bec6c4698ab6c826a8eddcb5c.png",Nam Dinh vs Becamex Hồ Chí Minh [BLV Chuối Hột - HD2 - BLV Chuối Hột - HD3]
+https://gckc0525.edgemaxcdn.org/live/chuoihot.flv
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Nam Dinh vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-9813093bec6c4698ab6c826a8eddcb5c.png",Nam Dinh vs Becamex Hồ Chí Minh [BLV Chuối Hột - HD2 - BLV Chuối Hột - HD4]
+https://cyber.chuoichien.tv/chuoihot.flv
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Nam Dinh vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-9813093bec6c4698ab6c826a8eddcb5c.png",Nam Dinh vs Becamex Hồ Chí Minh [BLV Chuối Hột - HD2 - BLV Chuối Hột - SD1]
+https://stream.chuoichien.tv/chuoihot/index.m3u8
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Nam Dinh vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-9813093bec6c4698ab6c826a8eddcb5c.png",Nam Dinh vs Becamex Hồ Chí Minh [BLV Chuối Hột - HD2 - BLV Chuối Hột - SD2]
+https://stream.chuoichien.tv/chuoihot.flv
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Nam Dinh vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-9813093bec6c4698ab6c826a8eddcb5c.png",Nam Dinh vs Becamex Hồ Chí Minh [BLV Chuối Hột - HD3 - BLV Chuối Hột - HD1]
+https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Nam Dinh vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-9813093bec6c4698ab6c826a8eddcb5c.png",Nam Dinh vs Becamex Hồ Chí Minh [BLV Chuối Hột - HD3 - BLV Chuối Hột - HD2]
+https://cyber.chuoichien.tv/chuoihot/index.m3u8
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Nam Dinh vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-9813093bec6c4698ab6c826a8eddcb5c.png",Nam Dinh vs Becamex Hồ Chí Minh [BLV Chuối Hột - HD3 - BLV Chuối Hột - HD3]
+https://gckc0525.edgemaxcdn.org/live/chuoihot.flv
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Nam Dinh vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-9813093bec6c4698ab6c826a8eddcb5c.png",Nam Dinh vs Becamex Hồ Chí Minh [BLV Chuối Hột - HD3 - BLV Chuối Hột - HD4]
+https://cyber.chuoichien.tv/chuoihot.flv
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Nam Dinh vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-9813093bec6c4698ab6c826a8eddcb5c.png",Nam Dinh vs Becamex Hồ Chí Minh [BLV Chuối Hột - HD3 - BLV Chuối Hột - SD1]
+https://stream.chuoichien.tv/chuoihot/index.m3u8
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Nam Dinh vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-9813093bec6c4698ab6c826a8eddcb5c.png",Nam Dinh vs Becamex Hồ Chí Minh [BLV Chuối Hột - HD3 - BLV Chuối Hột - SD2]
+https://stream.chuoichien.tv/chuoihot.flv
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Nam Dinh vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-9813093bec6c4698ab6c826a8eddcb5c.png",Nam Dinh vs Becamex Hồ Chí Minh [BLV Chuối Hột - HD4 - BLV Chuối Hột - HD1]
+https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Nam Dinh vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-9813093bec6c4698ab6c826a8eddcb5c.png",Nam Dinh vs Becamex Hồ Chí Minh [BLV Chuối Hột - HD4 - BLV Chuối Hột - HD2]
+https://cyber.chuoichien.tv/chuoihot/index.m3u8
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Nam Dinh vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-9813093bec6c4698ab6c826a8eddcb5c.png",Nam Dinh vs Becamex Hồ Chí Minh [BLV Chuối Hột - HD4 - BLV Chuối Hột - HD3]
+https://gckc0525.edgemaxcdn.org/live/chuoihot.flv
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Nam Dinh vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-9813093bec6c4698ab6c826a8eddcb5c.png",Nam Dinh vs Becamex Hồ Chí Minh [BLV Chuối Hột - HD4 - BLV Chuối Hột - HD4]
+https://cyber.chuoichien.tv/chuoihot.flv
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Nam Dinh vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-9813093bec6c4698ab6c826a8eddcb5c.png",Nam Dinh vs Becamex Hồ Chí Minh [BLV Chuối Hột - HD4 - BLV Chuối Hột - SD1]
+https://stream.chuoichien.tv/chuoihot/index.m3u8
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Nam Dinh vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-9813093bec6c4698ab6c826a8eddcb5c.png",Nam Dinh vs Becamex Hồ Chí Minh [BLV Chuối Hột - HD4 - BLV Chuối Hột - SD2]
+https://stream.chuoichien.tv/chuoihot.flv
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Nam Dinh vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-9813093bec6c4698ab6c826a8eddcb5c.png",Nam Dinh vs Becamex Hồ Chí Minh [BLV Chuối Hột - SD1 - BLV Chuối Hột - HD1]
+https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Nam Dinh vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-9813093bec6c4698ab6c826a8eddcb5c.png",Nam Dinh vs Becamex Hồ Chí Minh [BLV Chuối Hột - SD1 - BLV Chuối Hột - HD2]
+https://cyber.chuoichien.tv/chuoihot/index.m3u8
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Nam Dinh vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-9813093bec6c4698ab6c826a8eddcb5c.png",Nam Dinh vs Becamex Hồ Chí Minh [BLV Chuối Hột - SD1 - BLV Chuối Hột - HD3]
+https://gckc0525.edgemaxcdn.org/live/chuoihot.flv
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Nam Dinh vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-9813093bec6c4698ab6c826a8eddcb5c.png",Nam Dinh vs Becamex Hồ Chí Minh [BLV Chuối Hột - SD1 - BLV Chuối Hột - HD4]
+https://cyber.chuoichien.tv/chuoihot.flv
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Nam Dinh vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-9813093bec6c4698ab6c826a8eddcb5c.png",Nam Dinh vs Becamex Hồ Chí Minh [BLV Chuối Hột - SD1 - BLV Chuối Hột - SD1]
+https://stream.chuoichien.tv/chuoihot/index.m3u8
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Nam Dinh vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-9813093bec6c4698ab6c826a8eddcb5c.png",Nam Dinh vs Becamex Hồ Chí Minh [BLV Chuối Hột - SD1 - BLV Chuối Hột - SD2]
+https://stream.chuoichien.tv/chuoihot.flv
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Nam Dinh vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-9813093bec6c4698ab6c826a8eddcb5c.png",Nam Dinh vs Becamex Hồ Chí Minh [BLV Chuối Hột - SD2 - BLV Chuối Hột - HD1]
+https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Nam Dinh vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-9813093bec6c4698ab6c826a8eddcb5c.png",Nam Dinh vs Becamex Hồ Chí Minh [BLV Chuối Hột - SD2 - BLV Chuối Hột - HD2]
+https://cyber.chuoichien.tv/chuoihot/index.m3u8
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Nam Dinh vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-9813093bec6c4698ab6c826a8eddcb5c.png",Nam Dinh vs Becamex Hồ Chí Minh [BLV Chuối Hột - SD2 - BLV Chuối Hột - HD3]
+https://gckc0525.edgemaxcdn.org/live/chuoihot.flv
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Nam Dinh vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-9813093bec6c4698ab6c826a8eddcb5c.png",Nam Dinh vs Becamex Hồ Chí Minh [BLV Chuối Hột - SD2 - BLV Chuối Hột - HD4]
+https://cyber.chuoichien.tv/chuoihot.flv
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Nam Dinh vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-9813093bec6c4698ab6c826a8eddcb5c.png",Nam Dinh vs Becamex Hồ Chí Minh [BLV Chuối Hột - SD2 - BLV Chuối Hột - SD1]
+https://stream.chuoichien.tv/chuoihot/index.m3u8
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Nam Dinh vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-9813093bec6c4698ab6c826a8eddcb5c.png",Nam Dinh vs Becamex Hồ Chí Minh [BLV Chuối Hột - SD2 - BLV Chuối Hột - SD2]
+https://stream.chuoichien.tv/chuoihot.flv
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Long An FC vs Bình Phước" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-061578f499ad6d4c9446b44f23066bf3.png",Long An FC vs Bình Phước [Nhà Đài - HD1 - Nhà Đài - HD1]
 https://gckc0525.edgemaxcdn.org/live/m4x3/playlist.m3u8
-#EXTINF:-1 group-title="Unknown League ▸ Long An FC vs Bình Phước" tvg-logo="https://hxcv.site/images/cache/match-061578f499ad6d4c9446b44f23066bf3.png" referer="https://api.chuoichientv.com/",Long An FC vs Bình Phước [Nhà Đài - HD1 - Nhà Đài - HD2]
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Long An FC vs Bình Phước" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-061578f499ad6d4c9446b44f23066bf3.png",Long An FC vs Bình Phước [Nhà Đài - HD1 - Nhà Đài - HD2]
 https://gckc0525.edgemaxcdn.org/live/m4x3.flv
-#EXTINF:-1 group-title="Unknown League ▸ Long An FC vs Bình Phước" tvg-logo="https://hxcv.site/images/cache/match-061578f499ad6d4c9446b44f23066bf3.png" referer="https://api.chuoichientv.com/",Long An FC vs Bình Phước [Nhà Đài - HD2 - Nhà Đài - HD1]
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Long An FC vs Bình Phước" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-061578f499ad6d4c9446b44f23066bf3.png",Long An FC vs Bình Phước [Nhà Đài - HD2 - Nhà Đài - HD1]
 https://gckc0525.edgemaxcdn.org/live/m4x3/playlist.m3u8
-#EXTINF:-1 group-title="Unknown League ▸ Long An FC vs Bình Phước" tvg-logo="https://hxcv.site/images/cache/match-061578f499ad6d4c9446b44f23066bf3.png" referer="https://api.chuoichientv.com/",Long An FC vs Bình Phước [Nhà Đài - HD2 - Nhà Đài - HD2]
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Long An FC vs Bình Phước" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-061578f499ad6d4c9446b44f23066bf3.png",Long An FC vs Bình Phước [Nhà Đài - HD2 - Nhà Đài - HD2]
 https://gckc0525.edgemaxcdn.org/live/m4x3.flv
-#EXTINF:-1 group-title="Unknown League ▸ Krylia Sovetov vs FC Orenburg" tvg-logo="https://hxcv.site/images/cache/match-731ea56098bd5214b536616f9e92a244.png" referer="https://api.chuoichientv.com/",Krylia Sovetov vs FC Orenburg [Nhà Đài - HD1 - Nhà Đài - HD1]
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Nizhny Novgorod vs Akron" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-aa8d10d0ace283738b0b8f1254ce2c21.png",Nizhny Novgorod vs Akron [Nhà Đài - HD1 - Nhà Đài - HD1]
+https://gckc0525.edgemaxcdn.org/live/m4x4/playlist.m3u8
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Nizhny Novgorod vs Akron" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-aa8d10d0ace283738b0b8f1254ce2c21.png",Nizhny Novgorod vs Akron [Nhà Đài - HD1 - Nhà Đài - HD2]
+https://gckc0525.edgemaxcdn.org/live/m4x4.flv
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Nizhny Novgorod vs Akron" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-aa8d10d0ace283738b0b8f1254ce2c21.png",Nizhny Novgorod vs Akron [Nhà Đài - HD2 - Nhà Đài - HD1]
+https://gckc0525.edgemaxcdn.org/live/m4x4/playlist.m3u8
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Nizhny Novgorod vs Akron" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-aa8d10d0ace283738b0b8f1254ce2c21.png",Nizhny Novgorod vs Akron [Nhà Đài - HD2 - Nhà Đài - HD2]
+https://gckc0525.edgemaxcdn.org/live/m4x4.flv
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Krylia Sovetov vs FC Orenburg" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-731ea56098bd5214b536616f9e92a244.png",Krylia Sovetov vs FC Orenburg [Nhà Đài - HD1 - Nhà Đài - HD1]
 https://gckc0525.edgemaxcdn.org/live/m4x5/playlist.m3u8
-#EXTINF:-1 group-title="Unknown League ▸ Krylia Sovetov vs FC Orenburg" tvg-logo="https://hxcv.site/images/cache/match-731ea56098bd5214b536616f9e92a244.png" referer="https://api.chuoichientv.com/",Krylia Sovetov vs FC Orenburg [Nhà Đài - HD1 - Nhà Đài - HD2]
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Krylia Sovetov vs FC Orenburg" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-731ea56098bd5214b536616f9e92a244.png",Krylia Sovetov vs FC Orenburg [Nhà Đài - HD1 - Nhà Đài - HD2]
 https://gckc0525.edgemaxcdn.org/live/m4x5.flv
-#EXTINF:-1 group-title="Unknown League ▸ Krylia Sovetov vs FC Orenburg" tvg-logo="https://hxcv.site/images/cache/match-731ea56098bd5214b536616f9e92a244.png" referer="https://api.chuoichientv.com/",Krylia Sovetov vs FC Orenburg [Nhà Đài - HD2 - Nhà Đài - HD1]
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Krylia Sovetov vs FC Orenburg" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-731ea56098bd5214b536616f9e92a244.png",Krylia Sovetov vs FC Orenburg [Nhà Đài - HD2 - Nhà Đài - HD1]
 https://gckc0525.edgemaxcdn.org/live/m4x5/playlist.m3u8
-#EXTINF:-1 group-title="Unknown League ▸ Krylia Sovetov vs FC Orenburg" tvg-logo="https://hxcv.site/images/cache/match-731ea56098bd5214b536616f9e92a244.png" referer="https://api.chuoichientv.com/",Krylia Sovetov vs FC Orenburg [Nhà Đài - HD2 - Nhà Đài - HD2]
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Krylia Sovetov vs FC Orenburg" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-731ea56098bd5214b536616f9e92a244.png",Krylia Sovetov vs FC Orenburg [Nhà Đài - HD2 - Nhà Đài - HD2]
 https://gckc0525.edgemaxcdn.org/live/m4x5.flv
-#EXTINF:-1 group-title="Unknown League ▸ Than Quang Ninh vs Khatoco Khanh Hoa" tvg-logo="https://hxcv.site/images/cache/match-7c56d045b25710ebfeb9be2070e54c15.png" referer="https://api.chuoichientv.com/",Than Quang Ninh vs Khatoco Khanh Hoa [Nhà Đài - HD1 - Nhà Đài - HD1]
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Than Quang Ninh vs Khatoco Khanh Hoa" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-7c56d045b25710ebfeb9be2070e54c15.png",Than Quang Ninh vs Khatoco Khanh Hoa [Nhà Đài - HD1 - Nhà Đài - HD1]
 https://gckc0525.edgemaxcdn.org/live/m4x6/playlist.m3u8
-#EXTINF:-1 group-title="Unknown League ▸ Than Quang Ninh vs Khatoco Khanh Hoa" tvg-logo="https://hxcv.site/images/cache/match-7c56d045b25710ebfeb9be2070e54c15.png" referer="https://api.chuoichientv.com/",Than Quang Ninh vs Khatoco Khanh Hoa [Nhà Đài - HD1 - Nhà Đài - HD2]
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Than Quang Ninh vs Khatoco Khanh Hoa" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-7c56d045b25710ebfeb9be2070e54c15.png",Than Quang Ninh vs Khatoco Khanh Hoa [Nhà Đài - HD1 - Nhà Đài - HD2]
 https://gckc0525.edgemaxcdn.org/live/m4x6.flv
-#EXTINF:-1 group-title="Unknown League ▸ Than Quang Ninh vs Khatoco Khanh Hoa" tvg-logo="https://hxcv.site/images/cache/match-7c56d045b25710ebfeb9be2070e54c15.png" referer="https://api.chuoichientv.com/",Than Quang Ninh vs Khatoco Khanh Hoa [Nhà Đài - HD2 - Nhà Đài - HD1]
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Than Quang Ninh vs Khatoco Khanh Hoa" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-7c56d045b25710ebfeb9be2070e54c15.png",Than Quang Ninh vs Khatoco Khanh Hoa [Nhà Đài - HD2 - Nhà Đài - HD1]
 https://gckc0525.edgemaxcdn.org/live/m4x6/playlist.m3u8
-#EXTINF:-1 group-title="Unknown League ▸ Than Quang Ninh vs Khatoco Khanh Hoa" tvg-logo="https://hxcv.site/images/cache/match-7c56d045b25710ebfeb9be2070e54c15.png" referer="https://api.chuoichientv.com/",Than Quang Ninh vs Khatoco Khanh Hoa [Nhà Đài - HD2 - Nhà Đài - HD2]
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Than Quang Ninh vs Khatoco Khanh Hoa" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-7c56d045b25710ebfeb9be2070e54c15.png",Than Quang Ninh vs Khatoco Khanh Hoa [Nhà Đài - HD2 - Nhà Đài - HD2]
 https://gckc0525.edgemaxcdn.org/live/m4x6.flv
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Perth Glory vs Wellington Phoenix" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-d2d0c64ae2eac31a5d932bfd02f337d0.png",Perth Glory vs Wellington Phoenix [Nhà Đài - HD1 - Nhà Đài - HD1]
+https://gckc0525.edgemaxcdn.org/live/m4x1/playlist.m3u8
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Perth Glory vs Wellington Phoenix" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-d2d0c64ae2eac31a5d932bfd02f337d0.png",Perth Glory vs Wellington Phoenix [Nhà Đài - HD1 - Nhà Đài - HD2]
+https://gckc0525.edgemaxcdn.org/live/m4x1.flv
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Perth Glory vs Wellington Phoenix" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-d2d0c64ae2eac31a5d932bfd02f337d0.png",Perth Glory vs Wellington Phoenix [Nhà Đài - HD2 - Nhà Đài - HD1]
+https://gckc0525.edgemaxcdn.org/live/m4x1/playlist.m3u8
+#EXTVLCOPT:http-referrer="https://api.chuoichientv.com/"
+#EXTINF:-1 group-title="Unknown League ▸ Perth Glory vs Wellington Phoenix" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-d2d0c64ae2eac31a5d932bfd02f337d0.png",Perth Glory vs Wellington Phoenix [Nhà Đài - HD2 - Nhà Đài - HD2]
+https://gckc0525.edgemaxcdn.org/live/m4x1.flv
