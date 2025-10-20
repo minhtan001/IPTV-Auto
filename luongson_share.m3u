@@ -1,23 +1,5 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",01h15-21/10 Al-Ahli SFC Vs Al-Garrafa BLV PHONG VÂN
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",01h15-21/10 Al-Ahli SFC Vs Al-Garrafa BLV LỮ BỐ
-https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",01h15-21/10 Al-Ahli SFC Vs Al-Garrafa BLV MÃ LÂN
-https://hls.cdnok9.com/live/MALAN/index.m3u8?expire=1788427256&sign=2c2690c1b536f3d099b63f3ff8165385
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",01h15-21/10 Al-Ahli SFC Vs Al-Garrafa BLV RICARDO
-https://hls.cdnok9.com/live/RICARDO/index.m3u8?expire=1788427256&sign=a956b265a5fbe0508d6033243c880515
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",01h15-21/10 Al-Ahli SFC Vs Al-Garrafa BLV ZORO
-https://hls.cdnok9.com/live/ZORO/index.m3u8?expire=1788427256&sign=8e04682553e334be697e3ef428fa6031
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",01h15-21/10 Al-Ahli SFC Vs Al-Garrafa BLV LÝ QUỲ
-https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",01h30-21/10 Cadiz Vs Burgos CF BLV CHU ĐỒNG
 https://hls.cdnok9.com/live/CHUDONG/index.m3u8?expire=1788427256&sign=b7df620ef99aaa1798bda4e698168a46
 #EXTVLCOPT:http-referrer=https://ls39.live/
@@ -89,9 +71,9 @@ https://hls.cdnok9.com/live/VUONGANH/index.m3u8?expire=1788427256&sign=2bef3d835
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",02h15-21/10 Fram Reykjavik Vs Stjarnan Gardabaer BLV LÝ ỨNG
 https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:-1 group-title="LuongSon_2",04h00-21/10 Inter Palmira Vs Real Santander TRỢ LÝ ĐIÊU THUYỀN
-http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",04h00-21/10 Boca Juniors De Cali Vs Barranquilla FC BLV TẦN CA
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",04h00-21/10 Inter Palmira Vs Real Santander TRỢ LÝ ĐIÊU THUYỀN
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",05h00-21/10 Juventude Vs Bragantino  BLV ĐỊCH NHÂN KIỆT
 http://127.0.0.1
@@ -128,4 +110,16 @@ http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",17h00-21/10 Chengdu Rongcheng FC Vs Johor Darul Takzim BLV LƯU BỊ
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",17h00-21/10 Chengdu Rongcheng FC Vs Johor Darul Takzim BLV LỮ BỐ
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",17h00-21/10 Chengdu Rongcheng FC Vs Johor Darul Takzim BLV THỜI THIÊN
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",17h00-21/10 Chengdu Rongcheng FC Vs Johor Darul Takzim BLV YẾN THANH
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",17h00-21/10 Barcelona U19 Vs Olympiakos Piraeus U19 BLV TIÊU PHONG
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",17h00-21/10 Barcelona U19 Vs Olympiakos Piraeus U19 BLV DƯƠNG HÙNG
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",17h00-21/10 Barcelona U19 Vs Olympiakos Piraeus U19 BLV SÁCH SIÊU
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",17h00-21/10 Barcelona U19 Vs Olympiakos Piraeus U19 BLV TÂY MÔN KHÁNH
 http://127.0.0.1
