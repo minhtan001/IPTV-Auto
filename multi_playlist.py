@@ -129,9 +129,8 @@ def process_source(name, base_url, output_file):
         with open(output_file, "w", encoding="utf-8") as f:
             f.write("#EXTM3U\n")
             for e in all_entries:
-                attrs = [
-                    f'group-title="{e["league"]} ▸ {e["match"]}"'
-                ]
+                attrs = [f'group-title="{e["match"]}"']
+
                 # Bổ sung tùy chọn referer cho VLC
                 if e["referer"]:
                     f.write(f'#EXTVLCOPT:http-referrer="{e["referer"]}"\n')
@@ -160,7 +159,7 @@ def generate_all_playlist(all_data):
         f.write("#EXTM3U\n")
         for e in all_data:
             # Gộp 3 cấp: Source ▸ League ▸ Match
-            group = f'{e["source"]} ▸ {e["league"]} ▸ {e["match"]}'
+            group = e["source"]
             attrs = [f'group-title="{group}"']
             
             # Bổ sung tùy chọn referer cho VLC
