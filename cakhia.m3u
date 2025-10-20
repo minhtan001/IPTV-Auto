@@ -1,17 +1,5 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia",🔴 SD  (Nhanh) Cadiz - Burgos CF
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@caysd1.flv
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia",🔴 HD  (Nhanh) Cadiz - Burgos CF
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@cayhd1.flv
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia",🔴 SD (Nhanh) Cremonese - Udinese
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@lansd1.flv
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia",🔴 HD (Nhanh) Cremonese - Udinese
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@lanhd1.flv
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia",🔴 SD Nhanh Nancy - Amiens
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@maosd1.flv
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -30,8 +18,11 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@chuoisd1.flv
 #EXTINF:-1 group-title="Cakhia",🔴 HD (Nhanh) Deportivo Alavés - Valencia
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@chuoihd1.flv
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia",04:00 21/10 Boca Juniors De Cali - Barranquilla FC
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/boca-juniors-de-cali-vs-barranquilla-fc-tq63fvwddu.html
+#EXTINF:-1 group-title="Cakhia",🔴 SD (Nhanh) Boca Juniors De Cali - Barranquilla FC
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@sunsd1.flv
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia",🔴 HD (Nhanh) Boca Juniors De Cali - Barranquilla FC
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@sunhd1.flv
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia",05:00 21/10 Plaza Colonia - Liverpool URU
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/plaza-colonia-vs-liverpool-uru-j6eageatzw.html
@@ -54,11 +45,11 @@ http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/vasco-da-gama-vs-fluminen
 #EXTINF:-1 group-title="Cakhia",05:30 21/10 Ferroviaria SP - SC Paysandu Para
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/ferroviaria-sp-vs-sc-paysandu-para-pds9l0qh93.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia",06:00 21/10 La Equidad - Deportes Tolima
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/la-equidad-vs-deportes-tolima-us05pg1s80.html
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia",06:00 21/10 Sport Boys - FBC Melgar
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/sport-boys-vs-fbc-melgar-bwaplrpe91.html
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia",06:00 21/10 La Equidad - Deportes Tolima
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/la-equidad-vs-deportes-tolima-us05pg1s80.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia",07:00 21/10 CD El Nacional - Deportivo Cuenca
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/cd-el-nacional-vs-deportivo-cuenca-kft04bf19x.html
@@ -119,3 +110,6 @@ http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/moyuka-uchijima-vs-sofia-
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia",16:00 21/10 Hugo Grenier - Lucas Poullain
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/hugo-grenier-vs-lucas-poullain-o3slqnz0s0.html
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia",17:00 21/10 Villarreal U19 - Manchester City U19
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/villarreal-u19-vs-manchester-city-u19-wg9xt84n39.html
