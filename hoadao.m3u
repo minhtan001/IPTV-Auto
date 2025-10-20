@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer="https://hoadao.tv/kepco-woori-3561?mode=sd"
+#EXTVLCOPT:http-referrer=https://hoadao.tv/kepco-woori-3561?mode=sd
 #EXTINF:-1 group-title="Kepco vs Woori" referer="https://hoadao.tv/kepco-woori-3561?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-6a400de9e02080ccd3fa0f2bd04afc1c.png",Kepco vs Woori [BLV CỤ RÙA - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
-#EXTVLCOPT:http-referrer="https://hoadao.tv/kepco-woori-3561?mode=hd"
+#EXTVLCOPT:http-referrer=https://hoadao.tv/kepco-woori-3561?mode=hd
 #EXTINF:-1 group-title="Kepco vs Woori" referer="https://hoadao.tv/kepco-woori-3561?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-6a400de9e02080ccd3fa0f2bd04afc1c.png",Kepco vs Woori [BLV CỤ RÙA - HD]
 https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
-#EXTVLCOPT:http-referrer="https://hoadao.tv/kepco-woori-3561?mode=flv"
+#EXTVLCOPT:http-referrer=https://hoadao.tv/kepco-woori-3561?mode=flv
 #EXTINF:-1 group-title="Kepco vs Woori" referer="https://hoadao.tv/kepco-woori-3561?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-6a400de9e02080ccd3fa0f2bd04afc1c.png",Kepco vs Woori [BLV CỤ RÙA - FLV 1]
 https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
-#EXTVLCOPT:http-referrer="https://hoadao.tv/kepco-woori-3561?mode=flv2"
+#EXTVLCOPT:http-referrer=https://hoadao.tv/kepco-woori-3561?mode=flv2
 #EXTINF:-1 group-title="Kepco vs Woori" referer="https://hoadao.tv/kepco-woori-3561?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-6a400de9e02080ccd3fa0f2bd04afc1c.png",Kepco vs Woori [BLV CỤ RÙA - FLV 2]
 https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
