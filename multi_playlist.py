@@ -2,21 +2,25 @@ import requests
 import json
 from datetime import datetime
 from pathlib import Path
+
 # 📂 Đặt thư mục lưu file đầu ra
 OUTPUT_DIR = Path("output")
 OUTPUT_DIR.mkdir(exist_ok=True)
+
 SOURCES = [
+    # {"name": "BunCha", "url": "https://hxcv.site/buncha", "output": OUTPUT_DIR /"buncha.m3u"}, # chưa chạy được
+    {"name": "KhanDaiA", "url": "https://hxcv.site/khandaia", "output": OUTPUT_DIR /"khandaia.m3u"}, # chưa chạy được, chạy với vlc thì ok    
+    {"name": "GaVang", "url": "https://hxcv.site/gavang", "output": OUTPUT_DIR /"gavang.m3u"}, # chưa chạy được, chạy với vlc thì ok
     {"name": "Socolive", "url": "https://hxcv.site/socolive", "output": OUTPUT_DIR /"socolive.m3u"},
     {"name": "Hoadao", "url": "https://hxcv.site/hoadao", "output": OUTPUT_DIR /"hoadao.m3u"},
     {"name": "Vankhanh", "url": "https://hxcv.site/vankhanh", "output": OUTPUT_DIR /"vankhanh.m3u"},
     {"name": "Chuoichien", "url": "https://hxcv.site/chuoichien", "output": OUTPUT_DIR /"chuoichien.m3u"},
-    {"name": "LuongSon", "url": "https://hxcv.site/luongson", "output": OUTPUT_DIR /"luongson.m3u"},
-    {"name": "KhanDaiA", "url": "https://hxcv.site/khandaia", "output": OUTPUT_DIR /"khandaia.m3u"}, # chưa chạy được, chạy với vlc thì ok
-    # {"name": "BunCha", "url": "https://hxcv.site/buncha", "output": OUTPUT_DIR /"buncha.m3u"}, # chưa chạy được
-    {"name": "GaVang", "url": "https://hxcv.site/gavang", "output": OUTPUT_DIR /"gavang.m3u"}, # chưa chạy được, chạy với vlc thì ok
+    {"name": "LuongSon", "url": "https://hxcv.site/luongson", "output": OUTPUT_DIR /"luongson.m3u"},    
+    {"name": "Nhadai", "url": "https://iptv.nhadai.org/v1", "output": OUTPUT_DIR /"nhadai.m3u"}, # chưa chạy được 
 ]
 
 ALL_OUTPUT = OUTPUT_DIR / "all.m3u"
+
 
 def fetch_json(url):
     try:
@@ -27,7 +31,9 @@ def fetch_json(url):
         print(f"❌ Lỗi lấy JSON từ {url}: {e}")
         return None
 
+
 def fetch_stream_links(remote_url):
+    """Lấy danh sách link stream từ remote_data (dành cho nguồn cũ)."""
     data = fetch_json(remote_url)
     if not data or "stream_links" not in data:
         return []
@@ -43,8 +49,11 @@ def fetch_stream_links(remote_url):
         })
     return links
 
+
 def extract_channels(data):
+    """Tìm toàn bộ channel trong JSON, dù nằm trong group hoặc root."""
     channels = []
+
     def walk(node):
         if isinstance(node, dict):
             if "channels" in node:
@@ -54,8 +63,10 @@ def extract_channels(data):
         elif isinstance(node, list):
             for item in node:
                 walk(item)
+
     walk(data)
     return channels
+
 
 def process_source(name, base_url, output_file):
     print(f"\n==============================")
@@ -76,8 +87,7 @@ def process_source(name, base_url, output_file):
 
     for ch in channels:
         match_name = ch.get("name", "NoName")
-        img = ch.get("image", {}).get("url")
-        league_name = ch.get("league_name") or ch.get("category") or "Unknown League"
+        img = (ch.get("image") or {}).get("url")
 
         # Giờ thi đấu
         time_str = ch.get("start_time") or ch.get("time") or ""
@@ -91,32 +101,45 @@ def process_source(name, base_url, output_file):
         else:
             match_label = match_name
 
-        print(f"\n⚽ {match_label} ({league_name})")
+        print(f"\n📺 {match_label}")
         match_entries = []
 
         for source in ch.get("sources", []):
             for content in source.get("contents", []):
                 for stream in content.get("streams", []):
                     blv_name = stream.get("name", "").strip() or "No BLV"
-                    remote_url = stream.get("remote_data", {}).get("url")
-                    if not remote_url:
-                        continue
+                    img_stream = (stream.get("image") or {}).get("url")
 
-                    links = fetch_stream_links(remote_url)
-                    if not links:
-                        continue
+                    # --- 1️⃣ Xử lý kiểu cũ: có remote_data ---
+                    remote_data = stream.get("remote_data")
+                    if remote_data and isinstance(remote_data, dict):
+                        remote_url = remote_data.get("url")
+                        if remote_url:
+                            links = fetch_stream_links(remote_url)
+                            for link in links:
+                                match_entries.append({
+                                    "source": name,
+                                    "match": match_label,
+                                    "name": f"{match_label} [{blv_name} - {link['name']}]",
+                                    "url": link["url"],
+                                    "referer": link["referer"],
+                                    "img": img or img_stream
+                                })
 
-                    print(f"   • {blv_name}: {len(links)} link(s)")
-                    for link in links:
-                        match_entries.append({
-                            "source": name,
-                            "league": league_name,
-                            "match": match_label,
-                            "name": f"{match_label} [{blv_name} - {link['name']}]",
-                            "url": link["url"],
-                            "referer": link["referer"],
-                            "img": img
-                        })
+                    # --- 2️⃣ Xử lý kiểu mới: có stream_links trực tiếp ---
+                    elif "stream_links" in stream:
+                        for s in stream["stream_links"]:
+                            url = s.get("url")
+                            if not url:
+                                continue
+                            match_entries.append({
+                                "source": name,
+                                "match": match_label,
+                                "name": f"{match_label} [{s.get('name', blv_name)}]",
+                                "url": url,
+                                "referer": None,
+                                "img": img or img_stream
+                            })
 
         if not match_entries:
             print("   ⚠️  Không có stream hợp lệ.")
@@ -136,29 +159,26 @@ def process_source(name, base_url, output_file):
                     f.write(f'#EXTVLCOPT:http-referrer="{e["referer"]}"\n')
                     # Tùy chọn referer (KHÔNG phải http-referrer) vẫn được giữ trong EXTINF
                     attrs.append(f'referer="{e["referer"]}"')
-                
                 if e["img"]:
                     attrs.append(f'tvg-logo="{e["img"]}"')
-
                 attr_line = " ".join(attrs)
                 f.write(f'#EXTINF:-1 {attr_line},{e["name"]}\n')
                 f.write(f'{e["url"]}\n')
-
         print(f"🎉 Đã tạo xong file: {output_file} ({len(all_entries)} links)")
     else:
         print(f"⚠️ Không có link hợp lệ cho {name}")
 
     return all_entries
 
+
 def generate_all_playlist(all_data):
     print("\n==============================")
-    print("🧩 Gộp tất cả nguồn thành all.m3u (chia theo nguồn & trận)")
+    print("🧩 Gộp tất cả nguồn thành all.m3u (group theo nguồn)")
     print("==============================")
 
     with open(ALL_OUTPUT, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
         for e in all_data:
-            # Gộp 3 cấp: Source ▸ League ▸ Match
             group = e["source"]
             attrs = [f'group-title="{group}"']
             
@@ -167,15 +187,14 @@ def generate_all_playlist(all_data):
                 f.write(f'#EXTVLCOPT:http-referrer="{e["referer"]}"\n')
                 # Tùy chọn referer (KHÔNG phải http-referrer) vẫn được giữ trong EXTINF
                 attrs.append(f'referer="{e["referer"]}"')
-            
             if e["img"]:
                 attrs.append(f'tvg-logo="{e["img"]}"')
-
             attr_line = " ".join(attrs)
             f.write(f'#EXTINF:-1 {attr_line},{e["name"]}\n')
             f.write(f'{e["url"]}\n')
 
     print(f"🎉 Đã tạo xong file tổng: {ALL_OUTPUT} ({len(all_data)} links)")
+
 
 def main():
     all_entries = []
@@ -197,6 +216,7 @@ def main():
     stats_file = OUTPUT_DIR / "stats.txt"
     with open(stats_file, "w", encoding="utf-8") as f:
         f.write(str(len(all_entries)))
+
 
 if __name__ == "__main__":
     main()
