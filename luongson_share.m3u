@@ -1,17 +1,5 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",20h00-20/10 Serik Belediyespor Vs Amedspor BLV CHU ĐỒNG
-https://hls.cdnok9.com/live/CHUDONG/index.m3u8?expire=1788427256&sign=b7df620ef99aaa1798bda4e698168a46
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",20h00-20/10 Serik Belediyespor Vs Amedspor BLV LA THÀNH
-https://hls.cdnok9.com/live/LATHANH/index.m3u8?expire=1788427256&sign=7b02684cf8b57cee675a2501454277cf
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",20h00-20/10 Serik Belediyespor Vs Amedspor BLV KENCHU
-https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",20h00-20/10 Serik Belediyespor Vs Amedspor BLV LÝ QUỲ
-https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",20h00-20/10 MEGA LIVE Vs MEGA LIVE MEGA LIVE
 https://hls.cdnok9.com/live/TEST2/index.m3u8?expire=1788427256&sign=1eeee2ecb43648dc5ef36b43282e16ae
 #EXTVLCOPT:http-referrer=https://ls39.live/
@@ -74,8 +62,9 @@ https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",22h00-20/10 Hermannstadt Vs FK Csikszereda Miercurea Ciuc BLV KHỔNG MINH
 https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",22h00-20/10 Hermannstadt Vs FK Csikszereda Miercurea Ciuc BLV LA THÀNH
-http://127.0.0.1
+https://hls.cdnok9.com/live/LATHANH/index.m3u8?expire=1788427256&sign=7b02684cf8b57cee675a2501454277cf
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",22h00-20/10 Hermannstadt Vs FK Csikszereda Miercurea Ciuc BLV RICARDO
 https://hls.cdnok9.com/live/RICARDO/index.m3u8?expire=1788427256&sign=a956b265a5fbe0508d6033243c880515
@@ -88,7 +77,20 @@ https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",22h00-20/10 FK Chayka Pesch Vs Ural Sverdlovsk Oblast BLV SÁCH SIÊU
 https://hls.cdnok9.com/live/SACHSIEU1/index.m3u8?expire=1788427256&sign=db0c3e1d3d520e4ddb0a8740f0b6aa29
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",22h30-20/10 Chernomorets Novorossiysk Vs Neftekhimik Nizhnekamsk BLV CHU ĐỒNG
+https://hls.cdnok9.com/live/CHUDONG/index.m3u8?expire=1788427256&sign=b7df620ef99aaa1798bda4e698168a46
+#EXTINF:-1 group-title="LuongSon_2",23h00-20/10 Al Shorta Vs Al-Ittihad BLV TRIỆU TỬ LONG
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",23h00-20/10 Al Shorta Vs Al-Ittihad BLV KAKA
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",23h00-20/10 Al Shorta Vs Al-Ittihad BLV NHỊ KA
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",23h00-20/10 Al Shorta Vs Al-Ittihad BLV HOA VINH
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",23h00-20/10 Al Shorta Vs Al-Ittihad BLV KEVILL
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",23h00-20/10 Al Shorta Vs Al-Ittihad BLV ZORO
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",23h00-20/10 Al-Sharjah Vs Tractor S.C. BLV CÔNG TÔN THẮNG
 http://127.0.0.1
@@ -102,18 +104,6 @@ http://127.0.0.1
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",23h00-20/10 Al-Sharjah Vs Tractor S.C. BLV YẾN THANH
 http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",23h00-20/10 Al Shorta Vs Al-Ittihad BLV TRIỆU TỬ LONG
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",23h00-20/10 Al Shorta Vs Al-Ittihad BLV KAKA
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",23h00-20/10 Al Shorta Vs Al-Ittihad BLV NHỊ KA
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",23h00-20/10 Al Shorta Vs Al-Ittihad BLV HOA VINH
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",23h00-20/10 Al Shorta Vs Al-Ittihad BLV KEVILL
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",23h00-20/10 Al Shorta Vs Al-Ittihad BLV ZORO
-http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",23h30-20/10 Fakel Vs Rotor Volgograd BLV TỐNG GIANG
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",23h30-20/10 Fakel Vs Rotor Volgograd BLV TRƯƠNG THANH
@@ -124,7 +114,15 @@ http://127.0.0.1
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",23h30-20/10 Torpedo Moscow Vs Shinnik Yaroslavl BLV LÝ QUỲ
 http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",00h00-21/10 Istanbulspor Vs Bandirmaspor BLV PEP
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",00h00-21/10 Wisla Plock Vs LKS Nieciecza BLV LÝ ỨNG
+http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",00h00-21/10 Degerfors IF Vs Halmstads BLV LƯU BỊ
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",00h00-21/10 Sonderjyske Vs Fredericia BLV DƯƠNG QUÁ
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",00h00-21/10 Eyupspor Vs Kasimpasa BLV DƯƠNG CHÍ
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",00h00-21/10 Beroe Stara Zagora Vs PFK Montana BLV ODIN
 http://127.0.0.1
