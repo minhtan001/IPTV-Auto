@@ -1,23 +1,5 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",00h00-21/10 Istanbulspor Vs Bandirmaspor BLV PEP
-https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",00h00-21/10 Sonderjyske Vs Fredericia BLV DƯƠNG QUÁ
-https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",00h00-21/10 Eyupspor Vs Kasimpasa BLV DƯƠNG CHÍ
-https://hls.cdnok9.com/live/DUONGCHI/index.m3u8?expire=1788427256&sign=159db9dfd56ca3d84ac81b77379b363a
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",00h00-21/10 Degerfors IF Vs Halmstads BLV LƯU BỊ
-https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",00h10-21/10 IFK Goteborg Vs Mjallby AIF BLV VƯƠNG ANH
-https://hls.cdnok9.com/live/VUONGANH/index.m3u8?expire=1788427256&sign=2bef3d835693f1f820133e2c8b0d3fd4
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",00h10-21/10 IFK Goteborg Vs Mjallby AIF BLV DƯƠNG HÙNG
-https://hls.cdnok9.com/live/BLVDUONGHUNG1/index.m3u8?expire=1788427256&sign=79930f1c3496c86e41f0e85de922a495
-#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",00h30-21/10 Petrolul Ploiesti Vs CFR Cluj BLV NGŨ CA
 https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTVLCOPT:http-referrer=https://ls39.live/
@@ -69,6 +51,24 @@ https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7
 #EXTINF:-1 group-title="LuongSon_2",01h45-21/10 Cremonese Vs Udinese BLV URA
 https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
 #EXTVLCOPT:http-referrer=https://ls39.live/
+#EXTINF:-1 group-title="LuongSon_2",02h00-21/10 Alaves Vs Valencia BLV CÔNG TÔN THẮNG
+https://hls.cdnok9.com/live/TONTHANG/index.m3u8?expire=1788427256&sign=adb117caabc8cf978ed1bbca0e03c593
+#EXTVLCOPT:http-referrer=https://ls39.live/
+#EXTINF:-1 group-title="LuongSon_2",02h00-21/10 Alaves Vs Valencia BLV DƯƠNG CHÍ
+https://hls.cdnok9.com/live/DUONGCHI/index.m3u8?expire=1788427256&sign=159db9dfd56ca3d84ac81b77379b363a
+#EXTVLCOPT:http-referrer=https://ls39.live/
+#EXTINF:-1 group-title="LuongSon_2",02h00-21/10 Alaves Vs Valencia BLV LA THÀNH
+https://hls.cdnok9.com/live/LATHANH/index.m3u8?expire=1788427256&sign=7b02684cf8b57cee675a2501454277cf
+#EXTVLCOPT:http-referrer=https://ls39.live/
+#EXTINF:-1 group-title="LuongSon_2",02h00-21/10 Alaves Vs Valencia BLV MÃ SIÊU
+https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTVLCOPT:http-referrer=https://ls39.live/
+#EXTINF:-1 group-title="LuongSon_2",02h00-21/10 Alaves Vs Valencia BLV TÂY MÔN KHÁNH
+https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTVLCOPT:http-referrer=https://ls39.live/
+#EXTINF:-1 group-title="LuongSon_2",02h00-21/10 Alaves Vs Valencia BLV PEP
+https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",02h00-21/10 West Ham United Vs Brentford BLV DƯƠNG QUÁ
 https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
 #EXTVLCOPT:http-referrer=https://ls39.live/
@@ -87,35 +87,18 @@ https://hls.cdnok9.com/live/THACHTU/index.m3u8?expire=1788427256&sign=77e6bae02b
 #EXTINF:-1 group-title="LuongSon_2",02h00-21/10 West Ham United Vs Brentford BLV YẾN THANH
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",02h00-21/10 Alaves Vs Valencia BLV CÔNG TÔN THẮNG
-https://hls.cdnok9.com/live/TONTHANG/index.m3u8?expire=1788427256&sign=adb117caabc8cf978ed1bbca0e03c593
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",02h00-21/10 Alaves Vs Valencia BLV DƯƠNG CHÍ
-https://hls.cdnok9.com/live/DUONGCHI/index.m3u8?expire=1788427256&sign=159db9dfd56ca3d84ac81b77379b363a
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",02h00-21/10 Alaves Vs Valencia BLV LA THÀNH
-https://hls.cdnok9.com/live/LATHANH/index.m3u8?expire=1788427256&sign=7b02684cf8b57cee675a2501454277cf
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",02h00-21/10 Alaves Vs Valencia BLV MÃ SIÊU
-https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",02h00-21/10 Alaves Vs Valencia BLV TÂY MÔN KHÁNH
-https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",02h00-21/10 Alaves Vs Valencia BLV PEP
-https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
 #EXTINF:-1 group-title="LuongSon_2",02h15-21/10 Fram Reykjavik Vs Stjarnan Gardabaer BLV VƯƠNG ANH
-http://127.0.0.1
+https://hls.cdnok9.com/live/VUONGANH/index.m3u8?expire=1788427256&sign=2bef3d835693f1f820133e2c8b0d3fd4
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",02h15-21/10 Fram Reykjavik Vs Stjarnan Gardabaer BLV LÝ ỨNG
 https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:-1 group-title="LuongSon_2",04h00-21/10 Boca Juniors De Cali Vs Barranquilla FC BLV TẦN CA
-http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",04h00-21/10 Inter Palmira Vs Real Santander TRỢ LÝ ĐIÊU THUYỀN
 http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",05h00-21/10 Deportivo Riestra Vs Instituto AC Cordoba BLV TIÊU PHONG
+#EXTINF:-1 group-title="LuongSon_2",04h00-21/10 Boca Juniors De Cali Vs Barranquilla FC BLV TẦN CA
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",05h00-21/10 Juventude Vs Bragantino  BLV ĐỊCH NHÂN KIỆT
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",05h00-21/10 Deportivo Riestra Vs Instituto AC Cordoba BLV TIÊU PHONG
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",05h30-21/10 Vasco da Gama Vs Fluminense RJ BLV VÕ TÒNG
 http://127.0.0.1
@@ -134,4 +117,16 @@ http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",14h45-21/10 Melbourne City Vs Buriram United BLV NGŨ CA
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",14h45-21/10 Melbourne City Vs Buriram United  BLV ĐỊCH NHÂN KIỆT
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",14h45-21/10 Melbourne City Vs Buriram United BLV HOA VINH
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",14h45-21/10 Melbourne City Vs Buriram United BLV KEVILL
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",14h45-21/10 Melbourne City Vs Buriram United BLV ZORO
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",17h00-21/10 Chengdu Rongcheng FC Vs Johor Darul Takzim BLV CÔNG TÔN THẮNG
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",17h00-21/10 Chengdu Rongcheng FC Vs Johor Darul Takzim BLV DƯƠNG QUÁ
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",17h00-21/10 Chengdu Rongcheng FC Vs Johor Darul Takzim BLV LƯU BỊ
 http://127.0.0.1
