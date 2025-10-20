@@ -1,17 +1,5 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",18h30-20/10 Bashundhara Kings Vs Fortis Limited BLV PHONG VÂN
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",18h30-20/10 Bashundhara Kings Vs Fortis Limited BLV NGŨ CA
-https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",18h30-20/10 Bashundhara Kings Vs Fortis Limited BLV MÃ SIÊU
-https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",18h30-20/10 Bashundhara Kings Vs Fortis Limited BLV TÂY MÔN KHÁNH
-https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",19h00-20/10 FK Olympic Tashkent B Vs Aral Nukus BLV KAKA
 https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 #EXTVLCOPT:http-referrer=https://ls39.live/
@@ -71,13 +59,15 @@ https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad017
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",20h00-20/10 MEGA LIVE Vs MEGA LIVE MEGA LIVE
 https://hls.cdnok9.com/live/TEST2/index.m3u8?expire=1788427256&sign=1eeee2ecb43648dc5ef36b43282e16ae
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",20h45-20/10 Al Wahda(UAE) Vs Al Duhail BLV KAKA
-http://127.0.0.1
+https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",20h45-20/10 Al Wahda(UAE) Vs Al Duhail BLV TRƯƠNG VÔ KỴ
 https://hls.cdnok9.com/live/VOKY/index.m3u8?expire=1788427256&sign=0cd606b430105d52a7a7a0ae56dded85
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",20h45-20/10 Al Wahda(UAE) Vs Al Duhail BLV HOA VINH
-http://127.0.0.1
+https://hls.cdnok9.com/live/LOELOE6380K/index.m3u8?expire=1788427256&sign=86b4dafe54d1b6da2bffad6653671edb
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",20h45-20/10 Al Wahda(UAE) Vs Al Duhail BLV KEVILL
 https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
@@ -98,11 +88,11 @@ http://127.0.0.1
 https://hls.cdnok9.com/live/THACHTU/index.m3u8?expire=1788427256&sign=77e6bae02b2c5f48ff9d9c5092df8d47
 #EXTINF:-1 group-title="LuongSon_2",21h00-20/10 Volga Ulyanovsk Vs FC Ufa BLV YẾN THANH
 http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",21h30-20/10 FC Arda Kardzhali Vs Septemvri Sofia BLV TỐNG GIANG
+http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",21h30-20/10 Verona U20 Vs US Cremonese U20 BLV LÝ ỨNG
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",21h30-20/10 Verona U20 Vs US Cremonese U20 BLV PEP
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",21h30-20/10 FC Arda Kardzhali Vs Septemvri Sofia BLV TỐNG GIANG
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",21h50-20/10 Al-Adalh Vs Al-Orubah BLV TÂY MÔN KHÁNH
 http://127.0.0.1
@@ -122,9 +112,18 @@ http://127.0.0.1
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",22h00-20/10 Hermannstadt Vs FK Csikszereda Miercurea Ciuc BLV RICARDO
 http://127.0.0.1
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",22h00-20/10 Kudrivka Vs Metalist 1925 Kharkiv BLV NGŨ CA
-http://127.0.0.1
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTINF:-1 group-title="LuongSon_2",22h00-20/10 FK Chayka Pesch Vs Ural Sverdlovsk Oblast BLV SÁCH SIÊU
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",22h30-20/10 Chernomorets Novorossiysk Vs Neftekhimik Nizhnekamsk BLV CHU ĐỒNG
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",23h00-20/10 Al Shorta Vs Al-Ittihad BLV TRIỆU TỬ LONG
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",23h00-20/10 Al Shorta Vs Al-Ittihad BLV KAKA
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",23h00-20/10 Al Shorta Vs Al-Ittihad BLV NHỊ KA
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",23h00-20/10 Al Shorta Vs Al-Ittihad BLV HOA VINH
 http://127.0.0.1
