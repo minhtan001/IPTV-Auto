@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/the-cong-viettel-vs-shb-da-nang-1392?mode=sd
-#EXTINF:-1 group-title="The Cong Viettel vs SHB Da Nang" referer="https://hoadao.tv/the-cong-viettel-vs-shb-da-nang-1392?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-749d0e08eb9796367d0d8f9df718bf26.png",The Cong Viettel vs SHB Da Nang [BLV PHÁO - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/the-cong-viettel-vs-shb-da-nang-1392?mode=hd
-#EXTINF:-1 group-title="The Cong Viettel vs SHB Da Nang" referer="https://hoadao.tv/the-cong-viettel-vs-shb-da-nang-1392?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-749d0e08eb9796367d0d8f9df718bf26.png",The Cong Viettel vs SHB Da Nang [BLV PHÁO - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/the-cong-viettel-vs-shb-da-nang-1392?mode=flv
-#EXTINF:-1 group-title="The Cong Viettel vs SHB Da Nang" referer="https://hoadao.tv/the-cong-viettel-vs-shb-da-nang-1392?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-749d0e08eb9796367d0d8f9df718bf26.png",The Cong Viettel vs SHB Da Nang [BLV PHÁO - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/the-cong-viettel-vs-shb-da-nang-1392?mode=flv2
-#EXTINF:-1 group-title="The Cong Viettel vs SHB Da Nang" referer="https://hoadao.tv/the-cong-viettel-vs-shb-da-nang-1392?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-749d0e08eb9796367d0d8f9df718bf26.png",The Cong Viettel vs SHB Da Nang [BLV PHÁO - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/the-cong-viettel-vs-shb-da-nang-1392?mode=ndsd
-#EXTINF:-1 group-title="The Cong Viettel vs SHB Da Nang" referer="https://hoadao.tv/the-cong-viettel-vs-shb-da-nang-1392?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-749d0e08eb9796367d0d8f9df718bf26.png",The Cong Viettel vs SHB Da Nang [BLV PHÁO - SD (ND)]
-https://live.alilicloud.com/live/10442440e531c181af40db54c520952d/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/al-wahda-fc-vs-al-duhail-1407?mode=sd
 #EXTINF:-1 group-title="Al-Wahda FC vs Al Duhail" referer="https://hoadao.tv/al-wahda-fc-vs-al-duhail-1407?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-ae0a480befd14e795e0f955c9d6ba9e9.png",Al-Wahda FC vs Al Duhail [BLV RICKY - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_rickysd/playlist.m3u8
@@ -59,3 +44,9 @@ https://live.alilicloud.com/live/663220bd783244395f2531c89cf693db/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/volga-ulyanovsk-vs-fc-ufa-1410?mode=ndsd
 #EXTINF:-1 group-title="Volga Ulyanovsk vs FC Ufa" referer="https://hoadao.tv/volga-ulyanovsk-vs-fc-ufa-1410?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-ed373b6d14d4bfff6dd96cb74b2cebe1.png",Volga Ulyanovsk vs FC Ufa [No BLV - SD (ND)]
 https://live.alilicloud.com/live/228fabc2f924e36d50e4021941fb73a8/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/verona-u20-vs-us-cremonese-u20-1412?mode=ndsd
+#EXTINF:-1 group-title="Verona U20 vs US Cremonese U20" referer="https://hoadao.tv/verona-u20-vs-us-cremonese-u20-1412?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-1d31659e8ca94203abb4c69bfc07b4bc.png",Verona U20 vs US Cremonese U20 [No BLV - SD (ND)]
+https://live.alilicloud.com/live/a84b931b7894fa31c6a05f139fe2292e/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/arda-vs-septemvri-sofia-1415?mode=ndsd
+#EXTINF:-1 group-title="Arda vs Septemvri Sofia" referer="https://hoadao.tv/arda-vs-septemvri-sofia-1415?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-9bdbfe84af89b3a0ae314482df007877.png",Arda vs Septemvri Sofia [No BLV - SD (ND)]
+https://live.alilicloud.com/live/8f7189209fcf3c6d7e26351035a3edc1/playlist.m3u8
