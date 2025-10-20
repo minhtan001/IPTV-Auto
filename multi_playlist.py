@@ -16,9 +16,15 @@ SOURCES = [
     {"name": "Vankhanh", "url": "https://hxcv.site/vankhanh", "output": OUTPUT_DIR /"vankhanh.m3u"},
     {"name": "Chuoichien", "url": "https://hxcv.site/chuoichien", "output": OUTPUT_DIR /"chuoichien.m3u"},
     {"name": "LuongSon", "url": "https://hxcv.site/luongson", "output": OUTPUT_DIR /"luongson.m3u"},    
-    {"name": "Nhadai", "url": "https://iptv.nhadai.org/v1", "output": OUTPUT_DIR /"nhadai.m3u"}, # chưa chạy được 
+    {"name": "TruyenHinh", "url": "https://iptv.nhadai.org/v1", "output": OUTPUT_DIR /"nhadai.m3u"},
 ]
-
+# 🆕 Các nguồn kiểu M3U trực tiếp (ví dụ: Cakhia)
+EXTRA_SOURCES = [
+    {"name": "Cakhia", "url": "http://sharing.gotdns.ch:8091/cakhia.php", "output": OUTPUT_DIR / "cakhia.m3u"},
+    {"name": "LuongSon_2", "url": "http://sharing.gotdns.ch:8091/luongsontv.php", "output": OUTPUT_DIR / "luongson_share.m3u"}, 
+    {"name": "Socolive_2", "url": "http://sharing.gotdns.ch:8091/socolive.php", "output": OUTPUT_DIR / "Socolive_share.m3u"},
+    {"name": "TruyenHinh_2", "url": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/vmttv", "output": OUTPUT_DIR / "nhadai_2.m3u"},
+]
 ALL_OUTPUT = OUTPUT_DIR / "all.m3u"
 
 
@@ -156,7 +162,7 @@ def process_source(name, base_url, output_file):
 
                 # Bổ sung tùy chọn referer cho VLC
                 if e["referer"]:
-                    f.write(f'#EXTVLCOPT:http-referrer="{e["referer"]}"\n')
+                    f.write(f'#EXTVLCOPT:http-referrer={e["referer"]}\n')
                     # Tùy chọn referer (KHÔNG phải http-referrer) vẫn được giữ trong EXTINF
                     attrs.append(f'referer="{e["referer"]}"')
                 if e["img"]:
@@ -171,11 +177,59 @@ def process_source(name, base_url, output_file):
     return all_entries
 
 
+def process_m3u_source(name, url, output_file):
+    """Xử lý nguồn .m3u có chứa |Referer=..."""
+    print(f"\n==============================")
+    print(f"🛰️  Đang xử lý M3U nguồn {name}: {url}")
+    print(f"==============================")
+
+    try:
+        r = requests.get(url, timeout=15)
+        r.raise_for_status()
+        lines = r.text.splitlines()
+    except Exception as e:
+        print(f"❌ Không tải được M3U từ {url}: {e}")
+        return []
+
+    all_entries = []
+    current_title = "Unknown"
+
+    for line in lines:
+        if line.startswith("#EXTINF"):
+            current_title = line.split(",", 1)[-1].strip()
+        elif line.strip() and not line.startswith("#"):
+            link = line.strip()
+            ref = None
+            if "|Referer=" in link:
+                link, ref = link.split("|Referer=", 1)
+            all_entries.append({
+                "source": name,
+                "match": name,
+                "name": current_title,
+                "url": link,
+                "referer": ref,
+                "img": None,
+            })
+
+    if all_entries:
+        with open(output_file, "w", encoding="utf-8") as f:
+            f.write("#EXTM3U\n")
+            for e in all_entries:
+                if e["referer"]:
+                    f.write(f'#EXTVLCOPT:http-referrer={e["referer"]}\n')
+                f.write(f'#EXTINF:-1 group-title="{name}",{e["name"]}\n')
+                f.write(f'{e["url"]}\n')
+        print(f"🎉 Đã tạo file M3U chuẩn VLC: {output_file} ({len(all_entries)} links)")
+    else:
+        print(f"⚠️ Không có link hợp lệ trong {name}")
+
+    return all_entries
+
+
 def generate_all_playlist(all_data):
     print("\n==============================")
     print("🧩 Gộp tất cả nguồn thành all.m3u (group theo nguồn)")
     print("==============================")
-
     with open(ALL_OUTPUT, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
         for e in all_data:
@@ -184,7 +238,7 @@ def generate_all_playlist(all_data):
             
             # Bổ sung tùy chọn referer cho VLC
             if e["referer"]:
-                f.write(f'#EXTVLCOPT:http-referrer="{e["referer"]}"\n')
+                f.write(f'#EXTVLCOPT:http-referrer={e["referer"]}\n')
                 # Tùy chọn referer (KHÔNG phải http-referrer) vẫn được giữ trong EXTINF
                 attrs.append(f'referer="{e["referer"]}"')
             if e["img"]:
@@ -200,8 +254,14 @@ def main():
     all_entries = []
     Path("./").mkdir(exist_ok=True)
 
+    # JSON/remote data sources
     for src in SOURCES:
         entries = process_source(src["name"], src["url"], src["output"])
+        all_entries.extend(entries)
+
+    # Extra M3U sources (Cakhia, ...)
+    for src in EXTRA_SOURCES:
+        entries = process_m3u_source(src["name"], src["url"], src["output"])
         all_entries.extend(entries)
 
     if all_entries:
