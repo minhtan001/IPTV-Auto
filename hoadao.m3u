@@ -1,16 +1,13 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer="https://hoadao.tv/bahia-vs-gremio-rs-1352?mode=sd"
-#EXTINF:-1 group-title="Unknown League ▸ Bahia vs Gremio (RS)" referer="https://hoadao.tv/bahia-vs-gremio-rs-1352?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-c4e129d0c676f5185081fef680cf64c9.png",Bahia vs Gremio (RS) [BLV PHÁO - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_phao/playlist.m3u8
-#EXTVLCOPT:http-referrer="https://hoadao.tv/bahia-vs-gremio-rs-1352?mode=hd"
-#EXTINF:-1 group-title="Unknown League ▸ Bahia vs Gremio (RS)" referer="https://hoadao.tv/bahia-vs-gremio-rs-1352?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-c4e129d0c676f5185081fef680cf64c9.png",Bahia vs Gremio (RS) [BLV PHÁO - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_phao/playlist.m3u8
-#EXTVLCOPT:http-referrer="https://hoadao.tv/bahia-vs-gremio-rs-1352?mode=flv"
-#EXTINF:-1 group-title="Unknown League ▸ Bahia vs Gremio (RS)" referer="https://hoadao.tv/bahia-vs-gremio-rs-1352?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-c4e129d0c676f5185081fef680cf64c9.png",Bahia vs Gremio (RS) [BLV PHÁO - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
-#EXTVLCOPT:http-referrer="https://hoadao.tv/bahia-vs-gremio-rs-1352?mode=flv2"
-#EXTINF:-1 group-title="Unknown League ▸ Bahia vs Gremio (RS)" referer="https://hoadao.tv/bahia-vs-gremio-rs-1352?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-c4e129d0c676f5185081fef680cf64c9.png",Bahia vs Gremio (RS) [BLV PHÁO - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
-#EXTVLCOPT:http-referrer="https://hoadao.tv/bahia-vs-gremio-rs-1352?mode=ndsd"
-#EXTINF:-1 group-title="Unknown League ▸ Bahia vs Gremio (RS)" referer="https://hoadao.tv/bahia-vs-gremio-rs-1352?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-c4e129d0c676f5185081fef680cf64c9.png",Bahia vs Gremio (RS) [BLV PHÁO - SD (ND)]
-https://live.alilicloud.com/live/54ba41a8b51a0c6356f98b271e9cec0d/playlist.m3u8
+#EXTVLCOPT:http-referrer="https://hoadao.tv/kepco-woori-3561?mode=sd"
+#EXTINF:-1 group-title="Kepco vs Woori" referer="https://hoadao.tv/kepco-woori-3561?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-6a400de9e02080ccd3fa0f2bd04afc1c.png",Kepco vs Woori [BLV CỤ RÙA - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
+#EXTVLCOPT:http-referrer="https://hoadao.tv/kepco-woori-3561?mode=hd"
+#EXTINF:-1 group-title="Kepco vs Woori" referer="https://hoadao.tv/kepco-woori-3561?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-6a400de9e02080ccd3fa0f2bd04afc1c.png",Kepco vs Woori [BLV CỤ RÙA - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
+#EXTVLCOPT:http-referrer="https://hoadao.tv/kepco-woori-3561?mode=flv"
+#EXTINF:-1 group-title="Kepco vs Woori" referer="https://hoadao.tv/kepco-woori-3561?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-6a400de9e02080ccd3fa0f2bd04afc1c.png",Kepco vs Woori [BLV CỤ RÙA - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
+#EXTVLCOPT:http-referrer="https://hoadao.tv/kepco-woori-3561?mode=flv2"
+#EXTINF:-1 group-title="Kepco vs Woori" referer="https://hoadao.tv/kepco-woori-3561?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-6a400de9e02080ccd3fa0f2bd04afc1c.png",Kepco vs Woori [BLV CỤ RÙA - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
