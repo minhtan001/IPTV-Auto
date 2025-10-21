@@ -9,8 +9,8 @@ OUTPUT_DIR.mkdir(exist_ok=True)
 
 SOURCES = [
     # {"name": "BunCha", "url": "https://hxcv.site/buncha", "output": OUTPUT_DIR /"buncha.m3u"}, # chưa chạy được
-    # {"name": "KhanDaiA", "url": "https://hxcv.site/khandaia", "output": OUTPUT_DIR /"khandaia.m3u"}, # chưa chạy được, chạy với vlc thì ok    
-    # {"name": "GaVang", "url": "https://hxcv.site/gavang", "output": OUTPUT_DIR /"gavang.m3u"}, # chưa chạy được, chạy với vlc thì ok
+    {"name": "KhanDaiA", "url": "https://hxcv.site/khandaia", "output": OUTPUT_DIR /"khandaia.m3u"}, # chưa chạy được, chạy với vlc thì ok    
+    {"name": "GaVang", "url": "https://hxcv.site/gavang", "output": OUTPUT_DIR /"gavang.m3u"}, # chưa chạy được, chạy với vlc thì ok
     {"name": "Socolive", "url": "https://hxcv.site/socolive", "output": OUTPUT_DIR /"socolive.m3u"},
     {"name": "Hoadao", "url": "https://hxcv.site/hoadao", "output": OUTPUT_DIR /"hoadao.m3u"},
     {"name": "Vankhanh", "url": "https://hxcv.site/vankhanh", "output": OUTPUT_DIR /"vankhanh.m3u"},
@@ -20,7 +20,7 @@ SOURCES = [
 ]
 # 🆕 Các nguồn kiểu M3U trực tiếp (ví dụ: Cakhia)
 EXTRA_SOURCES = [
-    # {"name": "Cakhia", "url": "http://sharing.gotdns.ch:8091/cakhia.php", "output": OUTPUT_DIR / "cakhia.m3u"},# chưa chạy được, chạy với vlc thì ok    
+    {"name": "Cakhia", "url": "http://sharing.gotdns.ch:8091/cakhia.php", "output": OUTPUT_DIR / "cakhia.m3u"},# chưa chạy được, chạy với vlc thì ok    
     {"name": "LuongSon_2", "url": "http://sharing.gotdns.ch:8091/luongsontv.php", "output": OUTPUT_DIR / "luongson_share.m3u"}, 
     {"name": "Socolive_2", "url": "http://sharing.gotdns.ch:8091/socolive.php", "output": OUTPUT_DIR / "Socolive_share.m3u"},
     {"name": "TruyenHinh_2", "url": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/vmttv", "output": OUTPUT_DIR / "nhadai_2.m3u"},
