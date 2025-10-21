@@ -1,26 +1,5 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",22h00-21/10 Dila Gori Vs Gagra Tbilisi BLV CÔNG TÔN THẮNG
-https://hls.cdnok9.com/live/TONTHANG/index.m3u8?expire=1788427256&sign=adb117caabc8cf978ed1bbca0e03c593
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",22h00-21/10 Dila Gori Vs Gagra Tbilisi BLV NHỊ KA
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",22h00-21/10 Dila Gori Vs Gagra Tbilisi BLV LA THÀNH
-https://hls.cdnok9.com/live/LATHANH/index.m3u8?expire=1788427256&sign=7b02684cf8b57cee675a2501454277cf
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",22h00-21/10 FK Makhachkala Vs Spartak Moscow BLV TỐNG GIANG
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",22h00-21/10 FK Makhachkala Vs Spartak Moscow BLV LỮ BỐ
-https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",22h00-21/10 FK Makhachkala Vs Spartak Moscow BLV HOA VINH
-https://hls.cdnok9.com/live/LOELOE6380K/index.m3u8?expire=1788427256&sign=86b4dafe54d1b6da2bffad6653671edb
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",22h00-21/10 FK Makhachkala Vs Spartak Moscow BLV LÝ BÍ
-https://hls.cdnok9.com/live/LYBI/index.m3u8?expire=1891347600&sign=082e8fbd254f7197ef828148b0832d36
-#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",22h30-21/10 Al-Wehda Vs Abha BLV TRƯƠNG VÔ KỴ
 https://hls.cdnok9.com/live/VOKY/index.m3u8?expire=1788427256&sign=0cd606b430105d52a7a7a0ae56dded85
 #EXTVLCOPT:http-referrer=https://ls39.live/
@@ -97,18 +76,6 @@ https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd81
 https://hls.cdnok9.com/live/THACHTU/index.m3u8?expire=1788427256&sign=77e6bae02b2c5f48ff9d9c5092df8d47
 #EXTINF:-1 group-title="LuongSon_2",01h15-22/10 Al Hilal Vs Al-Sadd BLV ODIN
 http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",02h00-22/10 Newcastle United Vs Benfica BLV TỐNG GIANG
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",02h00-22/10 Newcastle United Vs Benfica BLV CÔNG TÔN THẮNG
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",02h00-22/10 Newcastle United Vs Benfica BLV THẠCH TÚ
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",02h00-22/10 Newcastle United Vs Benfica BLV TÔN LẬP
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",02h00-22/10 Newcastle United Vs Benfica BLV LÝ QUỲ
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",02h00-22/10 Newcastle United Vs Benfica BLV LÝ BÍ
-http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",02h00-22/10 Villarreal Vs Manchester City BLV LỮ BỐ
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",02h00-22/10 Villarreal Vs Manchester City BLV NGŨ CA
@@ -130,4 +97,30 @@ http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",02h00-22/10 Saint Gilloise Vs Inter Milan BLV TÂY MÔN KHÁNH
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",02h00-22/10 PSV Eindhoven Vs Napoli BLV PHONG VÂN
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",02h00-22/10 PSV Eindhoven Vs Napoli BLV LA THÀNH
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",02h00-22/10 PSV Eindhoven Vs Napoli BLV TRƯƠNG THANH
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",02h00-22/10 PSV Eindhoven Vs Napoli BLV TẦN CA
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",02h00-22/10 FC Copenhagen Vs Borussia Dortmund BLV VƯƠNG ANH
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",02h00-22/10 FC Copenhagen Vs Borussia Dortmund BLV CHU ĐỒNG
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",02h00-22/10 FC Copenhagen Vs Borussia Dortmund BLV LÝ ỨNG
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",02h00-22/10 FC Copenhagen Vs Borussia Dortmund BLV KENCHU
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",02h00-22/10 Bayer Leverkusen Vs Paris Saint Germain (PSG) BLV DƯƠNG CHÍ
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",02h00-22/10 Bayer Leverkusen Vs Paris Saint Germain (PSG) BLV KHỔNG MINH
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",02h00-22/10 Bayer Leverkusen Vs Paris Saint Germain (PSG) BLV NHỊ KA
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",02h00-22/10 Bayer Leverkusen Vs Paris Saint Germain (PSG) BLV VI TIỂU BẢO
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",02h00-22/10 Bayer Leverkusen Vs Paris Saint Germain (PSG) BLV RICARDO
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",02h00-22/10 Bayer Leverkusen Vs Paris Saint Germain (PSG) BLV VƯƠNG LUÂN
 http://127.0.0.1
