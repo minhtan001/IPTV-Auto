@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/fc-barcelona-vs-olympiakos-piraeus-1618?mode=sd
-#EXTINF:-1 group-title="FC Barcelona vs Olympiakos Piraeus" referer="https://hoadao.tv/fc-barcelona-vs-olympiakos-piraeus-1618?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-694883270f86d85d854a24abe0c56e57.png",FC Barcelona vs Olympiakos Piraeus [BLV CHIM NHỎ - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/fc-barcelona-vs-olympiakos-piraeus-1618?mode=hd
-#EXTINF:-1 group-title="FC Barcelona vs Olympiakos Piraeus" referer="https://hoadao.tv/fc-barcelona-vs-olympiakos-piraeus-1618?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-694883270f86d85d854a24abe0c56e57.png",FC Barcelona vs Olympiakos Piraeus [BLV CHIM NHỎ - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/fc-barcelona-vs-olympiakos-piraeus-1618?mode=flv
-#EXTINF:-1 group-title="FC Barcelona vs Olympiakos Piraeus" referer="https://hoadao.tv/fc-barcelona-vs-olympiakos-piraeus-1618?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-694883270f86d85d854a24abe0c56e57.png",FC Barcelona vs Olympiakos Piraeus [BLV CHIM NHỎ - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/fc-barcelona-vs-olympiakos-piraeus-1618?mode=flv2
-#EXTINF:-1 group-title="FC Barcelona vs Olympiakos Piraeus" referer="https://hoadao.tv/fc-barcelona-vs-olympiakos-piraeus-1618?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-694883270f86d85d854a24abe0c56e57.png",FC Barcelona vs Olympiakos Piraeus [BLV CHIM NHỎ - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/fc-barcelona-vs-olympiakos-piraeus-1618?mode=ndsd
-#EXTINF:-1 group-title="FC Barcelona vs Olympiakos Piraeus" referer="https://hoadao.tv/fc-barcelona-vs-olympiakos-piraeus-1618?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-694883270f86d85d854a24abe0c56e57.png",FC Barcelona vs Olympiakos Piraeus [BLV CHIM NHỎ - SD (ND)]
-https://live.alilicloud.com/live/97d046b94eaeae1eeba0473831f5771b/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/fc-kairat-almaty-vs-pafos-fc-1619?mode=sd
 #EXTINF:-1 group-title="FC Kairat Almaty vs Pafos FC" referer="https://hoadao.tv/fc-kairat-almaty-vs-pafos-fc-1619?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-7161fee7dbe03758e041050851e25940.png",FC Kairat Almaty vs Pafos FC [BLV RICKY - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_rickysd/playlist.m3u8
@@ -41,15 +26,36 @@ https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/newcastle-united-vs-benfica-1720?mode=flv2
 #EXTINF:-1 group-title="Newcastle United vs Benfica" referer="https://hoadao.tv/newcastle-united-vs-benfica-1720?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-a048e167fd60bf74f20f3ba59b3c5213.png",Newcastle United vs Benfica [BLV CỤ RÙA - FLV 2]
 https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/villefranche-vs-us-orleans-1627?mode=ndsd
-#EXTINF:-1 group-title="Villefranche vs US Orléans" referer="https://hoadao.tv/villefranche-vs-us-orleans-1627?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-467d522328693f90e090793dfa0be9cf.png",Villefranche vs US Orléans [No BLV - SD (ND)]
-https://live.alilicloud.com/live/718246bd2186ca751152b6107b8e9990/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/aubagne-vs-valenciennes-1628?mode=ndsd
-#EXTINF:-1 group-title="Aubagne vs Valenciennes" referer="https://hoadao.tv/aubagne-vs-valenciennes-1628?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-899bab69b5dceb33cd1121f1ff810319.png",Aubagne vs Valenciennes [No BLV - SD (ND)]
-https://live.alilicloud.com/live/26c083bb63dcef3eb46d58c13bba8c6f/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/bresse-peronnas-01-vs-fleury-merogis-us-1629?mode=ndsd
-#EXTINF:-1 group-title="Bresse Péronnas 01 vs Fleury Merogis U.S." referer="https://hoadao.tv/bresse-peronnas-01-vs-fleury-merogis-us-1629?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-30b6ebd9be8bfac40a355b94ee5307fb.png",Bresse Péronnas 01 vs Fleury Merogis U.S. [No BLV - SD (ND)]
-https://live.alilicloud.com/live/a78952fc3a5150b732aeee2beaa1e783/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/psv-eindhoven-vs-napoli-1722?mode=ndsd
+#EXTINF:-1 group-title="PSV Eindhoven vs Napoli" referer="https://hoadao.tv/psv-eindhoven-vs-napoli-1722?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-a2a63193638e9e4944a617e4b2ff97f1.png",PSV Eindhoven vs Napoli [Nhà đài - SD (ND)]
+https://live.alilicloud.com/live/aa69c62251ca847cfb86b2bc4cf159b0/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/union-saint-gilloise-vs-inter-milan-1723?mode=ndsd
+#EXTINF:-1 group-title="Union Saint-Gilloise vs Inter Milan" referer="https://hoadao.tv/union-saint-gilloise-vs-inter-milan-1723?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-34d1a815e1794354f277bd219cddaa18.png",Union Saint-Gilloise vs Inter Milan [Nhà đài - SD (ND)]
+https://live.alilicloud.com/live/712b39caba4a38a3b8f8e9f5ff863f9a/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/arsenal-vs-atletico-madrid-1731?mode=sd
+#EXTINF:-1 group-title="Arsenal vs Atletico Madrid" referer="https://hoadao.tv/arsenal-vs-atletico-madrid-1731?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-6ef76b249a3a1ee78a53f293dc29406b.png",Arsenal vs Atletico Madrid [BLV PHÁO - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/arsenal-vs-atletico-madrid-1731?mode=hd
+#EXTINF:-1 group-title="Arsenal vs Atletico Madrid" referer="https://hoadao.tv/arsenal-vs-atletico-madrid-1731?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-6ef76b249a3a1ee78a53f293dc29406b.png",Arsenal vs Atletico Madrid [BLV PHÁO - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/arsenal-vs-atletico-madrid-1731?mode=flv
+#EXTINF:-1 group-title="Arsenal vs Atletico Madrid" referer="https://hoadao.tv/arsenal-vs-atletico-madrid-1731?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-6ef76b249a3a1ee78a53f293dc29406b.png",Arsenal vs Atletico Madrid [BLV PHÁO - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/arsenal-vs-atletico-madrid-1731?mode=flv2
+#EXTINF:-1 group-title="Arsenal vs Atletico Madrid" referer="https://hoadao.tv/arsenal-vs-atletico-madrid-1731?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-6ef76b249a3a1ee78a53f293dc29406b.png",Arsenal vs Atletico Madrid [BLV PHÁO - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/bayer-04-leverkusen-vs-paris-saint-germain-1732?mode=sd
+#EXTINF:-1 group-title="Bayer 04 Leverkusen vs Paris Saint Germain" referer="https://hoadao.tv/bayer-04-leverkusen-vs-paris-saint-germain-1732?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-7ba4d161aa18c2ae0fbd174ec5bacebd.png",Bayer 04 Leverkusen vs Paris Saint Germain [BLV CHIM NHỎ - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/bayer-04-leverkusen-vs-paris-saint-germain-1732?mode=hd
+#EXTINF:-1 group-title="Bayer 04 Leverkusen vs Paris Saint Germain" referer="https://hoadao.tv/bayer-04-leverkusen-vs-paris-saint-germain-1732?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-7ba4d161aa18c2ae0fbd174ec5bacebd.png",Bayer 04 Leverkusen vs Paris Saint Germain [BLV CHIM NHỎ - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/bayer-04-leverkusen-vs-paris-saint-germain-1732?mode=flv
+#EXTINF:-1 group-title="Bayer 04 Leverkusen vs Paris Saint Germain" referer="https://hoadao.tv/bayer-04-leverkusen-vs-paris-saint-germain-1732?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-7ba4d161aa18c2ae0fbd174ec5bacebd.png",Bayer 04 Leverkusen vs Paris Saint Germain [BLV CHIM NHỎ - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/bayer-04-leverkusen-vs-paris-saint-germain-1732?mode=flv2
+#EXTINF:-1 group-title="Bayer 04 Leverkusen vs Paris Saint Germain" referer="https://hoadao.tv/bayer-04-leverkusen-vs-paris-saint-germain-1732?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-7ba4d161aa18c2ae0fbd174ec5bacebd.png",Bayer 04 Leverkusen vs Paris Saint Germain [BLV CHIM NHỎ - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/concarneau-vs-chateauroux-1631?mode=ndsd
 #EXTINF:-1 group-title="Concarneau vs Chateauroux" referer="https://hoadao.tv/concarneau-vs-chateauroux-1631?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-7345ec2828a763f9b83c950a4dc32d83.png",Concarneau vs Chateauroux [No BLV - SD (ND)]
 https://live.alilicloud.com/live/13c7f2c677adfc8065b1119f85aaf316/playlist.m3u8
