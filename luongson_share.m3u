@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",08h15-21/10 Universitario De Deportes Vs Ayacucho Futbol Club BLV VÕ TÒNG
-https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",09h00-21/10 Guadalupe FC Vs Sporting San Jose TRỢ LÝ ĐIÊU THUYỀN
 https://hls.cdnok9.com/live/DIEUTHUYEN/index.m3u8?expire=1788427256&sign=8cebea5448db2f74ea04021d9362ba87
+#EXTVLCOPT:http-referrer=https://ls39.live/
+#EXTINF:-1 group-title="LuongSon_2",11h00-21/10 Atletico Madrid Vs Real Madrid BLV LƯU BỊ
+https://hls.cdnok9.com/live/TEST/index.m3u8?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c
 #EXTINF:-1 group-title="LuongSon_2",14h45-21/10 Melbourne City Vs Buriram United BLV LƯU BỊ
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",14h45-21/10 Melbourne City Vs Buriram United BLV NGŨ CA
