@@ -1,7 +1,19 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/north-korea-u17-women-vs-cameroon-u17-women-1566?mode=ndsd
-#EXTINF:-1 group-title="North Korea U17 Women vs Cameroon U17 Women" referer="https://hoadao.tv/north-korea-u17-women-vs-cameroon-u17-women-1566?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-5513f16e7d1aa766a1aa7a50a01afc94.png",North Korea U17 Women vs Cameroon U17 Women [No BLV - SD (ND)]
-https://live.alilicloud.com/live/99c9a71e5986791ec95feee1071754b1/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/dynamo-makhachkala-vs-spartak-moscow-1607?mode=sd
+#EXTINF:-1 group-title="Dynamo Makhachkala vs Spartak Moscow" referer="https://hoadao.tv/dynamo-makhachkala-vs-spartak-moscow-1607?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-2f8576e3da88a746ac12c55f93c2e096.png",Dynamo Makhachkala vs Spartak Moscow [BLV PHÁO - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/dynamo-makhachkala-vs-spartak-moscow-1607?mode=hd
+#EXTINF:-1 group-title="Dynamo Makhachkala vs Spartak Moscow" referer="https://hoadao.tv/dynamo-makhachkala-vs-spartak-moscow-1607?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-2f8576e3da88a746ac12c55f93c2e096.png",Dynamo Makhachkala vs Spartak Moscow [BLV PHÁO - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/dynamo-makhachkala-vs-spartak-moscow-1607?mode=flv
+#EXTINF:-1 group-title="Dynamo Makhachkala vs Spartak Moscow" referer="https://hoadao.tv/dynamo-makhachkala-vs-spartak-moscow-1607?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-2f8576e3da88a746ac12c55f93c2e096.png",Dynamo Makhachkala vs Spartak Moscow [BLV PHÁO - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/dynamo-makhachkala-vs-spartak-moscow-1607?mode=flv2
+#EXTINF:-1 group-title="Dynamo Makhachkala vs Spartak Moscow" referer="https://hoadao.tv/dynamo-makhachkala-vs-spartak-moscow-1607?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-2f8576e3da88a746ac12c55f93c2e096.png",Dynamo Makhachkala vs Spartak Moscow [BLV PHÁO - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/dynamo-makhachkala-vs-spartak-moscow-1607?mode=ndsd
+#EXTINF:-1 group-title="Dynamo Makhachkala vs Spartak Moscow" referer="https://hoadao.tv/dynamo-makhachkala-vs-spartak-moscow-1607?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-2f8576e3da88a746ac12c55f93c2e096.png",Dynamo Makhachkala vs Spartak Moscow [BLV PHÁO - SD (ND)]
+https://live.alilicloud.com/live/85129ff1e95be68299d14dd04f4e2d75/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/ahal-fk-vs-sepahan-1438?mode=ndsd
 #EXTINF:-1 group-title="Ahal FK vs Sepahan" referer="https://hoadao.tv/ahal-fk-vs-sepahan-1438?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-ae6de6a4974e71dfbb4e26f6b234b4b8.png",Ahal FK vs Sepahan [No BLV - SD (ND)]
 https://live.alilicloud.com/live/3b070832459814965f2c0ffb324a8b2c/playlist.m3u8
