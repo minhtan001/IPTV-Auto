@@ -1,11 +1,10 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",12h03-21/10 Liverpool Vs Manchester United BLV LƯU BỊ
-https://hls.cdnok9.com/live/TEST/index.m3u8?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c
 #EXTINF:-1 group-title="LuongSon_2",14h45-21/10 Melbourne City Vs Buriram United BLV LƯU BỊ
-http://127.0.0.1
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",14h45-21/10 Melbourne City Vs Buriram United BLV NGŨ CA
-http://127.0.0.1
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",14h45-21/10 Melbourne City Vs Buriram United  BLV ĐỊCH NHÂN KIỆT
 https://hls.cdnok9.com/live/NHANKIET/index.m3u8?expire=1788427256&sign=ba090392b81339adcc052deb96414a4c
@@ -15,8 +14,9 @@ https://hls.cdnok9.com/live/LOELOE6380K/index.m3u8?expire=1788427256&sign=86b4da
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",14h45-21/10 Melbourne City Vs Buriram United BLV KEVILL
 https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",14h45-21/10 Melbourne City Vs Buriram United BLV ZORO
-http://127.0.0.1
+https://hls.cdnok9.com/live/ZORO/index.m3u8?expire=1788427256&sign=8e04682553e334be697e3ef428fa6031
 #EXTINF:-1 group-title="LuongSon_2",17h00-21/10 Chengdu Rongcheng FC Vs Johor Darul Takzim BLV CÔNG TÔN THẮNG
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",17h00-21/10 Chengdu Rongcheng FC Vs Johor Darul Takzim BLV DƯƠNG QUÁ
@@ -103,4 +103,6 @@ http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",20h45-21/10 FC Ahal Vs Sepahan BLV PEP
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",20h45-21/10 FC Ahal Vs Sepahan BLV ZORO
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",21h00-21/10 Leixoes U23 Vs Rio Ave U23 BLV PHONG VÂN
 http://127.0.0.1

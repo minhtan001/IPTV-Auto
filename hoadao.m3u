@@ -1,13 +1,16 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/raw-raw-3560?mode=sd
-#EXTINF:-1 group-title="RAW vs RAW" referer="https://hoadao.tv/raw-raw-3560?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-02370f4edcfbce9655f6424d0d8697a9.png",RAW vs RAW [BLV RICKY - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_rickysd/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/raw-raw-3560?mode=hd
-#EXTINF:-1 group-title="RAW vs RAW" referer="https://hoadao.tv/raw-raw-3560?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-02370f4edcfbce9655f6424d0d8697a9.png",RAW vs RAW [BLV RICKY - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_ricky/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/raw-raw-3560?mode=flv
-#EXTINF:-1 group-title="RAW vs RAW" referer="https://hoadao.tv/raw-raw-3560?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-02370f4edcfbce9655f6424d0d8697a9.png",RAW vs RAW [BLV RICKY - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_ricky.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/raw-raw-3560?mode=flv2
-#EXTINF:-1 group-title="RAW vs RAW" referer="https://hoadao.tv/raw-raw-3560?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-02370f4edcfbce9655f6424d0d8697a9.png",RAW vs RAW [BLV RICKY - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_ricky.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/melbourne-city-vs-buriram-united-1518?mode=sd
+#EXTINF:-1 group-title="Melbourne City vs Buriram United" referer="https://hoadao.tv/melbourne-city-vs-buriram-united-1518?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-d07ff57c3d602e414a29706f7914b22f.png",Melbourne City vs Buriram United [BLV CHIM NHỎ - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/melbourne-city-vs-buriram-united-1518?mode=hd
+#EXTINF:-1 group-title="Melbourne City vs Buriram United" referer="https://hoadao.tv/melbourne-city-vs-buriram-united-1518?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-d07ff57c3d602e414a29706f7914b22f.png",Melbourne City vs Buriram United [BLV CHIM NHỎ - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/melbourne-city-vs-buriram-united-1518?mode=flv
+#EXTINF:-1 group-title="Melbourne City vs Buriram United" referer="https://hoadao.tv/melbourne-city-vs-buriram-united-1518?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-d07ff57c3d602e414a29706f7914b22f.png",Melbourne City vs Buriram United [BLV CHIM NHỎ - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/melbourne-city-vs-buriram-united-1518?mode=flv2
+#EXTINF:-1 group-title="Melbourne City vs Buriram United" referer="https://hoadao.tv/melbourne-city-vs-buriram-united-1518?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-d07ff57c3d602e414a29706f7914b22f.png",Melbourne City vs Buriram United [BLV CHIM NHỎ - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/melbourne-city-vs-buriram-united-1518?mode=ndsd
+#EXTINF:-1 group-title="Melbourne City vs Buriram United" referer="https://hoadao.tv/melbourne-city-vs-buriram-united-1518?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-d07ff57c3d602e414a29706f7914b22f.png",Melbourne City vs Buriram United [BLV CHIM NHỎ - SD (ND)]
+https://live.alilicloud.com/live/281f92320a6a1a270e470ca147babd99/playlist.m3u8
