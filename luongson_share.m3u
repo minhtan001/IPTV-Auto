@@ -1,8 +1,5 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",01h15-22/10 Al Hilal Vs Al-Sadd BLV ODIN
-https://hls.cdnok9.com/live/ODIN/index.m3u8?expire=1788427256&sign=dbabf306532cc0f9b44f028e60fcd7e5
-#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",02h00-22/10 Villarreal Vs Manchester City BLV LỮ BỐ
 https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
 #EXTVLCOPT:http-referrer=https://ls39.live/
@@ -113,9 +110,9 @@ http://127.0.0.1
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",07h30-22/10 Independiente del Valle Vs Atletico Mineiro BLV TIÊU PHONG
 http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",08h00-22/10 Necaxa Vs CDSyC Cruz Azul  BLV ĐỊCH NHÂN KIỆT
-http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",08h00-22/10 Deportivo Pereira Vs Envigado FC TRỢ LÝ ĐIÊU THUYỀN
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",08h00-22/10 Necaxa Vs CDSyC Cruz Azul  BLV ĐỊCH NHÂN KIỆT
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",08h00-22/10 Club America Vs Puebla BLV NHỊ KA
 http://127.0.0.1
@@ -134,4 +131,6 @@ http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",15h30-22/10 PSIM Yogyakarta Vs Dewa United FC BLV RICARDO
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",15h30-22/10 PSIM Yogyakarta Vs Dewa United FC BLV ZORO
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",15h30-22/10 PSIM Yogyakarta Vs Dewa United FC BLV LÝ QUỲ
 http://127.0.0.1
