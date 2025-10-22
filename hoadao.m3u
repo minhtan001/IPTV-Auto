@@ -1,13 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/nxt-nxt-4336?mode=sd
-#EXTINF:-1 group-title="NXT vs NXT" referer="https://hoadao.tv/nxt-nxt-4336?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-8ac53ed72eb187cdc38858e97705e89a.png",NXT vs NXT [No BLV - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_rickysd/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/nxt-nxt-4336?mode=hd
-#EXTINF:-1 group-title="NXT vs NXT" referer="https://hoadao.tv/nxt-nxt-4336?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-8ac53ed72eb187cdc38858e97705e89a.png",NXT vs NXT [No BLV - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_ricky/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/nxt-nxt-4336?mode=flv
-#EXTINF:-1 group-title="NXT vs NXT" referer="https://hoadao.tv/nxt-nxt-4336?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-8ac53ed72eb187cdc38858e97705e89a.png",NXT vs NXT [No BLV - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_ricky.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/nxt-nxt-4336?mode=flv2
-#EXTINF:-1 group-title="NXT vs NXT" referer="https://hoadao.tv/nxt-nxt-4336?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-8ac53ed72eb187cdc38858e97705e89a.png",NXT vs NXT [No BLV - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_ricky.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/nojima-stella-kanagawa-sagamihara-vs-jef-united-ichihara-chiba-ladies-5129?mode=ndsd
+#EXTINF:-1 group-title="Nojima Stella Kanagawa Sagamihara vs JEF United Ichihara Chiba Ladies" referer="https://hoadao.tv/nojima-stella-kanagawa-sagamihara-vs-jef-united-ichihara-chiba-ladies-5129?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-79db2a5fbd40831dc89edbe649728ae1.png",Nojima Stella Kanagawa Sagamihara vs JEF United Ichihara Chiba Ladies [No BLV - SD (ND)]
+https://live.alilicloud.com/live/05c2ea1a3dd581dbae9eb92bd5552441/playlist.m3u8
