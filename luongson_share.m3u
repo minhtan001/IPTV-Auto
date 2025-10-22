@@ -1,17 +1,5 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",21h00-22/10 Al Ahly SC Vs Al-Ittihad Alexandria BLV PHONG VÂN
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",21h00-22/10 Al Ahly SC Vs Al-Ittihad Alexandria BLV VI TIỂU BẢO
-https://hls.cdnok9.com/live/VITIEUBAO/index.m3u8?expire=1788427256&sign=8455ad268241104dcfa228cc4d4a76de
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",21h00-22/10 Bayern Munchen U19 Vs Club Brugge U19 BLV VÕ TÒNG
-https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",21h00-22/10 Real Madrid U19 Vs Juventus U19  BLV ĐỊCH NHÂN KIỆT
-https://hls.cdnok9.com/live/NHANKIET/index.m3u8?expire=1788427256&sign=ba090392b81339adcc052deb96414a4c
-#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",21h40-22/10 Jubail Vs Al-Tai BLV MÃ SIÊU
 https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 #EXTVLCOPT:http-referrer=https://ls39.live/
@@ -51,17 +39,6 @@ https://hls.cdnok9.com/live/TONTHANG/index.m3u8?expire=1788427256&sign=adb117caa
 #EXTINF:-1 group-title="LuongSon_2",23h00-22/10 HJK Helsinki Vs SJK Seinajoen BLV TÂY MÔN KHÁNH
 https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 #EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",23h00-22/10 Levadia Tallinn Vs Paide Linnameeskond BLV DƯƠNG HÙNG
-https://hls.cdnok9.com/live/BLVDUONGHUNG1/index.m3u8?expire=1788427256&sign=79930f1c3496c86e41f0e85de922a495
-#EXTINF:-1 group-title="LuongSon_2",23h00-22/10 Al-Ahli Doha Vs Arkadag FK BLV PHONG VÂN
-http://127.0.0.1
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",23h00-22/10 Al-Ahli Doha Vs Arkadag FK BLV LA THÀNH
-https://hls.cdnok9.com/live/LATHANH/index.m3u8?expire=1788427256&sign=7b02684cf8b57cee675a2501454277cf
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",23h00-22/10 Al-Ahli Doha Vs Arkadag FK BLV THẠCH TÚ
-https://hls.cdnok9.com/live/THACHTU/index.m3u8?expire=1788427256&sign=77e6bae02b2c5f48ff9d9c5092df8d47
-#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",23h00-22/10 Esteghlal Tehran Vs Al Wehdat SC BLV VƯƠNG ANH
 https://hls.cdnok9.com/live/VUONGANH/index.m3u8?expire=1788427256&sign=2bef3d835693f1f820133e2c8b0d3fd4
 #EXTVLCOPT:http-referrer=https://ls39.live/
@@ -76,31 +53,53 @@ https://hls.cdnok9.com/live/ODIN/index.m3u8?expire=1788427256&sign=dbabf306532cc
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",23h00-22/10 Kauno Zalgiris Vs FK Zalgiris Vilnius BLV URA
 https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTINF:-1 group-title="LuongSon_2",23h45-22/10 Galatasaray Vs Bodo Glimt BLV DƯƠNG QUÁ
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",23h45-22/10 Galatasaray Vs Bodo Glimt BLV TRIỆU TỬ LONG
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",23h45-22/10 Galatasaray Vs Bodo Glimt BLV LƯU BỊ
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",23h45-22/10 Galatasaray Vs Bodo Glimt BLV KAKA
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",23h45-22/10 Galatasaray Vs Bodo Glimt BLV HOA VINH
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",23h45-22/10 Galatasaray Vs Bodo Glimt BLV KEVILL
-http://127.0.0.1
+#EXTVLCOPT:http-referrer=https://ls39.live/
+#EXTINF:-1 group-title="LuongSon_2",23h00-22/10 Levadia Tallinn Vs Paide Linnameeskond BLV DƯƠNG HÙNG
+https://hls.cdnok9.com/live/BLVDUONGHUNG1/index.m3u8?expire=1788427256&sign=79930f1c3496c86e41f0e85de922a495
+#EXTVLCOPT:http-referrer=https://ls39.live/
+#EXTINF:-1 group-title="LuongSon_2",23h00-22/10 Al-Ahli Doha Vs Arkadag FK BLV PHONG VÂN
+https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTVLCOPT:http-referrer=https://ls39.live/
+#EXTINF:-1 group-title="LuongSon_2",23h00-22/10 Al-Ahli Doha Vs Arkadag FK BLV LA THÀNH
+https://hls.cdnok9.com/live/LATHANH/index.m3u8?expire=1788427256&sign=7b02684cf8b57cee675a2501454277cf
+#EXTVLCOPT:http-referrer=https://ls39.live/
+#EXTINF:-1 group-title="LuongSon_2",23h00-22/10 Al-Ahli Doha Vs Arkadag FK BLV THẠCH TÚ
+https://hls.cdnok9.com/live/THACHTU/index.m3u8?expire=1788427256&sign=77e6bae02b2c5f48ff9d9c5092df8d47
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",23h45-22/10 Athletic Bilbao Vs Qarabag BLV NHỊ KA
-http://127.0.0.1
+https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",23h45-22/10 Athletic Bilbao Vs Qarabag BLV NGŨ CA
-http://127.0.0.1
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",23h45-22/10 Athletic Bilbao Vs Qarabag BLV THỜI THIÊN
-http://127.0.0.1
+https://hls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",23h45-22/10 Athletic Bilbao Vs Qarabag BLV VI TIỂU BẢO
-http://127.0.0.1
+https://hls.cdnok9.com/live/VITIEUBAO/index.m3u8?expire=1788427256&sign=8455ad268241104dcfa228cc4d4a76de
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",23h45-22/10 Athletic Bilbao Vs Qarabag BLV YẾN THANH
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:-1 group-title="LuongSon_2",23h45-22/10 Athletic Bilbao Vs Qarabag BLV ZORO
 http://127.0.0.1
+#EXTVLCOPT:http-referrer=https://ls39.live/
+#EXTINF:-1 group-title="LuongSon_2",23h45-22/10 Galatasaray Vs Bodo Glimt BLV DƯƠNG QUÁ
+https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTVLCOPT:http-referrer=https://ls39.live/
+#EXTINF:-1 group-title="LuongSon_2",23h45-22/10 Galatasaray Vs Bodo Glimt BLV TRIỆU TỬ LONG
+https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTVLCOPT:http-referrer=https://ls39.live/
+#EXTINF:-1 group-title="LuongSon_2",23h45-22/10 Galatasaray Vs Bodo Glimt BLV LƯU BỊ
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTVLCOPT:http-referrer=https://ls39.live/
+#EXTINF:-1 group-title="LuongSon_2",23h45-22/10 Galatasaray Vs Bodo Glimt BLV KAKA
+https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTVLCOPT:http-referrer=https://ls39.live/
+#EXTINF:-1 group-title="LuongSon_2",23h45-22/10 Galatasaray Vs Bodo Glimt BLV HOA VINH
+https://hls.cdnok9.com/live/LOELOE6380K/index.m3u8?expire=1788427256&sign=86b4dafe54d1b6da2bffad6653671edb
+#EXTVLCOPT:http-referrer=https://ls39.live/
+#EXTINF:-1 group-title="LuongSon_2",23h45-22/10 Galatasaray Vs Bodo Glimt BLV KEVILL
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTINF:-1 group-title="LuongSon_2",00h00-23/10 Konyaspor Vs Besiktas JK BLV MÃ SIÊU
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",00h00-23/10 Konyaspor Vs Besiktas JK BLV RICARDO
@@ -124,4 +123,13 @@ http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",02h00-23/10 Chelsea Vs AFC Ajax BLV MÃ SIÊU
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",02h00-23/10 Chelsea Vs AFC Ajax BLV VI TIỂU BẢO
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",02h00-23/10 Chelsea Vs AFC Ajax BLV RICARDO
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",02h00-23/10 Chelsea Vs AFC Ajax BLV PEP
+http://127.0.0.1
+#EXTVLCOPT:http-referrer=https://ls39.live/
+#EXTINF:-1 group-title="LuongSon_2",02h00-23/10 Chelsea Vs AFC Ajax BLV ZORO
+https://hls.cdnok9.com/live/ZORO/index.m3u8?expire=1788427256&sign=8e04682553e334be697e3ef428fa6031
+#EXTINF:-1 group-title="LuongSon_2",02h00-23/10 Monaco Vs Tottenham Hotspur BLV QUAN VŨ
 http://127.0.0.1
