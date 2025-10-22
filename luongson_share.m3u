@@ -1,8 +1,5 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",09h00-22/10 Cartagines Deportiva SA Vs CD Motagua BLV VÕ TÒNG
-https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",10h00-22/10 Mazatlan FC Vs Santos Laguna  BLV ĐỊCH NHÂN KIỆT
 https://hls.cdnok9.com/live/NHANKIET/index.m3u8?expire=1788427256&sign=ba090392b81339adcc052deb96414a4c
 #EXTVLCOPT:http-referrer=https://ls39.live/
@@ -102,4 +99,6 @@ http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",20h45-22/10 FC Istiklol Dushanbe Vs Al Zawraa BLV VƯƠNG LUÂN
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",20h45-22/10 FC Goa Vs Al-Nassr BLV DƯƠNG QUÁ
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",20h45-22/10 FC Goa Vs Al-Nassr BLV TRIỆU TỬ LONG
 http://127.0.0.1
