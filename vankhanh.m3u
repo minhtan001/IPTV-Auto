@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Bahia vs Internacional RS" tvg-logo="https://hxcv.site/images/cache/match-c3930b684f425bab251bc296f1fd4f9a.png",Bahia vs Internacional RS [BLV TIỂU LINH - HLS]
-https://hls.cdnvankhanh.com/live/TIEULINH/index.m3u8?expire=1891779900&sign=5353000df59fd7da4b1d1f4a66da8495
-#EXTINF:-1 group-title="Bahia vs Internacional RS" tvg-logo="https://hxcv.site/images/cache/match-c3930b684f425bab251bc296f1fd4f9a.png",Bahia vs Internacional RS [BLV TIỂU LINH - FLV]
-https://flv.cdnvankhanh.com/live/TIEULINH.flv?expire=1891779900&sign=5353000df59fd7da4b1d1f4a66da8495
 #EXTINF:-1 group-title="CA Huracan vs Central Cordoba SDE" tvg-logo="https://hxcv.site/images/cache/match-09f170767526e73cb9388b5a1ea0df36.png",CA Huracan vs Central Cordoba SDE [BLV VĂN CHƯƠNG - HLS]
 https://hls.cdnvankhanh.com/live/VANCHUONG/index.m3u8?expire=1890806880&sign=d5e33b097684f7c5682301b78b825aaf
 #EXTINF:-1 group-title="CA Huracan vs Central Cordoba SDE" tvg-logo="https://hxcv.site/images/cache/match-09f170767526e73cb9388b5a1ea0df36.png",CA Huracan vs Central Cordoba SDE [BLV VĂN CHƯƠNG - FLV]
@@ -11,3 +7,7 @@ https://flv.cdnvankhanh.com/live/VANCHUONG.flv?expire=1890806880&sign=d5e33b0976
 https://hls.cdnvankhanh.com/live/VANKHANG/index.m3u8?expire=1862206680&sign=7ac84ad876b1ccbad9036fe76373e2c6
 #EXTINF:-1 group-title="Atletico Nacional Medellin vs Deportiva Once Caldas" tvg-logo="https://hxcv.site/images/cache/match-e0a5a37c15c0173ba6c3a326761b4085.png",Atletico Nacional Medellin vs Deportiva Once Caldas [BLV VĂN KHANG - FLV]
 https://flv.cdnvankhanh.com/live/VANKHANG.flv?expire=1862206680&sign=7ac84ad876b1ccbad9036fe76373e2c6
+#EXTINF:-1 group-title="Bahia vs Internacional RS" tvg-logo="https://hxcv.site/images/cache/match-c3930b684f425bab251bc296f1fd4f9a.png",Bahia vs Internacional RS [BLV TIỂU LINH - HLS]
+https://hls.cdnvankhanh.com/live/TIEULINH/index.m3u8?expire=1891779900&sign=5353000df59fd7da4b1d1f4a66da8495
+#EXTINF:-1 group-title="Bahia vs Internacional RS" tvg-logo="https://hxcv.site/images/cache/match-c3930b684f425bab251bc296f1fd4f9a.png",Bahia vs Internacional RS [BLV TIỂU LINH - FLV]
+https://flv.cdnvankhanh.com/live/TIEULINH.flv?expire=1891779900&sign=5353000df59fd7da4b1d1f4a66da8495
