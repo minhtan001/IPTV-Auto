@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/shanghai-shenhua-fc-vs-football-club-seoul-1775?mode=sd
-#EXTINF:-1 group-title="Shanghai Shenhua FC vs Football Club Seoul" referer="https://hoadao.tv/shanghai-shenhua-fc-vs-football-club-seoul-1775?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-2fcec026654f2096c1fbc51b046a3ec4.png",Shanghai Shenhua FC vs Football Club Seoul [BLV PHÁO - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/shanghai-shenhua-fc-vs-football-club-seoul-1775?mode=hd
-#EXTINF:-1 group-title="Shanghai Shenhua FC vs Football Club Seoul" referer="https://hoadao.tv/shanghai-shenhua-fc-vs-football-club-seoul-1775?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-2fcec026654f2096c1fbc51b046a3ec4.png",Shanghai Shenhua FC vs Football Club Seoul [BLV PHÁO - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/shanghai-shenhua-fc-vs-football-club-seoul-1775?mode=flv
-#EXTINF:-1 group-title="Shanghai Shenhua FC vs Football Club Seoul" referer="https://hoadao.tv/shanghai-shenhua-fc-vs-football-club-seoul-1775?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-2fcec026654f2096c1fbc51b046a3ec4.png",Shanghai Shenhua FC vs Football Club Seoul [BLV PHÁO - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/shanghai-shenhua-fc-vs-football-club-seoul-1775?mode=flv2
-#EXTINF:-1 group-title="Shanghai Shenhua FC vs Football Club Seoul" referer="https://hoadao.tv/shanghai-shenhua-fc-vs-football-club-seoul-1775?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-2fcec026654f2096c1fbc51b046a3ec4.png",Shanghai Shenhua FC vs Football Club Seoul [BLV PHÁO - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/shanghai-shenhua-fc-vs-football-club-seoul-1775?mode=ndsd
-#EXTINF:-1 group-title="Shanghai Shenhua FC vs Football Club Seoul" referer="https://hoadao.tv/shanghai-shenhua-fc-vs-football-club-seoul-1775?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-2fcec026654f2096c1fbc51b046a3ec4.png",Shanghai Shenhua FC vs Football Club Seoul [BLV PHÁO - SD (ND)]
-https://live.alilicloud.com/live/95db5b566a1f8b74c21bf584c21b013f/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/fc-goa-vs-al-nassr-fc-1810?mode=sd
 #EXTINF:-1 group-title="FC Goa vs Al Nassr FC" referer="https://hoadao.tv/fc-goa-vs-al-nassr-fc-1810?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-eb037ce7cd8758c48ab932634db7e3cc.png",FC Goa vs Al Nassr FC [BLV RICKY - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_rickysd/playlist.m3u8
@@ -29,12 +14,6 @@ https://pjoo0925.edgemaxcdn.org/live/blv_ricky.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/fc-goa-vs-al-nassr-fc-1810?mode=ndsd
 #EXTINF:-1 group-title="FC Goa vs Al Nassr FC" referer="https://hoadao.tv/fc-goa-vs-al-nassr-fc-1810?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-eb037ce7cd8758c48ab932634db7e3cc.png",FC Goa vs Al Nassr FC [BLV RICKY - SD (ND)]
 https://live.alilicloud.com/live/5b55f2a7e5489bea3ac416c45a476a97/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/juventusu23-vs-nuovo-campobasso-1783?mode=ndsd
-#EXTINF:-1 group-title="JuventusU23 vs Nuovo Campobasso" referer="https://hoadao.tv/juventusu23-vs-nuovo-campobasso-1783?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-1cdca45ab4fd9398096dd9a90b00e86d.png",JuventusU23 vs Nuovo Campobasso [No BLV - SD (ND)]
-https://live.alilicloud.com/live/833466587511e04a06bb3bf49b773182/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/spain-u17-women-vs-south-korea-u17-women-1794?mode=ndsd
-#EXTINF:-1 group-title="Spain U17 Women vs South Korea U17 Women" referer="https://hoadao.tv/spain-u17-women-vs-south-korea-u17-women-1794?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-3adc79ceaa9e4c2f627b2d2bcd4c5f71.png",Spain U17 Women vs South Korea U17 Women [No BLV - SD (ND)]
-https://live.alilicloud.com/live/c304cd748992967ace2000dc8d5ea35b/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/fk-iskra-danilovgrad-vs-arsenal-tivat-5193?mode=ndsd
 #EXTINF:-1 group-title="FK Iskra Danilovgrad vs Arsenal Tivat" referer="https://hoadao.tv/fk-iskra-danilovgrad-vs-arsenal-tivat-5193?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-65f754cd6744863aa78c2c7131cf94f0.png",FK Iskra Danilovgrad vs Arsenal Tivat [No BLV - SD (ND)]
 https://live.alilicloud.com/live/8b9c4e055208ac000f6178bf00a74289/playlist.m3u8
