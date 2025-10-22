@@ -1,38 +1,5 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",23h00-22/10 HJK Helsinki Vs SJK Seinajoen BLV CÔNG TÔN THẮNG
-https://hls.cdnok9.com/live/TONTHANG/index.m3u8?expire=1788427256&sign=adb117caabc8cf978ed1bbca0e03c593
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",23h00-22/10 HJK Helsinki Vs SJK Seinajoen BLV TÂY MÔN KHÁNH
-https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",23h00-22/10 Esteghlal Tehran Vs Al Wehdat SC BLV VƯƠNG ANH
-https://hls.cdnok9.com/live/VUONGANH/index.m3u8?expire=1788427256&sign=2bef3d835693f1f820133e2c8b0d3fd4
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",23h00-22/10 Esteghlal Tehran Vs Al Wehdat SC BLV TÔN LẬP
-https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",23h00-22/10 Esteghlal Tehran Vs Al Wehdat SC BLV KENCHU
-https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",23h00-22/10 FK Panevezys Vs FK Riteriai BLV ODIN
-https://hls.cdnok9.com/live/ODIN/index.m3u8?expire=1788427256&sign=dbabf306532cc0f9b44f028e60fcd7e5
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",23h00-22/10 Kauno Zalgiris Vs FK Zalgiris Vilnius BLV URA
-https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",23h00-22/10 Levadia Tallinn Vs Paide Linnameeskond BLV DƯƠNG HÙNG
-https://hls.cdnok9.com/live/BLVDUONGHUNG1/index.m3u8?expire=1788427256&sign=79930f1c3496c86e41f0e85de922a495
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",23h00-22/10 Al-Ahli Doha Vs Arkadag FK BLV PHONG VÂN
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",23h00-22/10 Al-Ahli Doha Vs Arkadag FK BLV LA THÀNH
-https://hls.cdnok9.com/live/LATHANH/index.m3u8?expire=1788427256&sign=7b02684cf8b57cee675a2501454277cf
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",23h00-22/10 Al-Ahli Doha Vs Arkadag FK BLV THẠCH TÚ
-https://hls.cdnok9.com/live/THACHTU/index.m3u8?expire=1788427256&sign=77e6bae02b2c5f48ff9d9c5092df8d47
-#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",23h45-22/10 Galatasaray Vs Bodo Glimt BLV DƯƠNG QUÁ
 https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
 #EXTVLCOPT:http-referrer=https://ls39.live/
@@ -96,8 +63,9 @@ http://127.0.0.1
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",02h00-23/10 Eintracht Frankfurt Vs Liverpool BLV HOA VINH
 http://127.0.0.1
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",02h00-23/10 Eintracht Frankfurt Vs Liverpool BLV KEVILL
-http://127.0.0.1
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107      
 #EXTINF:-1 group-title="LuongSon_2",02h00-23/10 Real Madrid Vs Juventus BLV DƯƠNG QUÁ
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",02h00-23/10 Real Madrid Vs Juventus BLV TRIỆU TỬ LONG
@@ -110,21 +78,47 @@ http://127.0.0.1
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",02h00-23/10 Real Madrid Vs Juventus BLV YẾN THANH
 http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",02h00-23/10 Sporting CP Vs Marseille BLV CHU ĐỒNG
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",02h00-23/10 Sporting CP Vs Marseille BLV ODIN
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",02h00-23/10 Sporting CP Vs Marseille BLV TẦN CA
+http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",02h00-23/10 Bayern Munchen Vs Club Brugge BLV VƯƠNG ANH
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",02h00-23/10 Bayern Munchen Vs Club Brugge BLV KHỔNG MINH
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",02h00-23/10 Bayern Munchen Vs Club Brugge BLV TRƯƠNG THANH
 http://127.0.0.1
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",02h00-23/10 Bayern Munchen Vs Club Brugge BLV THẠCH TÚ
-http://127.0.0.1
+https://hls.cdnok9.com/live/THACHTU/index.m3u8?expire=1788427256&sign=77e6bae02b2c5f48ff9d9c5092df8d47
 #EXTINF:-1 group-title="LuongSon_2",02h00-23/10 Bayern Munchen Vs Club Brugge BLV SÁCH SIÊU
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",02h00-23/10 Bayern Munchen Vs Club Brugge BLV VƯƠNG LUÂN
 http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",02h00-23/10 Sporting CP Vs Marseille BLV CHU ĐỒNG
+#EXTINF:-1 group-title="LuongSon_2",02h00-23/10 Atalanta Vs Slavia Praha BLV TỐNG GIANG
 http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",02h00-23/10 Sporting CP Vs Marseille BLV ODIN
+#EXTVLCOPT:http-referrer=https://ls39.live/
+#EXTINF:-1 group-title="LuongSon_2",02h00-23/10 Atalanta Vs Slavia Praha BLV LÝ ỨNG
+https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTVLCOPT:http-referrer=https://ls39.live/
+#EXTINF:-1 group-title="LuongSon_2",02h00-23/10 Atalanta Vs Slavia Praha BLV DƯƠNG HÙNG
+https://hls.cdnok9.com/live/BLVDUONGHUNG1/index.m3u8?expire=1788427256&sign=79930f1c3496c86e41f0e85de922a495
+#EXTINF:-1 group-title="LuongSon_2",02h00-23/10 Atalanta Vs Slavia Praha BLV TÂY MÔN KHÁNH
 http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",02h00-23/10 Sporting CP Vs Marseille BLV TẦN CA
+#EXTINF:-1 group-title="LuongSon_2",02h00-23/10 Atalanta Vs Slavia Praha BLV LÝ BÍ
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",02h00-23/10 Monaco Vs Tottenham Hotspur BLV QUAN VŨ
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",02h00-23/10 Monaco Vs Tottenham Hotspur BLV PHONG VÂN
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",02h00-23/10 Monaco Vs Tottenham Hotspur BLV TRƯƠNG VÔ KỴ
+http://127.0.0.1
+#EXTVLCOPT:http-referrer=https://ls39.live/
+#EXTINF:-1 group-title="LuongSon_2",02h00-23/10 Monaco Vs Tottenham Hotspur BLV TÔN LẬP
+https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 group-title="LuongSon_2",02h00-23/10 Monaco Vs Tottenham Hotspur BLV KENCHU
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",02h00-23/10 Monaco Vs Tottenham Hotspur BLV URA
 http://127.0.0.1
