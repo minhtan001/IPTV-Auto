@@ -1,10 +1,22 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/harju-jk-laagri-vs-tartu-jk-maag-tammeka-1833?mode=ndsd
-#EXTINF:-1 group-title="Harju JK Laagri vs Tartu JK Maag Tammeka" referer="https://hoadao.tv/harju-jk-laagri-vs-tartu-jk-maag-tammeka-1833?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-7a36599b4ca4c4bf6f46dd7d5eba51c2.png",Harju JK Laagri vs Tartu JK Maag Tammeka [No BLV - SD (ND)]
-https://live.alilicloud.com/live/969e5441d218442ae36a69c9cff2f121/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/samgurali-tskh-vs-dinamo-tbilisi-1834?mode=ndsd
-#EXTINF:-1 group-title="Samgurali Tskh vs Dinamo Tbilisi" referer="https://hoadao.tv/samgurali-tskh-vs-dinamo-tbilisi-1834?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-e3f5c59efc241a0142f002bb82655e68.png",Samgurali Tskh vs Dinamo Tbilisi [No BLV - SD (ND)]
-https://live.alilicloud.com/live/208cfd87f6ef51ee493f89cda2876b94/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/athletic-club-vs-qarabag-1877?mode=sd
+#EXTINF:-1 group-title="Athletic Club vs Qarabag" referer="https://hoadao.tv/athletic-club-vs-qarabag-1877?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-ede48d68eddd1eb6271652c74e394492.png",Athletic Club vs Qarabag [BLV RICKY - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_rickysd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/athletic-club-vs-qarabag-1877?mode=hd
+#EXTINF:-1 group-title="Athletic Club vs Qarabag" referer="https://hoadao.tv/athletic-club-vs-qarabag-1877?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-ede48d68eddd1eb6271652c74e394492.png",Athletic Club vs Qarabag [BLV RICKY - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_ricky/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/athletic-club-vs-qarabag-1877?mode=flv
+#EXTINF:-1 group-title="Athletic Club vs Qarabag" referer="https://hoadao.tv/athletic-club-vs-qarabag-1877?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-ede48d68eddd1eb6271652c74e394492.png",Athletic Club vs Qarabag [BLV RICKY - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_ricky.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/athletic-club-vs-qarabag-1877?mode=flv2
+#EXTINF:-1 group-title="Athletic Club vs Qarabag" referer="https://hoadao.tv/athletic-club-vs-qarabag-1877?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-ede48d68eddd1eb6271652c74e394492.png",Athletic Club vs Qarabag [BLV RICKY - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_ricky.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/athletic-club-vs-qarabag-1877?mode=ndsd
+#EXTINF:-1 group-title="Athletic Club vs Qarabag" referer="https://hoadao.tv/athletic-club-vs-qarabag-1877?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-ede48d68eddd1eb6271652c74e394492.png",Athletic Club vs Qarabag [BLV RICKY - SD (ND)]
+https://live.alilicloud.com/live/a97681e2e1678cb53bb4029eb640a65a/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/galatasaray-vs-bodo-glimt-1878?mode=ndsd
+#EXTINF:-1 group-title="Galatasaray vs Bodo Glimt" referer="https://hoadao.tv/galatasaray-vs-bodo-glimt-1878?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-548cbeb58b0b34017a26c2ed334af5d4.png",Galatasaray vs Bodo Glimt [BLV CỤ RÙA - SD (ND)]
+https://live.alilicloud.com/live/37c687fee6ef46c9a706801be20548b6/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/jk-tallinna-kalev-vs-nomme-jk-kalju-1835?mode=ndsd
 #EXTINF:-1 group-title="JK Tallinna Kalev vs Nomme JK Kalju" referer="https://hoadao.tv/jk-tallinna-kalev-vs-nomme-jk-kalju-1835?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-4c314881e4e7dd0b49676469ed76b47a.png",JK Tallinna Kalev vs Nomme JK Kalju [No BLV - SD (ND)]
 https://live.alilicloud.com/live/5146a5e92d0e4a5426959c7fd4ac08e0/playlist.m3u8
@@ -26,9 +38,6 @@ https://live.alilicloud.com/live/fe6d3eaa2f285fbf934b8fd8adc65624/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/siauliai-vs-banga-gargzdai-1841?mode=ndsd
 #EXTINF:-1 group-title="Siauliai vs Banga Gargzdai" referer="https://hoadao.tv/siauliai-vs-banga-gargzdai-1841?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-0a7ca0130d92b5c87c0aab08af523042.png",Siauliai vs Banga Gargzdai [No BLV - SD (ND)]
 https://live.alilicloud.com/live/ab3c72a2fb3dd24be4e58755d5a009d4/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/al-nahda-sc-vs-al-rayyan-1842?mode=ndsd
-#EXTINF:-1 group-title="Al Nahda SC vs Al Rayyan" referer="https://hoadao.tv/al-nahda-sc-vs-al-rayyan-1842?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-ccbc921a4fb416a322d65b5852ca996b.png",Al Nahda SC vs Al Rayyan [No BLV - SD (ND)]
-https://live.alilicloud.com/live/d198ccfd099d91bb13467f84fa756bb6/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/kongsvinger-vs-hodd-1845?mode=ndsd
 #EXTINF:-1 group-title="Kongsvinger vs Hodd" referer="https://hoadao.tv/kongsvinger-vs-hodd-1845?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-076b905dc70cad17433b5bc634e78891.png",Kongsvinger vs Hodd [No BLV - SD (ND)]
 https://live.alilicloud.com/live/126488684273572a0e94d27cd0e0304a/playlist.m3u8
@@ -80,6 +89,9 @@ https://live.alilicloud.com/live/0456a02a679bb9002ea7e61aa4a68872/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/levadia-tallinn-vs-paide-linnameeskond-1875?mode=ndsd
 #EXTINF:-1 group-title="Levadia Tallinn vs Paide Linnameeskond" referer="https://hoadao.tv/levadia-tallinn-vs-paide-linnameeskond-1875?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-0362ca8cde7f7c9725c63beae31eb686.png",Levadia Tallinn vs Paide Linnameeskond [No BLV - SD (ND)]
 https://live.alilicloud.com/live/cbd70f9ff3b14fe74ad34fcb95806390/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/bohemians-1905-vs-mlada-boleslav-4557?mode=ndsd
+#EXTINF:-1 group-title="Bohemians 1905 vs Mlada Boleslav" referer="https://hoadao.tv/bohemians-1905-vs-mlada-boleslav-4557?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-5ed61f448cd1fcf660a113482cd5614b.png",Bohemians 1905 vs Mlada Boleslav [No BLV - SD (ND)]
+https://live.alilicloud.com/live/1de10aa0f1f250ad98c74231d8b76825/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/atalanta-slavia-prague-5274?mode=sd
 #EXTINF:-1 group-title="THY vs Nilufer" referer="https://hoadao.tv/atalanta-slavia-prague-5274?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-4bb629d280c3be824c256803c2dd4d56.png",THY vs Nilufer [BLV CỤ RÙA - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
