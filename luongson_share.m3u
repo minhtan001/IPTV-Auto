@@ -1,46 +1,27 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",12h05-22/10 Liverpool Vs Manchester United BLV LƯU BỊ
-https://hls.cdnok9.com/live/TEST/index.m3u8?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c
 #EXTINF:-1 group-title="LuongSon_2",15h00-22/10 CTBC Flying Oyster Vs Hanwha Life Esports NHÀ ĐÀI
-http://127.0.0.1
+https://hls.cdnok9.com/live/TEST2/index.m3u8?expire=1788427256&sign=1eeee2ecb43648dc5ef36b43282e16ae
+#EXTVLCOPT:http-referrer=https://ls39.live/
+#EXTINF:-1 group-title="LuongSon_2",15h30-22/10 Greece (W) U19 Vs Austria (W) U19 TRỢ LÝ ĐIÊU THUYỀN
+https://hls.cdnok9.com/live/DIEUTHUYEN/index.m3u8?expire=1788427256&sign=8cebea5448db2f74ea04021d9362ba87
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",15h30-22/10 PSIM Yogyakarta Vs Dewa United FC BLV ODIN
-http://127.0.0.1
+https://hls.cdnok9.com/live/ODIN/index.m3u8?expire=1788427256&sign=dbabf306532cc0f9b44f028e60fcd7e5
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",15h30-22/10 PSIM Yogyakarta Vs Dewa United FC BLV RICARDO
-http://127.0.0.1
+https://hls.cdnok9.com/live/RICARDO/index.m3u8?expire=1788427256&sign=a956b265a5fbe0508d6033243c880515
 #EXTINF:-1 group-title="LuongSon_2",15h30-22/10 PSIM Yogyakarta Vs Dewa United FC BLV ZORO
 http://127.0.0.1
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",15h30-22/10 PSIM Yogyakarta Vs Dewa United FC BLV LÝ QUỲ
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",15h30-22/10 Greece (W) U19 Vs Austria (W) U19 TRỢ LÝ ĐIÊU THUYỀN
-http://127.0.0.1
+https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",16h00-22/10 Nojima Stella (W) Vs JEF United Ichihara Chiba (W) BLV VÕ TÒNG
-http://127.0.0.1
+https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:-1 group-title="LuongSon_2",17h00-22/10 Simal FK Vs Difai Agsu FK BLV TRƯƠNG VÔ KỴ
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",17h00-22/10 Simal FK Vs Difai Agsu FK BLV TẦN CA
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",17h00-22/10 FK MOIK Baku Vs Baku Sporting BLV THẠCH TÚ
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",17h00-22/10 FK MOIK Baku Vs Baku Sporting BLV LÝ ỨNG
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",17h00-22/10 FK MOIK Baku Vs Baku Sporting BLV PEP
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",17h00-22/10 FC Kolkheti Poti Vs FC Telavi BLV CHU ĐỒNG
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",17h00-22/10 FC Kolkheti Poti Vs FC Telavi BLV LÝ BÍ
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",17h00-22/10 Gangwon FC Vs Vissel Kobe BLV DƯƠNG CHÍ
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",17h00-22/10 Gangwon FC Vs Vissel Kobe BLV NGŨ CA
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",17h00-22/10 Gangwon FC Vs Vissel Kobe BLV TRƯƠNG THANH
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",17h00-22/10 Gangwon FC Vs Vissel Kobe BLV KEVILL
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",17h00-22/10 Gangwon FC Vs Vissel Kobe BLV THỜI THIÊN
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",17h00-22/10 Gangwon FC Vs Vissel Kobe BLV VI TIỂU BẢO
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",17h00-22/10 Gamba Osaka Vs Nam Dinh FC BLV CÔNG TÔN THẮNG
 http://127.0.0.1
@@ -54,19 +35,33 @@ http://127.0.0.1
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",17h00-22/10 Gamba Osaka Vs Nam Dinh FC BLV YẾN THANH
 http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",17h00-22/10 Gangwon FC Vs Vissel Kobe BLV DƯƠNG CHÍ
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",17h00-22/10 Gangwon FC Vs Vissel Kobe BLV NGŨ CA
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",17h00-22/10 Gangwon FC Vs Vissel Kobe BLV TRƯƠNG THANH
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",17h00-22/10 Gangwon FC Vs Vissel Kobe BLV KEVILL
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",17h00-22/10 Gangwon FC Vs Vissel Kobe BLV THỜI THIÊN
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",17h00-22/10 Gangwon FC Vs Vissel Kobe BLV VI TIỂU BẢO
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",17h00-22/10 FK MOIK Baku Vs Baku Sporting BLV THẠCH TÚ
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",17h00-22/10 FK MOIK Baku Vs Baku Sporting BLV LÝ ỨNG
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",17h00-22/10 FK MOIK Baku Vs Baku Sporting BLV PEP
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",17h00-22/10 FC Kolkheti Poti Vs FC Telavi BLV CHU ĐỒNG
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",17h00-22/10 FC Kolkheti Poti Vs FC Telavi BLV LÝ BÍ
+http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",18h00-22/10 Nagaworld FC Vs Phnom Penh FC BLV TỐNG GIANG
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",18h00-22/10 Nagaworld FC Vs Phnom Penh FC BLV QUAN VŨ
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",18h00-22/10 Nagaworld FC Vs Phnom Penh FC BLV LÝ QUỲ
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",19h15-22/10 Ratchaburi FC Vs Eastern A.A Football Team BLV TRƯƠNG THANH
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",19h15-22/10 Ratchaburi FC Vs Eastern A.A Football Team BLV SÁCH SIÊU
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",19h15-22/10 Ratchaburi FC Vs Eastern A.A Football Team BLV PEP
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",19h15-22/10 Ratchaburi FC Vs Eastern A.A Football Team BLV KENCHU
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",19h15-22/10 Shanghai Shenhua Vs FC Seoul BLV DƯƠNG CHÍ
 http://127.0.0.1
@@ -80,11 +75,17 @@ http://127.0.0.1
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",19h15-22/10 Shanghai Shenhua Vs FC Seoul BLV URA
 http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",19h15-22/10 Ratchaburi FC Vs Eastern A.A Football Team BLV TRƯƠNG THANH
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",19h15-22/10 Ratchaburi FC Vs Eastern A.A Football Team BLV SÁCH SIÊU
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",19h15-22/10 Ratchaburi FC Vs Eastern A.A Football Team BLV PEP
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",19h15-22/10 Ratchaburi FC Vs Eastern A.A Football Team BLV KENCHU
+http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",19h30-22/10 Blue Eagles Vs Be Forward Wanderers BLV DƯƠNG HÙNG
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",20h00-22/10 Sporting Lisbon U19 Vs Marseille U19 BLV KHỔNG MINH
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",20h45-22/10 FK Andijon Vs Al Khaldiya BLV THẠCH TÚ
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",20h45-22/10 FC Istiklol Dushanbe Vs Al Zawraa BLV VƯƠNG ANH
 http://127.0.0.1
@@ -99,4 +100,8 @@ http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",20h45-22/10 FC Goa Vs Al-Nassr BLV TRIỆU TỬ LONG
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",20h45-22/10 FC Goa Vs Al-Nassr BLV LƯU BỊ
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",20h45-22/10 FC Goa Vs Al-Nassr BLV KAKA
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",20h45-22/10 FC Goa Vs Al-Nassr BLV KEVILL
 http://127.0.0.1
