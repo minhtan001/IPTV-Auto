@@ -1,8 +1,10 @@
 #EXTM3U
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",05h00-23/10 Bahia Vs Internacional RS BLV TIÊU PHONG
-http://127.0.0.1
+https://hls.cdnok9.com/live/TIEUPHONG/index.m3u8?expire=1788427256&sign=30f6cc3c5000450c81ffb13b077432b8
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",05h30-23/10 CA Huracan Vs Central Cordoba SDE  BLV ĐỊCH NHÂN KIỆT
-http://127.0.0.1
+https://hls.cdnok9.com/live/NHANKIET/index.m3u8?expire=1788427256&sign=ba090392b81339adcc052deb96414a4c
 #EXTINF:-1 group-title="LuongSon_2",06h00-23/10 Atletico Nacional Medellin Vs Deportiva Once Caldas BLV VÕ TÒNG
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",07h00-23/10 Sporting San Miguelito Vs Plaza Amador BLV TIÊU PHONG
