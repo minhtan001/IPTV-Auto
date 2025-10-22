@@ -1,8 +1,5 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",15h00-22/10 CTBC Flying Oyster Vs Hanwha Life Esports NHÀ ĐÀI
-https://hls.cdnok9.com/live/TEST2/index.m3u8?expire=1788427256&sign=1eeee2ecb43648dc5ef36b43282e16ae
-#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",15h30-22/10 Greece (W) U19 Vs Austria (W) U19 TRỢ LÝ ĐIÊU THUYỀN
 https://hls.cdnok9.com/live/DIEUTHUYEN/index.m3u8?expire=1788427256&sign=8cebea5448db2f74ea04021d9362ba87
 #EXTVLCOPT:http-referrer=https://ls39.live/
@@ -123,4 +120,6 @@ http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",20h45-22/10 FC Istiklol Dushanbe Vs Al Zawraa BLV TÔN LẬP
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",20h45-22/10 FC Istiklol Dushanbe Vs Al Zawraa BLV VƯƠNG LUÂN
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",21h00-22/10 Bayern Munchen U19 Vs Club Brugge U19 BLV VÕ TÒNG
 http://127.0.0.1
