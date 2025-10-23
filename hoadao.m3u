@@ -1,10 +1,52 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/sefa-vs-sabail-fc-1967?mode=ndsd
-#EXTINF:-1 group-title="Sefa vs Sabail FC" referer="https://hoadao.tv/sefa-vs-sabail-fc-1967?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-f50e10c5c086db0909ce045414c94e91.png",Sefa vs Sabail FC [No BLV - SD (ND)]
-https://live.alilicloud.com/live/2c0eb82e145b29f29416051dffb8144b/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/cbrayl-fk-vs-shahdagh-qusar-1968?mode=ndsd
-#EXTINF:-1 group-title="Cəbrayıl FK vs Shahdagh Qusar" referer="https://hoadao.tv/cbrayl-fk-vs-shahdagh-qusar-1968?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-e126f6d569e1b1be8f1de84fdbd3d38e.png",Cəbrayıl FK vs Shahdagh Qusar [No BLV - SD (ND)]
-https://live.alilicloud.com/live/8a2562bd2035f433ad4b210aa0f747a1/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/zaqatala-fk-vs-mingachevir-1969?mode=ndsd
-#EXTINF:-1 group-title="Zaqatala FK vs Mingachevir" referer="https://hoadao.tv/zaqatala-fk-vs-mingachevir-1969?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-bbd20555f1fc3d5b3c32d6f0179bee00.png",Zaqatala FK vs Mingachevir [No BLV - SD (ND)]
-https://live.alilicloud.com/live/2f9ed5bfddee8dd33188fb2bff3b44ca/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/cong-an-ha-noi-fc-vs-macarthur-fc-1977?mode=sd
+#EXTINF:-1 group-title="Cong An Ha Noi FC vs Macarthur FC" referer="https://hoadao.tv/cong-an-ha-noi-fc-vs-macarthur-fc-1977?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-15716c03e503204636d4de920678a19a.png",Cong An Ha Noi FC vs Macarthur FC [BLV CHIM NHỎ - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/cong-an-ha-noi-fc-vs-macarthur-fc-1977?mode=hd
+#EXTINF:-1 group-title="Cong An Ha Noi FC vs Macarthur FC" referer="https://hoadao.tv/cong-an-ha-noi-fc-vs-macarthur-fc-1977?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-15716c03e503204636d4de920678a19a.png",Cong An Ha Noi FC vs Macarthur FC [BLV CHIM NHỎ - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/cong-an-ha-noi-fc-vs-macarthur-fc-1977?mode=flv
+#EXTINF:-1 group-title="Cong An Ha Noi FC vs Macarthur FC" referer="https://hoadao.tv/cong-an-ha-noi-fc-vs-macarthur-fc-1977?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-15716c03e503204636d4de920678a19a.png",Cong An Ha Noi FC vs Macarthur FC [BLV CHIM NHỎ - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/cong-an-ha-noi-fc-vs-macarthur-fc-1977?mode=flv2
+#EXTINF:-1 group-title="Cong An Ha Noi FC vs Macarthur FC" referer="https://hoadao.tv/cong-an-ha-noi-fc-vs-macarthur-fc-1977?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-15716c03e503204636d4de920678a19a.png",Cong An Ha Noi FC vs Macarthur FC [BLV CHIM NHỎ - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/cong-an-ha-noi-fc-vs-macarthur-fc-1977?mode=ndsd
+#EXTINF:-1 group-title="Cong An Ha Noi FC vs Macarthur FC" referer="https://hoadao.tv/cong-an-ha-noi-fc-vs-macarthur-fc-1977?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-15716c03e503204636d4de920678a19a.png",Cong An Ha Noi FC vs Macarthur FC [BLV CHIM NHỎ - SD (ND)]
+https://live.alilicloud.com/live/51b033428bcfde237acdfd448aef71dd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/molde-u19-vs-stabaek-u19-5619?mode=ndsd
+#EXTINF:-1 group-title="Molde U19 vs Stabaek U19" referer="https://hoadao.tv/molde-u19-vs-stabaek-u19-5619?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-0f86806b5bb27e387c9b80ab393c85fb.png",Molde U19 vs Stabaek U19 [No BLV - SD (ND)]
+https://live.alilicloud.com/live/cc27f48a9f6076ccdd0b98aea7bcb663/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/cong-an-ha-noi-fc-vs-macarthur-fc-1977?mode=sd
+#EXTINF:-1 group-title="Cong An Ha Noi FC vs Macarthur FC" referer="https://hoadao.tv/cong-an-ha-noi-fc-vs-macarthur-fc-1977?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-15716c03e503204636d4de920678a19a.png",Cong An Ha Noi FC vs Macarthur FC [No BLV - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/cong-an-ha-noi-fc-vs-macarthur-fc-1977?mode=hd
+#EXTINF:-1 group-title="Cong An Ha Noi FC vs Macarthur FC" referer="https://hoadao.tv/cong-an-ha-noi-fc-vs-macarthur-fc-1977?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-15716c03e503204636d4de920678a19a.png",Cong An Ha Noi FC vs Macarthur FC [No BLV - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/cong-an-ha-noi-fc-vs-macarthur-fc-1977?mode=flv
+#EXTINF:-1 group-title="Cong An Ha Noi FC vs Macarthur FC" referer="https://hoadao.tv/cong-an-ha-noi-fc-vs-macarthur-fc-1977?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-15716c03e503204636d4de920678a19a.png",Cong An Ha Noi FC vs Macarthur FC [No BLV - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/cong-an-ha-noi-fc-vs-macarthur-fc-1977?mode=flv2
+#EXTINF:-1 group-title="Cong An Ha Noi FC vs Macarthur FC" referer="https://hoadao.tv/cong-an-ha-noi-fc-vs-macarthur-fc-1977?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-15716c03e503204636d4de920678a19a.png",Cong An Ha Noi FC vs Macarthur FC [No BLV - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/cong-an-ha-noi-fc-vs-macarthur-fc-1977?mode=ndsd
+#EXTINF:-1 group-title="Cong An Ha Noi FC vs Macarthur FC" referer="https://hoadao.tv/cong-an-ha-noi-fc-vs-macarthur-fc-1977?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-15716c03e503204636d4de920678a19a.png",Cong An Ha Noi FC vs Macarthur FC [No BLV - SD (ND)]
+https://live.alilicloud.com/live/51b033428bcfde237acdfd448aef71dd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/bangkok-united-fc-vs-lion-city-sailors-1978?mode=ndsd
+#EXTINF:-1 group-title="Bangkok United FC vs Lion City Sailors" referer="https://hoadao.tv/bangkok-united-fc-vs-lion-city-sailors-1978?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-cd830550348d04baad02ed2d8be02975.png",Bangkok United FC vs Lion City Sailors [No BLV - SD (ND)]
+https://live.alilicloud.com/live/a86138ec4f1544331eaf34a2c1d1d551/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/persib-bandung-vs-selangor-fc-1979?mode=ndsd
+#EXTINF:-1 group-title="Persib Bandung vs Selangor FC" referer="https://hoadao.tv/persib-bandung-vs-selangor-fc-1979?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-196ead892d7d453e490c1b8620408cfc.png",Persib Bandung vs Selangor FC [No BLV - SD (ND)]
+https://live.alilicloud.com/live/54e87657133d80fde5abd7f9a1d2fa5c/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/h-tnh-cnh-st-c-ng-5616?mode=sd
+#EXTINF:-1 group-title="Hà Tĩnh vs Cảnh Sát Cơ Động" referer="https://hoadao.tv/h-tnh-cnh-st-c-ng-5616?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-c408aa32337eaed3ce3247b17d590ae0.png",Hà Tĩnh vs Cảnh Sát Cơ Động [BLV RICKY - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_rickysd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/h-tnh-cnh-st-c-ng-5616?mode=hd
+#EXTINF:-1 group-title="Hà Tĩnh vs Cảnh Sát Cơ Động" referer="https://hoadao.tv/h-tnh-cnh-st-c-ng-5616?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-c408aa32337eaed3ce3247b17d590ae0.png",Hà Tĩnh vs Cảnh Sát Cơ Động [BLV RICKY - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_ricky/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/h-tnh-cnh-st-c-ng-5616?mode=flv
+#EXTINF:-1 group-title="Hà Tĩnh vs Cảnh Sát Cơ Động" referer="https://hoadao.tv/h-tnh-cnh-st-c-ng-5616?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-c408aa32337eaed3ce3247b17d590ae0.png",Hà Tĩnh vs Cảnh Sát Cơ Động [BLV RICKY - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_ricky.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/h-tnh-cnh-st-c-ng-5616?mode=flv2
+#EXTINF:-1 group-title="Hà Tĩnh vs Cảnh Sát Cơ Động" referer="https://hoadao.tv/h-tnh-cnh-st-c-ng-5616?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-c408aa32337eaed3ce3247b17d590ae0.png",Hà Tĩnh vs Cảnh Sát Cơ Động [BLV RICKY - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_ricky.flv
