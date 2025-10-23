@@ -1,18 +1,13 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",08h00-23/10 Pachuca Vs Tigres UANL BLV VÕ TÒNG
-https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",08h00-23/10 Queretaro FC Vs Chivas Guadalajara BLV HẠNG VŨ
-https://hls.cdnok9.com/live/HANGVU1/index.m3u8?expire=1788427256&sign=35e56aacb29c1a0624a29230271c3db1
-#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",09h00-23/10 Real Espana Vs Xelaju MC BLV TIÊU PHONG
 https://hls.cdnok9.com/live/TIEUPHONG/index.m3u8?expire=1788427256&sign=30f6cc3c5000450c81ffb13b077432b8
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",09h35-23/10 Portland Timbers Vs Real Salt Lake TRỢ LÝ ĐIÊU THUYỀN
 https://hls.cdnok9.com/live/DIEUTHUYEN/index.m3u8?expire=1788427256&sign=8cebea5448db2f74ea04021d9362ba87
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",10h00-23/10 Atlas Vs Club Leon BLV HẠNG VŨ
-http://127.0.0.1
+https://hls.cdnok9.com/live/HANGVU1/index.m3u8?expire=1788427256&sign=35e56aacb29c1a0624a29230271c3db1
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",10h00-23/10 Club Tijuana Vs Toluca BLV KAKA
 https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
@@ -104,4 +99,8 @@ http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",20h00-23/10 Zaqatala FK Vs E Nel G Tick BLV DƯƠNG HÙNG
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",20h00-23/10 Zaqatala FK Vs E Nel G Tick BLV SÁCH SIÊU
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",20h00-23/10 Zaqatala FK Vs E Nel G Tick BLV TÂY MÔN KHÁNH
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",20h00-23/10 Zaqatala FK Vs E Nel G Tick BLV HẠNG VŨ
 http://127.0.0.1
