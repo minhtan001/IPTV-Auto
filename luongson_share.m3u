@@ -6,9 +6,6 @@ https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9c
 #EXTINF:-1 group-title="LuongSon_2",21h55-23/10 Al-Riyadh Vs Al Kholood BLV LÝ QUỲ
 https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",22h00-23/10 Al-Feiha Vs Al-Taawoun BLV KEVILL
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",22h00-23/10 Al-Feiha Vs Al-Taawoun BLV VÕ TÒNG
 https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTVLCOPT:http-referrer=https://ls39.live/
@@ -29,10 +26,12 @@ https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",23h45-23/10 Sporting Braga Vs Crvena Zvezda BLV KENCHU
 https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",23h45-23/10 Lyon Vs Basel BLV ODIN
-http://127.0.0.1
+https://hls.cdnok9.com/live/ODIN/index.m3u8?expire=1788427256&sign=dbabf306532cc0f9b44f028e60fcd7e5
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",23h45-23/10 Lyon Vs Basel BLV LÝ QUỲ
-http://127.0.0.1
+https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",23h45-23/10 Racing Genk Vs Real Betis BLV LƯU BỊ
 https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
@@ -99,8 +98,9 @@ https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035d
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",23h45-23/10 Go Ahead Eagles Vs Aston Villa BLV TRIỆU TỬ LONG
 https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",23h45-23/10 Go Ahead Eagles Vs Aston Villa BLV KAKA
-http://127.0.0.1
+https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",23h45-23/10 Go Ahead Eagles Vs Aston Villa BLV NHỊ KA
 https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
@@ -126,11 +126,14 @@ http://127.0.0.1
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",02h00-24/10 Nottingham Forest Vs FC Porto BLV THỜI THIÊN
 http://127.0.0.1
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",02h00-24/10 Nottingham Forest Vs FC Porto BLV YẾN THANH
-http://127.0.0.1
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:-1 group-title="LuongSon_2",02h00-24/10 Nottingham Forest Vs FC Porto BLV URA
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",02h00-24/10 SC Freiburg Vs FC Utrecht BLV TRƯƠNG THANH
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",02h00-24/10 Feyenoord Vs Panathinaikos BLV TỐNG GIANG
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",02h00-24/10 Feyenoord Vs Panathinaikos BLV SÁCH SIÊU
 http://127.0.0.1
