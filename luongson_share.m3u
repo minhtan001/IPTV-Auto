@@ -1,28 +1,35 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",07h00-23/10 Sporting San Miguelito Vs Plaza Amador BLV TIÊU PHONG
-https://hls.cdnok9.com/live/TIEUPHONG/index.m3u8?expire=1788427256&sign=30f6cc3c5000450c81ffb13b077432b8
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",07h30-23/10 Flamengo Vs Racing Club TRỢ LÝ ĐIÊU THUYỀN
-https://hls.cdnok9.com/live/DIEUTHUYEN/index.m3u8?expire=1788427256&sign=8cebea5448db2f74ea04021d9362ba87
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",07h40-23/10 Chicago Fire Vs Orlando City  BLV ĐỊCH NHÂN KIỆT
-https://hls.cdnok9.com/live/NHANKIET/index.m3u8?expire=1788427256&sign=ba090392b81339adcc052deb96414a4c
-#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",08h00-23/10 Pachuca Vs Tigres UANL BLV VÕ TÒNG
 https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",08h00-23/10 Queretaro FC Vs Chivas Guadalajara BLV HẠNG VŨ
 https://hls.cdnok9.com/live/HANGVU1/index.m3u8?expire=1788427256&sign=35e56aacb29c1a0624a29230271c3db1
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",09h00-23/10 Real Espana Vs Xelaju MC BLV TIÊU PHONG
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",09h30-23/10 Portland Timbers Vs Real Salt Lake TRỢ LÝ ĐIÊU THUYỀN
-http://127.0.0.1
+https://hls.cdnok9.com/live/TIEUPHONG/index.m3u8?expire=1788427256&sign=30f6cc3c5000450c81ffb13b077432b8
+#EXTVLCOPT:http-referrer=https://ls39.live/
+#EXTINF:-1 group-title="LuongSon_2",09h35-23/10 Portland Timbers Vs Real Salt Lake TRỢ LÝ ĐIÊU THUYỀN
+https://hls.cdnok9.com/live/DIEUTHUYEN/index.m3u8?expire=1788427256&sign=8cebea5448db2f74ea04021d9362ba87
 #EXTINF:-1 group-title="LuongSon_2",10h00-23/10 Atlas Vs Club Leon BLV HẠNG VŨ
 http://127.0.0.1
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",10h00-23/10 Club Tijuana Vs Toluca BLV KAKA
-http://127.0.0.1
+https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",10h05-23/10 Pumas U.N.A.M. Vs Atletico San Luis  BLV ĐỊCH NHÂN KIỆT
+https://hls.cdnok9.com/live/NHANKIET/index.m3u8?expire=1788427256&sign=ba090392b81339adcc052deb96414a4c
+#EXTINF:-1 group-title="LuongSon_2",17h00-23/10 Wofoo Tai Po Vs Beijing Guoan BLV CÔNG TÔN THẮNG
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",17h00-23/10 Wofoo Tai Po Vs Beijing Guoan BLV LƯU BỊ
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",17h00-23/10 Wofoo Tai Po Vs Beijing Guoan BLV DƯƠNG CHÍ
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",17h00-23/10 Wofoo Tai Po Vs Beijing Guoan BLV HOA VINH
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",17h00-23/10 Wofoo Tai Po Vs Beijing Guoan BLV VI TIỂU BẢO
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",17h00-23/10 Wofoo Tai Po Vs Beijing Guoan BLV YẾN THANH
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",17h00-23/10 Tampines Rovers FC Vs Pohang Steelers BLV DƯƠNG QUÁ
 http://127.0.0.1
@@ -48,30 +55,6 @@ http://127.0.0.1
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",17h00-23/10 Kaya FC Vs BG Pathum United BLV PEP
 http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",17h00-23/10 Wofoo Tai Po Vs Beijing Guoan BLV CÔNG TÔN THẮNG
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",17h00-23/10 Wofoo Tai Po Vs Beijing Guoan BLV LƯU BỊ
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",17h00-23/10 Wofoo Tai Po Vs Beijing Guoan BLV DƯƠNG CHÍ
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",17h00-23/10 Wofoo Tai Po Vs Beijing Guoan BLV HOA VINH
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",17h00-23/10 Wofoo Tai Po Vs Beijing Guoan BLV VI TIỂU BẢO
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",17h00-23/10 Wofoo Tai Po Vs Beijing Guoan BLV YẾN THANH
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",19h15-23/10 Bangkok United FC Vs Lion City Sailors BLV VƯƠNG ANH
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",19h15-23/10 Bangkok United FC Vs Lion City Sailors BLV MÃ SIÊU
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",19h15-23/10 Bangkok United FC Vs Lion City Sailors BLV MÃ LÂN
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",19h15-23/10 Bangkok United FC Vs Lion City Sailors BLV TÔN LẬP
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",19h15-23/10 Bangkok United FC Vs Lion City Sailors BLV RICARDO
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",19h15-23/10 Bangkok United FC Vs Lion City Sailors BLV PEP
-http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",19h15-23/10 Cong An Ha Noi Vs FC Macarthur BLV DƯƠNG QUÁ
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",19h15-23/10 Cong An Ha Noi Vs FC Macarthur BLV TRIỆU TỬ LONG
@@ -94,13 +77,31 @@ http://127.0.0.1
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",19h15-23/10 Persib Bandung Vs Selangor BLV YẾN THANH
 http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",20h00-23/10 Xorazm Urganch Vs Pakhtakor BLV CHU ĐỒNG
+#EXTINF:-1 group-title="LuongSon_2",19h15-23/10 Bangkok United FC Vs Lion City Sailors BLV VƯƠNG ANH
 http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",20h00-23/10 Xorazm Urganch Vs Pakhtakor BLV TÂY MÔN KHÁNH
+#EXTINF:-1 group-title="LuongSon_2",19h15-23/10 Bangkok United FC Vs Lion City Sailors BLV MÃ SIÊU
 http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",20h00-23/10 Xorazm Urganch Vs Pakhtakor BLV LÝ QUỲ
+#EXTINF:-1 group-title="LuongSon_2",19h15-23/10 Bangkok United FC Vs Lion City Sailors BLV MÃ LÂN
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",19h15-23/10 Bangkok United FC Vs Lion City Sailors BLV TÔN LẬP
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",19h15-23/10 Bangkok United FC Vs Lion City Sailors BLV RICARDO
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",19h15-23/10 Bangkok United FC Vs Lion City Sailors BLV PEP
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",20h00-23/10 Sefa Vs Sabail BLV TỐNG GIANG
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",20h00-23/10 Sefa Vs Sabail BLV ODIN
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",20h00-23/10 Sefa Vs Sabail BLV MÃ LÂN
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",20h00-23/10 Sefa Vs Sabail BLV ZORO
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",20h00-23/10 Sefa Vs Sabail BLV KENCHU
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",20h00-23/10 Zaqatala FK Vs E Nel G Tick BLV PHONG VÂN
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",20h00-23/10 Zaqatala FK Vs E Nel G Tick BLV DƯƠNG HÙNG
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",20h00-23/10 Zaqatala FK Vs E Nel G Tick BLV SÁCH SIÊU
 http://127.0.0.1
