@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/al-fayha-vs-al-taawoun-2005?mode=sd
-#EXTINF:-1 group-title="Al Fayha vs Al Taawoun" referer="https://hoadao.tv/al-fayha-vs-al-taawoun-2005?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-a341cd320cc78612ba61cda4a82d6365.png",Al Fayha vs Al Taawoun [BLV CỤ RÙA - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/al-fayha-vs-al-taawoun-2005?mode=hd
-#EXTINF:-1 group-title="Al Fayha vs Al Taawoun" referer="https://hoadao.tv/al-fayha-vs-al-taawoun-2005?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-a341cd320cc78612ba61cda4a82d6365.png",Al Fayha vs Al Taawoun [BLV CỤ RÙA - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/al-fayha-vs-al-taawoun-2005?mode=flv
-#EXTINF:-1 group-title="Al Fayha vs Al Taawoun" referer="https://hoadao.tv/al-fayha-vs-al-taawoun-2005?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-a341cd320cc78612ba61cda4a82d6365.png",Al Fayha vs Al Taawoun [BLV CỤ RÙA - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/al-fayha-vs-al-taawoun-2005?mode=flv2
-#EXTINF:-1 group-title="Al Fayha vs Al Taawoun" referer="https://hoadao.tv/al-fayha-vs-al-taawoun-2005?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-a341cd320cc78612ba61cda4a82d6365.png",Al Fayha vs Al Taawoun [BLV CỤ RÙA - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/al-fayha-vs-al-taawoun-2005?mode=ndsd
-#EXTINF:-1 group-title="Al Fayha vs Al Taawoun" referer="https://hoadao.tv/al-fayha-vs-al-taawoun-2005?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-a341cd320cc78612ba61cda4a82d6365.png",Al Fayha vs Al Taawoun [BLV CỤ RÙA - SD (ND)]
-https://live.alilicloud.com/live/3cc0692b08a61756e34fb948761d7375/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/racing-genk-vs-real-betis-2026?mode=sd
 #EXTINF:-1 group-title="Racing Genk vs Real Betis" referer="https://hoadao.tv/racing-genk-vs-real-betis-2026?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-7390f12f068c0e6cb7a8a740feb4f826.png",Racing Genk vs Real Betis [BLV RICKY - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_rickysd/playlist.m3u8
@@ -41,15 +26,6 @@ https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/go-ahead-eagles-vs-aston-villa-2029?mode=flv2
 #EXTINF:-1 group-title="Go Ahead Eagles vs Aston Villa" referer="https://hoadao.tv/go-ahead-eagles-vs-aston-villa-2029?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-1353d5896fc27d2303a4deb87f1501b8.png",Go Ahead Eagles vs Aston Villa [BLV PHÁO - FLV 2]
 https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/tps-turku-vs-ktp-kotka-5130?mode=ndsd
-#EXTINF:-1 group-title="TPS Turku vs KTP Kotka" referer="https://hoadao.tv/tps-turku-vs-ktp-kotka-5130?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-27da6404a4ce64a458cebc245eae7fff.png",TPS Turku vs KTP Kotka [No BLV - SD (ND)]
-https://live.alilicloud.com/live/d87ac3b3890a22c06968891def00a20b/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/fk-krasnodar-vs-fc-sochi-2006?mode=ndsd
-#EXTINF:-1 group-title="FK Krasnodar vs FC Sochi" referer="https://hoadao.tv/fk-krasnodar-vs-fc-sochi-2006?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-cbf795848ddfc87982756ef5ecab7cd8.png",FK Krasnodar vs FC Sochi [No BLV - SD (ND)]
-https://live.alilicloud.com/live/e71bd11e7d7c2006309155f3fd62eb6a/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/hegelmann-litauen-vs-dziugas-telsiai-2007?mode=ndsd
-#EXTINF:-1 group-title="Hegelmann Litauen vs Dziugas Telsiai" referer="https://hoadao.tv/hegelmann-litauen-vs-dziugas-telsiai-2007?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-e6802e23c29ec5d21820e2592c28caf6.png",Hegelmann Litauen vs Dziugas Telsiai [No BLV - SD (ND)]
-https://live.alilicloud.com/live/d55295105b229c22fb4b1b5d4585de9f/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/fana-u19-vs-odd-grenland-u19-5620?mode=ndsd
 #EXTINF:-1 group-title="Fana U19 vs Odd Grenland   U19" referer="https://hoadao.tv/fana-u19-vs-odd-grenland-u19-5620?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-1cb4654e907e1a86668502a09e3000a0.png",Fana U19 vs Odd Grenland   U19 [No BLV - SD (ND)]
 https://live.alilicloud.com/live/7c6a2aff44ceb5afeda3d821a1190c28/playlist.m3u8
@@ -59,3 +35,75 @@ https://live.alilicloud.com/live/4254b0189a49af94644771940d6abcb5/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/hvidovre-if-vs-herfolge-boldklub-koge-2012?mode=ndsd
 #EXTINF:-1 group-title="Hvidovre IF vs Herfolge Boldklub Koge" referer="https://hoadao.tv/hvidovre-if-vs-herfolge-boldklub-koge-2012?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-a0e9682df8d014f43d19776cff3b9079.png",Hvidovre IF vs Herfolge Boldklub Koge [No BLV - SD (ND)]
 https://live.alilicloud.com/live/724d274f594fee11a41b918fc44bd327/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/fc-shakhtar-donetsk-vs-legia-warszawa-2013?mode=ndsd
+#EXTINF:-1 group-title="FC Shakhtar Donetsk vs Legia Warszawa" referer="https://hoadao.tv/fc-shakhtar-donetsk-vs-legia-warszawa-2013?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-a5de41601fc0741d9e23ac2e46e2c1e3.png",FC Shakhtar Donetsk vs Legia Warszawa [No BLV - SD (ND)]
+https://live.alilicloud.com/live/a34acd3851e4259d2ef5add152d5e379/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/lyon-vs-fc-basel-1893-2014?mode=ndsd
+#EXTINF:-1 group-title="Lyon vs FC Basel 1893" referer="https://hoadao.tv/lyon-vs-fc-basel-1893-2014?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-294f66c1d3375b21020aaa441a3f4426.png",Lyon vs FC Basel 1893 [No BLV - SD (ND)]
+https://live.alilicloud.com/live/48884ff462f1aa67a714207a0dd228ff/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/hacken-vs-rayo-vallecano-2015?mode=ndsd
+#EXTINF:-1 group-title="Hacken vs Rayo Vallecano" referer="https://hoadao.tv/hacken-vs-rayo-vallecano-2015?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-18d7730a1d7dd6cbeef46ce9395b5ada.png",Hacken vs Rayo Vallecano [No BLV - SD (ND)]
+https://live.alilicloud.com/live/5d0f7c9a4b332fb2b2aa415d1edf7825/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/aek-athens-vs-aberdeen-2016?mode=ndsd
+#EXTINF:-1 group-title="AEK Athens vs Aberdeen" referer="https://hoadao.tv/aek-athens-vs-aberdeen-2016?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-b35704f4042877a5b6335715429d9d81.png",AEK Athens vs Aberdeen [No BLV - SD (ND)]
+https://live.alilicloud.com/live/203a51dc0bd1dff01c9cee5fd4279f52/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/brann-vs-rangers-2017?mode=ndsd
+#EXTINF:-1 group-title="Brann vs Rangers" referer="https://hoadao.tv/brann-vs-rangers-2017?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-c924de5e06cb152275d55bef58ba6247.png",Brann vs Rangers [No BLV - SD (ND)]
+https://live.alilicloud.com/live/340aef7d618e7ffffde2d29ad2d0ac37/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/breidablik-vs-kups-2018?mode=ndsd
+#EXTINF:-1 group-title="Breidablik vs KuPs" referer="https://hoadao.tv/breidablik-vs-kups-2018?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-cf07d5ba6c8007258bc61b4ab77c9438.png",Breidablik vs KuPs [No BLV - SD (ND)]
+https://live.alilicloud.com/live/1acb5fda52348969444dae8814a31481/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/fc-drita-vs-omonia-nicosia-fc-2019?mode=ndsd
+#EXTINF:-1 group-title="FC Drita vs Omonia Nicosia FC" referer="https://hoadao.tv/fc-drita-vs-omonia-nicosia-fc-2019?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-36120c16a899ab730d93e33b28a12b29.png",FC Drita vs Omonia Nicosia FC [No BLV - SD (ND)]
+https://live.alilicloud.com/live/532124f336edb5f353500feb15479b42/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/rapid-wien-vs-fiorentina-2022?mode=ndsd
+#EXTINF:-1 group-title="Rapid Wien vs Fiorentina" referer="https://hoadao.tv/rapid-wien-vs-fiorentina-2022?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-dfb700b302ffcf247cfb287ef7523481.png",Rapid Wien vs Fiorentina [No BLV - SD (ND)]
+https://live.alilicloud.com/live/901b12f3c0371e7baa333d584811e08a/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/fenerbahce-vs-vfb-stuttgart-2023?mode=ndsd
+#EXTINF:-1 group-title="Fenerbahce vs VfB Stuttgart" referer="https://hoadao.tv/fenerbahce-vs-vfb-stuttgart-2023?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-f98f685b0e12dd19f3516ef084487695.png",Fenerbahce vs VfB Stuttgart [No BLV - SD (ND)]
+https://live.alilicloud.com/live/4bb9455a7bac7f58427bddda8d88e54e/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/rc-strasbourg-alsace-vs-jagiellonia-bialystok-2024?mode=ndsd
+#EXTINF:-1 group-title="RC Strasbourg Alsace vs Jagiellonia Bialystok" referer="https://hoadao.tv/rc-strasbourg-alsace-vs-jagiellonia-bialystok-2024?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-732ed426b30ec010627285e629bc9b42.png",RC Strasbourg Alsace vs Jagiellonia Bialystok [No BLV - SD (ND)]
+https://live.alilicloud.com/live/db4232fd0bdec5ad528a10c256f55fbf/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/sporting-braga-vs-crvena-zvezda-2025?mode=ndsd
+#EXTINF:-1 group-title="Sporting Braga vs Crvena Zvezda" referer="https://hoadao.tv/sporting-braga-vs-crvena-zvezda-2025?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-780a5af1fb54b8080deb84c014042096.png",Sporting Braga vs Crvena Zvezda [No BLV - SD (ND)]
+https://live.alilicloud.com/live/7c0e45551dfcb747deaa586b9e650ee3/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/racing-genk-vs-real-betis-2026?mode=sd
+#EXTINF:-1 group-title="Racing Genk vs Real Betis" referer="https://hoadao.tv/racing-genk-vs-real-betis-2026?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-7390f12f068c0e6cb7a8a740feb4f826.png",Racing Genk vs Real Betis [No BLV - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_rickysd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/racing-genk-vs-real-betis-2026?mode=hd
+#EXTINF:-1 group-title="Racing Genk vs Real Betis" referer="https://hoadao.tv/racing-genk-vs-real-betis-2026?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-7390f12f068c0e6cb7a8a740feb4f826.png",Racing Genk vs Real Betis [No BLV - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_ricky/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/racing-genk-vs-real-betis-2026?mode=flv
+#EXTINF:-1 group-title="Racing Genk vs Real Betis" referer="https://hoadao.tv/racing-genk-vs-real-betis-2026?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-7390f12f068c0e6cb7a8a740feb4f826.png",Racing Genk vs Real Betis [No BLV - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_ricky.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/racing-genk-vs-real-betis-2026?mode=flv2
+#EXTINF:-1 group-title="Racing Genk vs Real Betis" referer="https://hoadao.tv/racing-genk-vs-real-betis-2026?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-7390f12f068c0e6cb7a8a740feb4f826.png",Racing Genk vs Real Betis [No BLV - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_ricky.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/racing-genk-vs-real-betis-2026?mode=ndsd
+#EXTINF:-1 group-title="Racing Genk vs Real Betis" referer="https://hoadao.tv/racing-genk-vs-real-betis-2026?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-7390f12f068c0e6cb7a8a740feb4f826.png",Racing Genk vs Real Betis [No BLV - SD (ND)]
+https://live.alilicloud.com/live/0e7cc291b07591491a9239a9e973eb85/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/red-bull-salzburg-vs-ferencvarosi-tc-2027?mode=ndsd
+#EXTINF:-1 group-title="Red Bull Salzburg vs Ferencvarosi TC" referer="https://hoadao.tv/red-bull-salzburg-vs-ferencvarosi-tc-2027?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-eec39fb9151e8304b9e8535717ce8c21.png",Red Bull Salzburg vs Ferencvarosi TC [No BLV - SD (ND)]
+https://live.alilicloud.com/live/e18e5102954d53d7ae1254801e07d0ae/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/shkendija-tetovo-vs-shelbourne-2028?mode=ndsd
+#EXTINF:-1 group-title="Shkendija Tetovo vs Shelbourne" referer="https://hoadao.tv/shkendija-tetovo-vs-shelbourne-2028?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-335e909fec8ea0a0ead7435cec3d350c.png",Shkendija Tetovo vs Shelbourne [No BLV - SD (ND)]
+https://live.alilicloud.com/live/4b44815e07c291fe04b776c7dee18b80/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/go-ahead-eagles-vs-aston-villa-2029?mode=sd
+#EXTINF:-1 group-title="Go Ahead Eagles vs Aston Villa" referer="https://hoadao.tv/go-ahead-eagles-vs-aston-villa-2029?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-1353d5896fc27d2303a4deb87f1501b8.png",Go Ahead Eagles vs Aston Villa [No BLV - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/go-ahead-eagles-vs-aston-villa-2029?mode=hd
+#EXTINF:-1 group-title="Go Ahead Eagles vs Aston Villa" referer="https://hoadao.tv/go-ahead-eagles-vs-aston-villa-2029?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-1353d5896fc27d2303a4deb87f1501b8.png",Go Ahead Eagles vs Aston Villa [No BLV - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/go-ahead-eagles-vs-aston-villa-2029?mode=flv
+#EXTINF:-1 group-title="Go Ahead Eagles vs Aston Villa" referer="https://hoadao.tv/go-ahead-eagles-vs-aston-villa-2029?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-1353d5896fc27d2303a4deb87f1501b8.png",Go Ahead Eagles vs Aston Villa [No BLV - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/go-ahead-eagles-vs-aston-villa-2029?mode=flv2
+#EXTINF:-1 group-title="Go Ahead Eagles vs Aston Villa" referer="https://hoadao.tv/go-ahead-eagles-vs-aston-villa-2029?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-1353d5896fc27d2303a4deb87f1501b8.png",Go Ahead Eagles vs Aston Villa [No BLV - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/fotbal-club-fcsb-vs-bologna-2030?mode=ndsd
+#EXTINF:-1 group-title="Fotbal Club FCSB vs Bologna" referer="https://hoadao.tv/fotbal-club-fcsb-vs-bologna-2030?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-1ef87f7478b6f697b54b68a92527c680.png",Fotbal Club FCSB vs Bologna [No BLV - SD (ND)]
+https://live.alilicloud.com/live/bd1387ef95992cbfa7366c5c86c70cd2/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/az-alkmaar-vs-slovan-bratislava-2046?mode=ndsd
+#EXTINF:-1 group-title="AZ Alkmaar vs Slovan Bratislava" referer="https://hoadao.tv/az-alkmaar-vs-slovan-bratislava-2046?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-c685bd98e5f830db9f814728c081bf25.png",AZ Alkmaar vs Slovan Bratislava [No BLV - SD (ND)]
+https://live.alilicloud.com/live/3017c0f1dfad1b940369c2feb44155b1/playlist.m3u8
