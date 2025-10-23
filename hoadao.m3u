@@ -1,13 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/thi-nguyn-hi-phng-5615?mode=sd
-#EXTINF:-1 group-title="Thái Nguyên vs Hải Phòng" referer="https://hoadao.tv/thi-nguyn-hi-phng-5615?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-bac7f2b581908a7a5b301b22fd293323.png",Thái Nguyên vs Hải Phòng [BLV CỤ RÙA - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/thi-nguyn-hi-phng-5615?mode=hd
-#EXTINF:-1 group-title="Thái Nguyên vs Hải Phòng" referer="https://hoadao.tv/thi-nguyn-hi-phng-5615?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-bac7f2b581908a7a5b301b22fd293323.png",Thái Nguyên vs Hải Phòng [BLV CỤ RÙA - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/thi-nguyn-hi-phng-5615?mode=flv
-#EXTINF:-1 group-title="Thái Nguyên vs Hải Phòng" referer="https://hoadao.tv/thi-nguyn-hi-phng-5615?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-bac7f2b581908a7a5b301b22fd293323.png",Thái Nguyên vs Hải Phòng [BLV CỤ RÙA - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/thi-nguyn-hi-phng-5615?mode=flv2
-#EXTINF:-1 group-title="Thái Nguyên vs Hải Phòng" referer="https://hoadao.tv/thi-nguyn-hi-phng-5615?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-bac7f2b581908a7a5b301b22fd293323.png",Thái Nguyên vs Hải Phòng [BLV CỤ RÙA - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/cbrayl-fk-vs-shahdagh-qusar-1968?mode=ndsd
+#EXTINF:-1 group-title="Cəbrayıl FK vs Shahdagh Qusar" referer="https://hoadao.tv/cbrayl-fk-vs-shahdagh-qusar-1968?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-e126f6d569e1b1be8f1de84fdbd3d38e.png",Cəbrayıl FK vs Shahdagh Qusar [No BLV - SD (ND)]
+https://live.alilicloud.com/live/8a2562bd2035f433ad4b210aa0f747a1/playlist.m3u8
