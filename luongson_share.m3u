@@ -1,11 +1,5 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",20h00-23/10 Xorazm Urganch Vs Pakhtakor BLV CHU ĐỒNG
-https://hls.cdnok9.com/live/CHUDONG/index.m3u8?expire=1788427256&sign=b7df620ef99aaa1798bda4e698168a46
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",20h00-23/10 Xorazm Urganch Vs Pakhtakor BLV TÂY MÔN KHÁNH
-https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",20h30-23/10 Buxoro FK Vs Sogdiana Jizak BLV NGŨ CA
 https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTVLCOPT:http-referrer=https://ls39.live/
@@ -29,12 +23,15 @@ https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f80
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",22h00-23/10 Al-Feiha Vs Al-Taawoun BLV VÕ TÒNG
 https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",22h30-23/10 FC Krasnodar Vs FK Sochi BLV SÁCH SIÊU
-http://127.0.0.1
+https://hls.cdnok9.com/live/SACHSIEU1/index.m3u8?expire=1788427256&sign=db0c3e1d3d520e4ddb0a8740f0b6aa29
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",22h30-23/10 FC Krasnodar Vs FK Sochi BLV LÝ BÍ
-http://127.0.0.1
+https://hls.cdnok9.com/live/LYBI/index.m3u8?expire=1891347600&sign=082e8fbd254f7197ef828148b0832d36
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",22h30-23/10 TPS Turku Vs KTP Kotka BLV TỐNG GIANG
-http://127.0.0.1
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
 #EXTINF:-1 group-title="LuongSon_2",23h45-23/10 Red Bull Salzburg Vs Ferencvarosi TC BLV LÝ ỨNG
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",23h45-23/10 Brann Vs Glasgow Rangers BLV PHONG VÂN
@@ -52,8 +49,9 @@ http://127.0.0.1
 https://hls.cdnok9.com/live/THACHTU/index.m3u8?expire=1788427256&sign=77e6bae02b2c5f48ff9d9c5092df8d47
 #EXTINF:-1 group-title="LuongSon_2",23h45-23/10 Racing Genk Vs Real Betis BLV VI TIỂU BẢO
 http://127.0.0.1
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",23h45-23/10 Racing Genk Vs Real Betis BLV YẾN THANH
-http://127.0.0.1
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:-1 group-title="LuongSon_2",23h45-23/10 Racing Genk Vs Real Betis BLV ZORO
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",23h45-23/10 Hacken Vs Rayo Vallecano BLV CHU ĐỒNG
@@ -110,4 +108,8 @@ http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",02h00-24/10 Nottingham Forest Vs FC Porto BLV DƯƠNG QUÁ
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",02h00-24/10 Nottingham Forest Vs FC Porto BLV TRIỆU TỬ LONG
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",02h00-24/10 Nottingham Forest Vs FC Porto BLV LƯU BỊ
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",02h00-24/10 Nottingham Forest Vs FC Porto BLV THỜI THIÊN
 http://127.0.0.1
