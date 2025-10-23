@@ -53,16 +53,18 @@ https://hls.cdnok9.com/live/CHUDONG/index.m3u8?expire=1788427256&sign=b7df620ef9
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",20h00-23/10 Xorazm Urganch Vs Pakhtakor BLV TÂY MÔN KHÁNH
 https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",20h30-23/10 Buxoro FK Vs Sogdiana Jizak BLV NGŨ CA
-http://127.0.0.1
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",20h30-23/10 Buxoro FK Vs Sogdiana Jizak BLV TRƯƠNG THANH
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",20h30-23/10 Buxoro FK Vs Sogdiana Jizak BLV HOA VINH
-http://127.0.0.1
+https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",20h30-23/10 Buxoro FK Vs Sogdiana Jizak BLV VƯƠNG LUÂN
-http://127.0.0.1
+https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",20h30-23/10 Buxoro FK Vs Sogdiana Jizak BLV ZORO
-http://127.0.0.1
+https://hls.cdnok9.com/live/ZORO/index.m3u8?expire=1788427256&sign=8e04682553e334be697e3ef428fa6031
 #EXTINF:-1 group-title="LuongSon_2",21h30-23/10 Feyenoord Vs Panathinaikos BLV TỐNG GIANG
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",21h30-23/10 Feyenoord Vs Panathinaikos BLV SÁCH SIÊU
@@ -78,11 +80,17 @@ http://127.0.0.1
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",22h00-23/10 Al-Feiha Vs Al-Taawoun BLV VÕ TÒNG
 http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",22h30-23/10 TPS Turku Vs KTP Kotka BLV TỐNG GIANG
+http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",22h30-23/10 FC Krasnodar Vs FK Sochi BLV LÝ BÍ
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",23h45-23/10 Lyon Vs Basel BLV ODIN
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",23h45-23/10 Lyon Vs Basel BLV LÝ QUỲ
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",23h45-23/10 Red Bull Salzburg Vs Ferencvarosi TC BLV LÝ ỨNG
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",23h45-23/10 Brann Vs Glasgow Rangers BLV PHONG VÂN
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",23h45-23/10 Racing Genk Vs Real Betis BLV LƯU BỊ
 http://127.0.0.1
@@ -111,11 +119,7 @@ http://127.0.0.1
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",23h45-23/10 Fenerbahce Vs VfB Stuttgart BLV MÃ SIÊU
 http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",23h45-23/10 Fenerbahce Vs VfB Stuttgart BLV HOA VINH
-http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",23h45-23/10 Fenerbahce Vs VfB Stuttgart BLV TÔN LẬP
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",23h45-23/10 Fenerbahce Vs VfB Stuttgart BLV PEP
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",23h45-23/10 Rapid Wien Vs Fiorentina BLV CÔNG TÔN THẮNG
 http://127.0.0.1
