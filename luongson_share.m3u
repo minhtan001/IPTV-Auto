@@ -1,6 +1,7 @@
 #EXTM3U
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",02h00-24/10 Celtic FC Vs Sturm Graz BLV MÃ LÂN
-http://127.0.0.1
+https://hls.cdnok9.com/live/MALAN/index.m3u8?expire=1788427256&sign=2c2690c1b536f3d099b63f3ff8165385
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",02h00-24/10 Malmo FF Vs Dinamo Zagreb BLV LÝ ỨNG
 https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
