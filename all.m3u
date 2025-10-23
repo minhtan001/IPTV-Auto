@@ -1,36 +1,45 @@
 #EXTM3U
+#EXTVLCOPT:http-referrer=https://khandaia.info/truc-tiep/492bcfdc807d4e099781b4d3a11abd06
+#EXTINF:-1 group-title="KhanDaiA" referer="https://khandaia.info/truc-tiep/492bcfdc807d4e099781b4d3a11abd06" tvg-logo="https://hxcv.site/images/cache/match-c7e3ae94292d98fdc7b2325c8e6b6208.png",Phú Thọ vs Quảng Ninh [BLV TIỂU MÂN - HD 1]
+https://stm02bc67274262.stream.hdplaylink.com/live4/cf7d0e917f2740f88331f7439a30d797_720/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://khandaia.info/truc-tiep/492bcfdc807d4e099781b4d3a11abd06
+#EXTINF:-1 group-title="KhanDaiA" referer="https://khandaia.info/truc-tiep/492bcfdc807d4e099781b4d3a11abd06" tvg-logo="https://hxcv.site/images/cache/match-c7e3ae94292d98fdc7b2325c8e6b6208.png",Phú Thọ vs Quảng Ninh [BLV TIỂU MÂN - HD 2]
+https://live4.fastestcdn-global.com/live4/cf7d0e917f2740f88331f7439a30d797_720/index.m3u8
+#EXTVLCOPT:http-referrer=https://khandaia.info/truc-tiep/492bcfdc807d4e099781b4d3a11abd06
+#EXTINF:-1 group-title="KhanDaiA" referer="https://khandaia.info/truc-tiep/492bcfdc807d4e099781b4d3a11abd06" tvg-logo="https://hxcv.site/images/cache/match-c7e3ae94292d98fdc7b2325c8e6b6208.png",Phú Thọ vs Quảng Ninh [BLV TIỂU MÂN - HD 3]
+https://live3.fastestcdn-global.com/live3/cf7d0e917f2740f88331f7439a30d797_720/index.m3u8
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-6f32e560dc4577a9fbcf4b5f504f6dd8.png",Mid-North Whai W vs Northern Kahu W [KING - HD M3U8]
-https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=b790b78ba711fe7f0d6ed1fb23b4e5ec&txTime=68fa1eef
+https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=a8bf0c2ed8d290669175adb7ebc131b7&txTime=68fa2453
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-6f32e560dc4577a9fbcf4b5f504f6dd8.png",Mid-North Whai W vs Northern Kahu W [KING - M3U8]
-https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=8c032e5b4262fb1f5f6c69551464a0c6&txTime=68fa1eef
+https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=45c41d0b267b77b5e167195fcae10051&txTime=68fa2453
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-6f32e560dc4577a9fbcf4b5f504f6dd8.png",Mid-North Whai W vs Northern Kahu W [KING - HD FLV]
-https://pull.niur.live/live/stream-9912099_lhd.flv?txSecret=b790b78ba711fe7f0d6ed1fb23b4e5ec&txTime=68fa1eef
+https://pull.niur.live/live/stream-9912099_lhd.flv?txSecret=a8bf0c2ed8d290669175adb7ebc131b7&txTime=68fa2453
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-6f32e560dc4577a9fbcf4b5f504f6dd8.png",Mid-North Whai W vs Northern Kahu W [KING - FLV]
-https://pull.niur.live/live/stream-9912099_lsd.flv?txSecret=8c032e5b4262fb1f5f6c69551464a0c6&txTime=68fa1eef
+https://pull.niur.live/live/stream-9912099_lsd.flv?txSecret=45c41d0b267b77b5e167195fcae10051&txTime=68fa2453
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-b38c321046af438aa7eba5d5bf966f47.png",New Zealand Breakers vs Brisbane Bullets [BLV HENRY - HD M3U8]
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1761204383-0-0-3678115dd1b310054ad9b7d036858d8d
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1761205763-0-0-668ce264cc8337d5ce8f25e9c0049a44
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-b38c321046af438aa7eba5d5bf966f47.png",New Zealand Breakers vs Brisbane Bullets [BLV HENRY - M3U8]
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1761204383-0-0-a019b926bc959a392d3cd496d6786bde
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1761205763-0-0-7b61def7bf8ea62c5a5dd2b0d1d8e6ef
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-b38c321046af438aa7eba5d5bf966f47.png",New Zealand Breakers vs Brisbane Bullets [BLV HENRY - HD FLV]
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1761204383-0-0-db97dac11c6a7019fa0e4005e04c2b13
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1761205763-0-0-21ca0550c7ab5dfedc3c9c8d1df95bf5
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-b38c321046af438aa7eba5d5bf966f47.png",New Zealand Breakers vs Brisbane Bullets [BLV HENRY - FLV]
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1761204383-0-0-44d264ddb6c1945234ed35707f60ff0d
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1761205763-0-0-52fc19dacc840ae7b3653af9b5fb79ce
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-b38c321046af438aa7eba5d5bf966f47.png",New Zealand Breakers vs Brisbane Bullets [BRIAN - HD M3U8]
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1761204382-0-0-2ada54861de0e1e1eab0764427c65ee0
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1761205762-0-0-f7570727047cca2fa11304a39489a9c9
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-b38c321046af438aa7eba5d5bf966f47.png",New Zealand Breakers vs Brisbane Bullets [BRIAN - M3U8]
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1761204382-0-0-5bb6166ecd259a1ba30ed8b09b248463
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1761205762-0-0-c5d36858ba6a16c074038efd2e961792
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-b38c321046af438aa7eba5d5bf966f47.png",New Zealand Breakers vs Brisbane Bullets [BRIAN - HD FLV]
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1761204382-0-0-8940966fb1dc9602c58b1cee9d4461b2
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1761205762-0-0-41a28d1d5dfca7eef3f61a1a138d7d5e
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-b38c321046af438aa7eba5d5bf966f47.png",New Zealand Breakers vs Brisbane Bullets [BRIAN - FLV]
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1761204382-0-0-3b4fd218a221458c7d170e97ad4d7c99
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1761205762-0-0-74ed1185f557a5057e9a29c6da116062
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-b38c321046af438aa7eba5d5bf966f47.png",New Zealand Breakers vs Brisbane Bullets [CHAN SENA - HD M3U8]
-https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1761204383-0-0-76af4a004caa8993bc266112725dfd77
+https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1761205763-0-0-82287a7e240b05cb5e4b761475dcbae2
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-b38c321046af438aa7eba5d5bf966f47.png",New Zealand Breakers vs Brisbane Bullets [CHAN SENA - M3U8]
-https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1761204383-0-0-63c1adab94c2ce91e036a605c2ed06f9
+https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1761205763-0-0-1f2ff8dae4139798b8796c186ea738d9
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-b38c321046af438aa7eba5d5bf966f47.png",New Zealand Breakers vs Brisbane Bullets [CHAN SENA - HD FLV]
-https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1761204383-0-0-c6ca4de542541f03a6bd130d480e4300
+https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1761205763-0-0-cc9ad4f61e51ea0ca41bad98acb1393c
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-b38c321046af438aa7eba5d5bf966f47.png",New Zealand Breakers vs Brisbane Bullets [CHAN SENA - FLV]
-https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1761204383-0-0-d802fa3c715b01a9f85badf938bbb421
+https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1761205763-0-0-404c4f5c35653ba4b719c89652644466
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-b38c321046af438aa7eba5d5bf966f47.png",New Zealand Breakers vs Brisbane Bullets [BLV BEAN - HD M3U8]
 https://stream-flv.dfsfe.top/lives/9912111-720p.m3u8
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-b38c321046af438aa7eba5d5bf966f47.png",New Zealand Breakers vs Brisbane Bullets [BLV BEAN - M3U8]
@@ -40,21 +49,21 @@ https://stream-flv.dfsfe.top/lives/9912111-720p.flv
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-b38c321046af438aa7eba5d5bf966f47.png",New Zealand Breakers vs Brisbane Bullets [BLV BEAN - FLV]
 https://stream-flv.dfsfe.top/lives/9912111-480p.flv
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-9605bc7a7e8f23d04a251c1ac249b7e7.png",South East Melbourne vs Sydney [BLV HENRY - HD M3U8]
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1761204383-0-0-3678115dd1b310054ad9b7d036858d8d
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1761205763-0-0-668ce264cc8337d5ce8f25e9c0049a44
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-9605bc7a7e8f23d04a251c1ac249b7e7.png",South East Melbourne vs Sydney [BLV HENRY - M3U8]
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1761204383-0-0-a019b926bc959a392d3cd496d6786bde
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1761205763-0-0-7b61def7bf8ea62c5a5dd2b0d1d8e6ef
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-9605bc7a7e8f23d04a251c1ac249b7e7.png",South East Melbourne vs Sydney [BLV HENRY - HD FLV]
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1761204383-0-0-db97dac11c6a7019fa0e4005e04c2b13
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1761205763-0-0-21ca0550c7ab5dfedc3c9c8d1df95bf5
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-9605bc7a7e8f23d04a251c1ac249b7e7.png",South East Melbourne vs Sydney [BLV HENRY - FLV]
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1761204383-0-0-44d264ddb6c1945234ed35707f60ff0d
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1761205763-0-0-52fc19dacc840ae7b3653af9b5fb79ce
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-9605bc7a7e8f23d04a251c1ac249b7e7.png",South East Melbourne vs Sydney [BRIAN - HD M3U8]
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1761204382-0-0-2ada54861de0e1e1eab0764427c65ee0
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1761205762-0-0-f7570727047cca2fa11304a39489a9c9
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-9605bc7a7e8f23d04a251c1ac249b7e7.png",South East Melbourne vs Sydney [BRIAN - M3U8]
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1761204382-0-0-5bb6166ecd259a1ba30ed8b09b248463
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1761205762-0-0-c5d36858ba6a16c074038efd2e961792
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-9605bc7a7e8f23d04a251c1ac249b7e7.png",South East Melbourne vs Sydney [BRIAN - HD FLV]
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1761204382-0-0-8940966fb1dc9602c58b1cee9d4461b2
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1761205762-0-0-41a28d1d5dfca7eef3f61a1a138d7d5e
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-9605bc7a7e8f23d04a251c1ac249b7e7.png",South East Melbourne vs Sydney [BRIAN - FLV]
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1761204382-0-0-3b4fd218a221458c7d170e97ad4d7c99
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1761205762-0-0-74ed1185f557a5057e9a29c6da116062
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-9605bc7a7e8f23d04a251c1ac249b7e7.png",South East Melbourne vs Sydney [BLV DUSTIN - HD M3U8]
 https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=67c2f4c61eb712891bdd81a63c0f4d4a&txTime=68fa1c64
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-9605bc7a7e8f23d04a251c1ac249b7e7.png",South East Melbourne vs Sydney [BLV DUSTIN - M3U8]
@@ -192,21 +201,21 @@ https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=9f614436b1f65a716bc9a
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-f4be751dbc92ba9e1bfafa2e175a143e.png",Tampines Rovers FC vs Pohang Steelers [BLV CHIVAS - FLV]
 https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=059d9c2a59801cd52bbdcbb4b659a09d&txTime=68f99a2f
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-afd04b76d622dc03bf27e0bf4368bc57.png",Zamboanga Sikat vs Batangas City [CHAN SENA - HD M3U8]
-https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1761204383-0-0-76af4a004caa8993bc266112725dfd77
+https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1761205763-0-0-82287a7e240b05cb5e4b761475dcbae2
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-afd04b76d622dc03bf27e0bf4368bc57.png",Zamboanga Sikat vs Batangas City [CHAN SENA - M3U8]
-https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1761204383-0-0-63c1adab94c2ce91e036a605c2ed06f9
+https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1761205763-0-0-1f2ff8dae4139798b8796c186ea738d9
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-afd04b76d622dc03bf27e0bf4368bc57.png",Zamboanga Sikat vs Batangas City [CHAN SENA - HD FLV]
-https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1761204383-0-0-c6ca4de542541f03a6bd130d480e4300
+https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1761205763-0-0-cc9ad4f61e51ea0ca41bad98acb1393c
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-afd04b76d622dc03bf27e0bf4368bc57.png",Zamboanga Sikat vs Batangas City [CHAN SENA - FLV]
-https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1761204383-0-0-d802fa3c715b01a9f85badf938bbb421
+https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1761205763-0-0-404c4f5c35653ba4b719c89652644466
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-8b7d95f4151a0d246ec9c6d9fb7e1bda.png",Seoul Thunders vs Mobis Phoebus [KING - HD M3U8]
-https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=b790b78ba711fe7f0d6ed1fb23b4e5ec&txTime=68fa1eef
+https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=a8bf0c2ed8d290669175adb7ebc131b7&txTime=68fa2453
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-8b7d95f4151a0d246ec9c6d9fb7e1bda.png",Seoul Thunders vs Mobis Phoebus [KING - M3U8]
-https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=8c032e5b4262fb1f5f6c69551464a0c6&txTime=68fa1eef
+https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=45c41d0b267b77b5e167195fcae10051&txTime=68fa2453
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-8b7d95f4151a0d246ec9c6d9fb7e1bda.png",Seoul Thunders vs Mobis Phoebus [KING - HD FLV]
-https://pull.niur.live/live/stream-9912099_lhd.flv?txSecret=b790b78ba711fe7f0d6ed1fb23b4e5ec&txTime=68fa1eef
+https://pull.niur.live/live/stream-9912099_lhd.flv?txSecret=a8bf0c2ed8d290669175adb7ebc131b7&txTime=68fa2453
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-8b7d95f4151a0d246ec9c6d9fb7e1bda.png",Seoul Thunders vs Mobis Phoebus [KING - FLV]
-https://pull.niur.live/live/stream-9912099_lsd.flv?txSecret=8c032e5b4262fb1f5f6c69551464a0c6&txTime=68fa1eef
+https://pull.niur.live/live/stream-9912099_lsd.flv?txSecret=45c41d0b267b77b5e167195fcae10051&txTime=68fa2453
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-8b7d95f4151a0d246ec9c6d9fb7e1bda.png",Seoul Thunders vs Mobis Phoebus [BLV BEAN - HD M3U8]
 https://stream-flv.dfsfe.top/lives/9912111-720p.m3u8
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-8b7d95f4151a0d246ec9c6d9fb7e1bda.png",Seoul Thunders vs Mobis Phoebus [BLV BEAN - M3U8]
@@ -567,18 +576,30 @@ https://pull.niur.live/live/stream-532257_lsd.m3u8?txSecret=cb2d111a0132608e2a81
 https://pull.niur.live/live/stream-532257_lhd.flv?txSecret=285edfa571a0c64c89c34a0ad8e0c71e&txTime=68f99a21
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-1baa8b086b392f98ecdd2c71a0ddb71d.png",FCSB vs Bologna [CÂY KHẾ - FLV]
 https://pull.niur.live/live/stream-532257_lsd.flv?txSecret=cb2d111a0132608e2a818d398656d1a1&txTime=68f99a21
+#EXTVLCOPT:http-referrer=https://hoadao.tv/ph-th-qung-ninh-5613?mode=sd
+#EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/ph-th-qung-ninh-5613?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-1804f858807bdb600451ff8dea15cefa.png",Phú Thọ vs Quảng Ninh [BLV CHIM NHỎ - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/ph-th-qung-ninh-5613?mode=hd
+#EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/ph-th-qung-ninh-5613?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-1804f858807bdb600451ff8dea15cefa.png",Phú Thọ vs Quảng Ninh [BLV CHIM NHỎ - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/ph-th-qung-ninh-5613?mode=flv
+#EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/ph-th-qung-ninh-5613?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-1804f858807bdb600451ff8dea15cefa.png",Phú Thọ vs Quảng Ninh [BLV CHIM NHỎ - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/ph-th-qung-ninh-5613?mode=flv2
+#EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/ph-th-qung-ninh-5613?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-1804f858807bdb600451ff8dea15cefa.png",Phú Thọ vs Quảng Ninh [BLV CHIM NHỎ - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
 #EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-e754d913ccc3a7a1831566e3d59eabd4.png",CHELSEA  vs AJAX [BLV VĂN GÔN - HLS]
 https://hls.cdnvankhanh.com/live/TO3C/index.m3u8?expire=1875681300&sign=015129bcbd63368bf36946e12b5950c6
 #EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-e754d913ccc3a7a1831566e3d59eabd4.png",CHELSEA  vs AJAX [BLV VĂN GÔN - FLV]
 https://flv.cdnvankhanh.com/live/TO3C.flv?expire=1875681300&sign=015129bcbd63368bf36946e12b5950c6
-#EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-ba35445c8cd68cea1a7006a175e971e8.png",LIVERPOOL vs MU [BLV KAKA - HLS]
-https://hls.cdnok9.com/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
-#EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-ba35445c8cd68cea1a7006a175e971e8.png",LIVERPOOL vs MU [BLV KAKA - FLV]
-https://flv.cdnok9.com/live/TO3A.flv?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
 #EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-f72cec8cc808a85373bdec87dfa98bab.png",Arsenal vs Atletico Madrid [BLV THỜI THIÊN - HLS]
 https://hls.cdnok9.com/live/TO6A/index.m3u8?expire=1891408380&sign=df6b95775ca8cf6b58a17d54271d96e3
 #EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-f72cec8cc808a85373bdec87dfa98bab.png",Arsenal vs Atletico Madrid [BLV THỜI THIÊN - FLV]
 https://flv.cdnok9.com/live/TO6A.flv?expire=1891408380&sign=df6b95775ca8cf6b58a17d54271d96e3
+#EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-ba35445c8cd68cea1a7006a175e971e8.png",LIVERPOOL vs MU [BLV KAKA - HLS]
+https://hls.cdnok9.com/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
+#EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-ba35445c8cd68cea1a7006a175e971e8.png",LIVERPOOL vs MU [BLV KAKA - FLV]
+https://flv.cdnok9.com/live/TO3A.flv?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/vtv1-hd.png",VTV1 HD [VTV1 HD]
 http://iptv.nhadai.org/stream/vtv1-hd
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/vtv3-hd.png",VTV3 HD [VTV3 HD]
