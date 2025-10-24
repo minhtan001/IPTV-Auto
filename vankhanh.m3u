@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Kelantan United vs Melaka FC" tvg-logo="https://hxcv.site/images/cache/match-d9dc064ed2bfc8e218b698ac40bffa9e.png",Kelantan United vs Melaka FC [BLV VĂN DIEGO - HLS]
-https://hls.cdnvankhanh.com/live/VANDIEGO/index.m3u8?expire=1920976080&sign=4822e1f8f5ead43296828f1e9a00ef76
-#EXTINF:-1 group-title="Kelantan United vs Melaka FC" tvg-logo="https://hxcv.site/images/cache/match-d9dc064ed2bfc8e218b698ac40bffa9e.png",Kelantan United vs Melaka FC [BLV VĂN DIEGO - FLV]
-https://flv.cdnvankhanh.com/live/VANDIEGO.flv?expire=1920976080&sign=4822e1f8f5ead43296828f1e9a00ef76
-#EXTINF:-1 group-title="Kelantan United vs Melaka FC" tvg-logo="https://hxcv.site/images/cache/match-d9dc064ed2bfc8e218b698ac40bffa9e.png",Kelantan United vs Melaka FC [BLV VĂN MINH - HLS]
-https://hls.cdnvankhanh.com/live/VANMINH/index.m3u8?expire=1891172040&sign=f6acb0ca35d53b8fc8f43ca1c11efb5e
-#EXTINF:-1 group-title="Kelantan United vs Melaka FC" tvg-logo="https://hxcv.site/images/cache/match-d9dc064ed2bfc8e218b698ac40bffa9e.png",Kelantan United vs Melaka FC [BLV VĂN MINH - FLV]
-https://flv.cdnvankhanh.com/live/VANMINH.flv?expire=1891172040&sign=f6acb0ca35d53b8fc8f43ca1c11efb5e
-#EXTINF:-1 group-title="Frosinone U20 vs Bologna U20" tvg-logo="https://hxcv.site/images/cache/match-7a5c3c198c5918e524dfb9e9bfa3a8ff.png",Frosinone U20 vs Bologna U20 [BLV VĂN TÍCH - HLS]
-https://hls.cdnvankhanh.com/live/VANTICH/index.m3u8?expire=1892707800&sign=150a2229b67134ebc8c4d81573bca419
-#EXTINF:-1 group-title="Frosinone U20 vs Bologna U20" tvg-logo="https://hxcv.site/images/cache/match-7a5c3c198c5918e524dfb9e9bfa3a8ff.png",Frosinone U20 vs Bologna U20 [BLV VĂN TÍCH - FLV]
-https://flv.cdnvankhanh.com/live/VANTICH.flv?expire=1892707800&sign=150a2229b67134ebc8c4d81573bca419
 #EXTINF:-1 group-title="FK Kapaz Ganca vs Mil Mugan" tvg-logo="https://hxcv.site/images/cache/match-15886bbd46312ab05335182c58ffd494.png",FK Kapaz Ganca vs Mil Mugan [BLV VĂN CHUN - HLS]
 https://hls.cdnvankhanh.com/live/VANCHUN/index.m3u8?expire=1898518320&sign=e855afc2f47c2589486b995f1194c0fc
 #EXTINF:-1 group-title="FK Kapaz Ganca vs Mil Mugan" tvg-logo="https://hxcv.site/images/cache/match-15886bbd46312ab05335182c58ffd494.png",FK Kapaz Ganca vs Mil Mugan [BLV VĂN CHUN - FLV]
@@ -19,10 +7,26 @@ https://flv.cdnvankhanh.com/live/VANCHUN.flv?expire=1898518320&sign=e855afc2f47c
 https://hls.cdnvankhanh.com/live/VANREN/index.m3u8?expire=1891583400&sign=f4cca58ffdf3217d4ca677039510da17
 #EXTINF:-1 group-title="FK Napredak Krusevac vs Vojvodina Novi Sad" tvg-logo="https://hxcv.site/images/cache/match-578c1b8e83a37a46e763c6e122a373bf.png",FK Napredak Krusevac vs Vojvodina Novi Sad [BLV VĂN REN - FLV]
 https://flv.cdnvankhanh.com/live/VANREN.flv?expire=1891583400&sign=f4cca58ffdf3217d4ca677039510da17
+#EXTINF:-1 group-title="Al-Fateh vs Al-Ettifaq" tvg-logo="https://hxcv.site/images/cache/match-e26865f81ce3c4d9c7f8c225833c9ab7.png",Al-Fateh vs Al-Ettifaq [BLV VĂN VỸ - HLS]
+https://hls.cdnvankhanh.com/live/VANVY/index.m3u8?expire=1891070400&sign=642fee455822e2859b2b9f8dc5ed00d9
+#EXTINF:-1 group-title="Al-Fateh vs Al-Ettifaq" tvg-logo="https://hxcv.site/images/cache/match-e26865f81ce3c4d9c7f8c225833c9ab7.png",Al-Fateh vs Al-Ettifaq [BLV VĂN VỸ - FLV]
+https://flv.cdnvankhanh.com/live/VANVY.flv?expire=1891070400&sign=642fee455822e2859b2b9f8dc5ed00d9
 #EXTINF:-1 group-title="KAMAZ Naberezhnye Chelny vs Yenisey Krasnoyarsk" tvg-logo="https://hxcv.site/images/cache/match-94ff2360bfb00d976fcfdfaf7d5ce87d.png",KAMAZ Naberezhnye Chelny vs Yenisey Krasnoyarsk [BLV VĂN BIA - HLS]
 https://hls.cdnvankhanh.com/live/VANBIA/index.m3u8?expire=1892730180&sign=ca1be0c0d408ba9ac0bf97ec02f5049e
 #EXTINF:-1 group-title="KAMAZ Naberezhnye Chelny vs Yenisey Krasnoyarsk" tvg-logo="https://hxcv.site/images/cache/match-94ff2360bfb00d976fcfdfaf7d5ce87d.png",KAMAZ Naberezhnye Chelny vs Yenisey Krasnoyarsk [BLV VĂN BIA - FLV]
 https://flv.cdnvankhanh.com/live/VANBIA.flv?expire=1892730180&sign=ca1be0c0d408ba9ac0bf97ec02f5049e
+#EXTINF:-1 group-title="Sassuolo U20 vs Parma U20" tvg-logo="https://hxcv.site/images/cache/match-34fa52942961a1eee613583e043653a5.png",Sassuolo U20 vs Parma U20 [BLV VĂN VỞ - HLS]
+https://hls.cdnvankhanh.com/live/VANVO/index.m3u8?expire=1826356200&sign=f92cd6005b35a94f2c93f28b3ffac506
+#EXTINF:-1 group-title="Sassuolo U20 vs Parma U20" tvg-logo="https://hxcv.site/images/cache/match-34fa52942961a1eee613583e043653a5.png",Sassuolo U20 vs Parma U20 [BLV VĂN VỞ - FLV]
+https://flv.cdnvankhanh.com/live/VANVO.flv?expire=1826356200&sign=f92cd6005b35a94f2c93f28b3ffac506
+#EXTINF:-1 group-title="Kelantan United vs Melaka FC" tvg-logo="https://hxcv.site/images/cache/match-d9dc064ed2bfc8e218b698ac40bffa9e.png",Kelantan United vs Melaka FC [BLV VĂN DIEGO - HLS]
+https://hls.cdnvankhanh.com/live/VANDIEGO/index.m3u8?expire=1920976080&sign=4822e1f8f5ead43296828f1e9a00ef76
+#EXTINF:-1 group-title="Kelantan United vs Melaka FC" tvg-logo="https://hxcv.site/images/cache/match-d9dc064ed2bfc8e218b698ac40bffa9e.png",Kelantan United vs Melaka FC [BLV VĂN DIEGO - FLV]
+https://flv.cdnvankhanh.com/live/VANDIEGO.flv?expire=1920976080&sign=4822e1f8f5ead43296828f1e9a00ef76
+#EXTINF:-1 group-title="Kelantan United vs Melaka FC" tvg-logo="https://hxcv.site/images/cache/match-d9dc064ed2bfc8e218b698ac40bffa9e.png",Kelantan United vs Melaka FC [BLV VĂN MINH - HLS]
+https://hls.cdnvankhanh.com/live/VANMINH/index.m3u8?expire=1891172040&sign=f6acb0ca35d53b8fc8f43ca1c11efb5e
+#EXTINF:-1 group-title="Kelantan United vs Melaka FC" tvg-logo="https://hxcv.site/images/cache/match-d9dc064ed2bfc8e218b698ac40bffa9e.png",Kelantan United vs Melaka FC [BLV VĂN MINH - FLV]
+https://flv.cdnvankhanh.com/live/VANMINH.flv?expire=1891172040&sign=f6acb0ca35d53b8fc8f43ca1c11efb5e
 #EXTINF:-1 group-title="Qizilqum Zarafshon vs Dinamo Samarqand" tvg-logo="https://hxcv.site/images/cache/match-d4cc52c9f12c64ae5f128459f9cb8ba6.png",Qizilqum Zarafshon vs Dinamo Samarqand [BLV VĂN ĐỘ - HLS]
 https://hls.cdnvankhanh.com/live/VANDO/index.m3u8?expire=1892812920&sign=a0a29c944a41e507a7d578db683ea31a
 #EXTINF:-1 group-title="Qizilqum Zarafshon vs Dinamo Samarqand" tvg-logo="https://hxcv.site/images/cache/match-d4cc52c9f12c64ae5f128459f9cb8ba6.png",Qizilqum Zarafshon vs Dinamo Samarqand [BLV VĂN ĐỘ - FLV]
@@ -31,11 +35,3 @@ https://hls.cdnvankhanh.com/live/VANDO/index.m3u8?expire=1892812920&sign=a0a29c9
 https://hls.cdnvankhanh.com/live/VANMILAN/index.m3u8?expire=1892616120&sign=a4103cfb6e6a1371923d317a9442db9b
 #EXTINF:-1 group-title="Spartak Varna vs Botev Plovdiv" tvg-logo="https://hxcv.site/images/cache/match-7ced795ac6bbba670b339a5a5912daec.png",Spartak Varna vs Botev Plovdiv [BLV VĂN MILAN - FLV]
 https://flv.cdnvankhanh.com/live/VANMILAN.flv?expire=1892616120&sign=a4103cfb6e6a1371923d317a9442db9b
-#EXTINF:-1 group-title="Sassuolo U20 vs Parma U20" tvg-logo="https://hxcv.site/images/cache/match-34fa52942961a1eee613583e043653a5.png",Sassuolo U20 vs Parma U20 [BLV VĂN VỞ - HLS]
-https://hls.cdnvankhanh.com/live/VANVO/index.m3u8?expire=1826356200&sign=f92cd6005b35a94f2c93f28b3ffac506
-#EXTINF:-1 group-title="Sassuolo U20 vs Parma U20" tvg-logo="https://hxcv.site/images/cache/match-34fa52942961a1eee613583e043653a5.png",Sassuolo U20 vs Parma U20 [BLV VĂN VỞ - FLV]
-https://flv.cdnvankhanh.com/live/VANVO.flv?expire=1826356200&sign=f92cd6005b35a94f2c93f28b3ffac506
-#EXTINF:-1 group-title="Al-Fateh vs Al-Ettifaq" tvg-logo="https://hxcv.site/images/cache/match-e26865f81ce3c4d9c7f8c225833c9ab7.png",Al-Fateh vs Al-Ettifaq [BLV VĂN VỸ - HLS]
-https://hls.cdnvankhanh.com/live/VANVY/index.m3u8?expire=1891070400&sign=642fee455822e2859b2b9f8dc5ed00d9
-#EXTINF:-1 group-title="Al-Fateh vs Al-Ettifaq" tvg-logo="https://hxcv.site/images/cache/match-e26865f81ce3c4d9c7f8c225833c9ab7.png",Al-Fateh vs Al-Ettifaq [BLV VĂN VỸ - FLV]
-https://flv.cdnvankhanh.com/live/VANVY.flv?expire=1891070400&sign=642fee455822e2859b2b9f8dc5ed00d9
