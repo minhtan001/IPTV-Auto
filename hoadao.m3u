@@ -1,4 +1,19 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/defensor-sporting-montevideo-vs-montevideo-city-torque-2475?mode=ndsd
-#EXTINF:-1 group-title="Defensor Sporting Montevideo vs Montevideo City Torque" referer="https://hoadao.tv/defensor-sporting-montevideo-vs-montevideo-city-torque-2475?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-e77799b2a87c05e88d5de92ae311ef45.png",Defensor Sporting Montevideo vs Montevideo City Torque [No BLV - SD (ND)]
-https://live.alilicloud.com/live/d16d4d745a2c7e459636daf0d2c63602/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/inter-miami-cf-vs-nashville-4322?mode=sd
+#EXTINF:-1 group-title="Inter Miami CF vs Nashville" referer="https://hoadao.tv/inter-miami-cf-vs-nashville-4322?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-57d08fc4b81ce36565348bcf355b8b6d.png",Inter Miami CF vs Nashville [BLV CỤ RÙA - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/inter-miami-cf-vs-nashville-4322?mode=hd
+#EXTINF:-1 group-title="Inter Miami CF vs Nashville" referer="https://hoadao.tv/inter-miami-cf-vs-nashville-4322?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-57d08fc4b81ce36565348bcf355b8b6d.png",Inter Miami CF vs Nashville [BLV CỤ RÙA - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/inter-miami-cf-vs-nashville-4322?mode=flv
+#EXTINF:-1 group-title="Inter Miami CF vs Nashville" referer="https://hoadao.tv/inter-miami-cf-vs-nashville-4322?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-57d08fc4b81ce36565348bcf355b8b6d.png",Inter Miami CF vs Nashville [BLV CỤ RÙA - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/inter-miami-cf-vs-nashville-4322?mode=flv2
+#EXTINF:-1 group-title="Inter Miami CF vs Nashville" referer="https://hoadao.tv/inter-miami-cf-vs-nashville-4322?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-57d08fc4b81ce36565348bcf355b8b6d.png",Inter Miami CF vs Nashville [BLV CỤ RÙA - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/coastal-spirit-vs-christchurch-united-2477?mode=ndsd
+#EXTINF:-1 group-title="Coastal Spirit vs Christchurch United" referer="https://hoadao.tv/coastal-spirit-vs-christchurch-united-2477?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-1f22ef82c41bc2847c3876cb80e61f67.png",Coastal Spirit vs Christchurch United [No BLV - SD (ND)]
+https://live.alilicloud.com/live/2c8548132c4206760e477fa228a60ed0/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/auckland-united-women-vs-west-coast-rangers-w-2478?mode=ndsd
+#EXTINF:-1 group-title="Auckland United Women vs West Coast Rangers (W)" referer="https://hoadao.tv/auckland-united-women-vs-west-coast-rangers-w-2478?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-fc14375408ac58377d0dc803a8883901.png",Auckland United Women vs West Coast Rangers (W) [No BLV - SD (ND)]
+https://live.alilicloud.com/live/18f49c32b548da81919a9b7ec33e1589/playlist.m3u8
