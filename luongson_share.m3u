@@ -1,8 +1,5 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",00h30-25/10 Arges Vs Dinamo Bucuresti BLV ODIN
-https://hls.cdnok9.com/live/ODIN/index.m3u8?expire=1788427256&sign=dbabf306532cc0f9b44f028e60fcd7e5
-#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",01h00-25/10 Al-Ittihad Vs Al Hilal BLV LƯU BỊ
 https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 #EXTVLCOPT:http-referrer=https://ls39.live/
@@ -132,4 +129,6 @@ http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",12h00-25/10 Urawa Red Diamonds Vs Machida Zelvia BLV PEP
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",12h00-25/10 Shimizu S-Pulse Vs Tokyo Verdy BLV TỐNG GIANG
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",12h00-25/10 FC Tokyo Vs Fagiano Okayama BLV HẠNG VŨ
 http://127.0.0.1
