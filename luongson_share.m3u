@@ -1,23 +1,5 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",01h00-25/10 Al-Ittihad Vs Al Hilal BLV LƯU BỊ
-https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",01h00-25/10 Al-Ittihad Vs Al Hilal BLV KAKA
-https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",01h00-25/10 Al-Ittihad Vs Al Hilal BLV LỮ BỐ
-https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",01h00-25/10 Al-Ittihad Vs Al Hilal BLV KEVILL
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",01h00-25/10 Al-Ittihad Vs Al Hilal BLV THỜI THIÊN
-https://hls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",01h00-25/10 Al-Ittihad Vs Al Hilal BLV ZORO
-https://hls.cdnok9.com/live/ZORO/index.m3u8?expire=1788427256&sign=8e04682553e334be697e3ef428fa6031
-#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",01h30-25/10 SD Huesca Vs Las Palmas BLV LÝ QUỲ
 https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTVLCOPT:http-referrer=https://ls39.live/
@@ -131,4 +113,16 @@ http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",12h00-25/10 Shimizu S-Pulse Vs Tokyo Verdy BLV TỐNG GIANG
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",12h00-25/10 FC Tokyo Vs Fagiano Okayama BLV HẠNG VŨ
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",13h00-25/10 Melbourne City Vs Perth Glory BLV KAKA
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",13h00-25/10 Melbourne City Vs Perth Glory BLV HOA VINH
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",13h00-25/10 Melbourne City Vs Perth Glory BLV KEVILL
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",13h00-25/10 Cerezo Osaka Vs Kawasaki Frontale BLV RICARDO
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",14h30-25/10 Tianjin Tigers Vs Changchun Yatai BLV HẠNG VŨ
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",14h30-25/10 Tianjin Tigers Vs Changchun Yatai BLV PEP
 http://127.0.0.1
