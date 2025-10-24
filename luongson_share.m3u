@@ -1,34 +1,7 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",21h30-24/10 FK Csikszereda Miercurea Ciuc Vs Petrolul Ploiesti BLV QUAN VŨ
-https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",21h30-24/10 Spartak Varna Vs Botev Plovdiv BLV MÃ SIÊU
-https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",21h45-24/10 Al-Fateh Vs Al-Ettifaq BLV TRIỆU TỬ LONG
-https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",21h45-24/10 Al-Fateh Vs Al-Ettifaq BLV TRƯƠNG VÔ KỴ
-https://hls.cdnok9.com/live/VOKY/index.m3u8?expire=1788427256&sign=0cd606b430105d52a7a7a0ae56dded85
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",21h45-24/10 Al-Fateh Vs Al-Ettifaq BLV HOA VINH
-https://hls.cdnok9.com/live/LOELOE6380K/index.m3u8?expire=1788427256&sign=86b4dafe54d1b6da2bffad6653671edb
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",21h45-24/10 Al-Fateh Vs Al-Ettifaq BLV KEVILL
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",21h45-24/10 Al-Fateh Vs Al-Ettifaq BLV MÃ LÂN
-https://hls.cdnok9.com/live/MALAN/index.m3u8?expire=1788427256&sign=2c2690c1b536f3d099b63f3ff8165385
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",21h45-24/10 Al-Fateh Vs Al-Ettifaq BLV LÝ BÍ
-https://hls.cdnok9.com/live/LYBI/index.m3u8?expire=1891347600&sign=082e8fbd254f7197ef828148b0832d36
-#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",22h00-24/10 Riga FC Vs Tukums-2000 BLV KENCHU
 https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",22h30-24/10 Czech Republic (W) Vs Austria (W) BLV SÁCH SIÊU
-https://hls.cdnok9.com/live/SACHSIEU1/index.m3u8?expire=1788427256&sign=db0c3e1d3d520e4ddb0a8740f0b6aa29
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",22h30-24/10 Neom SC Vs Al-Khaleej BLV LƯU BỊ
 https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
@@ -47,6 +20,9 @@ https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",22h30-24/10 Neom SC Vs Al-Khaleej BLV ZORO
 https://hls.cdnok9.com/live/ZORO/index.m3u8?expire=1788427256&sign=8e04682553e334be697e3ef428fa6031
+#EXTVLCOPT:http-referrer=https://ls39.live/
+#EXTINF:-1 group-title="LuongSon_2",22h30-24/10 Czech Republic (W) Vs Austria (W) BLV SÁCH SIÊU
+https://hls.cdnok9.com/live/SACHSIEU1/index.m3u8?expire=1788427256&sign=db0c3e1d3d520e4ddb0a8740f0b6aa29
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",22h45-24/10 Germany (W) Vs France (W) BLV LÝ QUỲ
 https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
@@ -86,8 +62,9 @@ https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7c
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",23h30-24/10 Schalke 04 Vs Darmstadt BLV NGŨ CA
 https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",23h30-24/10 Schalke 04 Vs Darmstadt BLV HOA VINH
-http://127.0.0.1
+https://hls.cdnok9.com/live/LOELOE6380K/index.m3u8?expire=1788427256&sign=86b4dafe54d1b6da2bffad6653671edb
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",23h30-24/10 Schalke 04 Vs Darmstadt BLV VI TIỂU BẢO
 https://hls.cdnok9.com/live/VITIEUBAO/index.m3u8?expire=1788427256&sign=8455ad268241104dcfa228cc4d4a76de
@@ -106,14 +83,18 @@ https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",23h30-24/10 Arsenal Tula Vs Ural Sverdlovsk Oblast BLV THẠCH TÚ
 https://hls.cdnok9.com/live/THACHTU/index.m3u8?expire=1788427256&sign=77e6bae02b2c5f48ff9d9c5092df8d47
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",00h00-25/10 Aarhus AGF Vs Nordsjaelland BLV TÔN LẬP
-http://127.0.0.1
+https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",00h00-25/10 Aarhus AGF Vs Nordsjaelland BLV VƯƠNG LUÂN
-http://127.0.0.1
+https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",00h00-25/10 Karagumruk Vs Kayserispor BLV TỐNG GIANG
-http://127.0.0.1
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",00h00-25/10 Karagumruk Vs Kayserispor BLV URA
-http://127.0.0.1
+https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
 #EXTINF:-1 group-title="LuongSon_2",00h30-25/10 Arges Vs Dinamo Bucuresti BLV ODIN
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",01h00-25/10 Al-Ittihad Vs Al Hilal BLV LƯU BỊ
@@ -130,7 +111,24 @@ http://127.0.0.1
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",01h30-25/10 Werder Bremen Vs Union Berlin BLV TRƯƠNG VÔ KỴ
 http://127.0.0.1
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",01h30-25/10 Werder Bremen Vs Union Berlin BLV MÃ LÂN
-http://127.0.0.1
+https://hls.cdnok9.com/live/MALAN/index.m3u8?expire=1788427256&sign=2c2690c1b536f3d099b63f3ff8165385
 #EXTINF:-1 group-title="LuongSon_2",01h30-25/10 Werder Bremen Vs Union Berlin BLV PEP
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",01h30-25/10 Werder Bremen Vs Union Berlin BLV LÝ BÍ
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",01h30-25/10 SD Huesca Vs Las Palmas BLV LÝ QUỲ
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",01h30-25/10 Motor Lublin Vs Widzew lodz BLV SÁCH SIÊU
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",01h45-25/10 AC Milan Vs Pisa BLV QUAN VŨ
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",01h45-25/10 AC Milan Vs Pisa BLV PHONG VÂN
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",01h45-25/10 AC Milan Vs Pisa BLV KHỔNG MINH
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",01h45-25/10 AC Milan Vs Pisa BLV LA THÀNH
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",01h45-25/10 AC Milan Vs Pisa BLV LÝ ỨNG
 http://127.0.0.1
