@@ -1,14 +1,10 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",07h10-24/10 Belgrano Vs Argentinos Juniors BLV HẠNG VŨ
-https://hls.cdnok9.com/live/HANGVU1/index.m3u8?expire=1788427256&sign=35e56aacb29c1a0624a29230271c3db1
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",07h30-24/10 Liga Dep. Universitaria Quito Vs Palmeiras TRỢ LÝ ĐIÊU THUYỀN
-https://hls.cdnok9.com/live/DIEUTHUYEN/index.m3u8?expire=1788427256&sign=8cebea5448db2f74ea04021d9362ba87
 #EXTINF:-1 group-title="LuongSon_2",09h00-24/10 Mexico (W) Vs New Zealand (W) BLV VÕ TÒNG
-http://127.0.0.1
+https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",09h00-24/10 Alajuelense Vs CD Olimpia BLV HẠNG VŨ
-http://127.0.0.1
+https://hls.cdnok9.com/live/HANGVU1/index.m3u8?expire=1788427256&sign=35e56aacb29c1a0624a29230271c3db1
 #EXTINF:-1 group-title="LuongSon_2",15h30-24/10 Preston Lions Vs Avondale FC BLV TỐNG GIANG
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",15h30-24/10 Preston Lions Vs Avondale FC BLV CÔNG TÔN THẮNG
@@ -100,4 +96,8 @@ http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",18h35-24/10 Wuhan Three Towns Vs Shenzhen Xinpengcheng BLV TRIỆU TỬ LONG
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",18h35-24/10 Wuhan Three Towns Vs Shenzhen Xinpengcheng BLV KAKA
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",18h35-24/10 Wuhan Three Towns Vs Shenzhen Xinpengcheng BLV MÃ SIÊU
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",18h35-24/10 Wuhan Three Towns Vs Shenzhen Xinpengcheng BLV HOA VINH
 http://127.0.0.1
