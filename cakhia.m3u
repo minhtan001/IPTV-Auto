@@ -1,11 +1,5 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia",🔴 SD  (Nhanh) Golden State Warriors - Denver Nuggets
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@paosd1.flv
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia",🔴 HD  (Nhanh) Golden State Warriors - Denver Nuggets
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@paohd1.flv
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia",🔴 SD  (Nhanh) Patric Gonzales - Jayson Shaw
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@heosd1.flv
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -18,8 +12,14 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@musd1.flv
 #EXTINF:-1 group-title="Cakhia",🔴 HD (Nhanh) Paolo Gallito - AJ Manas
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@muhd1.flv
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia",12:30 24/10 Bangalore City - Bangalore Dream United FC
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/bangalore-city-vs-bangalore-dream-united-fc-54vg4te6xr.html
+#EXTINF:-1 group-title="Cakhia",🔴 SD Nhanh Bangalore City - Bangalore Dream United FC
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@ngaosd1.flv
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia",🔴 HD Nhanh Bangalore City - Bangalore Dream United FC
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@ngaohd1.flv
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia",13:00 24/10 CF Wellington United (W) - Wellington Phoenix Reserves (W)
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/cf-wellington-united-w-vs-wellington-phoenix-reserves-w-4w73izwetk.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia",13:00 24/10 Latvia (w) U17 - Bosnia (w) U17
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/latvia-w-u17-vs-bosnia-w-u17-jvris4nkb2.html
@@ -51,17 +51,17 @@ http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/persekat-tegal-vs-pekanba
 #EXTINF:-1 group-title="Cakhia",15:35 24/10 Newcastle Jets - Melbourne Victory
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/newcastle-jets-vs-melbourne-victory-tpvv7op8lp.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia",15:45 24/10 Abahani Limited - Fakirapool Young Mens Club
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/abahani-limited-vs-fakirapool-young-mens-club-9zxl5yv66e.html
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia",15:45 24/10 Rahmatganj MFS - Brothers Union
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/rahmatganj-mfs-vs-brothers-union-uh927bh1gk.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia",16:00 24/10 AKAS Almaty - FK Kaspyi Aktau
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/akas-almaty-vs-fk-kaspyi-aktau-vsfgliknka.html
+#EXTINF:-1 group-title="Cakhia",15:45 24/10 Abahani Limited - Fakirapool Young Mens Club
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/abahani-limited-vs-fakirapool-young-mens-club-9zxl5yv66e.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia",16:00 24/10 Kairat Almaty II - SD Family
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/kairat-almaty-ii-vs-sd-family-jc8jckgptl.html
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia",16:00 24/10 AKAS Almaty - FK Kaspyi Aktau
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/akas-almaty-vs-fk-kaspyi-aktau-vsfgliknka.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia",16:00 24/10 Dong Tam Long An - Ba Ria Vung Tau FC
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/dong-tam-long-an-vs-ba-ria-vung-tau-fc-cmpgne7pp6.html
