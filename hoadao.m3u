@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/ac-milan-vs-pisa-2443?mode=sd
-#EXTINF:-1 group-title="AC Milan vs Pisa" referer="https://hoadao.tv/ac-milan-vs-pisa-2443?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-161ffaff1156b7074267bd5ee7b91abe.png",AC Milan vs Pisa [BLV CỤ RÙA - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/ac-milan-vs-pisa-2443?mode=hd
-#EXTINF:-1 group-title="AC Milan vs Pisa" referer="https://hoadao.tv/ac-milan-vs-pisa-2443?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-161ffaff1156b7074267bd5ee7b91abe.png",AC Milan vs Pisa [BLV CỤ RÙA - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/ac-milan-vs-pisa-2443?mode=flv
-#EXTINF:-1 group-title="AC Milan vs Pisa" referer="https://hoadao.tv/ac-milan-vs-pisa-2443?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-161ffaff1156b7074267bd5ee7b91abe.png",AC Milan vs Pisa [BLV CỤ RÙA - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/ac-milan-vs-pisa-2443?mode=flv2
-#EXTINF:-1 group-title="AC Milan vs Pisa" referer="https://hoadao.tv/ac-milan-vs-pisa-2443?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-161ffaff1156b7074267bd5ee7b91abe.png",AC Milan vs Pisa [BLV CỤ RÙA - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/ac-milan-vs-pisa-2443?mode=ndsd
-#EXTINF:-1 group-title="AC Milan vs Pisa" referer="https://hoadao.tv/ac-milan-vs-pisa-2443?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-161ffaff1156b7074267bd5ee7b91abe.png",AC Milan vs Pisa [BLV CỤ RÙA - SD (ND)]
-https://live.alilicloud.com/live/13a7124abe2cafe50d8f6ca76f2acb46/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/leeds-united-vs-west-ham-united-2457?mode=sd
 #EXTINF:-1 group-title="Leeds United vs West Ham United" referer="https://hoadao.tv/leeds-united-vs-west-ham-united-2457?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-930b83eacee5468f1a1e7ea0b62e2157.png",Leeds United vs West Ham United [BLV RICKY - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_rickysd/playlist.m3u8
@@ -26,9 +11,6 @@ https://pjoo0925.edgemaxcdn.org/live/blv_ricky.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/leeds-united-vs-west-ham-united-2457?mode=flv2
 #EXTINF:-1 group-title="Leeds United vs West Ham United" referer="https://hoadao.tv/leeds-united-vs-west-ham-united-2457?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-930b83eacee5468f1a1e7ea0b62e2157.png",Leeds United vs West Ham United [BLV RICKY - FLV 2]
 https://pjoo0925.edgemaxcdn.org/live/blv_ricky.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/leeds-united-vs-west-ham-united-2457?mode=ndsd
-#EXTINF:-1 group-title="Leeds United vs West Ham United" referer="https://hoadao.tv/leeds-united-vs-west-ham-united-2457?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-930b83eacee5468f1a1e7ea0b62e2157.png",Leeds United vs West Ham United [BLV RICKY - SD (ND)]
-https://live.alilicloud.com/live/58fde21bf695f9e1538e82b246caa0cd/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/real-sociedad-vs-sevilla-fc-2459?mode=sd
 #EXTINF:-1 group-title="Real Sociedad vs Sevilla FC" referer="https://hoadao.tv/real-sociedad-vs-sevilla-fc-2459?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-da60464eed043363297469639a584a39.png",Real Sociedad vs Sevilla FC [BLV PHÁO - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
@@ -41,63 +23,9 @@ https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/real-sociedad-vs-sevilla-fc-2459?mode=flv2
 #EXTINF:-1 group-title="Real Sociedad vs Sevilla FC" referer="https://hoadao.tv/real-sociedad-vs-sevilla-fc-2459?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-da60464eed043363297469639a584a39.png",Real Sociedad vs Sevilla FC [BLV PHÁO - FLV 2]
 https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/real-sociedad-vs-sevilla-fc-2459?mode=ndsd
-#EXTINF:-1 group-title="Real Sociedad vs Sevilla FC" referer="https://hoadao.tv/real-sociedad-vs-sevilla-fc-2459?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-da60464eed043363297469639a584a39.png",Real Sociedad vs Sevilla FC [BLV PHÁO - SD (ND)]
-https://live.alilicloud.com/live/45ccf87f4e248e214c79df8f147776ee/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/brazil-u17-women-vs-italy-u17-women-2454?mode=ndsd
-#EXTINF:-1 group-title="Brazil U17 Women vs Italy U17 Women" referer="https://hoadao.tv/brazil-u17-women-vs-italy-u17-women-2454?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-1e3ef55285c0200ba3bbc792104f91e9.png",Brazil U17 Women vs Italy U17 Women [No BLV - SD (ND)]
-https://live.alilicloud.com/live/7e4106b1a083a2e1858b22adcc44a9a5/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/netherlands-u17-women-vs-north-korea-u17-women-2455?mode=ndsd
-#EXTINF:-1 group-title="Netherlands U17 Women vs North Korea U17 Women" referer="https://hoadao.tv/netherlands-u17-women-vs-north-korea-u17-women-2455?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-a3ef6b622f8b7c0137330b9de093d70e.png",Netherlands U17 Women vs North Korea U17 Women [No BLV - SD (ND)]
-https://live.alilicloud.com/live/809ddda925e113de1ac115a1812e01ce/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/mexico-u17-women-vs-cameroon-u17-women-2456?mode=ndsd
-#EXTINF:-1 group-title="Mexico U17 Women vs Cameroon U17 Women" referer="https://hoadao.tv/mexico-u17-women-vs-cameroon-u17-women-2456?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-df2dd63ae9a0423cc75feabc60059b51.png",Mexico U17 Women vs Cameroon U17 Women [No BLV - SD (ND)]
-https://live.alilicloud.com/live/8eac8476584d49d5acc1e43504fcda86/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/leeds-united-vs-west-ham-united-2457?mode=sd
-#EXTINF:-1 group-title="Leeds United vs West Ham United" referer="https://hoadao.tv/leeds-united-vs-west-ham-united-2457?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-930b83eacee5468f1a1e7ea0b62e2157.png",Leeds United vs West Ham United [No BLV - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_rickysd/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/leeds-united-vs-west-ham-united-2457?mode=hd
-#EXTINF:-1 group-title="Leeds United vs West Ham United" referer="https://hoadao.tv/leeds-united-vs-west-ham-united-2457?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-930b83eacee5468f1a1e7ea0b62e2157.png",Leeds United vs West Ham United [No BLV - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_ricky/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/leeds-united-vs-west-ham-united-2457?mode=flv
-#EXTINF:-1 group-title="Leeds United vs West Ham United" referer="https://hoadao.tv/leeds-united-vs-west-ham-united-2457?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-930b83eacee5468f1a1e7ea0b62e2157.png",Leeds United vs West Ham United [No BLV - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_ricky.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/leeds-united-vs-west-ham-united-2457?mode=flv2
-#EXTINF:-1 group-title="Leeds United vs West Ham United" referer="https://hoadao.tv/leeds-united-vs-west-ham-united-2457?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-930b83eacee5468f1a1e7ea0b62e2157.png",Leeds United vs West Ham United [No BLV - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_ricky.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/leeds-united-vs-west-ham-united-2457?mode=ndsd
-#EXTINF:-1 group-title="Leeds United vs West Ham United" referer="https://hoadao.tv/leeds-united-vs-west-ham-united-2457?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-930b83eacee5468f1a1e7ea0b62e2157.png",Leeds United vs West Ham United [No BLV - SD (ND)]
-https://live.alilicloud.com/live/58fde21bf695f9e1538e82b246caa0cd/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/preston-north-end-vs-sheffield-united-2458?mode=ndsd
-#EXTINF:-1 group-title="Preston North End vs Sheffield United" referer="https://hoadao.tv/preston-north-end-vs-sheffield-united-2458?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-0ce70d6766e835e3b70f9cc349cc0683.png",Preston North End vs Sheffield United [No BLV - SD (ND)]
-https://live.alilicloud.com/live/a6e6162674dea33e6758252cb5e5d89c/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/real-sociedad-vs-sevilla-fc-2459?mode=sd
-#EXTINF:-1 group-title="Real Sociedad vs Sevilla FC" referer="https://hoadao.tv/real-sociedad-vs-sevilla-fc-2459?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-da60464eed043363297469639a584a39.png",Real Sociedad vs Sevilla FC [No BLV - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/real-sociedad-vs-sevilla-fc-2459?mode=hd
-#EXTINF:-1 group-title="Real Sociedad vs Sevilla FC" referer="https://hoadao.tv/real-sociedad-vs-sevilla-fc-2459?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-da60464eed043363297469639a584a39.png",Real Sociedad vs Sevilla FC [No BLV - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/real-sociedad-vs-sevilla-fc-2459?mode=flv
-#EXTINF:-1 group-title="Real Sociedad vs Sevilla FC" referer="https://hoadao.tv/real-sociedad-vs-sevilla-fc-2459?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-da60464eed043363297469639a584a39.png",Real Sociedad vs Sevilla FC [No BLV - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/real-sociedad-vs-sevilla-fc-2459?mode=flv2
-#EXTINF:-1 group-title="Real Sociedad vs Sevilla FC" referer="https://hoadao.tv/real-sociedad-vs-sevilla-fc-2459?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-da60464eed043363297469639a584a39.png",Real Sociedad vs Sevilla FC [No BLV - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/real-sociedad-vs-sevilla-fc-2459?mode=ndsd
-#EXTINF:-1 group-title="Real Sociedad vs Sevilla FC" referer="https://hoadao.tv/real-sociedad-vs-sevilla-fc-2459?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-da60464eed043363297469639a584a39.png",Real Sociedad vs Sevilla FC [No BLV - SD (ND)]
-https://live.alilicloud.com/live/45ccf87f4e248e214c79df8f147776ee/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/alverca-vs-gil-vicente-2461?mode=ndsd
-#EXTINF:-1 group-title="Alverca vs Gil Vicente" referer="https://hoadao.tv/alverca-vs-gil-vicente-2461?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-82bb768d3807c7ff961e96c31ae83975.png",Alverca vs Gil Vicente [No BLV - SD (ND)]
-https://live.alilicloud.com/live/acdb7d359c5722a4cf931fadd58a6543/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/vizela-vs-fc-felgueiras-2463?mode=ndsd
-#EXTINF:-1 group-title="Vizela vs FC Felgueiras" referer="https://hoadao.tv/vizela-vs-fc-felgueiras-2463?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-ffd23429e47c25362e1a61131a009c11.png",Vizela vs FC Felgueiras [No BLV - SD (ND)]
-https://live.alilicloud.com/live/871de542713382dc313d997436faaea6/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/atletico-fc-vs-patriotas-fc-3888?mode=ndsd
-#EXTINF:-1 group-title="Atletico FC vs Patriotas FC" referer="https://hoadao.tv/atletico-fc-vs-patriotas-fc-3888?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-07b97f6df8f18651165f1867c687b6a2.png",Atletico FC vs Patriotas FC [No BLV - SD (ND)]
-https://live.alilicloud.com/live/a4f2ba995d71ca7fcd3e5292a38f3da4/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/palestino-vs-everton-cd-2464?mode=ndsd
-#EXTINF:-1 group-title="Palestino vs Everton CD" referer="https://hoadao.tv/palestino-vs-everton-cd-2464?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-eb1e7ad9dc03b9f388fe79b464fef5f4.png",Palestino vs Everton CD [No BLV - SD (ND)]
-https://live.alilicloud.com/live/572360786ea831f0a293a9f38f485523/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/juan-pablo-ii-vs-comerciantes-unidos-2465?mode=ndsd
-#EXTINF:-1 group-title="Juan Pablo II vs Comerciantes Unidos" referer="https://hoadao.tv/juan-pablo-ii-vs-comerciantes-unidos-2465?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-edf7d9013a64335883bba20174fb2648.png",Juan Pablo II vs Comerciantes Unidos [No BLV - SD (ND)]
-https://live.alilicloud.com/live/135e609e9dff5024e6070ec8738b0ec8/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/ca-independiente-vs-ca-platense-2466?mode=ndsd
+#EXTINF:-1 group-title="CA Independiente vs CA Platense" referer="https://hoadao.tv/ca-independiente-vs-ca-platense-2466?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-61dcbe78ba99d066aad0d55a7d3f58ed.png",CA Independiente vs CA Platense [No BLV - SD (ND)]
+https://live.alilicloud.com/live/41ed69467b3fb289b39595142f47bfc1/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/alianza-futbol-club-vs-la-equidad-2467?mode=ndsd
+#EXTINF:-1 group-title="Alianza Fútbol Club vs La Equidad" referer="https://hoadao.tv/alianza-futbol-club-vs-la-equidad-2467?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-6245b8f3aba685e6056030015d70a124.png",Alianza Fútbol Club vs La Equidad [No BLV - SD (ND)]
+https://live.alilicloud.com/live/4b4b4c938ce9599ba0f5706b63d55e04/playlist.m3u8
