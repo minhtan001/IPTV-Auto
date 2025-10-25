@@ -1,15 +1,13 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",08h10-25/10 Independiente Rivadavia Vs River Plate BLV TỐNG GIANG
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",10h00-25/10 Mazatlan FC Vs Club America BLV NHỊ KA
 https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",10h00-25/10 Mazatlan FC Vs Club America BLV HẠNG VŨ
 https://hls.cdnok9.com/live/HANGVU1/index.m3u8?expire=1788427256&sign=35e56aacb29c1a0624a29230271c3db1
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",11h00-25/10 Auckland FC Vs Western Sydney BLV KHỔNG MINH
-http://127.0.0.1
+https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",11h00-25/10 Auckland FC Vs Western Sydney BLV RICARDO
 https://hls.cdnok9.com/live/RICARDO/index.m3u8?expire=1788427256&sign=a956b265a5fbe0508d6033243c880515
@@ -103,4 +101,6 @@ http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",18h00-25/10 Arminia Bielefeld Vs SV Elversberg BLV URA
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",18h30-25/10 Ipswich Town Vs West Bromwich(WBA) BLV LỮ BỐ
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",18h30-25/10 Ipswich Town Vs West Bromwich(WBA) BLV LÝ QUỲ
 http://127.0.0.1
