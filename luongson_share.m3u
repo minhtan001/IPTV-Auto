@@ -1,19 +1,16 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",05h00-25/10 Gremio Novorizontino Vs Botafogo SP TRỢ LÝ ĐIÊU THUYỀN
+#EXTINF:-1 group-title="LuongSon_2",07h20-25/10 Inter Miami CF Vs Nashville BLV HẠNG VŨ
+https://hls.cdnok9.com/live/HANGVU1/index.m3u8?expire=1788427256&sign=35e56aacb29c1a0624a29230271c3db1
+#EXTVLCOPT:http-referrer=https://ls39.live/
+#EXTINF:-1 group-title="LuongSon_2",08h00-25/10 FC Juarez Vs Puebla TRỢ LÝ ĐIÊU THUYỀN
 https://hls.cdnok9.com/live/DIEUTHUYEN/index.m3u8?expire=1788427256&sign=8cebea5448db2f74ea04021d9362ba87
 #EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",06h00-25/10 Fortaleza F.C Vs Deportivo Pasto BLV VÕ TÒNG
+#EXTINF:-1 group-title="LuongSon_2",08h10-25/10 America de Cali Vs Atletico Junior Barranquilla BLV VÕ TÒNG
 https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",07h00-25/10 Inter Miami CF Vs Nashville BLV HẠNG VŨ
-https://hls.cdnok9.com/live/HANGVU1/index.m3u8?expire=1788427256&sign=35e56aacb29c1a0624a29230271c3db1
-#EXTINF:-1 group-title="LuongSon_2",08h00-25/10 FC Juarez Vs Puebla TRỢ LÝ ĐIÊU THUYỀN
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",08h10-25/10 America de Cali Vs Atletico Junior Barranquilla BLV VÕ TÒNG
-http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",08h10-25/10 Independiente Rivadavia Vs River Plate BLV TỐNG GIANG
-http://127.0.0.1
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
 #EXTINF:-1 group-title="LuongSon_2",09h00-25/10 Marconi Stallions Vs Wollongong Wolves BLV HẠNG VŨ
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",10h00-25/10 Mazatlan FC Vs Club America BLV NHỊ KA
@@ -30,9 +27,9 @@ http://127.0.0.1
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",12h00-25/10 Jeonbuk Hyundai Motors Vs Gimcheon Sangmu FC BLV VÕ TÒNG
 http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",12h00-25/10 Shimizu S-Pulse Vs Tokyo Verdy BLV TỐNG GIANG
-http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",12h00-25/10 Urawa Red Diamonds Vs Machida Zelvia BLV PEP
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",12h00-25/10 Shimizu S-Pulse Vs Tokyo Verdy BLV TỐNG GIANG
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",12h00-25/10 FC Tokyo Vs Fagiano Okayama BLV HẠNG VŨ
 http://127.0.0.1
@@ -74,6 +71,14 @@ http://127.0.0.1
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",17h00-25/10 Khatoco Khanh Hoa Vs PVF-CAND B BLV VƯƠNG LUÂN
 http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",18h00-25/10 Becamex TP Ho Chi Minh Vs Hanoi FC BLV QUAN VŨ
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",18h00-25/10 Becamex TP Ho Chi Minh Vs Hanoi FC BLV TRƯƠNG THANH
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",18h00-25/10 Becamex TP Ho Chi Minh Vs Hanoi FC BLV MÃ LÂN
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",18h00-25/10 Becamex TP Ho Chi Minh Vs Hanoi FC BLV VI TIỂU BẢO
+http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",18h00-25/10 PVF-CAND Vs Ninh Binh FC BLV LA THÀNH
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",18h00-25/10 PVF-CAND Vs Ninh Binh FC BLV HOA VINH
@@ -82,19 +87,6 @@ http://127.0.0.1
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",18h00-25/10 PVF-CAND Vs Ninh Binh FC BLV YẾN THANH
 http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",18h00-25/10 Henan Football Club Vs Zhejiang Professional FC BLV TỐNG GIANG
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",18h00-25/10 Henan Football Club Vs Zhejiang Professional FC BLV SÁCH SIÊU
-http://127.0.0.1
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",18h00-25/10 Henan Football Club Vs Zhejiang Professional FC BLV KENCHU
-https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
-#EXTINF:-1 group-title="LuongSon_2",18h00-25/10 Holstein Kiel Vs VfL Bochum BLV PHONG VÂN
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",18h00-25/10 Holstein Kiel Vs VfL Bochum BLV TÔN LẬP
-http://127.0.0.1
-#EXTINF:-1 group-title="LuongSon_2",18h00-25/10 Holstein Kiel Vs VfL Bochum BLV VÕ TÒNG
-http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",18h00-25/10 Dynamo Dresden Vs SC Paderborn 07 BLV MÃ SIÊU
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",18h00-25/10 Dynamo Dresden Vs SC Paderborn 07 BLV ZORO
@@ -102,4 +94,12 @@ http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",18h00-25/10 Arminia Bielefeld Vs SV Elversberg BLV THẠCH TÚ
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",18h00-25/10 Arminia Bielefeld Vs SV Elversberg BLV URA
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",18h00-25/10 Holstein Kiel Vs VfL Bochum BLV PHONG VÂN
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",18h00-25/10 Holstein Kiel Vs VfL Bochum BLV TÔN LẬP
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",18h00-25/10 Holstein Kiel Vs VfL Bochum BLV VÕ TÒNG
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",18h00-25/10 Henan Football Club Vs Zhejiang Professional FC BLV TỐNG GIANG
 http://127.0.0.1
