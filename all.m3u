@@ -1,55 +1,36 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://khandaia.info/truc-tiep/vjxm8ghejx7gr6o
-#EXTINF:-1 group-title="KhanDaiA" referer="https://khandaia.info/truc-tiep/vjxm8ghejx7gr6o" tvg-logo="https://hxcv.site/images/cache/match-24593f4e1b2a37042fad0e67e68749d3.png",Valencia CF - Villarreal CF [BLV SIÊU CAY - Source]
-https://live.alilicloud.com/live/28e0a77535645f235482d156b53e94a7/playlist.m3u8
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-6288d3444020b44b9d80cb51b78c020f.png",Benfica vs FC Arouca [CÂY KHẾ - HD M3U8]
-https://pull.niur.live/live/stream-532257_lhd.m3u8?txSecret=b06d8bcba9c8860f73a935dd117aa6c3&txTime=68fd920f
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-6288d3444020b44b9d80cb51b78c020f.png",Benfica vs FC Arouca [CÂY KHẾ - M3U8]
-https://pull.niur.live/live/stream-532257_lsd.m3u8?txSecret=404507f8d60b11d14cfcd494af0b61f6&txTime=68fd920f
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-6288d3444020b44b9d80cb51b78c020f.png",Benfica vs FC Arouca [CÂY KHẾ - HD FLV]
-https://pull.niur.live/live/stream-532257_lhd.flv?txSecret=b06d8bcba9c8860f73a935dd117aa6c3&txTime=68fd920f
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-6288d3444020b44b9d80cb51b78c020f.png",Benfica vs FC Arouca [CÂY KHẾ - FLV]
-https://pull.niur.live/live/stream-532257_lsd.flv?txSecret=404507f8d60b11d14cfcd494af0b61f6&txTime=68fd920f
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-6288d3444020b44b9d80cb51b78c020f.png",Benfica vs FC Arouca [BLV VODKA - HD M3U8]
-https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1761430463-0-0-64a2b620025cf358567ac3261388eab7
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-6288d3444020b44b9d80cb51b78c020f.png",Benfica vs FC Arouca [BLV VODKA - M3U8]
-https://pull.niues.live/live/stream-500605_lsd.m3u8?auth_key=1761430463-0-0-0b02a27ba5dd51d2bf31e79546989481
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-6288d3444020b44b9d80cb51b78c020f.png",Benfica vs FC Arouca [BLV VODKA - HD FLV]
-https://pull06.scstream.net/live/stream-500605_lhd.flv?auth_key=1761430463-0-0-42a407596679e70bf45a00b17c017c09
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-6288d3444020b44b9d80cb51b78c020f.png",Benfica vs FC Arouca [BLV VODKA - FLV]
-https://pull06.scstream.net/live/stream-500605_lsd.flv?auth_key=1761430463-0-0-60749c235f46ef35d31ab0c8e66ff13d
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-23a419e37327fc4f97ac1501f69707ca.png",Fluminense RJ vs Internacional RS [RED BULL - HD M3U8]
-https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1761430463-0-0-09e70e0ba1fbc0e496b727b77827de87
+https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1761431783-0-0-1bba9feb5340b53bf76e58a21ff8d304
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-23a419e37327fc4f97ac1501f69707ca.png",Fluminense RJ vs Internacional RS [RED BULL - M3U8]
-https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1761430463-0-0-8436d587c42da390dd1f0166d04b50ff
+https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1761431783-0-0-d765e42de20456dbe6d57be7ed5d1a1d
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-23a419e37327fc4f97ac1501f69707ca.png",Fluminense RJ vs Internacional RS [RED BULL - HD FLV]
-https://pull06.scstream.net/live/stream-547345_lhd.flv?auth_key=1761430463-0-0-7c94e8715520c1aeeb249ab03be72b28
+https://pull06.scstream.net/live/stream-547345_lhd.flv?auth_key=1761431783-0-0-3f21eb07ff9390d9b6cc62591a776470
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-23a419e37327fc4f97ac1501f69707ca.png",Fluminense RJ vs Internacional RS [RED BULL - FLV]
-https://pull06.scstream.net/live/stream-547345_lsd.flv?auth_key=1761430463-0-0-95fa84a03cb52af21d3e5123eabd46ad
+https://pull06.scstream.net/live/stream-547345_lsd.flv?auth_key=1761431783-0-0-b4fbc15ab91621d4b09fd718a0976c0f
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-23a419e37327fc4f97ac1501f69707ca.png",Fluminense RJ vs Internacional RS [BLV GÔN - HD M3U8]
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=a35670f876e86826c5ead4edad7bcbc2&txTime=68fd920f
+https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=e2ba0e26525a2ec03039c318ff4645f5&txTime=68fd9737
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-23a419e37327fc4f97ac1501f69707ca.png",Fluminense RJ vs Internacional RS [BLV GÔN - M3U8]
-https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=94da09771d5b4587d5168fd44337b409&txTime=68fd920f
+https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=7cfc851e7bf3b51b754f7ab159844a9f&txTime=68fd9737
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-23a419e37327fc4f97ac1501f69707ca.png",Fluminense RJ vs Internacional RS [BLV GÔN - HD FLV]
-https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=a35670f876e86826c5ead4edad7bcbc2&txTime=68fd920f
+https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=e2ba0e26525a2ec03039c318ff4645f5&txTime=68fd9737
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-23a419e37327fc4f97ac1501f69707ca.png",Fluminense RJ vs Internacional RS [BLV GÔN - FLV]
-https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=94da09771d5b4587d5168fd44337b409&txTime=68fd920f
+https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=7cfc851e7bf3b51b754f7ab159844a9f&txTime=68fd9737
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-9eacbda7505fca0e388c1fe4d2d0a6c0.png",Sport Club do Recife vs Mirassol [BLV SÓI - HD M3U8]
-https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1761430463-0-0-4a80eabcf9632a62722f65989951d375
+https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1761431783-0-0-4a91527628fcfb7128a2f3be261bd5b1
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-9eacbda7505fca0e388c1fe4d2d0a6c0.png",Sport Club do Recife vs Mirassol [BLV SÓI - M3U8]
-https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1761430463-0-0-60e94e7230b3443cdeadfdc745b59ddc
+https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1761431783-0-0-d70e880149790bc6dcf700f9ca629fea
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-9eacbda7505fca0e388c1fe4d2d0a6c0.png",Sport Club do Recife vs Mirassol [BLV SÓI - HD FLV]
-https://pull06.scstream.net/live/stream-427562_lhd.flv?auth_key=1761430463-0-0-c49ebe003561567d4efab2c093ee2c08
+https://pull06.scstream.net/live/stream-427562_lhd.flv?auth_key=1761431783-0-0-c964cb050fb69de9df5266760615e927
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-9eacbda7505fca0e388c1fe4d2d0a6c0.png",Sport Club do Recife vs Mirassol [BLV SÓI - FLV]
-https://pull06.scstream.net/live/stream-427562_lsd.flv?auth_key=1761430463-0-0-b4d601333194855ad8629b71f5603641
+https://pull06.scstream.net/live/stream-427562_lsd.flv?auth_key=1761431783-0-0-eaa99249c19bb3d57a46ae1ee7d8d4a6
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-9eacbda7505fca0e388c1fe4d2d0a6c0.png",Sport Club do Recife vs Mirassol [BLV VODKA - HD M3U8]
-https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1761430463-0-0-64a2b620025cf358567ac3261388eab7
+https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1761431783-0-0-58d3327ec87e2fa763a6dd2a8a5722cf
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-9eacbda7505fca0e388c1fe4d2d0a6c0.png",Sport Club do Recife vs Mirassol [BLV VODKA - M3U8]
-https://pull.niues.live/live/stream-500605_lsd.m3u8?auth_key=1761430463-0-0-0b02a27ba5dd51d2bf31e79546989481
+https://pull.niues.live/live/stream-500605_lsd.m3u8?auth_key=1761431783-0-0-c45af76a7433e42464f1cb5f5abcb0b7
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-9eacbda7505fca0e388c1fe4d2d0a6c0.png",Sport Club do Recife vs Mirassol [BLV VODKA - HD FLV]
-https://pull06.scstream.net/live/stream-500605_lhd.flv?auth_key=1761430463-0-0-42a407596679e70bf45a00b17c017c09
+https://pull06.scstream.net/live/stream-500605_lhd.flv?auth_key=1761431783-0-0-74c6c4dfaad1c101dce5833f2f66959d
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-9eacbda7505fca0e388c1fe4d2d0a6c0.png",Sport Club do Recife vs Mirassol [BLV VODKA - FLV]
-https://pull06.scstream.net/live/stream-500605_lsd.flv?auth_key=1761430463-0-0-60749c235f46ef35d31ab0c8e66ff13d
+https://pull06.scstream.net/live/stream-500605_lsd.flv?auth_key=1761431783-0-0-ff182f9878b94e3a0b0c16ce521fe128
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-3303b6dfa263d5a2fd9b03950336504c.png",Fortaleza vs CR Flamengo [BLV THỎ - HD M3U8]
 https://pull.niues.live/live/stream-548260_lhd.m3u8?auth_key=1761407877-0-0-8b7a85241d200949d3096872a926038f
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-3303b6dfa263d5a2fd9b03950336504c.png",Fortaleza vs CR Flamengo [BLV THỎ - M3U8]
@@ -179,13 +160,13 @@ https://pull.niur.live/live/stream-525090_lhd.flv?txSecret=d6801ee7908ff74c4d263
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-1b865d518a6726e4e18c6713b3277c26.png",Sao Paulo vs Bahia [BLV XAVI - FLV]
 https://pull.niur.live/live/stream-525090_lsd.flv?txSecret=16e40c874da382052dfa51a969a1ba9a&txTime=68fd6c10
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-b12511e3bae87bda40f91c59b3cd4efb.png",Cancun FC vs Correcaminos UAT [BLV VODKA - HD M3U8]
-https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1761430463-0-0-64a2b620025cf358567ac3261388eab7
+https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1761431783-0-0-58d3327ec87e2fa763a6dd2a8a5722cf
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-b12511e3bae87bda40f91c59b3cd4efb.png",Cancun FC vs Correcaminos UAT [BLV VODKA - M3U8]
-https://pull.niues.live/live/stream-500605_lsd.m3u8?auth_key=1761430463-0-0-0b02a27ba5dd51d2bf31e79546989481
+https://pull.niues.live/live/stream-500605_lsd.m3u8?auth_key=1761431783-0-0-c45af76a7433e42464f1cb5f5abcb0b7
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-b12511e3bae87bda40f91c59b3cd4efb.png",Cancun FC vs Correcaminos UAT [BLV VODKA - HD FLV]
-https://pull06.scstream.net/live/stream-500605_lhd.flv?auth_key=1761430463-0-0-42a407596679e70bf45a00b17c017c09
+https://pull06.scstream.net/live/stream-500605_lhd.flv?auth_key=1761431783-0-0-74c6c4dfaad1c101dce5833f2f66959d
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-b12511e3bae87bda40f91c59b3cd4efb.png",Cancun FC vs Correcaminos UAT [BLV VODKA - FLV]
-https://pull06.scstream.net/live/stream-500605_lsd.flv?auth_key=1761430463-0-0-60749c235f46ef35d31ab0c8e66ff13d
+https://pull06.scstream.net/live/stream-500605_lsd.flv?auth_key=1761431783-0-0-ff182f9878b94e3a0b0c16ce521fe128
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-edf300117b53157e4c2d21de38f6153e.png",Mineros de Zacatecas vs CF Atlante [A CHÈ - HD M3U8]
 https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=fd393fd9f6823ace4c4e1863407bc468&txTime=68fd1e99
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-edf300117b53157e4c2d21de38f6153e.png",Mineros de Zacatecas vs CF Atlante [A CHÈ - M3U8]
@@ -283,21 +264,21 @@ https://stream-flv.dfsfe.top/lives/534055-manifest.m3u8
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-4ac3690d65e3613bb4db5951dbae295d.png",Chivas Guadalajara vs Atlas [BLV RAMBO - FLV]
 https://stream-flv.dfsfe.top/lives/534055-480p.m3u8
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-4ac3690d65e3613bb4db5951dbae295d.png",Chivas Guadalajara vs Atlas [BLV GÔN - HD M3U8]
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=a35670f876e86826c5ead4edad7bcbc2&txTime=68fd920f
+https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=e2ba0e26525a2ec03039c318ff4645f5&txTime=68fd9737
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-4ac3690d65e3613bb4db5951dbae295d.png",Chivas Guadalajara vs Atlas [BLV GÔN - M3U8]
-https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=94da09771d5b4587d5168fd44337b409&txTime=68fd920f
+https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=7cfc851e7bf3b51b754f7ab159844a9f&txTime=68fd9737
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-4ac3690d65e3613bb4db5951dbae295d.png",Chivas Guadalajara vs Atlas [BLV GÔN - HD FLV]
-https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=a35670f876e86826c5ead4edad7bcbc2&txTime=68fd920f
+https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=e2ba0e26525a2ec03039c318ff4645f5&txTime=68fd9737
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-4ac3690d65e3613bb4db5951dbae295d.png",Chivas Guadalajara vs Atlas [BLV GÔN - FLV]
-https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=94da09771d5b4587d5168fd44337b409&txTime=68fd920f
+https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=7cfc851e7bf3b51b754f7ab159844a9f&txTime=68fd9737
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-4ac3690d65e3613bb4db5951dbae295d.png",Chivas Guadalajara vs Atlas [BLV SÓI - HD M3U8]
-https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1761430463-0-0-4a80eabcf9632a62722f65989951d375
+https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1761431783-0-0-4a91527628fcfb7128a2f3be261bd5b1
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-4ac3690d65e3613bb4db5951dbae295d.png",Chivas Guadalajara vs Atlas [BLV SÓI - M3U8]
-https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1761430463-0-0-60e94e7230b3443cdeadfdc745b59ddc
+https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1761431783-0-0-d70e880149790bc6dcf700f9ca629fea
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-4ac3690d65e3613bb4db5951dbae295d.png",Chivas Guadalajara vs Atlas [BLV SÓI - HD FLV]
-https://pull06.scstream.net/live/stream-427562_lhd.flv?auth_key=1761430463-0-0-c49ebe003561567d4efab2c093ee2c08
+https://pull06.scstream.net/live/stream-427562_lhd.flv?auth_key=1761431783-0-0-c964cb050fb69de9df5266760615e927
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-4ac3690d65e3613bb4db5951dbae295d.png",Chivas Guadalajara vs Atlas [BLV SÓI - FLV]
-https://pull06.scstream.net/live/stream-427562_lsd.flv?auth_key=1761430463-0-0-b4d601333194855ad8629b71f5603641
+https://pull06.scstream.net/live/stream-427562_lsd.flv?auth_key=1761431783-0-0-eaa99249c19bb3d57a46ae1ee7d8d4a6
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-2d0f0a610263746914621992e9160d28.png",Wellington Phoenix vs Brisbane Roar [BLV Củ Cải - HD M3U8]
 https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1761410812-0-0-ba216352da32bf6eed618bd5f7c74344
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-2d0f0a610263746914621992e9160d28.png",Wellington Phoenix vs Brisbane Roar [BLV Củ Cải - M3U8]
@@ -378,36 +359,22 @@ https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1761402906-0-0-dab2
 https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1761402906-0-0-e3b945760aee54af187cc9bf1e6a7568
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-13a3b397a535d74497270eb81b31d4bb.png",Heidelberg United vs South Hobart [BLV NIBO - FLV]
 https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1761402906-0-0-70dbcc9990d15e61a36bb4590a6d4772
-#EXTVLCOPT:http-referrer=https://hoadao.tv/brentford-vs-liverpool-3871?mode=sd
-#EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/brentford-vs-liverpool-3871?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-961cb8e42c49df92f988f585d86d435a.png",Brentford vs Liverpool [BLV RICKY - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_rickysd/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/brentford-vs-liverpool-3871?mode=hd
-#EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/brentford-vs-liverpool-3871?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-961cb8e42c49df92f988f585d86d435a.png",Brentford vs Liverpool [BLV RICKY - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_ricky/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/brentford-vs-liverpool-3871?mode=flv
-#EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/brentford-vs-liverpool-3871?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-961cb8e42c49df92f988f585d86d435a.png",Brentford vs Liverpool [BLV RICKY - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_ricky.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/brentford-vs-liverpool-3871?mode=flv2
-#EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/brentford-vs-liverpool-3871?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-961cb8e42c49df92f988f585d86d435a.png",Brentford vs Liverpool [BLV RICKY - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_ricky.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/valencia-cf-vs-villarreal-cf-3873?mode=sd
-#EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/valencia-cf-vs-villarreal-cf-3873?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-56f64966cf824fb25534d3e131c28897.png",Valencia CF vs Villarreal CF [BLV PHÁO - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/valencia-cf-vs-villarreal-cf-3873?mode=hd
-#EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/valencia-cf-vs-villarreal-cf-3873?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-56f64966cf824fb25534d3e131c28897.png",Valencia CF vs Villarreal CF [BLV PHÁO - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/valencia-cf-vs-villarreal-cf-3873?mode=flv
-#EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/valencia-cf-vs-villarreal-cf-3873?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-56f64966cf824fb25534d3e131c28897.png",Valencia CF vs Villarreal CF [BLV PHÁO - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/valencia-cf-vs-villarreal-cf-3873?mode=flv2
-#EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/valencia-cf-vs-villarreal-cf-3873?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-56f64966cf824fb25534d3e131c28897.png",Valencia CF vs Villarreal CF [BLV PHÁO - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/fluminense-rj-vs-internacional-rs-3900?mode=ndsd
-#EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/fluminense-rj-vs-internacional-rs-3900?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-472966c832b92aa587c40b0d9f3fe0d0.png",Fluminense RJ vs Internacional RS [No BLV - SD (ND)]
-https://live.alilicloud.com/live/b93c1d139bde3808158add687b95a057/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/atletico-tembetary-vs-sportivo-luqueno-5208?mode=ndsd
-#EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/atletico-tembetary-vs-sportivo-luqueno-5208?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-6ac8cbb9807cf0d2a3f13a70f85d12b3.png",Atlético Tembetary vs Sportivo Luqueno [No BLV - SD (ND)]
-https://live.alilicloud.com/live/653fac1a91cedd471b2f3d5f84bab723/playlist.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-7c8a831cd7c54aacbfdb708fff2115fa.png",Panteras vs Fuerza Regia [BLV BEAN - HD M3U8]
+https://stream-flv.dfsfe.top/lives/9912111-manifest.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-7c8a831cd7c54aacbfdb708fff2115fa.png",Panteras vs Fuerza Regia [BLV BEAN - M3U8]
+https://stream-flv.dfsfe.top/lives/9912111-480p.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-7c8a831cd7c54aacbfdb708fff2115fa.png",Panteras vs Fuerza Regia [BLV BEAN - HD FLV]
+https://stream-flv.dfsfe.top/lives/9912111-manifest.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-7c8a831cd7c54aacbfdb708fff2115fa.png",Panteras vs Fuerza Regia [BLV BEAN - FLV]
+https://stream-flv.dfsfe.top/lives/9912111-480p.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-7c8a831cd7c54aacbfdb708fff2115fa.png",Panteras vs Fuerza Regia [BLV HENRY - HD M3U8]
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1761390160-0-0-5115f3bc75bc841fc1d4f44fa2211e5a
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-7c8a831cd7c54aacbfdb708fff2115fa.png",Panteras vs Fuerza Regia [BLV HENRY - M3U8]
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1761390160-0-0-fc2255a900a8323c04a2c69852615dd1
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-7c8a831cd7c54aacbfdb708fff2115fa.png",Panteras vs Fuerza Regia [BLV HENRY - HD FLV]
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1761390160-0-0-588417f373b76e1a5c94ecef2a7180c7
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-7c8a831cd7c54aacbfdb708fff2115fa.png",Panteras vs Fuerza Regia [BLV HENRY - FLV]
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1761390160-0-0-e33b7108e55efb594b36f2aa6ea08470
 #EXTVLCOPT:http-referrer=https://hoadao.tv/portland-hearts-of-pine-vs-av-alta-3084?mode=ndsd
 #EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/portland-hearts-of-pine-vs-av-alta-3084?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-03f58521ddf95806c7007bd2d4b7d8f3.png",Portland Hearts of Pine vs AV Alta [No BLV - SD (ND)]
 https://live.alilicloud.com/live/5bedcc5d21fc03cc1d31831f0ee32e7d/playlist.m3u8
@@ -426,22 +393,36 @@ https://live.alilicloud.com/live/ce475893a677a1148c43e24493cf48c0/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/atletico-bucaramanga-vs-llaneros-fc-5023?mode=ndsd
 #EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/atletico-bucaramanga-vs-llaneros-fc-5023?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-503d6006ff531402d154328cf303d0d3.png",Atletico Bucaramanga vs Llaneros FC [No BLV - SD (ND)]
 https://live.alilicloud.com/live/ed03198a743d24d382b3276519161cd0/playlist.m3u8
-#EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-246288cde22c21b6bd4ad2fbc5608457.png",Benfica vs FC Arouca [VĂN QUÁ - HLS]
-https://hls.cdnvankhanh.com/live/VANQUA/index.m3u8?expire=1848232560&sign=1dde72065670bd44db0f1ee0f575303c
-#EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-246288cde22c21b6bd4ad2fbc5608457.png",Benfica vs FC Arouca [VĂN QUÁ - FLV]
-https://flv.cdnvankhanh.com/live/VANQUA.flv?expire=1848232560&sign=1dde72065670bd44db0f1ee0f575303c
+#EXTVLCOPT:http-referrer=https://hoadao.tv/sport-club-do-recife-vs-mirassol-3906?mode=ndsd
+#EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/sport-club-do-recife-vs-mirassol-3906?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-b58c264343b6f35c0c25ff4db0830520.png",Sport Club do Recife vs Mirassol [No BLV - SD (ND)]
+https://live.alilicloud.com/live/f142091f8b4ce14903e28eb27148104a/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/sc-paysandu-para-vs-avai-fc-3907?mode=ndsd
+#EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/sc-paysandu-para-vs-avai-fc-3907?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-17407d94dd817f18892c319b3b08dc59.png",SC Paysandu Para vs Avaí FC [No BLV - SD (ND)]
+https://live.alilicloud.com/live/bd3f3016676cb4a8f0e3cf7bf5c1d2a2/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/club-guabira-vs-blooming-3908?mode=ndsd
+#EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/club-guabira-vs-blooming-3908?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-0a88430fd6f0566b3523f77d34884b8b.png",Club Guabira vs Blooming [No BLV - SD (ND)]
+https://live.alilicloud.com/live/b8b76b2c43421572ce55378312a9e7df/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/barcelona-scecu-vs-libertad-fc-3909?mode=ndsd
+#EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/barcelona-scecu-vs-libertad-fc-3909?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-0e2c423fd276b595f5875738aea4fbd2.png",Barcelona SC(ECU) vs Libertad FC [No BLV - SD (ND)]
+https://live.alilicloud.com/live/6766370fc2e55b5936d347172f9d46ef/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/monagas-sc-vs-deportivo-la-guaira-3910?mode=ndsd
+#EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/monagas-sc-vs-deportivo-la-guaira-3910?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-16c84e8cd8e440ae68661fd33c44b8ab.png",Monagas SC vs Deportivo La Guaira [No BLV - SD (ND)]
+https://live.alilicloud.com/live/7affbc0982705045cec3527998510d05/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/cerro-largo-vs-racing-club-montevideo-3911?mode=ndsd
+#EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/cerro-largo-vs-racing-club-montevideo-3911?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-e0ab619c0308da227e545c05eec7824d.png",Cerro Largo vs Racing Club Montevideo [No BLV - SD (ND)]
+https://live.alilicloud.com/live/56eddb15fa5e2795080bffe451c63518/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
-#EXTINF:-1 group-title="Chuoichien" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-d9670a1476a76b6157bd214d44085ce3.png",Bucaramanga vs Llaneros [Nhà Đài - HD1 - Nhà Đài - HD1]
-https://gckc0525.edgemaxcdn.org/live/m5x3/playlist.m3u8
+#EXTINF:-1 group-title="Chuoichien" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-bd6c98bba9bd06152b100280e579a0e0.png",Sport Recife vs Mirassol [Nhà Đài - HD1 - Nhà Đài - HD1]
+https://gckc0525.edgemaxcdn.org/live/m4x4/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
-#EXTINF:-1 group-title="Chuoichien" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-d9670a1476a76b6157bd214d44085ce3.png",Bucaramanga vs Llaneros [Nhà Đài - HD1 - Nhà Đài - HD2]
-https://gckc0525.edgemaxcdn.org/live/m5x3.flv
+#EXTINF:-1 group-title="Chuoichien" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-bd6c98bba9bd06152b100280e579a0e0.png",Sport Recife vs Mirassol [Nhà Đài - HD1 - Nhà Đài - HD2]
+https://gckc0525.edgemaxcdn.org/live/m4x4.flv
 #EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
-#EXTINF:-1 group-title="Chuoichien" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-d9670a1476a76b6157bd214d44085ce3.png",Bucaramanga vs Llaneros [Nhà Đài - HD2 - Nhà Đài - HD1]
-https://gckc0525.edgemaxcdn.org/live/m5x3/playlist.m3u8
+#EXTINF:-1 group-title="Chuoichien" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-bd6c98bba9bd06152b100280e579a0e0.png",Sport Recife vs Mirassol [Nhà Đài - HD2 - Nhà Đài - HD1]
+https://gckc0525.edgemaxcdn.org/live/m4x4/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
-#EXTINF:-1 group-title="Chuoichien" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-d9670a1476a76b6157bd214d44085ce3.png",Bucaramanga vs Llaneros [Nhà Đài - HD2 - Nhà Đài - HD2]
-https://gckc0525.edgemaxcdn.org/live/m5x3.flv
+#EXTINF:-1 group-title="Chuoichien" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-bd6c98bba9bd06152b100280e579a0e0.png",Sport Recife vs Mirassol [Nhà Đài - HD2 - Nhà Đài - HD2]
+https://gckc0525.edgemaxcdn.org/live/m4x4.flv
 #EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
 #EXTINF:-1 group-title="Chuoichien" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-ae9640a85cf8acaa6a0ed8968ca259c7.png",Huachipato vs Deportes Iquique [Nhà Đài - HD1 - Nhà Đài - HD1]
 https://gckc0525.edgemaxcdn.org/live/m5x2/playlist.m3u8
@@ -466,22 +447,18 @@ https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
 #EXTINF:-1 group-title="Chuoichien" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-569e257ee6bcaa3362056dc53640a772.png",Fluminense vs Internacional [Nhà Đài - HD2 - Nhà Đài - HD2]
 https://gckc0525.edgemaxcdn.org/live/m5x1.flv
-#EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-275168386408b5efb178eb4a9e58ca2e.png",Benfica vs FC Arouca [BLV VƯƠNG LUÂN - HLS]
-https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
-#EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-275168386408b5efb178eb4a9e58ca2e.png",Benfica vs FC Arouca [BLV VƯƠNG LUÂN - FLV]
-https://flv.cdnok9.com/live/VUONGLUAN.flv?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
-#EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-275168386408b5efb178eb4a9e58ca2e.png",Benfica vs FC Arouca [BLV VI TIỂU BẢO - HLS]
-https://hls.cdnok9.com/live/VITIEUBAO/index.m3u8?expire=1788427256&sign=8455ad268241104dcfa228cc4d4a76de
-#EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-275168386408b5efb178eb4a9e58ca2e.png",Benfica vs FC Arouca [BLV VI TIỂU BẢO - FLV]
-https://flv.cdnok9.com/live/VITIEUBAO.flv?expire=1788427256&sign=8455ad268241104dcfa228cc4d4a76de
-#EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-275168386408b5efb178eb4a9e58ca2e.png",Benfica vs FC Arouca [BLV LÝ ỨNG - HLS]
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-275168386408b5efb178eb4a9e58ca2e.png",Benfica vs FC Arouca [BLV LÝ ỨNG - FLV]
-https://flv.cdnok9.com/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-fc89a22d6f74d8086b61a0e9d474370e.png",Estrela da Amadora vs Rio Ave [BLV TÔN LẬP - HLS]
-https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-fc89a22d6f74d8086b61a0e9d474370e.png",Estrela da Amadora vs Rio Ave [BLV TÔN LẬP - FLV]
-https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Chuoichien" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-d9670a1476a76b6157bd214d44085ce3.png",Bucaramanga vs Llaneros [Nhà Đài - HD1 - Nhà Đài - HD1]
+https://gckc0525.edgemaxcdn.org/live/m5x3/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Chuoichien" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-d9670a1476a76b6157bd214d44085ce3.png",Bucaramanga vs Llaneros [Nhà Đài - HD1 - Nhà Đài - HD2]
+https://gckc0525.edgemaxcdn.org/live/m5x3.flv
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Chuoichien" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-d9670a1476a76b6157bd214d44085ce3.png",Bucaramanga vs Llaneros [Nhà Đài - HD2 - Nhà Đài - HD1]
+https://gckc0525.edgemaxcdn.org/live/m5x3/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Chuoichien" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-d9670a1476a76b6157bd214d44085ce3.png",Bucaramanga vs Llaneros [Nhà Đài - HD2 - Nhà Đài - HD2]
+https://gckc0525.edgemaxcdn.org/live/m5x3.flv
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/vtv1-hd.png",VTV1 HD [VTV1 HD]
 http://iptv.nhadai.org/stream/vtv1-hd
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/vtv3-hd.png",VTV3 HD [VTV3 HD]
@@ -578,18 +555,6 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",🔴 SD  (Nhanh) Benfica - FC Arouca
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@bomsd1.flv
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",🔴 HD  (Nhanh) Benfica - FC Arouca
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@bomhd1.flv
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",🔴 SD (Nhanh) CF Estrela Amadora SAD - Rio Ave
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@sunsd1.flv
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",🔴 HD (Nhanh) CF Estrela Amadora SAD - Rio Ave
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@sunhd1.flv
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",🔴 SD Nhanh Fluminense RJ - Internacional
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@maosd1.flv
@@ -692,10 +657,6 @@ http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/cd-victoria-vs-lobos-upnf
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",09:00 26/10 Wellington Phoenix - Brisbane Roar
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/wellington-phoenix-vs-brisbane-roar-n5k5qbre5x.html
-#EXTINF:-1 group-title="Socolive_2",02h30: [CÂY KHẾ] Benfica vs FC Arouca
-http://sharing.gotdns.ch:8091/socolive.php?id=532257
-#EXTINF:-1 group-title="Socolive_2",02h30: [BLV VODKA] Benfica vs FC Arouca
-http://sharing.gotdns.ch:8091/socolive.php?id=500605
 #EXTINF:-1 group-title="Socolive_2",03h30: [RED BULL] Fluminense RJ vs Internacional RS
 http://sharing.gotdns.ch:8091/socolive.php?id=547345
 #EXTINF:-1 group-title="Socolive_2",03h30: [BLV GÔN] Fluminense RJ vs Internacional RS
