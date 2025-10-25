@@ -2,15 +2,13 @@
 #EXTINF:-1 group-title="TruyenHinh_4",Unknown
 --------------------------------------------------------------------------------
 #EXTINF:-1 group-title="TruyenHinh_4",VTV1
-https://vng-live-cdn.seenow.vn/livesnv2/VTV1_HD/manifest.mpd
+https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_4",VTV2
 https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_4",VTV3
 https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_4",VTV4
 https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
-#EXTINF:-1 group-title="TruyenHinh_4",Vietnam Today
-https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_4",VTV5
 https://live.fptplay53.net/epzhd1/vtv5hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_4",VTV5 Tây Nam Bộ
@@ -25,7 +23,9 @@ https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_4",VTV9
 https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="TruyenHinh_4",VTV9
+#EXTINF:-1 group-title="TruyenHinh_4",VietNam Today
+https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="TruyenHinh_4",VietNam Today
 --------------------------------------------------------------------------------
 #EXTINF:-1 group-title="TruyenHinh_4",ON Vie Giải Trí
 https://freem3u.xyz/api/live/play.m3u8?vid=180
@@ -1427,7 +1427,7 @@ https://mt02.utako.moe/tabi/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_4",Tabi Channel
 --------------------------------------------------------------------------------
 #EXTINF:-1 group-title="TruyenHinh_4",KCTV
-http://hoiquan.click/kctv
+https://tv.intchoson.com/kctv/main_stream.m3u8
 #EXTINF:-1 group-title="TruyenHinh_4",KCTV
 --------------------------------------------------------------------------------
 #EXTINF:-1 group-title="TruyenHinh_4",KBS 1TV
