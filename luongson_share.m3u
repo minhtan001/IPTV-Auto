@@ -1,10 +1,13 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",11h00-25/10 Auckland FC Vs Western Sydney BLV KHỔNG MINH
-https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:-1 group-title="LuongSon_2",12h00-25/10 FC Tokyo Vs Fagiano Okayama BLV HẠNG VŨ
+https://hls.cdnok9.com/live/HANGVU1/index.m3u8?expire=1788427256&sign=35e56aacb29c1a0624a29230271c3db1
 #EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",11h00-25/10 Auckland FC Vs Western Sydney BLV RICARDO
-https://hls.cdnok9.com/live/RICARDO/index.m3u8?expire=1788427256&sign=a956b265a5fbe0508d6033243c880515
+#EXTINF:-1 group-title="LuongSon_2",12h00-25/10 Urawa Red Diamonds Vs Machida Zelvia BLV PEP
+https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
+#EXTVLCOPT:http-referrer=https://ls39.live/
+#EXTINF:-1 group-title="LuongSon_2",12h00-25/10 Shimizu S-Pulse Vs Tokyo Verdy BLV TỐNG GIANG
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",12h00-25/10 Yokohama Marinos Vs Hiroshima Sanfrecce TRỢ LÝ ĐIÊU THUYỀN
 https://hls.cdnok9.com/live/DIEUTHUYEN/index.m3u8?expire=1788427256&sign=8cebea5448db2f74ea04021d9362ba87
@@ -17,15 +20,6 @@ https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad017
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",12h00-25/10 Jeonbuk Hyundai Motors Vs Gimcheon Sangmu FC BLV VÕ TÒNG
 https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",12h00-25/10 Shimizu S-Pulse Vs Tokyo Verdy BLV TỐNG GIANG
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",12h00-25/10 FC Tokyo Vs Fagiano Okayama BLV HẠNG VŨ
-https://hls.cdnok9.com/live/HANGVU1/index.m3u8?expire=1788427256&sign=35e56aacb29c1a0624a29230271c3db1
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",12h00-25/10 Urawa Red Diamonds Vs Machida Zelvia BLV PEP
-https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",12h00-25/10 CFO Vs FLY MEGA LIVE
 https://hls.cdnok9.com/live/TEST2/index.m3u8?expire=1788427256&sign=1eeee2ecb43648dc5ef36b43282e16ae
@@ -113,4 +107,8 @@ http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",18h00-25/10 MKOI Vs T1 MEGA LIVE
 http://127.0.0.1
 #EXTINF:-1 group-title="LuongSon_2",18h30-25/10 Ipswich Town Vs West Bromwich(WBA) BLV LỮ BỐ
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",18h30-25/10 Ipswich Town Vs West Bromwich(WBA) BLV LÝ QUỲ
+http://127.0.0.1
+#EXTINF:-1 group-title="LuongSon_2",19h00-25/10 Bali United Vs Persita Tangerang BLV LÝ BÍ
 http://127.0.0.1
