@@ -1,25 +1,19 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/sydney-fc-vs-central-coast-mariners-2578?mode=ndsd
-#EXTINF:-1 group-title="Sydney FC vs Central Coast Mariners" referer="https://hoadao.tv/sydney-fc-vs-central-coast-mariners-2578?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-5977c81dd77a6dc0d7b0b36ed7c6fb33.png",Sydney FC vs Central Coast Mariners [No BLV - SD (ND)]
-https://live.alilicloud.com/live/f5ef15e0cc8ef54d9f5a2296bf759326/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/armed-forces-fc-vs-perak-fc-2093?mode=ndsd
-#EXTINF:-1 group-title="Armed Forces FC vs Perak FC" referer="https://hoadao.tv/armed-forces-fc-vs-perak-fc-2093?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-e016ea0cdd1b455b668ae02adafd6f20.png",Armed Forces FC vs Perak FC [No BLV - SD (ND)]
-https://live.alilicloud.com/live/93a505cac46c6cd0c26108b6e05fc198/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/altyn-asyr-fc-vs-fc-abdysh-ata-kant-2581?mode=ndsd
-#EXTINF:-1 group-title="Altyn Asyr FC vs FC Abdysh-Ata Kant" referer="https://hoadao.tv/altyn-asyr-fc-vs-fc-abdysh-ata-kant-2581?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-59eaaac3ce39b40998912779b01f1145.png",Altyn Asyr FC vs FC Abdysh-Ata Kant [No BLV - SD (ND)]
-https://live.alilicloud.com/live/a8347832f48540d7d2473b7c31ea6753/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/van-hien-university-vs-xuan-thien-phu-tho-2582?mode=ndsd
-#EXTINF:-1 group-title="Van Hien University vs Xuan Thien Phu Tho" referer="https://hoadao.tv/van-hien-university-vs-xuan-thien-phu-tho-2582?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-78b1ae4f1057236db75c6c39c5d7953f.png",Van Hien University vs Xuan Thien Phu Tho [No BLV - SD (ND)]
-https://live.alilicloud.com/live/14ec163a63c8782aee0b05aa11e8ba5b/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/ispe-fc-vs-thitsar-arman-fc-2584?mode=ndsd
-#EXTINF:-1 group-title="ISPE FC vs Thitsar Arman FC" referer="https://hoadao.tv/ispe-fc-vs-thitsar-arman-fc-2584?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-facbae5095cea9689a7be35461b73b52.png",ISPE FC vs Thitsar Arman FC [No BLV - SD (ND)]
-https://live.alilicloud.com/live/446229dc0c85445a8cf72c2385d1b494/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/yangon-united-vs-hantharwady-united-2586?mode=ndsd
-#EXTINF:-1 group-title="Yangon United vs Hantharwady United" referer="https://hoadao.tv/yangon-united-vs-hantharwady-united-2586?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-2409b0a4ba8134ff16653453ab23c6e3.png",Yangon United vs Hantharwady United [No BLV - SD (ND)]
-https://live.alilicloud.com/live/14fd7d6330839bce38f6355ae46f757a/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/fc-shakhtar-donetsk-u21-vs-kudrivka-nyva-u21-6690?mode=ndsd
-#EXTINF:-1 group-title="FC Shakhtar Donetsk U21 vs Kudrivka Nyva U21" referer="https://hoadao.tv/fc-shakhtar-donetsk-u21-vs-kudrivka-nyva-u21-6690?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-6685746e52149829d4bcedc8d0f99194.png",FC Shakhtar Donetsk U21 vs Kudrivka Nyva U21 [No BLV - SD (ND)]
-https://live.alilicloud.com/live/05cf5536fa2693a18fa7ba5889972faf/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/becamex-ho-chi-minh-city-vs-hanoi-fc-2668?mode=sd
+#EXTINF:-1 group-title="Becamex Ho Chi Minh City vs Hanoi FC" referer="https://hoadao.tv/becamex-ho-chi-minh-city-vs-hanoi-fc-2668?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-47f4dce1835760f65df5f560f923e7c4.png",Becamex Ho Chi Minh City vs Hanoi FC [BLV PHÁO - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/becamex-ho-chi-minh-city-vs-hanoi-fc-2668?mode=hd
+#EXTINF:-1 group-title="Becamex Ho Chi Minh City vs Hanoi FC" referer="https://hoadao.tv/becamex-ho-chi-minh-city-vs-hanoi-fc-2668?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-47f4dce1835760f65df5f560f923e7c4.png",Becamex Ho Chi Minh City vs Hanoi FC [BLV PHÁO - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/becamex-ho-chi-minh-city-vs-hanoi-fc-2668?mode=flv
+#EXTINF:-1 group-title="Becamex Ho Chi Minh City vs Hanoi FC" referer="https://hoadao.tv/becamex-ho-chi-minh-city-vs-hanoi-fc-2668?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-47f4dce1835760f65df5f560f923e7c4.png",Becamex Ho Chi Minh City vs Hanoi FC [BLV PHÁO - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/becamex-ho-chi-minh-city-vs-hanoi-fc-2668?mode=flv2
+#EXTINF:-1 group-title="Becamex Ho Chi Minh City vs Hanoi FC" referer="https://hoadao.tv/becamex-ho-chi-minh-city-vs-hanoi-fc-2668?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-47f4dce1835760f65df5f560f923e7c4.png",Becamex Ho Chi Minh City vs Hanoi FC [BLV PHÁO - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/becamex-ho-chi-minh-city-vs-hanoi-fc-2668?mode=ndsd
+#EXTINF:-1 group-title="Becamex Ho Chi Minh City vs Hanoi FC" referer="https://hoadao.tv/becamex-ho-chi-minh-city-vs-hanoi-fc-2668?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-47f4dce1835760f65df5f560f923e7c4.png",Becamex Ho Chi Minh City vs Hanoi FC [BLV PHÁO - SD (ND)]
+https://live.alilicloud.com/live/f5864d457e0870f9013bd0d7742bc607/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/sc-poltava-u21-vs-kolos-kovalivka-u21-2128?mode=ndsd
 #EXTINF:-1 group-title="SC Poltava U21 vs Kolos Kovalivka U21" referer="https://hoadao.tv/sc-poltava-u21-vs-kolos-kovalivka-u21-2128?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-fd71e22f8d3b07fa27ed40692ef0b585.png",SC Poltava U21 vs Kolos Kovalivka U21 [No BLV - SD (ND)]
 https://live.alilicloud.com/live/28099d641095f8c936aded11818061b5/playlist.m3u8
@@ -56,6 +50,12 @@ https://live.alilicloud.com/live/4e9e824f4f178bd30697354c160650e4/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/prykarpattya-ivano-frankivsk-vs-fc-inhulets-petrove-3272?mode=ndsd
 #EXTINF:-1 group-title="Prykarpattya Ivano Frankivsk vs FC Inhulets Petrove" referer="https://hoadao.tv/prykarpattya-ivano-frankivsk-vs-fc-inhulets-petrove-3272?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-a85447b811ffef07091418f0a31122e5.png",Prykarpattya Ivano Frankivsk vs FC Inhulets Petrove [No BLV - SD (ND)]
 https://live.alilicloud.com/live/2bfee120781e8cdfa4f72cf067c88399/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/adana-demirspor-vs-belediye-vanspor-2637?mode=ndsd
+#EXTINF:-1 group-title="Adana Demirspor vs Belediye Vanspor" referer="https://hoadao.tv/adana-demirspor-vs-belediye-vanspor-2637?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-8f0a8799b40e31092df41e0b91211fd5.png",Adana Demirspor vs Belediye Vanspor [No BLV - SD (ND)]
+https://live.alilicloud.com/live/502a210fc6aa0ec9dd119c14f8bc97c6/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/sariyer-vs-manisa-futbol-kulb-2638?mode=ndsd
+#EXTINF:-1 group-title="Sariyer vs Manisa Futbol Kulübü" referer="https://hoadao.tv/sariyer-vs-manisa-futbol-kulb-2638?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-ee8ef533544c1e14d62fa27b13ce17a3.png",Sariyer vs Manisa Futbol Kulübü [No BLV - SD (ND)]
+https://live.alilicloud.com/live/f42d39ffcc47e680635f98556c4bb8dd/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/h-ni-tasco-auto-tr-thng-tin-6434?mode=sd
 #EXTINF:-1 group-title="Hà Nội Tasco Auto vs Trẻ Thông Tin" referer="https://hoadao.tv/h-ni-tasco-auto-tr-thng-tin-6434?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-683224a581cac5671fd2f73565ce5a98.png",Hà Nội Tasco Auto vs Trẻ Thông Tin [Nhà Đài - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_curuasd/playlist.m3u8
