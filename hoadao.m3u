@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/real-madrid-vs-fc-barcelona-4297?mode=sd
-#EXTINF:-1 group-title="Real Madrid vs FC Barcelona" referer="https://hoadao.tv/real-madrid-vs-fc-barcelona-4297?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-2006f123fd0c5fc604b9927fb0bb94df.png",Real Madrid vs FC Barcelona [BÚN CHẢ - CHIM NHỎ - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_buncha/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/real-madrid-vs-fc-barcelona-4297?mode=hd
-#EXTINF:-1 group-title="Real Madrid vs FC Barcelona" referer="https://hoadao.tv/real-madrid-vs-fc-barcelona-4297?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-2006f123fd0c5fc604b9927fb0bb94df.png",Real Madrid vs FC Barcelona [BÚN CHẢ - CHIM NHỎ - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_buncha/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/real-madrid-vs-fc-barcelona-4297?mode=flv
-#EXTINF:-1 group-title="Real Madrid vs FC Barcelona" referer="https://hoadao.tv/real-madrid-vs-fc-barcelona-4297?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-2006f123fd0c5fc604b9927fb0bb94df.png",Real Madrid vs FC Barcelona [BÚN CHẢ - CHIM NHỎ - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_buncha.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/real-madrid-vs-fc-barcelona-4297?mode=flv2
-#EXTINF:-1 group-title="Real Madrid vs FC Barcelona" referer="https://hoadao.tv/real-madrid-vs-fc-barcelona-4297?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-2006f123fd0c5fc604b9927fb0bb94df.png",Real Madrid vs FC Barcelona [BÚN CHẢ - CHIM NHỎ - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_buncha.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/real-madrid-vs-fc-barcelona-4297?mode=ndsd
-#EXTINF:-1 group-title="Real Madrid vs FC Barcelona" referer="https://hoadao.tv/real-madrid-vs-fc-barcelona-4297?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-2006f123fd0c5fc604b9927fb0bb94df.png",Real Madrid vs FC Barcelona [BÚN CHẢ - CHIM NHỎ - SD (ND)]
-https://live.alilicloud.com/live/294cd00d05cb5f84cf09fbca15bf12a1/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/everton-vs-tottenham-hotspur-4943?mode=sd
 #EXTINF:-1 group-title="Everton vs Tottenham Hotspur" referer="https://hoadao.tv/everton-vs-tottenham-hotspur-4943?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-94f17e2c61a662fabebb3456d2ee7f2c.png",Everton vs Tottenham Hotspur [BLV RICKY - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_rickysd/playlist.m3u8
@@ -41,15 +26,9 @@ https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/ca-osasuna-vs-rc-celta-4992?mode=flv2
 #EXTINF:-1 group-title="CA Osasuna vs RC Celta" referer="https://hoadao.tv/ca-osasuna-vs-rc-celta-4992?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-1cbba8a6810159a3546fbce3095c7279.png",CA Osasuna vs RC Celta [BLV PHÁO - FLV 2]
 https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/fc-famalicao-vs-vitoria-guimaraes-4301?mode=ndsd
-#EXTINF:-1 group-title="FC Famalicao vs Vitoria Guimaraes" referer="https://hoadao.tv/fc-famalicao-vs-vitoria-guimaraes-4301?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-c18edba0f34c5ca2f3b3122889b7451c.png",FC Famalicao vs Vitoria Guimaraes [No BLV - SD (ND)]
-https://live.alilicloud.com/live/89bc1b4a884e43556398080affc9380e/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/sandefjord-vs-fredrikstad-4879?mode=ndsd
-#EXTINF:-1 group-title="Sandefjord vs Fredrikstad" referer="https://hoadao.tv/sandefjord-vs-fredrikstad-4879?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-99ddd84722c6c2c17212f4f8a022d36d.png",Sandefjord vs Fredrikstad [No BLV - SD (ND)]
-https://live.alilicloud.com/live/b20952a23a8bff167dc89eb41aac4348/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/bodo-glimt-vs-molde-4894?mode=ndsd
-#EXTINF:-1 group-title="Bodo Glimt vs Molde" referer="https://hoadao.tv/bodo-glimt-vs-molde-4894?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-bd63e91b05408386b326afb780032121.png",Bodo Glimt vs Molde [No BLV - SD (ND)]
-https://live.alilicloud.com/live/8d4b68e87e367d464cc67d0b8d908069/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/ca-osasuna-vs-rc-celta-4992?mode=ndsd
+#EXTINF:-1 group-title="CA Osasuna vs RC Celta" referer="https://hoadao.tv/ca-osasuna-vs-rc-celta-4992?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-1cbba8a6810159a3546fbce3095c7279.png",CA Osasuna vs RC Celta [BLV PHÁO - SD (ND)]
+https://live.alilicloud.com/live/52ea552f435caf9c872f7f3e86aff1f0/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/kristiansund-bk-vs-ham-kam-4908?mode=ndsd
 #EXTINF:-1 group-title="Kristiansund BK vs Ham-Kam" referer="https://hoadao.tv/kristiansund-bk-vs-ham-kam-4908?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-26e5a7bf01d0b6f53f0c390fd032372b.png",Kristiansund BK vs Ham-Kam [No BLV - SD (ND)]
 https://live.alilicloud.com/live/5f8109f52b7230b4ed0098cdd1923a4d/playlist.m3u8
@@ -59,9 +38,9 @@ https://live.alilicloud.com/live/c21c5ae3eef6d9e5f845ba7e13a8731f/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/sporting-cristal-vs-los-chankas-4448?mode=ndsd
 #EXTINF:-1 group-title="Sporting Cristal vs Los Chankas" referer="https://hoadao.tv/sporting-cristal-vs-los-chankas-4448?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-27f56bbe3650ea1f507260efb5719958.png",Sporting Cristal vs Los Chankas [No BLV - SD (ND)]
 https://live.alilicloud.com/live/49798486a4fe518f46249e609d993f48/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/radnicki-nis-vs-crvena-zvezda-8111?mode=ndsd
-#EXTINF:-1 group-title="Radnicki Nis vs Crvena Zvezda" referer="https://hoadao.tv/radnicki-nis-vs-crvena-zvezda-8111?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-1c57bce09842f56444401703782492d9.png",Radnicki Nis vs Crvena Zvezda [No BLV - SD (ND)]
-https://live.alilicloud.com/live/28ea619168a074443befcb4e7ef12589/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/dynamo-kyiv-vs-kryvbas-4241?mode=ndsd
+#EXTINF:-1 group-title="Dynamo Kyiv vs Kryvbas" referer="https://hoadao.tv/dynamo-kyiv-vs-kryvbas-4241?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-243998ae8943baac8c732fdd918669aa.png",Dynamo Kyiv vs Kryvbas [No BLV - SD (ND)]
+https://live.alilicloud.com/live/f09dac46a436b4c36cda012e3050aa4f/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/stade-rennais-fc-vs-ogc-nice-4930?mode=ndsd
 #EXTINF:-1 group-title="Stade Rennais FC vs OGC Nice" referer="https://hoadao.tv/stade-rennais-fc-vs-ogc-nice-4930?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-36099dacf4b92397061be7f43aba16ce.png",Stade Rennais FC vs OGC Nice [No BLV - SD (ND)]
 https://live.alilicloud.com/live/bffb09fc9ec7fdbe0eea2e8b2d3e8f27/playlist.m3u8
@@ -98,24 +77,24 @@ https://live.alilicloud.com/live/221940cc8c44c483393a43445bc45e80/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/fk-krasnodar-vs-rubin-kazan-4948?mode=ndsd
 #EXTINF:-1 group-title="FK Krasnodar vs Rubin Kazan" referer="https://hoadao.tv/fk-krasnodar-vs-rubin-kazan-4948?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-f3c51437d0241acdcecbc48f25f88e20.png",FK Krasnodar vs Rubin Kazan [No BLV - SD (ND)]
 https://live.alilicloud.com/live/b541bae6172a74e56d5a6f58b2ac0dcc/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/slovan-bratislava-vs-tatran-presov-4951?mode=ndsd
-#EXTINF:-1 group-title="Slovan Bratislava vs Tatran Presov" referer="https://hoadao.tv/slovan-bratislava-vs-tatran-presov-4951?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-2b09e35b622af44548d87890243a2279.png",Slovan Bratislava vs Tatran Presov [No BLV - SD (ND)]
-https://live.alilicloud.com/live/ff2d0e540ddfd4a1c563f856c690fe74/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/kasimpasa-vs-besiktas-jk-4957?mode=ndsd
+#EXTINF:-1 group-title="Kasimpasa vs Besiktas JK" referer="https://hoadao.tv/kasimpasa-vs-besiktas-jk-4957?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-491f4332eeda33388472c3ad5916a2ed.png",Kasimpasa vs Besiktas JK [No BLV - SD (ND)]
+https://live.alilicloud.com/live/f9179b1d3137a49daefa87bc67c486d5/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/fiorentina-vs-bologna-4969?mode=ndsd
 #EXTINF:-1 group-title="Fiorentina vs Bologna" referer="https://hoadao.tv/fiorentina-vs-bologna-4969?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-d8bdd181679570a24118e38251c832ba.png",Fiorentina vs Bologna [No BLV - SD (ND)]
 https://live.alilicloud.com/live/1389a5e268e2c66db648cd40bbc61a7e/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/fc-copenhagen-vs-viborg-4972?mode=ndsd
 #EXTINF:-1 group-title="FC Copenhagen vs Viborg" referer="https://hoadao.tv/fc-copenhagen-vs-viborg-4972?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-0de89493ccec978f6bc7d3d56dd806cf.png",FC Copenhagen vs Viborg [No BLV - SD (ND)]
 https://live.alilicloud.com/live/50bc4868bd4574c452dc80ad95344bd4/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/vero-volley-macerata-6680?mode=sd
-#EXTINF:-1 group-title="Vero Volley vs Macerata" referer="https://hoadao.tv/vero-volley-macerata-6680?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-e3ca6f713eac21dac759c0896141b1c8.png",Vero Volley vs Macerata [BLV CỤ RÙA - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/vero-volley-macerata-6680?mode=hd
-#EXTINF:-1 group-title="Vero Volley vs Macerata" referer="https://hoadao.tv/vero-volley-macerata-6680?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-e3ca6f713eac21dac759c0896141b1c8.png",Vero Volley vs Macerata [BLV CỤ RÙA - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/vero-volley-macerata-6680?mode=flv
-#EXTINF:-1 group-title="Vero Volley vs Macerata" referer="https://hoadao.tv/vero-volley-macerata-6680?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-e3ca6f713eac21dac759c0896141b1c8.png",Vero Volley vs Macerata [BLV CỤ RÙA - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/vero-volley-macerata-6680?mode=flv2
-#EXTINF:-1 group-title="Vero Volley vs Macerata" referer="https://hoadao.tv/vero-volley-macerata-6680?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-e3ca6f713eac21dac759c0896141b1c8.png",Vero Volley vs Macerata [BLV CỤ RÙA - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/paok-saloniki-vs-volos-nps-4983?mode=ndsd
+#EXTINF:-1 group-title="PAOK Saloniki vs Volos NPS" referer="https://hoadao.tv/paok-saloniki-vs-volos-nps-4983?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-c4614c4a878552cb38dfc299d08dcfe8.png",PAOK Saloniki vs Volos NPS [No BLV - SD (ND)]
+https://live.alilicloud.com/live/9bc7576ddd50e5b5ccd0c1768effaacf/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/fc-viktoria-plzen-vs-banik-ostrava-4988?mode=ndsd
+#EXTINF:-1 group-title="FC Viktoria Plzen vs Banik Ostrava" referer="https://hoadao.tv/fc-viktoria-plzen-vs-banik-ostrava-4988?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-9d83c1cfc2567f7b7875b2d88ab0b049.png",FC Viktoria Plzen vs Banik Ostrava [No BLV - SD (ND)]
+https://live.alilicloud.com/live/686f4bce41f90381579a28e9d4926929/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/racing-genk-vs-raal-la-louviere-4990?mode=ndsd
+#EXTINF:-1 group-title="Racing Genk vs RAAL La Louvière" referer="https://hoadao.tv/racing-genk-vs-raal-la-louviere-4990?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-b39c26004da91d3db20b4ca08b157bb2.png",Racing Genk vs RAAL La Louvière [No BLV - SD (ND)]
+https://live.alilicloud.com/live/6bf7863e4052b2e924ed365667f67d9f/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/parnu-jk-vaprus-vs-levadia-tallinn-4294?mode=ndsd
+#EXTINF:-1 group-title="Parnu JK Vaprus vs Levadia Tallinn" referer="https://hoadao.tv/parnu-jk-vaprus-vs-levadia-tallinn-4294?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-632f4287edb9aa7f7ac9ef9e9a40e4ec.png",Parnu JK Vaprus vs Levadia Tallinn [No BLV - SD (ND)]
+https://live.alilicloud.com/live/cb11e632e598327bfbd3b63cae58c636/playlist.m3u8
