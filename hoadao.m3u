@@ -1,7 +1,13 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/csyd-dorados-de-sinaloa-vs-tlaxcala-fc-3955?mode=ndsd
-#EXTINF:-1 group-title="CSyD Dorados de Sinaloa vs Tlaxcala FC" referer="https://hoadao.tv/csyd-dorados-de-sinaloa-vs-tlaxcala-fc-3955?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-39a73e6f7126e15fff2075bdf8f162dc.png",CSyD Dorados de Sinaloa vs Tlaxcala FC [No BLV - SD (ND)]
-https://live.alilicloud.com/live/8f26396826a8a9304181175acd26b5af/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/cruz-azul-vs-monterrey-3954?mode=ndsd
-#EXTINF:-1 group-title="Cruz Azul vs Monterrey" referer="https://hoadao.tv/cruz-azul-vs-monterrey-3954?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-1f74819c4a9ab84e4f08d77683e6e1a9.png",Cruz Azul vs Monterrey [No BLV - SD (ND)]
-https://live.alilicloud.com/live/6535eb9eeedeeb98e2379ab6383c418c/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/gunma-green-wings-pfu-blue-cats-6667?mode=sd
+#EXTINF:-1 group-title="Gunma Green Wings vs PFU Blue Cats" referer="https://hoadao.tv/gunma-green-wings-pfu-blue-cats-6667?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-5d7a833fef9f18ccddb64d6fb363e5a1.png",Gunma Green Wings vs PFU Blue Cats [BLV BÚN CHẢ - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_buncha/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/gunma-green-wings-pfu-blue-cats-6667?mode=hd
+#EXTINF:-1 group-title="Gunma Green Wings vs PFU Blue Cats" referer="https://hoadao.tv/gunma-green-wings-pfu-blue-cats-6667?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-5d7a833fef9f18ccddb64d6fb363e5a1.png",Gunma Green Wings vs PFU Blue Cats [BLV BÚN CHẢ - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_buncha/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/gunma-green-wings-pfu-blue-cats-6667?mode=flv
+#EXTINF:-1 group-title="Gunma Green Wings vs PFU Blue Cats" referer="https://hoadao.tv/gunma-green-wings-pfu-blue-cats-6667?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-5d7a833fef9f18ccddb64d6fb363e5a1.png",Gunma Green Wings vs PFU Blue Cats [BLV BÚN CHẢ - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_buncha.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/gunma-green-wings-pfu-blue-cats-6667?mode=flv2
+#EXTINF:-1 group-title="Gunma Green Wings vs PFU Blue Cats" referer="https://hoadao.tv/gunma-green-wings-pfu-blue-cats-6667?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-5d7a833fef9f18ccddb64d6fb363e5a1.png",Gunma Green Wings vs PFU Blue Cats [BLV BÚN CHẢ - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_buncha.flv
