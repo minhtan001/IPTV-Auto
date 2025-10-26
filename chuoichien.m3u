@@ -216,18 +216,6 @@ https://stream.chuoichien.tv/chuoilun/index.m3u8
 #EXTINF:-1 group-title="Rayo Vallecano vs Alaves" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-bcee5960cb5d83358fa0caead8b5c41d.png",Rayo Vallecano vs Alaves [Chuối Lùn - SD2 - Chuối Lùn - SD2]
 https://stream.chuoichien.tv/chuoilun.flv
 #EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
-#EXTINF:-1 group-title="Tondela vs Sporting CP" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-e7b782dfadf0eecaebd9a7a0239f0415.png",Tondela vs Sporting CP [Nhà Đài - HD1 - Nhà Đài - HD1]
-https://gckc0525.edgemaxcdn.org/live/m4x2/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
-#EXTINF:-1 group-title="Tondela vs Sporting CP" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-e7b782dfadf0eecaebd9a7a0239f0415.png",Tondela vs Sporting CP [Nhà Đài - HD1 - Nhà Đài - HD2]
-https://gckc0525.edgemaxcdn.org/live/m4x2.flv
-#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
-#EXTINF:-1 group-title="Tondela vs Sporting CP" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-e7b782dfadf0eecaebd9a7a0239f0415.png",Tondela vs Sporting CP [Nhà Đài - HD2 - Nhà Đài - HD1]
-https://gckc0525.edgemaxcdn.org/live/m4x2/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
-#EXTINF:-1 group-title="Tondela vs Sporting CP" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-e7b782dfadf0eecaebd9a7a0239f0415.png",Tondela vs Sporting CP [Nhà Đài - HD2 - Nhà Đài - HD2]
-https://gckc0525.edgemaxcdn.org/live/m4x2.flv
-#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
 #EXTINF:-1 group-title="Cobresal vs Union Espanola" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-92c4c98a9e21f60f20e417ef48b41427.png",Cobresal vs Union Espanola [Nhà Đài - HD1 - Nhà Đài - HD1]
 https://gckc0525.edgemaxcdn.org/live/m4x3/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
@@ -263,3 +251,15 @@ https://gckc0525.edgemaxcdn.org/live/m4x5/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
 #EXTINF:-1 group-title="Gremio vs Juventude" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-a67e723f9c430d6a5c6f6f143f5b8a52.png",Gremio vs Juventude [Nhà Đài - HD2 - Nhà Đài - HD2]
 https://gckc0525.edgemaxcdn.org/live/m4x5.flv
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Lyon vs Strasbourg" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-92837158d2ff2d4161bc8d4baeaaaef7.png",Lyon vs Strasbourg [Nhà Đài - HD1 - Nhà Đài - HD1]
+https://gckc0525.edgemaxcdn.org/live/m4x1/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Lyon vs Strasbourg" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-92837158d2ff2d4161bc8d4baeaaaef7.png",Lyon vs Strasbourg [Nhà Đài - HD1 - Nhà Đài - HD2]
+https://gckc0525.edgemaxcdn.org/live/m4x1.flv
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Lyon vs Strasbourg" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-92837158d2ff2d4161bc8d4baeaaaef7.png",Lyon vs Strasbourg [Nhà Đài - HD2 - Nhà Đài - HD1]
+https://gckc0525.edgemaxcdn.org/live/m4x1/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Lyon vs Strasbourg" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-92837158d2ff2d4161bc8d4baeaaaef7.png",Lyon vs Strasbourg [Nhà Đài - HD2 - Nhà Đài - HD2]
+https://gckc0525.edgemaxcdn.org/live/m4x1.flv
