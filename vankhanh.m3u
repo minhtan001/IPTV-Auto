@@ -1,7 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="Vancouver Whitecaps vs FC Dallas" tvg-logo="https://hxcv.site/images/cache/match-c215449aac7c1e6f0dab89c0709b5289.png",Vancouver Whitecaps vs FC Dallas [BLV VĂN KHANG - HLS]
+#EXTINF:-1 group-title="Toluca vs Pachuca" tvg-logo="https://hxcv.site/images/cache/match-adbfe98ae2faa436a2056370da9d6701.png",Toluca vs Pachuca [BLV VĂN CHƯƠNG - HLS]
+https://hls.cdnvankhanh.com/live/VANCHUONG/index.m3u8?expire=1890806880&sign=d5e33b097684f7c5682301b78b825aaf
+#EXTINF:-1 group-title="Toluca vs Pachuca" tvg-logo="https://hxcv.site/images/cache/match-adbfe98ae2faa436a2056370da9d6701.png",Toluca vs Pachuca [BLV VĂN CHƯƠNG - FLV]
+https://flv.cdnvankhanh.com/live/VANCHUONG.flv?expire=1890806880&sign=d5e33b097684f7c5682301b78b825aaf
+#EXTINF:-1 group-title="Atletico San Luis vs Necaxa" tvg-logo="https://hxcv.site/images/cache/match-27b1646b6933c5982537355463632663.png",Atletico San Luis vs Necaxa [BLV GIÁO SƯ XOAY - HLS]
+https://hls.cdnvankhanh.com/live/GIAOSUXOAY/index.m3u8?expire=1892730180&sign=c561b814d05f14cf153b87d973755453
+#EXTINF:-1 group-title="Atletico San Luis vs Necaxa" tvg-logo="https://hxcv.site/images/cache/match-27b1646b6933c5982537355463632663.png",Atletico San Luis vs Necaxa [BLV GIÁO SƯ XOAY - FLV]
+ https://flv.cdnvankhanh.com/live/GIAOSUXOAY.flv?expire=1892730180&sign=c561b814d05f14cf153b87d973755453  
+#EXTINF:-1 group-title="Vancouver Whitecaps vs FC Dallas" tvg-logo="https://hxcv.site/images/cache/match-1ab2b6a666a0d894590ec9b493358b30.png",Vancouver Whitecaps vs FC Dallas [BLV VĂN KHANG - HLS]
 https://hls.cdnvankhanh.com/live/VANKHANG/index.m3u8?expire=1862206680&sign=7ac84ad876b1ccbad9036fe76373e2c6
-#EXTINF:-1 group-title="Vancouver Whitecaps vs FC Dallas" tvg-logo="https://hxcv.site/images/cache/match-c215449aac7c1e6f0dab89c0709b5289.png",Vancouver Whitecaps vs FC Dallas [BLV VĂN KHANG - FLV]
+#EXTINF:-1 group-title="Vancouver Whitecaps vs FC Dallas" tvg-logo="https://hxcv.site/images/cache/match-1ab2b6a666a0d894590ec9b493358b30.png",Vancouver Whitecaps vs FC Dallas [BLV VĂN KHANG - FLV]
 https://flv.cdnvankhanh.com/live/VANKHANG.flv?expire=1862206680&sign=7ac84ad876b1ccbad9036fe76373e2c6
 #EXTINF:-1 group-title="Palmeiras vs Cruzeiro" tvg-logo="https://hxcv.site/images/cache/match-f975fae3d4d7c7f3adcbe066c43fdba4.png",Palmeiras vs Cruzeiro [BLV TIỂU LINH - HLS]
 https://hls.cdnvankhanh.com/live/TIEULINH/index.m3u8?expire=1891779900&sign=5353000df59fd7da4b1d1f4a66da8495
