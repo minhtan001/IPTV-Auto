@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/santos-laguna-vs-queretaro-fc-5056?mode=ndsd
-#EXTINF:-1 group-title="Santos Laguna vs Queretaro FC" referer="https://hoadao.tv/santos-laguna-vs-queretaro-fc-5056?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-d3273c3c99d221ab83eda9f238ba720e.png",Santos Laguna vs Queretaro FC [No BLV - SD (ND)]
-https://live.alilicloud.com/live/8e4ac5a633206d9f3639c6d441390ab6/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/monarcas-morelia-vs-leones-negros-5058?mode=ndsd
-#EXTINF:-1 group-title="Monarcas Morelia vs Leones Negros" referer="https://hoadao.tv/monarcas-morelia-vs-leones-negros-5058?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-a3806893f9ee34001b50d1afc9f917f2.png",Monarcas Morelia vs Leones Negros [No BLV - SD (ND)]
-https://live.alilicloud.com/live/a5c9a26614a0e5cecc1073200ff89a7a/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/fbc-melgar-vs-sport-huancayo-5059?mode=ndsd
-#EXTINF:-1 group-title="FBC Melgar vs Sport Huancayo" referer="https://hoadao.tv/fbc-melgar-vs-sport-huancayo-5059?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-838e5ba063d22465c9612e1f2abe0c55.png",FBC Melgar vs Sport Huancayo [No BLV - SD (ND)]
-https://live.alilicloud.com/live/8d9bb5d378c3f3088e76c155081582b4/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/club-sport-emelec-vs-delfin-sc-5067?mode=ndsd
-#EXTINF:-1 group-title="Club Sport Emelec vs Delfin SC" referer="https://hoadao.tv/club-sport-emelec-vs-delfin-sc-5067?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-2074b903cfdb1105f724ef1414050ad2.png",Club Sport Emelec vs Delfin SC [No BLV - SD (ND)]
-https://live.alilicloud.com/live/bbba35f5aed70e82d26426317aba3a24/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/bnh-dng-vnh-long-8094?mode=sd
+#EXTINF:-1 group-title="Bình Dương vs Vĩnh Long" referer="https://hoadao.tv/bnh-dng-vnh-long-8094?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-50c14a79f9ad3c609f57006b4850cb7b.png",Bình Dương vs Vĩnh Long [BLV CỤ RÙA - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/bnh-dng-vnh-long-8094?mode=hd
+#EXTINF:-1 group-title="Bình Dương vs Vĩnh Long" referer="https://hoadao.tv/bnh-dng-vnh-long-8094?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-50c14a79f9ad3c609f57006b4850cb7b.png",Bình Dương vs Vĩnh Long [BLV CỤ RÙA - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/bnh-dng-vnh-long-8094?mode=flv
+#EXTINF:-1 group-title="Bình Dương vs Vĩnh Long" referer="https://hoadao.tv/bnh-dng-vnh-long-8094?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-50c14a79f9ad3c609f57006b4850cb7b.png",Bình Dương vs Vĩnh Long [BLV CỤ RÙA - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/bnh-dng-vnh-long-8094?mode=flv2
+#EXTINF:-1 group-title="Bình Dương vs Vĩnh Long" referer="https://hoadao.tv/bnh-dng-vnh-long-8094?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-50c14a79f9ad3c609f57006b4850cb7b.png",Bình Dương vs Vĩnh Long [BLV CỤ RÙA - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv

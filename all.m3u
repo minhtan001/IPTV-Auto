@@ -591,29 +591,43 @@ https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=06d0733a452960fe33d4
 https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=d77ff3201cfcdc50a65165521248d570&txTime=68fef49a
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-f2b5ceb0417b8b2d389e627b52855e36.png",CSKA 1948 Sofia vs Ludogorets Razgrad [XUÂN SON - FLV]
 https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=06d0733a452960fe33d4a017ea481829&txTime=68fef49a
+#EXTVLCOPT:http-referrer=https://hoadao.tv/bnh-dng-vnh-long-8094?mode=sd
+#EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/bnh-dng-vnh-long-8094?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-50c14a79f9ad3c609f57006b4850cb7b.png",Bình Dương vs Vĩnh Long [BLV CỤ RÙA - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/bnh-dng-vnh-long-8094?mode=hd
+#EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/bnh-dng-vnh-long-8094?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-50c14a79f9ad3c609f57006b4850cb7b.png",Bình Dương vs Vĩnh Long [BLV CỤ RÙA - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/bnh-dng-vnh-long-8094?mode=flv
+#EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/bnh-dng-vnh-long-8094?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-50c14a79f9ad3c609f57006b4850cb7b.png",Bình Dương vs Vĩnh Long [BLV CỤ RÙA - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/bnh-dng-vnh-long-8094?mode=flv2
+#EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/bnh-dng-vnh-long-8094?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-50c14a79f9ad3c609f57006b4850cb7b.png",Bình Dương vs Vĩnh Long [BLV CỤ RÙA - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
 #EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-fdf6b0a9f2d3fbdb410a7712116018ac.png",Real Madrid vs FC Barcelona [BLV VĂN LONG - HLS]
 https://hls.cdnvankhanh.com/live/TO3C/index.m3u8?expire=1875681300&sign=015129bcbd63368bf36946e12b5950c6
 #EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-fdf6b0a9f2d3fbdb410a7712116018ac.png",Real Madrid vs FC Barcelona [BLV VĂN LONG - FLV]
 https://flv.cdnvankhanh.com/live/TO3C.flv?expire=1875681300&sign=015129bcbd63368bf36946e12b5950c6
-#EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-c1782ed172a7a2116285fd7dfe765648.png",ABFF U19 vs Ostrowitz [NHÀ ĐÀI - HLS]
-https://auto.cdnvankhanh.com/live/sd-6MuRsxca4BsFXLcBE4/playlist.m3u8
+#EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-201c35c0d0a9e024a177a82e26fb477a.png",Estonia (W) vs Faroe Islands (W) [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYbU3wk6r35w9pVr/playlist.m3u8
 #EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-9c053314f36d29b6e9a73163af796442.png",Netherlands (W) U19 vs Germany (W) U19 [NHÀ ĐÀI - HLS]
 https://auto.cdnvankhanh.com/live/sd-6MvYbXKgUvLZaJfJtt/playlist.m3u8
+#EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-c1782ed172a7a2116285fd7dfe765648.png",ABFF U19 vs Ostrowitz [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuRsxca4BsFXLcBE4/playlist.m3u8
+#EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-cfdc906c6f2a4b8e81cbf8f65b4bcb87.png",Majd FC vs Masfut [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvY6XrFtphAH7uSgk/playlist.m3u8
 #EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-c3433c83c36a2c9ff7da2febcdd4fbe1.png",Al-Thaid vs Al Oruba (UAE) [NHÀ ĐÀI - HLS]
 https://auto.cdnvankhanh.com/live/sd-6MvY6XrFtkJCYAFcNx/playlist.m3u8
 #EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-323f1b8fb800b61d097cac3743872667.png",City Club vs Al Arabi(UAE) [NHÀ ĐÀI - HLS]
 https://auto.cdnvankhanh.com/live/sd-6MvY6XrFti6ifgRhE4/playlist.m3u8
-#EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-cfdc906c6f2a4b8e81cbf8f65b4bcb87.png",Majd FC vs Masfut [NHÀ ĐÀI - HLS]
-https://auto.cdnvankhanh.com/live/sd-6MvY6XrFtphAH7uSgk/playlist.m3u8
 #EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-eea1b76e4a3812ae3a6100df0ed60e9e.png",Rijeka vs ZNK Osijek [NHÀ ĐÀI - HLS]
 https://auto.cdnvankhanh.com/live/sd-6MuSs9p7bv4DHHX6BW/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-81e926a1953ba7a36c1d6de6c6fe9642.png",Liverpool vs Manchester United [BLV KEVILL - HLS]
 https://hls.cdnok9.com/live/TEST2/index.m3u8?expire=1788427256&sign=1eeee2ecb43648dc5ef36b43282e16ae
 #EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-81e926a1953ba7a36c1d6de6c6fe9642.png",Liverpool vs Manchester United [BLV KEVILL - FLV]
 https://flv.cdnok9.com/live/TEST2.flv?expire=1788427256&sign=1eeee2ecb43648dc5ef36b43282e16ae
-#EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-f04f27489821882036a5589874e44185.png",Fergana University vs Aral Nukus [BLV KENCHU - HLS]
+#EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-18a585ec7d47c48c6ad9ef9822a5029b.png",Fergana University vs Aral Nukus [BLV KENCHU - HLS]
 https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
-#EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-f04f27489821882036a5589874e44185.png",Fergana University vs Aral Nukus [BLV KENCHU - FLV]
+#EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-18a585ec7d47c48c6ad9ef9822a5029b.png",Fergana University vs Aral Nukus [BLV KENCHU - FLV]
 https://flv.cdnok9.com/live/KENCHU.flv?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/vtv1-hd.png",VTV1 HD [VTV1 HD]
 http://iptv.nhadai.org/stream/vtv1-hd
@@ -712,14 +726,11 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",13:25 27/10 James Duckworth - Rio Noguchi
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/james-duckworth-vs-rio-noguchi-9h4hi1872k.html
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",14:00 27/10 Kodagu FC - Rebels FC
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/kodagu-fc-vs-rebels-fc-26pum54fbd.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",14:00 27/10 VLXD BÌNH DƯƠNG - VĨNH LONG
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/vlxd-binh-duong-vs-vinh-long-me9gcuo4n6.html
+#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",14:10 27/10 Momoko Kobori - Ajla Tomljanovic
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/momoko-kobori-vs-ajla-tomljanovic-h9h1l2icme.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",15:00 27/10 FC Macarthur - Adelaide United
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/fc-macarthur-vs-adelaide-united-13v3cqhp1l.html
@@ -727,23 +738,38 @@ http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/fc-macarthur-vs-adelaide-
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",15:30 27/10 Bhayangkara Presisi Indonesia FC - Persijap Jepara
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/bhayangkara-presisi-indonesia-fc-vs-persijap-jepara-1bkh0bmenf.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",16:00 27/10 HÀ NỘI TASCO AUTO - IMP BẮC NINH
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/ha-noi-tasco-auto-vs-imp-bac-ninh-fjrhlyh5v6.html
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",16:00 27/10 Rakhine United FC - Dagon Port
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/rakhine-united-fc-vs-dagon-port-wafobwpq8b.html
+#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",16:00 27/10 Jaime Faria - Mackenzie McDonald
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/jaime-faria-vs-mackenzie-mcdonald-2x1nz0pmpi.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",16:00 27/10 Dagon Star FC - Sagaing
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/dagon-star-fc-vs-sagaing-jkalazk6by.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",16:00 27/10 Rakhine United FC - Dagon Port
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/rakhine-united-fc-vs-dagon-port-wafobwpq8b.html
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",16:30 27/10 Mai Hontama - Storm Hunter
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/mai-hontama-vs-storm-hunter-ge4rg0mgmc.html
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",16:30 27/10 Polina Iatcenko - Alina Charaeva
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/polina-iatcenko-vs-alina-charaeva-rbwki8p6gg.html
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",16:30 27/10 Mei Yamaguchi - Francesca Jones
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/mei-yamaguchi-vs-francesca-jones-y5z0ch6wb7.html
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",17:00 27/10 Fergana University - Aral Nukus
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/fergana-university-vs-aral-nukus-f74nup169d.html
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",17:00 27/10 Lokomotiv Gomel - Niva Dolbizno
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/lokomotiv-gomel-vs-niva-dolbizno-j8734wbah9.html
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",17:00 27/10 Titouan Droguet - Stefano Travaglia
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/titouan-droguet-vs-stefano-travaglia-grkk7rz6ww.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",17:00 27/10 Southern City - Transport United FC
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/southern-city-vs-transport-united-fc-xjydngxj9u.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",18:00 27/10 TRẺ THÔNG TIN - BĐ19 - TRẺ VTV BĐ LONG AN
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/tre-thong-tin-bd19-vs-tre-vtv-bd-long-an-iauf756q6v.html
+#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",17:00 27/10 Michal Krajci - David Pichler
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/michal-krajci-vs-david-pichler-1mw9h6pafm.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",18:00 27/10 ABFF(U19) - Ostrowitz
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/abffu19-vs-ostrowitz-0vvygu0fb0.html
@@ -751,11 +777,11 @@ http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/abffu19-vs-ostrowitz-0vvy
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",18:00 27/10 Nam Dinh FC - SHB Da Nang
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/nam-dinh-fc-vs-shb-da-nang-vfiweli3uk.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",18:30 27/10 Lion City Sailors - Albirex Niigata FC
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/lion-city-sailors-vs-albirex-niigata-fc-kp5v45a0ir.html
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",18:30 27/10 Hougang United FC - Tampines Rovers FC
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/hougang-united-fc-vs-tampines-rovers-fc-rwi84vda45.html
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",18:30 27/10 Lion City Sailors - Albirex Niigata FC
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/lion-city-sailors-vs-albirex-niigata-fc-kp5v45a0ir.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",19:00 27/10 Persib Bandung - Persis Solo FC
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/persib-bandung-vs-persis-solo-fc-91tq1q0jad.html
@@ -763,20 +789,20 @@ http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/persib-bandung-vs-persis-
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",19:15 27/10 Cong An Ha Noi FC - Ho Chi Minh City FC
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/cong-an-ha-noi-fc-vs-ho-chi-minh-city-fc-o1ci3yla21.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",20:00 27/10 Moldova (w) U19 - Lithuania (w) U19
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/moldova-w-u19-vs-lithuania-w-u19-mxcy5e0aqt.html
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",20:00 27/10 Slovenia (w) - Serbia (w)
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/slovenia-w-vs-serbia-w-mfhs9oaofg.html
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",20:00 27/10 Moldova (w) U19 - Lithuania (w) U19
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/moldova-w-u19-vs-lithuania-w-u19-mxcy5e0aqt.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",20:00 27/10 Al Yarmouk - Kufer Soom
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/al-yarmouk-vs-kufer-soom-qyycpy905t.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",20:00 27/10 Hungary (w) U19 - Czech (w) U19
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/hungary-w-u19-vs-czech-w-u19-9rez4m7nhy.html
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",20:00 27/10 North Macedonia (W) - Nga (w)
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/north-macedonia-w-vs-nga-w-17jzgtb0kc.html
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",20:00 27/10 Hungary (w) U19 - Czech (w) U19
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/hungary-w-u19-vs-czech-w-u19-9rez4m7nhy.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",20:30 27/10 Termez Surkhon - FK Andijon
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/termez-surkhon-vs-fk-andijon-gfgku1dxml.html
@@ -784,23 +810,11 @@ http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/termez-surkhon-vs-fk-andi
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",20:30 27/10 Ấn Độ (w) - Nepal (w)
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/an-do-w-vs-nepal-w-2qz9jjwmah.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",21:00 27/10 Hyderabad FC - Mumbai City
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/hyderabad-fc-vs-mumbai-city-1f4uivh3ab.html
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",21:00 27/10 FC Telavi - Torpedo Kutaisi
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/fc-telavi-vs-torpedo-kutaisi-dd6gisthib.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",21:00 27/10 Smouha SC - El Gounah
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/smouha-sc-vs-el-gounah-e1mmf3ez6b.html
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",21:30 27/10 Al-Khuraitiat - Al Waab SC
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/al-khuraitiat-vs-al-waab-sc-6qu0n4i6sm.html
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",21:35 27/10 Al-Fateh SC - Al-Riyadh
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/al-fateh-sc-vs-al-riyadh-kp8aze69kw.html
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",21:35 27/10 Al Khaleej Club - Al-Taawoun
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/al-khaleej-club-vs-al-taawoun-4zxqu5o4yb.html
 #EXTINF:-1 group-title="Socolive_2",15h00: [BLV CRIS] Macarthur FC vs Adelaide United
 http://sharing.gotdns.ch:8091/socolive.php?id=9912103
 #EXTINF:-1 group-title="Socolive_2",15h00: [BLV COCA] Macarthur FC vs Adelaide United
@@ -1184,9 +1198,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=537460
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-28/10: [BLV QUAN VŨ] Athletico Paranaense vs Amazonas FC
 http://sharing.gotdns.ch:8091/socolive.php?id=239275
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h45-28/10: [SAO LA] Deportivo Pasto vs Deportivo Pereira
-http://sharing.gotdns.ch:8091/socolive.php?id=462413
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h45-28/10: [BLV MESSI] Deportivo Pasto vs Deportivo Pereira
 http://sharing.gotdns.ch:8091/socolive.php?id=494201
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -1201,6 +1212,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912108
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h45-28/10: [BLV SINGER] Deportivo Pasto vs Deportivo Pereira
 http://sharing.gotdns.ch:8091/socolive.php?id=9912102
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h45-28/10: [MR BÍCH] Deportivo Pasto vs Deportivo Pereira
+http://sharing.gotdns.ch:8091/socolive.php?id=285067
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h00-28/10: [BLV DECO] Minnesota United FC vs Seattle Sounders
 http://sharing.gotdns.ch:8091/socolive.php?id=9912060
@@ -1217,8 +1231,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=380460
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h00-28/10: [TAM MAO] Minnesota United FC vs Seattle Sounders
 http://sharing.gotdns.ch:8091/socolive.php?id=9912100
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h00-28/10: [BLV TAP] Minnesota United FC vs Seattle Sounders
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h00-28/10: [SAO LA] Minnesota United FC vs Seattle Sounders
+http://sharing.gotdns.ch:8091/socolive.php?id=462413
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h30-28/10: [BLV DUSTIN] Minnesota Timberwolves vs Denver Nuggets
 http://sharing.gotdns.ch:8091/socolive.php?id=289098
