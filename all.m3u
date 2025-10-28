@@ -531,14 +531,14 @@ https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1761578253-0-0-
 https://hls.cdnvankhanh.com/live/TO1C/index.m3u8?expire=1875681300&sign=298f5a6e3867b9aedc8ee473c7f1cd2c
 #EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-dadaa23f543fa1875998d5b39e940d85.png",Real Madrid vs FC Barcelona [BLV VĂN LONG - FLV]
 https://flv.cdnvankhanh.com/live/TO1C.flv?expire=1875681300&sign=298f5a6e3867b9aedc8ee473c7f1cd2c
-#EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-4f7e58a919c6dfc642ace29a832292b6.png",HLE vs GEN [MEGA LIVE - HLS]
-https://hls.cdnok9.com/live/TEST2/index.m3u8?expire=1788427256&sign=1eeee2ecb43648dc5ef36b43282e16ae
-#EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-4f7e58a919c6dfc642ace29a832292b6.png",HLE vs GEN [MEGA LIVE - FLV]
-https://flv.cdnok9.com/live/TEST2.flv?expire=1788427256&sign=1eeee2ecb43648dc5ef36b43282e16ae
 #EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-054028f6395ce61a2f281bb77be11aae.png",Liverpool vs MU [BLV LƯU BỊ - HLS]
 https://hls.cdnok9.com/live/TO2A/index.m3u8?expire=1891408380&sign=b4fcc4558b2967d54c04070f325ecb14
 #EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-054028f6395ce61a2f281bb77be11aae.png",Liverpool vs MU [BLV LƯU BỊ - FLV]
 https://flv.cdnok9.com/live/TO2A.flv?expire=1891408380&sign=b4fcc4558b2967d54c04070f325ecb14
+#EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-4f7e58a919c6dfc642ace29a832292b6.png",HLE vs GEN [MEGA LIVE - HLS]
+https://hls.cdnok9.com/live/TEST2/index.m3u8?expire=1788427256&sign=1eeee2ecb43648dc5ef36b43282e16ae
+#EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-4f7e58a919c6dfc642ace29a832292b6.png",HLE vs GEN [MEGA LIVE - FLV]
+https://flv.cdnok9.com/live/TEST2.flv?expire=1788427256&sign=1eeee2ecb43648dc5ef36b43282e16ae
 #EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-d6e3f7fd582028dc2718ee9a72302e1e.png",Student Union FC vs ASC Center FC [NHÀ ĐÀI - HLS]
 https://auto.cdnvankhanh.com/live/sd-6MvYbU5SjAoZR1j6Jg/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-76e9ce8d8e1136ae663c3458f56c02e8.png",Bradford City vs Lincoln City [NHÀ ĐÀI - HLS]
@@ -1312,6 +1312,18 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912041
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h00-29/10: [BLV MESSI] Tainan City Steel vs Dewa United FC
 http://sharing.gotdns.ch:8091/socolive.php?id=494201
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h00-29/10: [BLV NIBO] Naftagas vs Novi Pazar
+http://sharing.gotdns.ch:8091/socolive.php?id=372746
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h00-29/10: [BLV HOPE] Naftagas vs Novi Pazar
+http://sharing.gotdns.ch:8091/socolive.php?id=9912043
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h00-29/10: [BLV MIXI] FK Buducnost Dobanovci vs OFK Beograd
+http://sharing.gotdns.ch:8091/socolive.php?id=290928
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h00-29/10: [BLV SÚP LƠ] FK Buducnost Dobanovci vs OFK Beograd
+http://sharing.gotdns.ch:8091/socolive.php?id=9912113
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h15-29/10: [BLV ROBBEN] Sabah FC vs Kelantan The Real Warriors
 http://sharing.gotdns.ch:8091/socolive.php?id=527383
