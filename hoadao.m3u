@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/raw-raw-2342350?mode=sd
-#EXTINF:-1 group-title="RAW vs RAW" referer="https://hoadao.tv/raw-raw-2342350?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-722bc6b4d4e6c669723d187291d0f4fc.png",RAW vs RAW [BLV BÚN CHẢ - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_buncha/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/raw-raw-2342350?mode=hd
-#EXTINF:-1 group-title="RAW vs RAW" referer="https://hoadao.tv/raw-raw-2342350?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-722bc6b4d4e6c669723d187291d0f4fc.png",RAW vs RAW [BLV BÚN CHẢ - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_buncha/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/raw-raw-2342350?mode=flv
-#EXTINF:-1 group-title="RAW vs RAW" referer="https://hoadao.tv/raw-raw-2342350?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-722bc6b4d4e6c669723d187291d0f4fc.png",RAW vs RAW [BLV BÚN CHẢ - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_buncha.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/raw-raw-2342350?mode=flv2
-#EXTINF:-1 group-title="RAW vs RAW" referer="https://hoadao.tv/raw-raw-2342350?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-722bc6b4d4e6c669723d187291d0f4fc.png",RAW vs RAW [BLV BÚN CHẢ - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_buncha.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/ph-th-thi-nguyn-2342351?mode=sd
+#EXTINF:-1 group-title="Phú Thọ vs Thái Nguyên" referer="https://hoadao.tv/ph-th-thi-nguyn-2342351?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-19ef3ae6ff81e6a5133126ff885dc736.png",Phú Thọ vs Thái Nguyên [BLV CHIM NHỎ - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/ph-th-thi-nguyn-2342351?mode=hd
+#EXTINF:-1 group-title="Phú Thọ vs Thái Nguyên" referer="https://hoadao.tv/ph-th-thi-nguyn-2342351?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-19ef3ae6ff81e6a5133126ff885dc736.png",Phú Thọ vs Thái Nguyên [BLV CHIM NHỎ - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/ph-th-thi-nguyn-2342351?mode=flv
+#EXTINF:-1 group-title="Phú Thọ vs Thái Nguyên" referer="https://hoadao.tv/ph-th-thi-nguyn-2342351?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-19ef3ae6ff81e6a5133126ff885dc736.png",Phú Thọ vs Thái Nguyên [BLV CHIM NHỎ - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/ph-th-thi-nguyn-2342351?mode=flv2
+#EXTINF:-1 group-title="Phú Thọ vs Thái Nguyên" referer="https://hoadao.tv/ph-th-thi-nguyn-2342351?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-19ef3ae6ff81e6a5133126ff885dc736.png",Phú Thọ vs Thái Nguyên [BLV CHIM NHỎ - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
