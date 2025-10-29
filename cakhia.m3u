@@ -1,17 +1,5 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia",🔴 SD  (Nhanh) Spain (w) U17 - France (w) U17
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@musd1.flv
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia",🔴 HD (Nhanh) Spain (w) U17 - France (w) U17
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@muhd1.flv
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia",🔴 SD  (Nhanh) Al Khaldiya - Al-Ahli Doha
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@caysd1.flv
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia",🔴 HD  (Nhanh) Al Khaldiya - Al-Ahli Doha
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@cayhd1.flv
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia",🔴 SD  (Nhanh) Petrojet - Al Ahly SC
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@paosd1.flv
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -60,11 +48,23 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@daisd1.flv
 #EXTINF:-1 group-title="Cakhia",🔴 HD (Nhanh) Juventus - Udinese
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@daihd1.flv
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia",🔴 SD  (Nhanh) Le Havre AC - Stade Brestois 29
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@lulusd1.flv
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia",🔴 HD  (Nhanh) Le Havre AC - Stade Brestois 29
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@luluhd1.flv
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia",🔴 SD Nhanh Lorient - Paris Saint Germain (PSG)
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@duongtiensd1.flv
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia",🔴 HD Nhanh Lorient - Paris Saint Germain (PSG)
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@duongtienhd1.flv
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia",🔴 SD  (Nhanh) Metz - Lens
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@bomsd1.flv
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia",🔴 HD  (Nhanh) Metz - Lens
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@bomhd1.flv
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia",🔴 SD (Nhanh) Nice - Lille
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@sunsd1.flv
@@ -72,14 +72,8 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@sunsd1.flv
 #EXTINF:-1 group-title="Cakhia",🔴 HD (Nhanh) Nice - Lille
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@sunhd1.flv
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia",01:00 30/10 Metz - Lens
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/metz-vs-lens-mli4iuykxt.html
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia",01:00 30/10 Le Havre AC - Stade Brestois 29
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/le-havre-ac-vs-stade-brestois-29-bsnnc0glac.html
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia",02:00 30/10 Portugalete - Real Valladolid
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/portugalete-vs-real-valladolid-vs4cgyuvrw.html
+#EXTINF:-1 group-title="Cakhia",02:00 30/10 Atletic Sant Just - Mallorca
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/atletic-sant-just-vs-mallorca-pmq42axq5i.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia",02:00 30/10 Naxara - Eibar
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/naxara-vs-eibar-im89d1aubk.html
@@ -87,11 +81,11 @@ http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/naxara-vs-eibar-im89d1aub
 #EXTINF:-1 group-title="Cakhia",02:00 30/10 Wydad Casablanca - Raja Casablanca Atlhletic
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/wydad-casablanca-vs-raja-casablanca-atlhletic-42fyd59syg.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia",02:00 30/10 Atletic Sant Just - Mallorca
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/atletic-sant-just-vs-mallorca-pmq42axq5i.html
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia",02:00 30/10 FC Gloria Bistrita - FCSB
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/fc-gloria-bistrita-vs-fcsb-ixrhs390xu.html
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia",02:00 30/10 Portugalete - Real Valladolid
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/portugalete-vs-real-valladolid-vs4cgyuvrw.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia",02:15 30/10 Sporting Braga - Santa Clara
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/sporting-braga-vs-santa-clara-aymi3wnxdk.html
@@ -102,23 +96,20 @@ http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/fc-basel-1893-vs-fc-zuric
 #EXTINF:-1 group-title="Cakhia",02:30 30/10 Rakow Czestochowa - Cracovia Krakow
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/rakow-czestochowa-vs-cracovia-krakow-us4bg19kze.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia",02:45 30/10 SV Darmstadt 98 - Schalke 04
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/sv-darmstadt-98-vs-schalke-04-y4knda8cs8.html
+#EXTINF:-1 group-title="Cakhia",02:45 30/10 Liverpool - Crystal Palace
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/liverpool-vs-crystal-palace-3luzohbevz.html
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia",02:45 30/10 Swansea City - Manchester City
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/swansea-city-vs-manchester-city-spsymz7dol.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia",02:45 30/10 Arsenal - Brighton Hove Albion
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/arsenal-vs-brighton-hove-albion-yvqv994mgs.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia",02:45 30/10 Liverpool - Crystal Palace
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/liverpool-vs-crystal-palace-3luzohbevz.html
+#EXTINF:-1 group-title="Cakhia",02:45 30/10 Union Berlin - Arminia Bielefeld
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/union-berlin-vs-arminia-bielefeld-jn6a9q996i.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia",02:45 30/10 Bologna - Torino
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/bologna-vs-torino-y2b1bbyxcg.html
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia",02:45 30/10 Wolves - Chelsea
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/wolves-vs-chelsea-ftafoxnpsr.html
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia",02:45 30/10 FC Köln - Bayern Munchen
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/fc-koln-vs-bayern-munchen-z777lcsj6e.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia",02:45 30/10 Genoa - Cremonese
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/genoa-vs-cremonese-6rvw5rc4nt.html
@@ -126,38 +117,47 @@ http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/genoa-vs-cremonese-6rvw5r
 #EXTINF:-1 group-title="Cakhia",02:45 30/10 Hibernian - Glasgow Rangers
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/hibernian-vs-glasgow-rangers-nu0f2joqhx.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia",02:45 30/10 Union Berlin - Arminia Bielefeld
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/union-berlin-vs-arminia-bielefeld-jn6a9q996i.html
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia",02:45 30/10 Swansea City - Manchester City
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/swansea-city-vs-manchester-city-spsymz7dol.html
+#EXTINF:-1 group-title="Cakhia",02:45 30/10 Wolves - Chelsea
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/wolves-vs-chelsea-ftafoxnpsr.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia",02:45 30/10 Inter Milan - Fiorentina
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/inter-milan-vs-fiorentina-yx2p836bs3.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia",02:45 30/10 SV Darmstadt 98 - Schalke 04
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/sv-darmstadt-98-vs-schalke-04-y4knda8cs8.html
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia",02:45 30/10 FC Köln - Bayern Munchen
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/fc-koln-vs-bayern-munchen-z777lcsj6e.html
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia",02:45 30/10 Fortuna Dusseldorf - SC Freiburg
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/fortuna-dusseldorf-vs-sc-freiburg-iad6iwpzxw.html
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia",03:00 30/10 Lucena CF - Villarreal
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/lucena-cf-vs-villarreal-z8irux2tud.html
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia",03:00 30/10 Rosenborg - Sandefjord
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/rosenborg-vs-sandefjord-nca7hd5f1e.html
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia",03:00 30/10 CD Yuncos - Rayo Vallecano
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/cd-yuncos-vs-rayo-vallecano-vo7x3qi394.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia",03:00 30/10 Newcastle United - Tottenham Hotspur
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/newcastle-united-vs-tottenham-hotspur-d8jz1ofida.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia",03:05 30/10 Paris FC - Lyon
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/paris-fc-vs-lyon-zxxxezo9ea.html
+#EXTINF:-1 group-title="Cakhia",03:00 30/10 Rosenborg - Sandefjord
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/rosenborg-vs-sandefjord-nca7hd5f1e.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia",03:05 30/10 Marseille - Angers
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/marseille-vs-angers-8n5g3ju4he.html
+#EXTINF:-1 group-title="Cakhia",03:00 30/10 Lucena CF - Villarreal
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/lucena-cf-vs-villarreal-z8irux2tud.html
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia",03:00 30/10 CD Yuncos - Rayo Vallecano
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/cd-yuncos-vs-rayo-vallecano-vo7x3qi394.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia",03:05 30/10 Toulouse - Stade Rennais FC
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/toulouse-vs-stade-rennais-fc-g9vp2r4knz.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia",03:05 30/10 Strasbourg - AJ Auxerre
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/strasbourg-vs-aj-auxerre-4nz9xrxocf.html
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia",03:05 30/10 Marseille - Angers
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/marseille-vs-angers-8n5g3ju4he.html
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia",03:05 30/10 Nantes - Monaco
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/nantes-vs-monaco-z2xp6seg6w.html
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia",03:05 30/10 Paris FC - Lyon
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/paris-fc-vs-lyon-zxxxezo9ea.html
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia",03:45 30/10 Benfica - CD Tondela
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/benfica-vs-cd-tondela-zionvsldz4.html
