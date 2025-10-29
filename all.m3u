@@ -96,18 +96,6 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",🔴 SD Nhanh Eastern District SA - Kowloon City
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@phusd1.flv
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",🔴 HD Nhanh Eastern District SA - Kowloon City
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@phuhd1.flv
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",🔴 SD  (Nhanh) Khovd - Hunters FC
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@bomsd1.flv
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",🔴 HD  (Nhanh) Khovd - Hunters FC
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@bomhd1.flv
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",🔴 SD Nhanh Ryntih SC - Mawtawar SC
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@duongtiensd1.flv
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -132,32 +120,38 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nguumavuongsd1.flv
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",🔴 HD Nhanh SP Falcons - Manila Digger FC
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nguumavuonghd1.flv
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",17:00 29/10 Zaqatala FK - Standard Sumgayit
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/zaqatala-fk-vs-standard-sumgayit-mqtniu9zdy.html
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",17:00 29/10 Minyor Pernik - Cherno More Varna
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/minyor-pernik-vs-cherno-more-varna-nk97n1pqpu.html
+#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",17:00 29/10 Kahta 02 Spor - Kasimpasa
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/kahta-02-spor-vs-kasimpasa-49c3zllqol.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",17:00 29/10 Simal FK - Shahdagh Qusar
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/simal-fk-vs-shahdagh-qusar-vnmm36ku6a.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",17:00 29/10 Customs ladkrabang United - Nonthaburi United
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/customs-ladkrabang-united-vs-nonthaburi-united-kg2i9nzhbx.html
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",17:00 29/10 FC Victoria Mykolaivka - FC Inhulets Petrove
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/fc-victoria-mykolaivka-vs-fc-inhulets-petrove-9beoki3ol3.html
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",17:00 29/10 Tusker - Kariobangi Sharks
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/tusker-vs-kariobangi-sharks-larxjn8pw4.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",17:00 29/10 Kahta 02 Spor - Kasimpasa
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/kahta-02-spor-vs-kasimpasa-49c3zllqol.html
+#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",17:00 29/10 Minyor Pernik - Cherno More Varna
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/minyor-pernik-vs-cherno-more-varna-nk97n1pqpu.html
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",17:00 29/10 Zaqatala FK - Standard Sumgayit
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/zaqatala-fk-vs-standard-sumgayit-mqtniu9zdy.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",17:00 29/10 Qarabag Khankendi - Difai Agsu FK
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/qarabag-khankendi-vs-difai-agsu-fk-m9g14fbysk.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",17:00 29/10 FC Victoria Mykolaivka - FC Inhulets Petrove
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/fc-victoria-mykolaivka-vs-fc-inhulets-petrove-9beoki3ol3.html
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",17:30 29/10 LNZ Lebedyn - Rukh Vynnyky
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/lnz-lebedyn-vs-rukh-vynnyky-yy9or7tfik.html
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",17:30 29/10 Karnataka - Bengaluru B
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/karnataka-vs-bengaluru-b-6238zoc2ws.html
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",18:00 29/10 Jamshedpur FC - Northeast United
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/jamshedpur-fc-vs-northeast-united-sph5rjpq1j.html
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",18:00 29/10 Andranik - BKMA
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/andranik-vs-bkma-7orzdtl8jo.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",18:30 29/10 FC Sevlievo - CSKA Sofia
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/fc-sevlievo-vs-cska-sofia-1vc4k93pnf.html
@@ -168,14 +162,23 @@ http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/rudes-vs-hnk-gorica-qbcz0
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",19:00 29/10 FK Gilan Gabala - Mingachevir
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/fk-gilan-gabala-vs-mingachevir-192nf3h4l6.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",19:00 29/10 FK Graficar Beograd - Backa Topola
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/fk-graficar-beograd-vs-backa-topola-36r1fbg1yc.html
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",19:00 29/10 Harare City - Shashemene Kenema FC
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/harare-city-vs-shashemene-kenema-fc-9v5rp56is9.html
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",19:00 29/10 Hawassa City - Wolaita Dicha
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/hawassa-city-vs-wolaita-dicha-zqg09kouo2.html
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",19:00 29/10 Hutnik Krakow - Wisla Krakow
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/hutnik-krakow-vs-wisla-krakow-f4sfozgmhh.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",19:00 29/10 Zemun - Radnicki 1923 Kragujevac
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/zemun-vs-radnicki-1923-kragujevac-bata2l8b4k.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",19:00 29/10 Hawassa City - Wolaita Dicha
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/hawassa-city-vs-wolaita-dicha-zqg09kouo2.html
+#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",19:00 29/10 Borac Cacak - FK Čukarički
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/borac-cacak-vs-fk-cukaricki-5yes8077lk.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",19:00 29/10 Bursa Yıldırımspor - Alanyaspor
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/bursa-yildirimspor-vs-alanyaspor-5csaryxayc.html
@@ -183,14 +186,11 @@ http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/bursa-yildirimspor-vs-ala
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",19:00 29/10 Sabail FC - Shamakhi FK
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/sabail-fc-vs-shamakhi-fk-ntho1pvq2t.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",19:00 29/10 Buducnost Dobanovci - OFK Beograd
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/buducnost-dobanovci-vs-ofk-beograd-m6o7t2296o.html
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",19:00 29/10 Ezra FC - Svay Rieng FC
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/ezra-fc-vs-svay-rieng-fc-6a8bb9lv7l.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",19:00 29/10 Borac Cacak - FK Čukarički
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/borac-cacak-vs-fk-cukaricki-5yes8077lk.html
+#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",19:00 29/10 Buducnost Dobanovci - OFK Beograd
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/buducnost-dobanovci-vs-ofk-beograd-m6o7t2296o.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",19:00 29/10 Romanija Pale - HSK Zrinjski Mostar
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/romanija-pale-vs-hsk-zrinjski-mostar-4ssqxfdmf7.html
@@ -209,18 +209,6 @@ http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/pendikspor-vs-corluspor-n
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",19:50 29/10 Saham - Dhofar
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/saham-vs-dhofar-cqlh8zd0zy.html
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",20:00 29/10 FK Nove Sady - FC Viktoria Plzen
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/fk-nove-sady-vs-fc-viktoria-plzen-y4pdw7fd30.html
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",20:00 29/10 Makole - NK Publikum Celje
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/makole-vs-nk-publikum-celje-v9fga4jgwj.html
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",20:00 29/10 Bijelo Brdo - Slaven Belupo
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/bijelo-brdo-vs-slaven-belupo-jewwdx7sx5.html
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",20:00 29/10 AFC Metalul Buzau - Universitaea Cluj
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/afc-metalul-buzau-vs-universitaea-cluj-0fl9ck7xnt.html
 #EXTINF:-1 group-title="Socolive_2",15h00: [BLV TAP] Phnom Penh Crown FC vs Shan United
 http://sharing.gotdns.ch:8091/socolive.php?id=9912041
 #EXTINF:-1 group-title="Socolive_2",15h00: [BLV CRIS] Phnom Penh Crown FC vs Shan United
