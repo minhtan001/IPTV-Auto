@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/juventus-vs-udinese-2339975?mode=sd
-#EXTINF:-1 group-title="Juventus vs Udinese" referer="https://hoadao.tv/juventus-vs-udinese-2339975?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-f3272263f1a4fa87ba67b0332279ece2.png",Juventus vs Udinese [BLV MÈO BÉO - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/juventus-vs-udinese-2339975?mode=hd
-#EXTINF:-1 group-title="Juventus vs Udinese" referer="https://hoadao.tv/juventus-vs-udinese-2339975?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-f3272263f1a4fa87ba67b0332279ece2.png",Juventus vs Udinese [BLV MÈO BÉO - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/juventus-vs-udinese-2339975?mode=flv
-#EXTINF:-1 group-title="Juventus vs Udinese" referer="https://hoadao.tv/juventus-vs-udinese-2339975?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-f3272263f1a4fa87ba67b0332279ece2.png",Juventus vs Udinese [BLV MÈO BÉO - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/juventus-vs-udinese-2339975?mode=flv2
-#EXTINF:-1 group-title="Juventus vs Udinese" referer="https://hoadao.tv/juventus-vs-udinese-2339975?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-f3272263f1a4fa87ba67b0332279ece2.png",Juventus vs Udinese [BLV MÈO BÉO - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/juventus-vs-udinese-2339975?mode=ndsd
-#EXTINF:-1 group-title="Juventus vs Udinese" referer="https://hoadao.tv/juventus-vs-udinese-2339975?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-f3272263f1a4fa87ba67b0332279ece2.png",Juventus vs Udinese [BLV MÈO BÉO - SD (ND)]
-https://live.alilicloud.com/live/04b0a9603ce0b4246fe8002079b3d391/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/lorient-vs-paris-saint-germain-2340005?mode=sd
 #EXTINF:-1 group-title="Lorient vs Paris Saint Germain" referer="https://hoadao.tv/lorient-vs-paris-saint-germain-2340005?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-4194c5312d9413703438d395eed1eea1.png",Lorient vs Paris Saint Germain [BLV RICKY - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_rickysd/playlist.m3u8
@@ -41,18 +26,54 @@ https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/fc-kln-vs-fc-bayern-munich-2340077?mode=flv2
 #EXTINF:-1 group-title="FC Köln vs FC Bayern Munich" referer="https://hoadao.tv/fc-kln-vs-fc-bayern-munich-2340077?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-c9d92aed2d793163e00ce055a9e15836.png",FC Köln vs FC Bayern Munich [BLV CỤ RÙA - FLV 2]
 https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/gualaceo-sc-vs-9-de-octubre-2340126?mode=ndsd
-#EXTINF:-1 group-title="Gualaceo SC vs 9 de Octubre" referer="https://hoadao.tv/gualaceo-sc-vs-9-de-octubre-2340126?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-596b243a0baba0dd5fcd7fbdd5419e48.png",Gualaceo SC vs 9 de Octubre [No BLV - SD (ND)]
-https://live.alilicloud.com/live/24a25f4f12d7cee6632ccdfff2a30701/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/cd-independiente-juniors-vs-san-antonioecu-2340127?mode=ndsd
-#EXTINF:-1 group-title="CD Independiente Juniors vs San Antonio(ECU)" referer="https://hoadao.tv/cd-independiente-juniors-vs-san-antonioecu-2340127?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-d2af32c4755969c7f530c106da40b6e4.png",CD Independiente Juniors vs San Antonio(ECU) [No BLV - SD (ND)]
-https://live.alilicloud.com/live/90a018522d407520e7aa810e105a88e3/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/ca-aldosivi-reserves-vs-colon-reserves-2339984?mode=ndsd
-#EXTINF:-1 group-title="CA Aldosivi Reserves vs Colon Reserves" referer="https://hoadao.tv/ca-aldosivi-reserves-vs-colon-reserves-2339984?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-5550c95050b823656f135e564418702a.png",CA Aldosivi Reserves vs Colon Reserves [No BLV - SD (ND)]
-https://live.alilicloud.com/live/1fcfaf559feb3815ad65b1ddc3511c86/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/cd-sant-jordi-vs-ca-osasuna-2339987?mode=ndsd
-#EXTINF:-1 group-title="CD Sant Jordi vs CA Osasuna" referer="https://hoadao.tv/cd-sant-jordi-vs-ca-osasuna-2339987?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-dbb433f0659c6af2d7c8eee662355951.png",CD Sant Jordi vs CA Osasuna [No BLV - SD (ND)]
-https://live.alilicloud.com/live/6fb83bf3a6bac6605e82548f713b0ddf/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/fc-kln-vs-fc-bayern-munich-2340077?mode=ndsd
+#EXTINF:-1 group-title="FC Köln vs FC Bayern Munich" referer="https://hoadao.tv/fc-kln-vs-fc-bayern-munich-2340077?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-c9d92aed2d793163e00ce055a9e15836.png",FC Köln vs FC Bayern Munich [BLV CỤ RÙA - SD (ND)]
+https://live.alilicloud.com/live/4a5777595356a49b36a760a5ff38a058/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/arsenal-vs-brighton-hove-albion-2340079?mode=sd
+#EXTINF:-1 group-title="Arsenal vs Brighton Hove Albion" referer="https://hoadao.tv/arsenal-vs-brighton-hove-albion-2340079?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-76a579a9b676d673e2e3b0081f588daf.png",Arsenal vs Brighton Hove Albion [BLV PHÁO - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/arsenal-vs-brighton-hove-albion-2340079?mode=hd
+#EXTINF:-1 group-title="Arsenal vs Brighton Hove Albion" referer="https://hoadao.tv/arsenal-vs-brighton-hove-albion-2340079?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-76a579a9b676d673e2e3b0081f588daf.png",Arsenal vs Brighton Hove Albion [BLV PHÁO - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/arsenal-vs-brighton-hove-albion-2340079?mode=flv
+#EXTINF:-1 group-title="Arsenal vs Brighton Hove Albion" referer="https://hoadao.tv/arsenal-vs-brighton-hove-albion-2340079?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-76a579a9b676d673e2e3b0081f588daf.png",Arsenal vs Brighton Hove Albion [BLV PHÁO - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/arsenal-vs-brighton-hove-albion-2340079?mode=flv2
+#EXTINF:-1 group-title="Arsenal vs Brighton Hove Albion" referer="https://hoadao.tv/arsenal-vs-brighton-hove-albion-2340079?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-76a579a9b676d673e2e3b0081f588daf.png",Arsenal vs Brighton Hove Albion [BLV PHÁO - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/arsenal-vs-brighton-hove-albion-2340079?mode=ndsd
+#EXTINF:-1 group-title="Arsenal vs Brighton Hove Albion" referer="https://hoadao.tv/arsenal-vs-brighton-hove-albion-2340079?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-76a579a9b676d673e2e3b0081f588daf.png",Arsenal vs Brighton Hove Albion [BLV PHÁO - SD (ND)]
+https://live.alilicloud.com/live/07e4d292654169dedd8f0bb87eef5205/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/liverpool-vs-crystal-palace-2340081?mode=sd
+#EXTINF:-1 group-title="Liverpool vs Crystal Palace" referer="https://hoadao.tv/liverpool-vs-crystal-palace-2340081?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-b7ef1b0b3e1e0be6e75417172ecdfb07.png",Liverpool vs Crystal Palace [BLV CHIM NHỎ - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/liverpool-vs-crystal-palace-2340081?mode=hd
+#EXTINF:-1 group-title="Liverpool vs Crystal Palace" referer="https://hoadao.tv/liverpool-vs-crystal-palace-2340081?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-b7ef1b0b3e1e0be6e75417172ecdfb07.png",Liverpool vs Crystal Palace [BLV CHIM NHỎ - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/liverpool-vs-crystal-palace-2340081?mode=flv
+#EXTINF:-1 group-title="Liverpool vs Crystal Palace" referer="https://hoadao.tv/liverpool-vs-crystal-palace-2340081?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-b7ef1b0b3e1e0be6e75417172ecdfb07.png",Liverpool vs Crystal Palace [BLV CHIM NHỎ - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/liverpool-vs-crystal-palace-2340081?mode=flv2
+#EXTINF:-1 group-title="Liverpool vs Crystal Palace" referer="https://hoadao.tv/liverpool-vs-crystal-palace-2340081?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-b7ef1b0b3e1e0be6e75417172ecdfb07.png",Liverpool vs Crystal Palace [BLV CHIM NHỎ - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/liverpool-vs-crystal-palace-2340081?mode=ndsd
+#EXTINF:-1 group-title="Liverpool vs Crystal Palace" referer="https://hoadao.tv/liverpool-vs-crystal-palace-2340081?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-b7ef1b0b3e1e0be6e75417172ecdfb07.png",Liverpool vs Crystal Palace [BLV CHIM NHỎ - SD (ND)]
+https://live.alilicloud.com/live/cd764e37ddb7cce4bcf5373f2c109538/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/swansea-city-vs-manchester-city-2340084?mode=sd
+#EXTINF:-1 group-title="Swansea City vs Manchester City" referer="https://hoadao.tv/swansea-city-vs-manchester-city-2340084?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-1f013ae304c5f5898bfed7767b161286.png",Swansea City vs Manchester City [BLV MÈO BÉO - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/swansea-city-vs-manchester-city-2340084?mode=hd
+#EXTINF:-1 group-title="Swansea City vs Manchester City" referer="https://hoadao.tv/swansea-city-vs-manchester-city-2340084?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-1f013ae304c5f5898bfed7767b161286.png",Swansea City vs Manchester City [BLV MÈO BÉO - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/swansea-city-vs-manchester-city-2340084?mode=flv
+#EXTINF:-1 group-title="Swansea City vs Manchester City" referer="https://hoadao.tv/swansea-city-vs-manchester-city-2340084?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-1f013ae304c5f5898bfed7767b161286.png",Swansea City vs Manchester City [BLV MÈO BÉO - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/swansea-city-vs-manchester-city-2340084?mode=flv2
+#EXTINF:-1 group-title="Swansea City vs Manchester City" referer="https://hoadao.tv/swansea-city-vs-manchester-city-2340084?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-1f013ae304c5f5898bfed7767b161286.png",Swansea City vs Manchester City [BLV MÈO BÉO - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/swansea-city-vs-manchester-city-2340084?mode=ndsd
+#EXTINF:-1 group-title="Swansea City vs Manchester City" referer="https://hoadao.tv/swansea-city-vs-manchester-city-2340084?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-1f013ae304c5f5898bfed7767b161286.png",Swansea City vs Manchester City [BLV MÈO BÉO - SD (ND)]
+https://live.alilicloud.com/live/fc77251734e36a938b27484569030e18/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/cd-ebro-vs-sd-tarazona-2339989?mode=ndsd
 #EXTINF:-1 group-title="CD Ebro vs SD Tarazona" referer="https://hoadao.tv/cd-ebro-vs-sd-tarazona-2339989?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-6835b49de4445411f3b186b7054bced2.png",CD Ebro vs SD Tarazona [No BLV - SD (ND)]
 https://live.alilicloud.com/live/38d043c42906c0841fdad4c123977bd7/playlist.m3u8
@@ -101,9 +122,15 @@ https://live.alilicloud.com/live/3f1f7b6db39ad4ce57d95b95ddd9b986/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/ogc-nice-vs-losc-lille-2340008?mode=ndsd
 #EXTINF:-1 group-title="OGC Nice vs LOSC Lille" referer="https://hoadao.tv/ogc-nice-vs-losc-lille-2340008?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-e841a62f0dcab9058cbd989f5af7c736.png",OGC Nice vs LOSC Lille [No BLV - SD (ND)]
 https://live.alilicloud.com/live/795c08bd475358dc829c0aa35da4ef4b/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/puszcza-niepolomice-vs-lechia-gdansk-2340009?mode=ndsd
+#EXTINF:-1 group-title="Puszcza Niepolomice vs Lechia Gdansk" referer="https://hoadao.tv/puszcza-niepolomice-vs-lechia-gdansk-2340009?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-6d31e279f9e247ceb814983b8ac616cb.png",Puszcza Niepolomice vs Lechia Gdansk [No BLV - SD (ND)]
+https://live.alilicloud.com/live/f50fdcc6d9a1e34d5c6cb3c28585686b/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/al-wehdat-vs-al-muharraq-2340010?mode=ndsd
 #EXTINF:-1 group-title="Al Wehdat vs Al-Muharraq" referer="https://hoadao.tv/al-wehdat-vs-al-muharraq-2340010?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-f607654afd47b39713a946a48eaf8841.png",Al Wehdat vs Al-Muharraq [No BLV - SD (ND)]
 https://live.alilicloud.com/live/d20490b20a121f6011981b321a2d2bd4/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/fc-differdange-03-vs-racing-union-luxemburg-2343193?mode=ndsd
+#EXTINF:-1 group-title="FC Differdange 03 vs Racing Union Luxemburg" referer="https://hoadao.tv/fc-differdange-03-vs-racing-union-luxemburg-2343193?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-28b318884c3ca6fa9707e147e96cac0d.png",FC Differdange 03 vs Racing Union Luxemburg [No BLV - SD (ND)]
+https://live.alilicloud.com/live/e6001c2cd77ccfa673a12980bf5ca043/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/la-union-cf-vs-ad-ceuta-2343194?mode=ndsd
 #EXTINF:-1 group-title="La Union CF vs AD Ceuta" referer="https://hoadao.tv/la-union-cf-vs-ad-ceuta-2343194?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-7c23305594c5a99f177622949b80d574.png",La Union CF vs AD Ceuta [No BLV - SD (ND)]
 https://live.alilicloud.com/live/d9d2428ca81a9f153e01ae2fa15e6512/playlist.m3u8
@@ -119,12 +146,18 @@ https://live.alilicloud.com/live/dd9f6cb4ba5bbe7334644a7c10f0472c/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/nk-brinje-grosuplje-vs-maribor-2340018?mode=ndsd
 #EXTINF:-1 group-title="NK Brinje Grosuplje vs Maribor" referer="https://hoadao.tv/nk-brinje-grosuplje-vs-maribor-2340018?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-aa0f457416d7dbd1afed310aab48b7d9.png",NK Brinje Grosuplje vs Maribor [No BLV - SD (ND)]
 https://live.alilicloud.com/live/fda47a70a45dbd176034112bd8580d62/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/numancia-vs-arenas-club-de-getxo-2340029?mode=ndsd
-#EXTINF:-1 group-title="Numancia vs Arenas Club de Getxo" referer="https://hoadao.tv/numancia-vs-arenas-club-de-getxo-2340029?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-86d1cc2c8d80e7bdcb3405efcbbe3651.png",Numancia vs Arenas Club de Getxo [No BLV - SD (ND)]
-https://live.alilicloud.com/live/881f076a805fec48b8ec6bf0fc58b16a/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/sant-andreu-vs-teruel-2340036?mode=ndsd
-#EXTINF:-1 group-title="Sant Andreu vs Teruel" referer="https://hoadao.tv/sant-andreu-vs-teruel-2340036?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-3454dec3b785666b8a6d082f0d2ade60.png",Sant Andreu vs Teruel [No BLV - SD (ND)]
-https://live.alilicloud.com/live/e7d7a73f06dda4a62824cfe576473523/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/atletico-astorga-vs-mirandes-2340019?mode=ndsd
+#EXTINF:-1 group-title="Atletico Astorga vs Mirandes" referer="https://hoadao.tv/atletico-astorga-vs-mirandes-2340019?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-dade0dcf25c92296d1e4bb2e711da520.png",Atletico Astorga vs Mirandes [No BLV - SD (ND)]
+https://live.alilicloud.com/live/fea000be24c8aea0f1088c43c5e5e319/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/cd-azuaga-vs-cd-leganes-2340021?mode=ndsd
+#EXTINF:-1 group-title="CD Azuaga vs CD Leganes" referer="https://hoadao.tv/cd-azuaga-vs-cd-leganes-2340021?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-fe80a14492df6a8d379ea4d2b1df2173.png",CD Azuaga vs CD Leganes [No BLV - SD (ND)]
+https://live.alilicloud.com/live/10532ff76836c0f397ec2d86af75ba8d/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/caudal-vs-sporting-gijon-2340022?mode=ndsd
+#EXTINF:-1 group-title="Caudal vs Sporting Gijon" referer="https://hoadao.tv/caudal-vs-sporting-gijon-2340022?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-4fbed05316062eaf098cc79ab995c3ce.png",Caudal vs Sporting Gijon [No BLV - SD (ND)]
+https://live.alilicloud.com/live/278d734f3d194e701977500ed688e829/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/cd-cieza-vs-cordoba-2340023?mode=ndsd
+#EXTINF:-1 group-title="CD Cieza vs Cordoba" referer="https://hoadao.tv/cd-cieza-vs-cordoba-2340023?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-bbc239f5d9f49dcfa2062f73597f8bc2.png",CD Cieza vs Cordoba [No BLV - SD (ND)]
+https://live.alilicloud.com/live/2977a434a21a8f5f856d1313a7c7e45d/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/nac-breda-vs-heracles-almelo-2340037?mode=ndsd
 #EXTINF:-1 group-title="NAC Breda vs Heracles Almelo" referer="https://hoadao.tv/nac-breda-vs-heracles-almelo-2340037?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-44b5c92bc62af53cd6b55fd3bf2d5d50.png",NAC Breda vs Heracles Almelo [No BLV - SD (ND)]
 https://live.alilicloud.com/live/c8b80f1234568bfb680b40ad3758cf94/playlist.m3u8
@@ -137,3 +170,6 @@ https://live.alilicloud.com/live/f8230559ad73c4cacea2aced71306907/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/acf-gloria-bistrita-vs-fotbal-club-fcsb-2340045?mode=ndsd
 #EXTINF:-1 group-title="A.C.F. Gloria Bistrita vs Fotbal Club FCSB" referer="https://hoadao.tv/acf-gloria-bistrita-vs-fotbal-club-fcsb-2340045?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-c2b2f6706a036902cde966fcd2c15591.png",A.C.F. Gloria Bistrita vs Fotbal Club FCSB [No BLV - SD (ND)]
 https://live.alilicloud.com/live/a592a70d502829f84b574d977f1dd2ed/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/oliveirense-vs-porto-b-2340048?mode=ndsd
+#EXTINF:-1 group-title="Oliveirense vs Porto B" referer="https://hoadao.tv/oliveirense-vs-porto-b-2340048?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-684426638a0ec47a7bdecbda7dfccc98.png",Oliveirense vs Porto B [No BLV - SD (ND)]
+https://live.alilicloud.com/live/36b3cbc77aed8a267175b0f8ac5d4f52/playlist.m3u8
