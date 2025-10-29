@@ -1,8 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-title="Torreense U23 vs Portimonense U23" tvg-logo="https://hxcv.site/images/cache/match-49d671c012c463849bfbd7ed7a5cd914.png",Torreense U23 vs Portimonense U23 [BLV VĂN TÀI - HLS]
-https://hls.cdnvankhanh.com/live/VANTAI/index.m3u8?expire=1860501480&sign=48479b66b503225db4b2785147e6c4d1
-#EXTINF:-1 group-title="Torreense U23 vs Portimonense U23" tvg-logo="https://hxcv.site/images/cache/match-49d671c012c463849bfbd7ed7a5cd914.png",Torreense U23 vs Portimonense U23 [BLV VĂN TÀI - FLV]
-https://flv.cdnvankhanh.com/live/VANTAI.flv?expire=1860501480&sign=48479b66b503225db4b2785147e6c4d1
+#EXTINF:-1 group-title="Al Khaldiya vs Al-Ahli Doha" tvg-logo="https://hxcv.site/images/cache/match-d19a0760f2a591f5b694faa0d9f7493e.png",Al Khaldiya vs Al-Ahli Doha [BLV VĂN ĐỘ - HLS]
+https://hls.cdnvankhanh.com/live/VANDO/index.m3u8?expire=1892812920&sign=a0a29c944a41e507a7d578db683ea31a
+#EXTINF:-1 group-title="Al Khaldiya vs Al-Ahli Doha" tvg-logo="https://hxcv.site/images/cache/match-d19a0760f2a591f5b694faa0d9f7493e.png",Al Khaldiya vs Al-Ahli Doha [BLV VĂN ĐỘ - FLV]
+ https://flv.cdnvankhanh.com/live/VANDO.flv?expire=1892812920&sign=a0a29c944a41e507a7d578db683ea31a
+#EXTINF:-1 group-title="Al Khaldiya vs Al-Ahli Doha" tvg-logo="https://hxcv.site/images/cache/match-d19a0760f2a591f5b694faa0d9f7493e.png",Al Khaldiya vs Al-Ahli Doha [BLV VĂN GÔN - HLS]
+https://hls.cdnvankhanh.com/live/VANGON/index.m3u8?expire=1891583400&sign=db46845cd1edc815d5bba4a6538fd9ce
+#EXTINF:-1 group-title="Al Khaldiya vs Al-Ahli Doha" tvg-logo="https://hxcv.site/images/cache/match-d19a0760f2a591f5b694faa0d9f7493e.png",Al Khaldiya vs Al-Ahli Doha [BLV VĂN GÔN - FLV]
+https://flv.cdnvankhanh.com/live/VANGON.flv?expire=1891583400&sign=db46845cd1edc815d5bba4a6538fd9ce
 #EXTINF:-1 group-title="NK Lokomotiva Zagreb vs Varteks Varazdin" tvg-logo="https://hxcv.site/images/cache/match-8c1bc0718feb1776360702cb5db39e92.png",NK Lokomotiva Zagreb vs Varteks Varazdin [VĂN QUÁ - HLS]
 https://hls.cdnvankhanh.com/live/VANQUA/index.m3u8?expire=1848232560&sign=1dde72065670bd44db0f1ee0f575303c
 #EXTINF:-1 group-title="NK Lokomotiva Zagreb vs Varteks Varazdin" tvg-logo="https://hxcv.site/images/cache/match-8c1bc0718feb1776360702cb5db39e92.png",NK Lokomotiva Zagreb vs Varteks Varazdin [VĂN QUÁ - FLV]
@@ -11,23 +15,31 @@ https://flv.cdnvankhanh.com/live/VANQUA.flv?expire=1848232560&sign=1dde72065670b
 https://hls.cdnvankhanh.com/live/VANCHUONG/index.m3u8?expire=1890806880&sign=d5e33b097684f7c5682301b78b825aaf
 #EXTINF:-1 group-title="Al-Jabalain vs Al Anwar SA" tvg-logo="https://hxcv.site/images/cache/match-5a61825f5c92154884a1c0853a52bfb4.png",Al-Jabalain vs Al Anwar SA [BLV VĂN CHƯƠNG - FLV]
 https://flv.cdnvankhanh.com/live/VANCHUONG.flv?expire=1890806880&sign=d5e33b097684f7c5682301b78b825aaf
-#EXTINF:-1 group-title="HNK Cibalia vs Hajduk Split" tvg-logo="https://hxcv.site/images/cache/match-1f0bd9ec1b075a49bbb2646a6bb63313.png",HNK Cibalia vs Hajduk Split [BLV VĂN CHUN - HLS]
-https://hls.cdnvankhanh.com/live/VANCHUN/index.m3u8?expire=1898518320&sign=e855afc2f47c2589486b995f1194c0fc
-#EXTINF:-1 group-title="HNK Cibalia vs Hajduk Split" tvg-logo="https://hxcv.site/images/cache/match-1f0bd9ec1b075a49bbb2646a6bb63313.png",HNK Cibalia vs Hajduk Split [BLV VĂN CHUN - FLV]
-https://flv.cdnvankhanh.com/live/VANCHUN.flv?expire=1898518320&sign=e855afc2f47c2589486b995f1194c0fc
-#EXTINF:-1 group-title="FC Torpedo Zhodino vs FC Gomel" tvg-logo="https://hxcv.site/images/cache/match-4f5261fe9961eb659fde0d73240e209d.png",FC Torpedo Zhodino vs FC Gomel [BLV VĂN VẺ - HLS]
-https://hls.cdnvankhanh.com/live/VEVAN/index.m3u8?expire=1848307620&sign=5779030852f8cafeab86dae9130be2f5
-#EXTINF:-1 group-title="FC Torpedo Zhodino vs FC Gomel" tvg-logo="https://hxcv.site/images/cache/match-4f5261fe9961eb659fde0d73240e209d.png",FC Torpedo Zhodino vs FC Gomel [BLV VĂN VẺ - FLV]
-https://flv.cdnvankhanh.com/live/VEVAN.flv?expire=1848307620&sign=5779030852f8cafeab86dae9130be2f5
-#EXTINF:-1 group-title="Al Khaldiya vs Al-Ahli Doha" tvg-logo="https://hxcv.site/images/cache/match-d19a0760f2a591f5b694faa0d9f7493e.png",Al Khaldiya vs Al-Ahli Doha [BLV VĂN GÔN - HLS]
-https://hls.cdnvankhanh.com/live/VANGON/index.m3u8?expire=1891583400&sign=db46845cd1edc815d5bba4a6538fd9ce
-#EXTINF:-1 group-title="Al Khaldiya vs Al-Ahli Doha" tvg-logo="https://hxcv.site/images/cache/match-d19a0760f2a591f5b694faa0d9f7493e.png",Al Khaldiya vs Al-Ahli Doha [BLV VĂN GÔN - FLV]
-https://flv.cdnvankhanh.com/live/VANGON.flv?expire=1891583400&sign=db46845cd1edc815d5bba4a6538fd9ce
-#EXTINF:-1 group-title="Al Khaldiya vs Al-Ahli Doha" tvg-logo="https://hxcv.site/images/cache/match-d19a0760f2a591f5b694faa0d9f7493e.png",Al Khaldiya vs Al-Ahli Doha [BLV VĂN ĐỘ - HLS]
-https://hls.cdnvankhanh.com/live/VANDO/index.m3u8?expire=1892812920&sign=a0a29c944a41e507a7d578db683ea31a
-#EXTINF:-1 group-title="Al Khaldiya vs Al-Ahli Doha" tvg-logo="https://hxcv.site/images/cache/match-d19a0760f2a591f5b694faa0d9f7493e.png",Al Khaldiya vs Al-Ahli Doha [BLV VĂN ĐỘ - FLV]
- https://flv.cdnvankhanh.com/live/VANDO.flv?expire=1892812920&sign=a0a29c944a41e507a7d578db683ea31a
+#EXTINF:-1 group-title="Torreense U23 vs Portimonense U23" tvg-logo="https://hxcv.site/images/cache/match-49d671c012c463849bfbd7ed7a5cd914.png",Torreense U23 vs Portimonense U23 [BLV VĂN TÀI - HLS]
+https://hls.cdnvankhanh.com/live/VANTAI/index.m3u8?expire=1860501480&sign=48479b66b503225db4b2785147e6c4d1
+#EXTINF:-1 group-title="Torreense U23 vs Portimonense U23" tvg-logo="https://hxcv.site/images/cache/match-49d671c012c463849bfbd7ed7a5cd914.png",Torreense U23 vs Portimonense U23 [BLV VĂN TÀI - FLV]
+https://flv.cdnvankhanh.com/live/VANTAI.flv?expire=1860501480&sign=48479b66b503225db4b2785147e6c4d1
 #EXTINF:-1 group-title="CS Sanatatea Cluj vs CS Universitatea Craiova" tvg-logo="https://hxcv.site/images/cache/match-37449b9aba7b55ce9e5126be440d1a2e.png",CS Sanatatea Cluj vs CS Universitatea Craiova [BLV VĂN VỸ - HLS]
 https://hls.cdnvankhanh.com/live/VANVY/index.m3u8?expire=1891070400&sign=642fee455822e2859b2b9f8dc5ed00d9
 #EXTINF:-1 group-title="CS Sanatatea Cluj vs CS Universitatea Craiova" tvg-logo="https://hxcv.site/images/cache/match-37449b9aba7b55ce9e5126be440d1a2e.png",CS Sanatatea Cluj vs CS Universitatea Craiova [BLV VĂN VỸ - FLV]
 https://flv.cdnvankhanh.com/live/VANVY.flv?expire=1891070400&sign=642fee455822e2859b2b9f8dc5ed00d9
+#EXTINF:-1 group-title="FSV Mainz 05 vs VfB Stuttgart" tvg-logo="https://hxcv.site/images/cache/match-635af475f55998524b19acdc6bd9c9ba.png",FSV Mainz 05 vs VfB Stuttgart [BLV VĂN TÈO - HLS]
+https://hls.cdnvankhanh.com/live/VANTEO/index.m3u8?expire=1892616120&sign=d7b1c78e06fada5c68d59641889d2c55
+#EXTINF:-1 group-title="FSV Mainz 05 vs VfB Stuttgart" tvg-logo="https://hxcv.site/images/cache/match-635af475f55998524b19acdc6bd9c9ba.png",FSV Mainz 05 vs VfB Stuttgart [BLV VĂN TÈO - FLV]
+https://flv.cdnvankhanh.com/live/VANTEO.flv?expire=1892616120&sign=d7b1c78e06fada5c68d59641889d2c55
+#EXTINF:-1 group-title="HNK Cibalia vs Hajduk Split" tvg-logo="https://hxcv.site/images/cache/match-1f0bd9ec1b075a49bbb2646a6bb63313.png",HNK Cibalia vs Hajduk Split [BLV VĂN CHUN - HLS]
+https://hls.cdnvankhanh.com/live/VANCHUN/index.m3u8?expire=1898518320&sign=e855afc2f47c2589486b995f1194c0fc
+#EXTINF:-1 group-title="HNK Cibalia vs Hajduk Split" tvg-logo="https://hxcv.site/images/cache/match-1f0bd9ec1b075a49bbb2646a6bb63313.png",HNK Cibalia vs Hajduk Split [BLV VĂN CHUN - FLV]
+https://flv.cdnvankhanh.com/live/VANCHUN.flv?expire=1898518320&sign=e855afc2f47c2589486b995f1194c0fc
+#EXTINF:-1 group-title="SC Paderborn 07 vs Bayer Leverkusen" tvg-logo="https://hxcv.site/images/cache/match-936bcbe3d946541d064aea37f9576ba7.png",SC Paderborn 07 vs Bayer Leverkusen [BLV VĂN TÍCH - HLS]
+https://hls.cdnvankhanh.com/live/VANTICH/index.m3u8?expire=1892707800&sign=150a2229b67134ebc8c4d81573bca419
+#EXTINF:-1 group-title="SC Paderborn 07 vs Bayer Leverkusen" tvg-logo="https://hxcv.site/images/cache/match-936bcbe3d946541d064aea37f9576ba7.png",SC Paderborn 07 vs Bayer Leverkusen [BLV VĂN TÍCH - FLV]
+https://flv.cdnvankhanh.com/live/VANTICH.flv?expire=1892707800&sign=150a2229b67134ebc8c4d81573bca419
+#EXTINF:-1 group-title="SC Paderborn 07 vs Bayer Leverkusen" tvg-logo="https://hxcv.site/images/cache/match-936bcbe3d946541d064aea37f9576ba7.png",SC Paderborn 07 vs Bayer Leverkusen [BLV VĂN MILAN - HLS]
+https://hls.cdnvankhanh.com/live/VANMILAN/index.m3u8?expire=1892616120&sign=a4103cfb6e6a1371923d317a9442db9b
+#EXTINF:-1 group-title="SC Paderborn 07 vs Bayer Leverkusen" tvg-logo="https://hxcv.site/images/cache/match-936bcbe3d946541d064aea37f9576ba7.png",SC Paderborn 07 vs Bayer Leverkusen [BLV VĂN MILAN - FLV]
+https://flv.cdnvankhanh.com/live/VANMILAN.flv?expire=1892616120&sign=a4103cfb6e6a1371923d317a9442db9b
+#EXTINF:-1 group-title="Hobro vs FC Copenhagen" tvg-logo="https://hxcv.site/images/cache/match-004d0de954f0922fb30c90cd194a4746.png",Hobro vs FC Copenhagen [BLV VĂN VỞ - HLS]
+https://hls.cdnvankhanh.com/live/VANVO/index.m3u8?expire=1826356200&sign=f92cd6005b35a94f2c93f28b3ffac506
+#EXTINF:-1 group-title="Hobro vs FC Copenhagen" tvg-logo="https://hxcv.site/images/cache/match-004d0de954f0922fb30c90cd194a4746.png",Hobro vs FC Copenhagen [BLV VĂN VỞ - FLV]
+https://flv.cdnvankhanh.com/live/VANVO.flv?expire=1826356200&sign=f92cd6005b35a94f2c93f28b3ffac506
