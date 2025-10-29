@@ -1,13 +1,22 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/nxt-nxt-2342354?mode=sd
-#EXTINF:-1 group-title="NXT vs NXT" referer="https://hoadao.tv/nxt-nxt-2342354?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-040473797c3dee0dd7c115f313de8ad5.png",NXT vs NXT [BLV PHÁO - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/nxt-nxt-2342354?mode=hd
-#EXTINF:-1 group-title="NXT vs NXT" referer="https://hoadao.tv/nxt-nxt-2342354?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-040473797c3dee0dd7c115f313de8ad5.png",NXT vs NXT [BLV PHÁO - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_phao/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/nxt-nxt-2342354?mode=flv
-#EXTINF:-1 group-title="NXT vs NXT" referer="https://hoadao.tv/nxt-nxt-2342354?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-040473797c3dee0dd7c115f313de8ad5.png",NXT vs NXT [BLV PHÁO - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/nxt-nxt-2342354?mode=flv2
-#EXTINF:-1 group-title="NXT vs NXT" referer="https://hoadao.tv/nxt-nxt-2342354?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-040473797c3dee0dd7c115f313de8ad5.png",NXT vs NXT [BLV PHÁO - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/kahta-02-spor-vs-kasimpasa-2339791?mode=ndsd
+#EXTINF:-1 group-title="Kahta 02 Spor vs Kasimpasa" referer="https://hoadao.tv/kahta-02-spor-vs-kasimpasa-2339791?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-c7e245a5d047ee323ff9943e1fd7c82e.png",Kahta 02 Spor vs Kasimpasa [No BLV - SD (ND)]
+https://live.alilicloud.com/live/b11472a6e31a41a846371da911406024/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/minyor-pernik-vs-cherno-more-varna-2339794?mode=ndsd
+#EXTINF:-1 group-title="Minyor Pernik vs Cherno More Varna" referer="https://hoadao.tv/minyor-pernik-vs-cherno-more-varna-2339794?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-2e4ad8fae4b790932d4867d0b1b3ed5a.png",Minyor Pernik vs Cherno More Varna [No BLV - SD (ND)]
+https://live.alilicloud.com/live/5fe89d4faaecb47652b3aa7a54107efc/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/zaqatala-fk-vs-standard-sumgayit-2339540?mode=ndsd
+#EXTINF:-1 group-title="Zaqatala FK vs Standard Sumgayit" referer="https://hoadao.tv/zaqatala-fk-vs-standard-sumgayit-2339540?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-ab9c5523190ae3d4b73743c8b9d293c9.png",Zaqatala FK vs Standard Sumgayit [No BLV - SD (ND)]
+https://live.alilicloud.com/live/f8aafd2b5995dec3a7a0d6ab5d8763bf/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/h-ni-tasco-ph-th-2343171?mode=sd
+#EXTINF:-1 group-title="Thái Nguyên vs Trẻ Thông Tin" referer="https://hoadao.tv/h-ni-tasco-ph-th-2343171?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-16deede714dff177ceeecb36fab49344.png",Thái Nguyên vs Trẻ Thông Tin [BLV CỤ RÙA - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/h-ni-tasco-ph-th-2343171?mode=hd
+#EXTINF:-1 group-title="Thái Nguyên vs Trẻ Thông Tin" referer="https://hoadao.tv/h-ni-tasco-ph-th-2343171?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-16deede714dff177ceeecb36fab49344.png",Thái Nguyên vs Trẻ Thông Tin [BLV CỤ RÙA - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/h-ni-tasco-ph-th-2343171?mode=flv
+#EXTINF:-1 group-title="Thái Nguyên vs Trẻ Thông Tin" referer="https://hoadao.tv/h-ni-tasco-ph-th-2343171?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-16deede714dff177ceeecb36fab49344.png",Thái Nguyên vs Trẻ Thông Tin [BLV CỤ RÙA - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/h-ni-tasco-ph-th-2343171?mode=flv2
+#EXTINF:-1 group-title="Thái Nguyên vs Trẻ Thông Tin" referer="https://hoadao.tv/h-ni-tasco-ph-th-2343171?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-16deede714dff177ceeecb36fab49344.png",Thái Nguyên vs Trẻ Thông Tin [BLV CỤ RÙA - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
