@@ -1,16 +1,13 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/los-angeles-fc-vs-austin-fc-2340142?mode=sd
-#EXTINF:-1 group-title="Los Angeles FC vs Austin FC" referer="https://hoadao.tv/los-angeles-fc-vs-austin-fc-2340142?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-cba9689ddada3df8057dfa0e8b87c5e0.png",Los Angeles FC vs Austin FC [BLV CỤ RÙA - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/los-angeles-fc-vs-austin-fc-2340142?mode=hd
-#EXTINF:-1 group-title="Los Angeles FC vs Austin FC" referer="https://hoadao.tv/los-angeles-fc-vs-austin-fc-2340142?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-cba9689ddada3df8057dfa0e8b87c5e0.png",Los Angeles FC vs Austin FC [BLV CỤ RÙA - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/los-angeles-fc-vs-austin-fc-2340142?mode=flv
-#EXTINF:-1 group-title="Los Angeles FC vs Austin FC" referer="https://hoadao.tv/los-angeles-fc-vs-austin-fc-2340142?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-cba9689ddada3df8057dfa0e8b87c5e0.png",Los Angeles FC vs Austin FC [BLV CỤ RÙA - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/los-angeles-fc-vs-austin-fc-2340142?mode=flv2
-#EXTINF:-1 group-title="Los Angeles FC vs Austin FC" referer="https://hoadao.tv/los-angeles-fc-vs-austin-fc-2340142?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-cba9689ddada3df8057dfa0e8b87c5e0.png",Los Angeles FC vs Austin FC [BLV CỤ RÙA - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/los-angeles-fc-vs-austin-fc-2340142?mode=ndsd
-#EXTINF:-1 group-title="Los Angeles FC vs Austin FC" referer="https://hoadao.tv/los-angeles-fc-vs-austin-fc-2340142?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-cba9689ddada3df8057dfa0e8b87c5e0.png",Los Angeles FC vs Austin FC [BLV CỤ RÙA - SD (ND)]
-https://live.alilicloud.com/live/859454053372f731993bf91b8d91ef75/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/tp-h-ch-minh-tr-nng-2343173?mode=sd
+#EXTINF:-1 group-title="TP Hồ Chí Minh vs Trẻ Đà Nẵng" referer="https://hoadao.tv/tp-h-ch-minh-tr-nng-2343173?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-174d292bc26e4f320cf506ddaa1df884.png",TP Hồ Chí Minh vs Trẻ Đà Nẵng [BLV CHIM NHỎ - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/tp-h-ch-minh-tr-nng-2343173?mode=hd
+#EXTINF:-1 group-title="TP Hồ Chí Minh vs Trẻ Đà Nẵng" referer="https://hoadao.tv/tp-h-ch-minh-tr-nng-2343173?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-174d292bc26e4f320cf506ddaa1df884.png",TP Hồ Chí Minh vs Trẻ Đà Nẵng [BLV CHIM NHỎ - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/tp-h-ch-minh-tr-nng-2343173?mode=flv
+#EXTINF:-1 group-title="TP Hồ Chí Minh vs Trẻ Đà Nẵng" referer="https://hoadao.tv/tp-h-ch-minh-tr-nng-2343173?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-174d292bc26e4f320cf506ddaa1df884.png",TP Hồ Chí Minh vs Trẻ Đà Nẵng [BLV CHIM NHỎ - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/tp-h-ch-minh-tr-nng-2343173?mode=flv2
+#EXTINF:-1 group-title="TP Hồ Chí Minh vs Trẻ Đà Nẵng" referer="https://hoadao.tv/tp-h-ch-minh-tr-nng-2343173?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-174d292bc26e4f320cf506ddaa1df884.png",TP Hồ Chí Minh vs Trẻ Đà Nẵng [BLV CHIM NHỎ - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
