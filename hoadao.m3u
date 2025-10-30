@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/damac-vs-al-fateh-sc-2340221?mode=sd
-#EXTINF:-1 group-title="Damac vs Al Fateh SC" referer="https://hoadao.tv/damac-vs-al-fateh-sc-2340221?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-81a3aa1851805ff868e3d043cf169d86.png",Damac vs Al Fateh SC [BLV CHIM NHỎ - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/damac-vs-al-fateh-sc-2340221?mode=hd
-#EXTINF:-1 group-title="Damac vs Al Fateh SC" referer="https://hoadao.tv/damac-vs-al-fateh-sc-2340221?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-81a3aa1851805ff868e3d043cf169d86.png",Damac vs Al Fateh SC [BLV CHIM NHỎ - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/damac-vs-al-fateh-sc-2340221?mode=flv
-#EXTINF:-1 group-title="Damac vs Al Fateh SC" referer="https://hoadao.tv/damac-vs-al-fateh-sc-2340221?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-81a3aa1851805ff868e3d043cf169d86.png",Damac vs Al Fateh SC [BLV CHIM NHỎ - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/damac-vs-al-fateh-sc-2340221?mode=flv2
-#EXTINF:-1 group-title="Damac vs Al Fateh SC" referer="https://hoadao.tv/damac-vs-al-fateh-sc-2340221?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-81a3aa1851805ff868e3d043cf169d86.png",Damac vs Al Fateh SC [BLV CHIM NHỎ - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/cagliari-vs-sassuolo-2340259?mode=sd
 #EXTINF:-1 group-title="Cagliari vs Sassuolo" referer="https://hoadao.tv/cagliari-vs-sassuolo-2340259?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-15d658b768469ed57cbec7055ff7a869.png",Cagliari vs Sassuolo [BLV CHIM NHỎ - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
@@ -23,12 +11,9 @@ https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/cagliari-vs-sassuolo-2340259?mode=flv2
 #EXTINF:-1 group-title="Cagliari vs Sassuolo" referer="https://hoadao.tv/cagliari-vs-sassuolo-2340259?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-15d658b768469ed57cbec7055ff7a869.png",Cagliari vs Sassuolo [BLV CHIM NHỎ - FLV 2]
 https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/malkiya-vs-al-ahlimanama-2340229?mode=ndsd
-#EXTINF:-1 group-title="Malkiya vs Al-Ahli(Manama)" referer="https://hoadao.tv/malkiya-vs-al-ahlimanama-2340229?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-70fc4a2583ec970b40ce7d5370c60e96.png",Malkiya vs Al-Ahli(Manama) [No BLV - SD (ND)]
-https://live.alilicloud.com/live/e2e7f46f6dc0f2aa148f1dc1106722e3/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/harju-jk-laagri-vs-fc-nomme-united-2340230?mode=ndsd
-#EXTINF:-1 group-title="Harju JK Laagri vs FC Nomme United" referer="https://hoadao.tv/harju-jk-laagri-vs-fc-nomme-united-2340230?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-5a19e7cb54a88d03e61c9b1a2bc16383.png",Harju JK Laagri vs FC Nomme United [No BLV - SD (ND)]
-https://live.alilicloud.com/live/0c8772589a81af90b0ea0f5e3ea5d509/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/cagliari-vs-sassuolo-2340259?mode=ndsd
+#EXTINF:-1 group-title="Cagliari vs Sassuolo" referer="https://hoadao.tv/cagliari-vs-sassuolo-2340259?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-15d658b768469ed57cbec7055ff7a869.png",Cagliari vs Sassuolo [BLV CHIM NHỎ - SD (ND)]
+https://live.alilicloud.com/live/dbeb223196657c66d2bfc307300c7401/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/inter-turku-vs-sjk-seinajoen-2340233?mode=ndsd
 #EXTINF:-1 group-title="Inter Turku vs SJK Seinajoen" referer="https://hoadao.tv/inter-turku-vs-sjk-seinajoen-2340233?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-bdff77a55dace017a2aa1fbb814b2c12.png",Inter Turku vs SJK Seinajoen [No BLV - SD (ND)]
 https://live.alilicloud.com/live/96166d8c97a6a26492b3cc8dea399883/playlist.m3u8
@@ -47,6 +32,9 @@ https://live.alilicloud.com/live/19651018d3c951113b71441bd48f4116/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/midtjylland-vs-silkeborg-2340239?mode=ndsd
 #EXTINF:-1 group-title="Midtjylland vs Silkeborg" referer="https://hoadao.tv/midtjylland-vs-silkeborg-2340239?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-d593e1b8ac78fd51d7be39509f32b34e.png",Midtjylland vs Silkeborg [No BLV - SD (ND)]
 https://live.alilicloud.com/live/29125af23b371f955cefa53b000fd3c5/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/fk-vozdovac-beograd-vs-jedinstvo-ub-2342945?mode=ndsd
+#EXTINF:-1 group-title="FK Vozdovac Beograd vs Jedinstvo UB" referer="https://hoadao.tv/fk-vozdovac-beograd-vs-jedinstvo-ub-2342945?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-13a46f30f9c781949335881e20d030c0.png",FK Vozdovac Beograd vs Jedinstvo UB [No BLV - SD (ND)]
+https://live.alilicloud.com/live/8d6ddd50c5b958b4a7bc089f8fbe0a36/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/vojvodina-novi-sad-vs-crvena-zvezda-2342953?mode=ndsd
 #EXTINF:-1 group-title="Vojvodina Novi Sad vs Crvena Zvezda" referer="https://hoadao.tv/vojvodina-novi-sad-vs-crvena-zvezda-2342953?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-9c1163c8e800436b3c43e3de69fa5bb1.png",Vojvodina Novi Sad vs Crvena Zvezda [No BLV - SD (ND)]
 https://live.alilicloud.com/live/892a6cf70821d98be2d3bde3be9c2241/playlist.m3u8
@@ -59,3 +47,36 @@ https://live.alilicloud.com/live/4ca568fda53eeae92577c78f2161bc8a/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/ilves-tampere-vs-hjk-helsinki-2340247?mode=ndsd
 #EXTINF:-1 group-title="Ilves Tampere vs HJK Helsinki" referer="https://hoadao.tv/ilves-tampere-vs-hjk-helsinki-2340247?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-0c69a98f0754cc96e9764b3b73100c4c.png",Ilves Tampere vs HJK Helsinki [No BLV - SD (ND)]
 https://live.alilicloud.com/live/df85b3d09af3f77df8c0a0c35e4852e3/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/al-kholood-vs-neom-sports-club-2340252?mode=ndsd
+#EXTINF:-1 group-title="Al Kholood vs NEOM Sports Club" referer="https://hoadao.tv/al-kholood-vs-neom-sports-club-2340252?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-471d5a456c0e42041d51cca02b7e3be1.png",Al Kholood vs NEOM Sports Club [No BLV - SD (ND)]
+https://live.alilicloud.com/live/3f73c20331829c287da6151079697051/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/konyaspor-vs-12-bingol-bld-2340255?mode=ndsd
+#EXTINF:-1 group-title="Konyaspor vs 12 Bingol Bld" referer="https://hoadao.tv/konyaspor-vs-12-bingol-bld-2340255?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-e2c2dda2f66037f573090314e63fa545.png",Konyaspor vs 12 Bingol Bld [No BLV - SD (ND)]
+https://live.alilicloud.com/live/4f5d7aa037610248293d8b4ffd643b7c/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/cagliari-vs-sassuolo-2340259?mode=sd
+#EXTINF:-1 group-title="Cagliari vs Sassuolo" referer="https://hoadao.tv/cagliari-vs-sassuolo-2340259?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-15d658b768469ed57cbec7055ff7a869.png",Cagliari vs Sassuolo [No BLV - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/cagliari-vs-sassuolo-2340259?mode=hd
+#EXTINF:-1 group-title="Cagliari vs Sassuolo" referer="https://hoadao.tv/cagliari-vs-sassuolo-2340259?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-15d658b768469ed57cbec7055ff7a869.png",Cagliari vs Sassuolo [No BLV - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/cagliari-vs-sassuolo-2340259?mode=flv
+#EXTINF:-1 group-title="Cagliari vs Sassuolo" referer="https://hoadao.tv/cagliari-vs-sassuolo-2340259?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-15d658b768469ed57cbec7055ff7a869.png",Cagliari vs Sassuolo [No BLV - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/cagliari-vs-sassuolo-2340259?mode=flv2
+#EXTINF:-1 group-title="Cagliari vs Sassuolo" referer="https://hoadao.tv/cagliari-vs-sassuolo-2340259?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-15d658b768469ed57cbec7055ff7a869.png",Cagliari vs Sassuolo [No BLV - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/cagliari-vs-sassuolo-2340259?mode=ndsd
+#EXTINF:-1 group-title="Cagliari vs Sassuolo" referer="https://hoadao.tv/cagliari-vs-sassuolo-2340259?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-15d658b768469ed57cbec7055ff7a869.png",Cagliari vs Sassuolo [No BLV - SD (ND)]
+https://live.alilicloud.com/live/dbeb223196657c66d2bfc307300c7401/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/perugia-vero-volley-2343177?mode=sd
+#EXTINF:-1 group-title="Perugia vs Vero Volley" referer="https://hoadao.tv/perugia-vero-volley-2343177?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-747427882272846aa71421da8c4ec320.png",Perugia vs Vero Volley [BLV CỤ RÙA - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/perugia-vero-volley-2343177?mode=hd
+#EXTINF:-1 group-title="Perugia vs Vero Volley" referer="https://hoadao.tv/perugia-vero-volley-2343177?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-747427882272846aa71421da8c4ec320.png",Perugia vs Vero Volley [BLV CỤ RÙA - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/perugia-vero-volley-2343177?mode=flv
+#EXTINF:-1 group-title="Perugia vs Vero Volley" referer="https://hoadao.tv/perugia-vero-volley-2343177?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-747427882272846aa71421da8c4ec320.png",Perugia vs Vero Volley [BLV CỤ RÙA - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/perugia-vero-volley-2343177?mode=flv2
+#EXTINF:-1 group-title="Perugia vs Vero Volley" referer="https://hoadao.tv/perugia-vero-volley-2343177?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-747427882272846aa71421da8c4ec320.png",Perugia vs Vero Volley [BLV CỤ RÙA - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
