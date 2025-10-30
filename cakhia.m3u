@@ -1,17 +1,5 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia",🔴 SD Nhanh Al-Sadd - Al Rayyan
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@maosd1.flv
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia",🔴 HD Nhanh Al-Sadd - Al Rayyan
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@maohd1.flv
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia",🔴 SD Nhanh Midtjylland - Silkeborg
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@natrasd1.flv
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia",🔴 HD Nhanh Midtjylland - Silkeborg
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@natrahd1.flv
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia",🔴 SD Nhanh National Bank Egypt SC - Zamalek
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@ngaosd1.flv
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -60,14 +48,23 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@musd1.flv
 #EXTINF:-1 group-title="Cakhia",🔴 HD (Nhanh) Puerto de Vega - Celta de Vigo
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@muhd1.flv
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia",02:00 31/10 CD Getxo - Deportivo Alavés
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/cd-getxo-vs-deportivo-alaves-029mi7x4xl.html
+#EXTINF:-1 group-title="Cakhia",🔴 SD Nhanh CD Getxo - Deportivo Alavés
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@momsd1.flv
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia",02:30 31/10 Grasshopper - Young Boys
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/grasshopper-vs-young-boys-83zb96xb4l.html
+#EXTINF:-1 group-title="Cakhia",🔴 HD Nhanh CD Getxo - Deportivo Alavés
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@momhd1.flv
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia",02:30 31/10 Lugano - Luzern
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/lugano-vs-luzern-2xq4x73hiq.html
+#EXTINF:-1 group-title="Cakhia",🔴 SD Nhanh Lugano - Luzern
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@maosd1.flv
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia",🔴 HD Nhanh Lugano - Luzern
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@maohd1.flv
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia",🔴 SD (Nhanh) Grasshopper - Young Boys
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@sunsd1.flv
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia",🔴 HD (Nhanh) Grasshopper - Young Boys
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@sunhd1.flv
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia",02:45 31/10 Nordsjaelland - Brondby IF
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/nordsjaelland-vs-brondby-if-6sd8nid9pi.html
@@ -105,11 +102,11 @@ http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/oklahoma-city-thunder-vs-
 #EXTINF:-1 group-title="Cakhia",07:00 31/10 Milwaukee Bucks - Golden State Warriors
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/milwaukee-bucks-vs-golden-state-warriors-fr1hodb735.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia",07:30 31/10 San Antonio Spurs - Miami Heat
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/san-antonio-spurs-vs-miami-heat-kav3mwk27m.html
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia",07:30 31/10 Palmeiras - Liga Dep Universitaria Quito
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/palmeiras-vs-liga-dep-universitaria-quito-dik65c42ij.html
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia",07:30 31/10 San Antonio Spurs - Miami Heat
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/san-antonio-spurs-vs-miami-heat-kav3mwk27m.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia",08:00 31/10 Spokane Zephyr (W) - Carolina Ascent (W)
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/spokane-zephyr-w-vs-carolina-ascent-w-023ok185mj.html
@@ -135,17 +132,26 @@ http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/bangalore-city-vs-student
 #EXTINF:-1 group-title="Cakhia",15:30 31/10 PSIM Yogyakarta - Persik Kediri
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/psim-yogyakarta-vs-persik-kediri-hvdjr7cma6.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia",15:35 31/10 Brisbane Roar - Melbourne City
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/brisbane-roar-vs-melbourne-city-7ybd23x6wx.html
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia",15:35 31/10 Marconi Stallions - Heidelberg United
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/marconi-stallions-vs-heidelberg-united-2vboeo1d5a.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia",16:00 31/10 FC Altyn Asyr - Al Shabab(OMA)
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/fc-altyn-asyr-vs-al-shababoma-a0z87b7095.html
+#EXTINF:-1 group-title="Cakhia",15:35 31/10 Brisbane Roar - Melbourne City
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/brisbane-roar-vs-melbourne-city-7ybd23x6wx.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia",16:00 31/10 Krasnodar FK (w) - FK Ryazan (w)
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/krasnodar-fk-w-vs-fk-ryazan-w-5ily4i4no7.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia",16:00 31/10 FC Altyn Asyr - Al Shabab(OMA)
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/fc-altyn-asyr-vs-al-shababoma-a0z87b7095.html
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia",17:00 31/10 Shanghai Port FC - Zhejiang Professional FC
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/shanghai-port-fc-vs-zhejiang-professional-fc-ea3xt4h7nt.html
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia",17:00 31/10 Regar-TadAZ Tursunzoda - Al-Safa
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/regar-tadaz-tursunzoda-vs-al-safa-9hyqagi98v.html
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia",17:00 31/10 Hoang Anh Gia Lai - Nam Dinh FC
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/hoang-anh-gia-lai-vs-nam-dinh-fc-despzua1bj.html
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia",17:30 31/10 Bharat Bengaluru FC - Karnataka
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/bharat-bengaluru-fc-vs-karnataka-2guzrksbav.html
