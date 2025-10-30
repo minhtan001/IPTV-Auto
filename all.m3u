@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTVLCOPT:http-referrer=https://khandaia.info/truc-tiep/90b2f1172ee9435784f35fdc997c2748
+#EXTINF:-1 group-title="KhanDaiA" referer="https://khandaia.info/truc-tiep/90b2f1172ee9435784f35fdc997c2748" tvg-logo="https://hxcv.site/images/cache/match-2e7dca639f3eb01e5fae3a3fc01931ad.png",TP.HCM vs Trẻ Đà Nẵng [BLV SIÊU CAY - HD 1]
+https://stm02bc48435558.stream.hdplaylink.com/live3/c80921ce92ef4a07b314f30d6a8e0c7c_720/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://khandaia.info/truc-tiep/90b2f1172ee9435784f35fdc997c2748
+#EXTINF:-1 group-title="KhanDaiA" referer="https://khandaia.info/truc-tiep/90b2f1172ee9435784f35fdc997c2748" tvg-logo="https://hxcv.site/images/cache/match-2e7dca639f3eb01e5fae3a3fc01931ad.png",TP.HCM vs Trẻ Đà Nẵng [BLV SIÊU CAY - HD 2]
+https://live4.fastestcdn-global.com/live4/c80921ce92ef4a07b314f30d6a8e0c7c_720/index.m3u8
+#EXTVLCOPT:http-referrer=https://khandaia.info/truc-tiep/90b2f1172ee9435784f35fdc997c2748
+#EXTINF:-1 group-title="KhanDaiA" referer="https://khandaia.info/truc-tiep/90b2f1172ee9435784f35fdc997c2748" tvg-logo="https://hxcv.site/images/cache/match-2e7dca639f3eb01e5fae3a3fc01931ad.png",TP.HCM vs Trẻ Đà Nẵng [BLV SIÊU CAY - HD 3]
+https://stm02bc48435558.stream.hdplaylink.com/live3/c80921ce92ef4a07b314f30d6a8e0c7c_720/playlist.m3u8
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-210ac0aa1c88736152ef939be02daf24.png",Brisbane Bullets vs Cairns Taipans [BRIAN - HD M3U8]
 https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1761801326-0-0-17934d14fac08d931387cbd6fe093265
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-210ac0aa1c88736152ef939be02daf24.png",Brisbane Bullets vs Cairns Taipans [BRIAN - M3U8]
@@ -503,34 +512,50 @@ https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1761777946-0-0-32f9
 https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1761777946-0-0-1f51005fdd7f37a7ad946bdc9d53e491
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-bf9bcdace92c465a465071779c6b9ff6.png",Bahrain SC vs A'Ali FC [BLV LUCAS - FLV]
 https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1761777946-0-0-56ba7feecddde2c041616d926da28e40
-#EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-4bd849b554845a1b13b5449c483584cb.png",Tuv Buganuud vs Deren FC [BLV VĂN KHANG - HLS]
- https://hls.cdnvankhanh.com/live/VANKHANG/index.m3u8?expire=1862206680&sign=7ac84ad876b1ccbad9036fe76373e2c6
-#EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-4bd849b554845a1b13b5449c483584cb.png",Tuv Buganuud vs Deren FC [BLV VĂN KHANG - FLV]
-https://flv.cdnvankhanh.com/live/VANKHANG.flv?expire=1862206680&sign=7ac84ad876b1ccbad9036fe76373e2c6
-#EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-ac3ef4f34c37dfae1d4829295df58d34.png",Tuv Buganuud vs Deren FC [BLV KHỔNG MINH - HLS]
-https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-ac3ef4f34c37dfae1d4829295df58d34.png",Tuv Buganuud vs Deren FC [BLV KHỔNG MINH - FLV]
-https://flv.cdnok9.com/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-ac3ef4f34c37dfae1d4829295df58d34.png",Tuv Buganuud vs Deren FC [BLV VÕ TÒNG - HLS]
- https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-ac3ef4f34c37dfae1d4829295df58d34.png",Tuv Buganuud vs Deren FC [BLV VÕ TÒNG - FLV]
- https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-481c9a804ef39fb7342d2a16f0f482b7.png",Swansea City vs Manchester City [BLV VĂN LONG - HLS]
+https://hls.cdnvankhanh.com/live/TO1C/index.m3u8?expire=1875681300&sign=298f5a6e3867b9aedc8ee473c7f1cd2c
+#EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-481c9a804ef39fb7342d2a16f0f482b7.png",Swansea City vs Manchester City [BLV VĂN LONG - FLV]
+https://flv.cdnvankhanh.com/live/TO1C.flv?expire=1875681300&sign=298f5a6e3867b9aedc8ee473c7f1cd2c
+#EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-74d54019599bc9d83ef4237f54bd1f77.png",Rebels FC vs Hal FC [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYbroxsGYn77Ftgt/playlist.m3u8
+#EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-b18eb4b834209f6e93a1a9c1890de638.png",Ahrotekh Tyshkivka vs FK Yarud Mariupol [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvXrNoGLn9tMQfnrx/playlist.m3u8
+#EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-9f90bb2d5a2c43883c61e3033aed9b7d.png",Samtredia vs Dila Gori [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYbU6AD3RXjcDyW4/playlist.m3u8
+#EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-67b8988cc5802d78f465c0aa4f4df9dc.png",Sporting Lisbon Sad U23 vs Estrela FC U23 [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuPtLYHrfpsC9kd5v/playlist.m3u8
+#EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-fc23f3cf8b38681e635262712d916769.png",Uthai Thani FC vs Kasem Bundit University FC [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYbU6BYccAKgLvVJ/playlist.m3u8
+#EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-1961f245896cf540b90d96e10cbda39d.png",Bangkok United FC vs Samut Sakhon [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYbU6BYmQ5obeb6t/playlist.m3u8
+#EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-972caa124272c599285da72ae084dd7b.png",Muang Thong United vs Romklao United [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYbU6BYjCbw7pfwz/playlist.m3u8
+#EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-445cfb89e19dfc3de669b88d6ba6b901.png",Zonguldak vs Bodrumspor [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYbJKAyAKDXLpKGG/playlist.m3u8
+#EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-096ef80ce5d46a274d3eb4fe9b67d870.png",FK Vrsac vs Tekstilac [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYbU6ANfhaoU4kTn/playlist.m3u8
+#EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-dceb45fb312c3b289dcd43f628e5dd74.png",Shabab Al Ordon vs AL Salt [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvY6UaWUyKhLbU2JG/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-802cdd9bc242b1706a937d1300d8b6f4.png",Real Madrid vs Barcelona [BLV KAKA - HLS]
 https://hls.cdnok9.com/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
 #EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-802cdd9bc242b1706a937d1300d8b6f4.png",Real Madrid vs Barcelona [BLV KAKA - FLV]
 https://flv.cdnok9.com/live/TO1A.flv?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
 #EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-aa027695a17c378718911afb8e90da06.png",Rebels FC vs Hal FC [NHÀ ĐÀI - HLS]
 https://auto.cdnvankhanh.com/live/sd-6MvYbroxsGYn77Ftgt/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-bc12a3be396da8cc26e2a895c109a12b.png",Khoromkhon Club vs FC Ulaanbaatar [BLV TÔN LẬP - HLS]
+https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-bc12a3be396da8cc26e2a895c109a12b.png",Khoromkhon Club vs FC Ulaanbaatar [BLV TÔN LẬP - FLV]
+https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 #EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-bc12a3be396da8cc26e2a895c109a12b.png",Khoromkhon Club vs FC Ulaanbaatar [BLV KHỔNG MINH - HLS]
 https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
 #EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-bc12a3be396da8cc26e2a895c109a12b.png",Khoromkhon Club vs FC Ulaanbaatar [BLV KHỔNG MINH - FLV]
 https://flv.cdnok9.com/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
 #EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-76ece8ead8e15f7cb0e08f53caaf80dc.png",Karaman Belediyesi Spor vs Caykur Rizespor [NHÀ ĐÀI - HLS]
 https://auto.cdnvankhanh.com/live/sd-6MvYbJKB8rzELAJvXn/playlist.m3u8
-#EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-1f24362a75e3f2e723b2e4c4761e1f1d.png",Uthai Thani FC vs Kasem Bundit University FC [NHÀ ĐÀI - HLS]
-https://auto.cdnvankhanh.com/live/sd-6MvYbU6BYccAKgLvVJ/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-0205945212a5288ad98753bb9395fcc1.png",Sporting Lisbon Sad U23 vs Estrela FC U23 [NHÀ ĐÀI - HLS]
 https://auto.cdnvankhanh.com/live/sd-6MuPtLYHrfpsC9kd5v/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-1f24362a75e3f2e723b2e4c4761e1f1d.png",Uthai Thani FC vs Kasem Bundit University FC [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYbU6BYccAKgLvVJ/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-3ac4644d39b499b1c28cbe5c96c49534.png",Bangkok United FC vs Samut Sakhon [NHÀ ĐÀI - HLS]
 https://auto.cdnvankhanh.com/live/sd-6MvYbU6BYmQ5obeb6t/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-16472675db3bee3c2faa4877f2e6aa04.png",Muang Thong United vs Romklao United [NHÀ ĐÀI - HLS]
@@ -636,12 +661,6 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",🔴 SD  (Nhanh) Tuv Buganuud - Deren FC
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@lulusd1.flv
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",🔴 HD  (Nhanh) Tuv Buganuud - Deren FC
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@luluhd1.flv
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",14:00 30/10 Khoromkhon Club - FC Ulaanbaatar
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/khoromkhon-club-vs-fc-ulaanbaatar-koxi82ex96.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -660,17 +679,17 @@ http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/ahrotekh-tyshkivka-vs-fk-
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",17:00 30/10 Erokspor - Agri 1970 Spor
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/erokspor-vs-agri-1970-spor-6j9ax4mj6e.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",17:30 30/10 Bulancak - 76 Igdir Belediye spor
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/bulancak-vs-76-igdir-belediye-spor-y08xli4xim.html
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",17:30 30/10 Asc And Center FC - Kodagu FC
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/asc-and-center-fc-vs-kodagu-fc-evfsekjqi8.html
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",17:30 30/10 Bulancak - 76 Igdir Belediye spor
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/bulancak-vs-76-igdir-belediye-spor-y08xli4xim.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",18:00 30/10 Stomil Olsztyn (w) - Pogon Tczew (w)
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/stomil-olsztyn-w-vs-pogon-tczew-w-9tojuowfwm.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",18:00 30/10 Sporting CP U23 - Estrela FC U23
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/sporting-cp-u23-vs-estrela-fc-u23-b8mae7853h.html
+#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",18:00 30/10 Nebitchi - Sagadam FK
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/nebitchi-vs-sagadam-fk-i0pie61pt7.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",18:00 30/10 Rajasthan United FC - Kerala Blasters FC
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/rajasthan-united-fc-vs-kerala-blasters-fc-ftozkb2dqq.html
@@ -678,11 +697,14 @@ http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/rajasthan-united-fc-vs-ke
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",18:00 30/10 FC Syunik - FC Cilicia
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/fc-syunik-vs-fc-cilicia-i3nn3xcpt3.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",18:00 30/10 Gryf Slupsk - Lech Poznan
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/gryf-slupsk-vs-lech-poznan-4l4qzyaiqg.html
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",18:00 30/10 Sadarakpat - Ararat Yerevan
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/sadarakpat-vs-ararat-yerevan-y8ehgk9vmt.html
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",18:00 30/10 Sporting CP U23 - Estrela FC U23
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/sporting-cp-u23-vs-estrela-fc-u23-b8mae7853h.html
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",18:00 30/10 Gryf Slupsk - Lech Poznan
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/gryf-slupsk-vs-lech-poznan-4l4qzyaiqg.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",18:30 30/10 FK Chernomorets 1919 Burgas - Ludogorets Razgrad
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/fk-chernomorets-1919-burgas-vs-ludogorets-razgrad-kpv914rx99.html
@@ -698,6 +720,9 @@ http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/fk-vrsac-vs-tekstilac-ja6
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",19:00 30/10 FK Dubocica - Mladost Lucani
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/fk-dubocica-vs-mladost-lucani-g5swnfa489.html
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",19:30 30/10 Raviena - Gazl Kafr Eldwar
+http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/raviena-vs-gazl-kafr-eldwar-bzgc8pi7xi.html
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",20:00 30/10 Dravinja - NK Mura 05
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/dravinja-vs-nk-mura-05-37gr8xuwqa.html
@@ -725,12 +750,6 @@ http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/kopetdag-asgabat-vs-fc-ah
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",21:00 30/10 Miedz Legnica - Jagiellonia Bialystok
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/miedz-legnica-vs-jagiellonia-bialystok-nfb9ww8iw4.html
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",21:00 30/10 Nebitchi - Sagadam FK
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/nebitchi-vs-sagadam-fk-i0pie61pt7.html
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",21:00 30/10 Georgia U17 - Greece U17
-http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/georgia-u17-vs-greece-u17-7u3804n0tk.html
 #EXTINF:-1 group-title="Socolive_2",15h30: [BRIAN] Brisbane Bullets vs Cairns Taipans
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTINF:-1 group-title="Socolive_2",15h30: [BLV HENRY] Brisbane Bullets vs Cairns Taipans
@@ -1037,11 +1056,17 @@ http://sharing.gotdns.ch:8091/socolive.php?id=522086
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-31/10: [KING] Charlotte Hornets vs Orlando Magic
 http://sharing.gotdns.ch:8091/socolive.php?id=9912099
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h10-31/10: [CÔNG LÝ] Boyaca Chico vs America de Cali
-http://sharing.gotdns.ch:8091/socolive.php?id=9912035
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h10-31/10: [JACKMAN] Boyaca Chico vs America de Cali
 http://sharing.gotdns.ch:8091/socolive.php?id=542758
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h10-31/10: [VỊT BẠC] Boyaca Chico vs America de Cali
+http://sharing.gotdns.ch:8091/socolive.php?id=474421
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h10-31/10: [BLV PEWPEW] Boyaca Chico vs America de Cali
+http://sharing.gotdns.ch:8091/socolive.php?id=9912015
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h10-31/10: [CÔNG LÝ] Boyaca Chico vs America de Cali
+http://sharing.gotdns.ch:8091/socolive.php?id=9912035
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h00-31/10: [BRIAN] Milwaukee Bucks vs Golden State Warriors
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
@@ -1072,6 +1097,12 @@ http://sharing.gotdns.ch:8091/socolive.php?id=427562
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-31/10: [BLV VODKA] The Strongest vs Oriente Petrolero
 http://sharing.gotdns.ch:8091/socolive.php?id=500605
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-31/10: [BLV GẤU] The Strongest vs Oriente Petrolero
+http://sharing.gotdns.ch:8091/socolive.php?id=9912107
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-31/10: [BLV Sao Đỏ] The Strongest vs Oriente Petrolero
+http://sharing.gotdns.ch:8091/socolive.php?id=519740
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-31/10: [BLV HENRY] San Antonio Spurs vs Miami Heat
 http://sharing.gotdns.ch:8091/socolive.php?id=9912112
@@ -1111,9 +1142,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912102
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",09h00-31/10: [BLV TAP] CD Olimpia vs LD Alajuelense
 http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",09h00-31/10: [BLV DECO] CD Olimpia vs LD Alajuelense
-http://sharing.gotdns.ch:8091/socolive.php?id=9912060
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",09h15-31/10: [BLV BEAN] Astros vs Diablos Rojos
 http://sharing.gotdns.ch:8091/socolive.php?id=9912111
