@@ -627,14 +627,14 @@ https://flv.cdnok9.com/live/HANGVU1.flv?expire=1788427256&sign=35e56aacb29c1a062
 https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
 #EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-7815c4585e23f9aa7d28e9598c38d6e6.png",SC Bengaluru vs Royal Banga Lu Lu [BLV KHỔNG MINH - FLV]
 https://flv.cdnok9.com/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-7815c4585e23f9aa7d28e9598c38d6e6.png",SC Bengaluru vs Royal Banga Lu Lu [BLV NHỊ KA - HLS]
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-7815c4585e23f9aa7d28e9598c38d6e6.png",SC Bengaluru vs Royal Banga Lu Lu [BLV NHỊ KA - FLV]
-https://flv.cdnok9.com/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
 #EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-7815c4585e23f9aa7d28e9598c38d6e6.png",SC Bengaluru vs Royal Banga Lu Lu [BLV TÂY MÔN KHÁNH - HLS]
 https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 #EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-7815c4585e23f9aa7d28e9598c38d6e6.png",SC Bengaluru vs Royal Banga Lu Lu [BLV TÂY MÔN KHÁNH - FLV]
 https://flv.cdnok9.com/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-7815c4585e23f9aa7d28e9598c38d6e6.png",SC Bengaluru vs Royal Banga Lu Lu [BLV NHỊ KA - HLS]
+https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-7815c4585e23f9aa7d28e9598c38d6e6.png",SC Bengaluru vs Royal Banga Lu Lu [BLV NHỊ KA - FLV]
+https://flv.cdnok9.com/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
 #EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-32fef33e1caa5d0527e9e6b88bfbdb04.png",Hong Linh Ha Tinh vs Hanoi FC [BLV KENCHU - HLS]
 https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
 #EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-32fef33e1caa5d0527e9e6b88bfbdb04.png",Hong Linh Ha Tinh vs Hanoi FC [BLV KENCHU - FLV]
@@ -735,12 +735,6 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",🔴 SD Nhanh SC Bengaluru - Royal Banga Lu Lu
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@natrasd1.flv
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",🔴 HD Nhanh SC Bengaluru - Royal Banga Lu Lu
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@natrahd1.flv
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTINF:-1 group-title="Cakhia" referer="https://watch.rkplayer.xyz/",15:00 31/10 Bangalore City - Student Union FC
 http://sharing.gotdns.ch:8091/cakhia.php?id=/truc-tiep/bangalore-city-vs-student-union-fc-29ql5yyljc.html
