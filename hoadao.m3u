@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/brisbane-roar-vs-melbourne-city-2340325?mode=sd
-#EXTINF:-1 group-title="Brisbane Roar vs Melbourne City" referer="https://hoadao.tv/brisbane-roar-vs-melbourne-city-2340325?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-56f2f24ab17a389fb23b504d84590d0f.png",Brisbane Roar vs Melbourne City [BLV PHÁO - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/brisbane-roar-vs-melbourne-city-2340325?mode=hd
-#EXTINF:-1 group-title="Brisbane Roar vs Melbourne City" referer="https://hoadao.tv/brisbane-roar-vs-melbourne-city-2340325?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-56f2f24ab17a389fb23b504d84590d0f.png",Brisbane Roar vs Melbourne City [BLV PHÁO - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/brisbane-roar-vs-melbourne-city-2340325?mode=flv
-#EXTINF:-1 group-title="Brisbane Roar vs Melbourne City" referer="https://hoadao.tv/brisbane-roar-vs-melbourne-city-2340325?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-56f2f24ab17a389fb23b504d84590d0f.png",Brisbane Roar vs Melbourne City [BLV PHÁO - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/brisbane-roar-vs-melbourne-city-2340325?mode=flv2
-#EXTINF:-1 group-title="Brisbane Roar vs Melbourne City" referer="https://hoadao.tv/brisbane-roar-vs-melbourne-city-2340325?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-56f2f24ab17a389fb23b504d84590d0f.png",Brisbane Roar vs Melbourne City [BLV PHÁO - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/brisbane-roar-vs-melbourne-city-2340325?mode=ndsd
-#EXTINF:-1 group-title="Brisbane Roar vs Melbourne City" referer="https://hoadao.tv/brisbane-roar-vs-melbourne-city-2340325?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-56f2f24ab17a389fb23b504d84590d0f.png",Brisbane Roar vs Melbourne City [BLV PHÁO - SD (ND)]
-https://live.alilicloud.com/live/4a355dbcebf650f67d9405430b1b23dc/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/hoang-anh-gia-lai-vs-thep-xanh-nam-dinh-fc-2340344?mode=sd
 #EXTINF:-1 group-title="Hoang Anh Gia Lai vs Thep Xanh Nam Dinh FC" referer="https://hoadao.tv/hoang-anh-gia-lai-vs-thep-xanh-nam-dinh-fc-2340344?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-91467deedc389901f8267031c14a1431.png",Hoang Anh Gia Lai vs Thep Xanh Nam Dinh FC [BLV RICKY - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_rickysd/playlist.m3u8
@@ -41,51 +26,39 @@ https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/hong-linh-ha-tinh-vs-hanoi-fc-2340362?mode=flv2
 #EXTINF:-1 group-title="Hong Linh Ha Tinh vs Hanoi FC" referer="https://hoadao.tv/hong-linh-ha-tinh-vs-hanoi-fc-2340362?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-49c8340d333f9090e47d7ff69a65a880.png",Hong Linh Ha Tinh vs Hanoi FC [BLV MÈO BÉO - FLV 2]
 https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/finland-u17-vs-armenia-u17-2340335?mode=ndsd
-#EXTINF:-1 group-title="Finland U17 vs Armenia U17" referer="https://hoadao.tv/finland-u17-vs-armenia-u17-2340335?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-da584f902ed777b53e42a8c847847a51.png",Finland U17 vs Armenia U17 [No BLV - SD (ND)]
-https://live.alilicloud.com/live/94296127324b9f9a047770f8dd66bdf0/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/fc-krasnodar-women-vs-ryazan-vdv-women-2340337?mode=ndsd
-#EXTINF:-1 group-title="FC Krasnodar Women vs Ryazan-VDV Women" referer="https://hoadao.tv/fc-krasnodar-women-vs-ryazan-vdv-women-2340337?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-122e19357a189e07340a771e71315f3b.png",FC Krasnodar Women vs Ryazan-VDV Women [No BLV - SD (ND)]
-https://live.alilicloud.com/live/e75fd43a8eb69185f835b0c094502e22/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/ws-wanderers-women-vs-perth-glory-women-2340322?mode=ndsd
-#EXTINF:-1 group-title="WS Wanderers Women vs Perth Glory Women" referer="https://hoadao.tv/ws-wanderers-women-vs-perth-glory-women-2340322?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-53aa3cbbaff3ba39742dcdc162faddc0.png",WS Wanderers Women vs Perth Glory Women [No BLV - SD (ND)]
-https://live.alilicloud.com/live/e07eb0b6b1db4a4e838045c8f407f063/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/shanghai-port-fc-vs-zhejiang-professional-fc-2340342?mode=ndsd
-#EXTINF:-1 group-title="Shanghai Port FC vs Zhejiang Professional FC" referer="https://hoadao.tv/shanghai-port-fc-vs-zhejiang-professional-fc-2340342?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-23c610ef70b530cf7e9388b9671e6780.png",Shanghai Port FC vs Zhejiang Professional FC [No BLV - SD (ND)]
-https://live.alilicloud.com/live/eb756d583278802c16b12f2712658474/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/regar-tadaz-tursunzoda-vs-al-safa-sc-2340343?mode=ndsd
-#EXTINF:-1 group-title="Regar-TadAZ Tursunzoda vs Al Safa SC" referer="https://hoadao.tv/regar-tadaz-tursunzoda-vs-al-safa-sc-2340343?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-450bc693e1464efc1806235ec97fbb3d.png",Regar-TadAZ Tursunzoda vs Al Safa SC [No BLV - SD (ND)]
-https://live.alilicloud.com/live/2f58945dabaac967569d09a2df9bc1a2/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/hoang-anh-gia-lai-vs-thep-xanh-nam-dinh-fc-2340344?mode=sd
-#EXTINF:-1 group-title="Hoang Anh Gia Lai vs Thep Xanh Nam Dinh FC" referer="https://hoadao.tv/hoang-anh-gia-lai-vs-thep-xanh-nam-dinh-fc-2340344?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-91467deedc389901f8267031c14a1431.png",Hoang Anh Gia Lai vs Thep Xanh Nam Dinh FC [No BLV - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_rickysd/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/hoang-anh-gia-lai-vs-thep-xanh-nam-dinh-fc-2340344?mode=hd
-#EXTINF:-1 group-title="Hoang Anh Gia Lai vs Thep Xanh Nam Dinh FC" referer="https://hoadao.tv/hoang-anh-gia-lai-vs-thep-xanh-nam-dinh-fc-2340344?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-91467deedc389901f8267031c14a1431.png",Hoang Anh Gia Lai vs Thep Xanh Nam Dinh FC [No BLV - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_ricky/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/hoang-anh-gia-lai-vs-thep-xanh-nam-dinh-fc-2340344?mode=flv
-#EXTINF:-1 group-title="Hoang Anh Gia Lai vs Thep Xanh Nam Dinh FC" referer="https://hoadao.tv/hoang-anh-gia-lai-vs-thep-xanh-nam-dinh-fc-2340344?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-91467deedc389901f8267031c14a1431.png",Hoang Anh Gia Lai vs Thep Xanh Nam Dinh FC [No BLV - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_ricky.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/hoang-anh-gia-lai-vs-thep-xanh-nam-dinh-fc-2340344?mode=flv2
-#EXTINF:-1 group-title="Hoang Anh Gia Lai vs Thep Xanh Nam Dinh FC" referer="https://hoadao.tv/hoang-anh-gia-lai-vs-thep-xanh-nam-dinh-fc-2340344?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-91467deedc389901f8267031c14a1431.png",Hoang Anh Gia Lai vs Thep Xanh Nam Dinh FC [No BLV - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_ricky.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/hoang-anh-gia-lai-vs-thep-xanh-nam-dinh-fc-2340344?mode=ndsd
-#EXTINF:-1 group-title="Hoang Anh Gia Lai vs Thep Xanh Nam Dinh FC" referer="https://hoadao.tv/hoang-anh-gia-lai-vs-thep-xanh-nam-dinh-fc-2340344?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-91467deedc389901f8267031c14a1431.png",Hoang Anh Gia Lai vs Thep Xanh Nam Dinh FC [No BLV - SD (ND)]
-https://live.alilicloud.com/live/9f3f667bcfb045eeeb81914272e07a8d/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/hong-linh-ha-tinh-vs-hanoi-fc-2340362?mode=ndsd
+#EXTINF:-1 group-title="Hong Linh Ha Tinh vs Hanoi FC" referer="https://hoadao.tv/hong-linh-ha-tinh-vs-hanoi-fc-2340362?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-49c8340d333f9090e47d7ff69a65a880.png",Hong Linh Ha Tinh vs Hanoi FC [BLV MÈO BÉO - SD (ND)]
+https://live.alilicloud.com/live/95d3dc54b441a006b98a3037573da2d3/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/bharat-bengaluru-fc-vs-karnataka-2343660?mode=ndsd
 #EXTINF:-1 group-title="Bharat Bengaluru FC vs Karnataka" referer="https://hoadao.tv/bharat-bengaluru-fc-vs-karnataka-2343660?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-b7267d9a617cf83eba1628b0fc8dc6c7.png",Bharat Bengaluru FC vs Karnataka [No BLV - SD (ND)]
 https://live.alilicloud.com/live/a0c625d18df780815cfed7d6c7c28a01/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/h-ni-tasco-thi-nguyn-2343720?mode=sd
-#EXTINF:-1 group-title="Hà Nội Tasco vs Thái Nguyên" referer="https://hoadao.tv/h-ni-tasco-thi-nguyn-2343720?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-f6742383e0a22171fcbe90923f9b1594.png",Hà Nội Tasco vs Thái Nguyên [BLV CHIM NHỎ - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/h-ni-tasco-thi-nguyn-2343720?mode=hd
-#EXTINF:-1 group-title="Hà Nội Tasco vs Thái Nguyên" referer="https://hoadao.tv/h-ni-tasco-thi-nguyn-2343720?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-f6742383e0a22171fcbe90923f9b1594.png",Hà Nội Tasco vs Thái Nguyên [BLV CHIM NHỎ - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/h-ni-tasco-thi-nguyn-2343720?mode=flv
-#EXTINF:-1 group-title="Hà Nội Tasco vs Thái Nguyên" referer="https://hoadao.tv/h-ni-tasco-thi-nguyn-2343720?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-f6742383e0a22171fcbe90923f9b1594.png",Hà Nội Tasco vs Thái Nguyên [BLV CHIM NHỎ - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/h-ni-tasco-thi-nguyn-2343720?mode=flv2
-#EXTINF:-1 group-title="Hà Nội Tasco vs Thái Nguyên" referer="https://hoadao.tv/h-ni-tasco-thi-nguyn-2343720?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-f6742383e0a22171fcbe90923f9b1594.png",Hà Nội Tasco vs Thái Nguyên [BLV CHIM NHỎ - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/perth-glory-vs-melbourne-victory-2340349?mode=ndsd
+#EXTINF:-1 group-title="Perth Glory vs Melbourne Victory" referer="https://hoadao.tv/perth-glory-vs-melbourne-victory-2340349?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-2dd582c1b6f5f0384f5c7f2fd95e28c9.png",Perth Glory vs Melbourne Victory [No BLV - SD (ND)]
+https://live.alilicloud.com/live/27b40ba834fbf0e370f1281e39f4a692/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/hong-linh-ha-tinh-vs-hanoi-fc-2340362?mode=sd
+#EXTINF:-1 group-title="Hong Linh Ha Tinh vs Hanoi FC" referer="https://hoadao.tv/hong-linh-ha-tinh-vs-hanoi-fc-2340362?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-49c8340d333f9090e47d7ff69a65a880.png",Hong Linh Ha Tinh vs Hanoi FC [No BLV - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/hong-linh-ha-tinh-vs-hanoi-fc-2340362?mode=hd
+#EXTINF:-1 group-title="Hong Linh Ha Tinh vs Hanoi FC" referer="https://hoadao.tv/hong-linh-ha-tinh-vs-hanoi-fc-2340362?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-49c8340d333f9090e47d7ff69a65a880.png",Hong Linh Ha Tinh vs Hanoi FC [No BLV - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/hong-linh-ha-tinh-vs-hanoi-fc-2340362?mode=flv
+#EXTINF:-1 group-title="Hong Linh Ha Tinh vs Hanoi FC" referer="https://hoadao.tv/hong-linh-ha-tinh-vs-hanoi-fc-2340362?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-49c8340d333f9090e47d7ff69a65a880.png",Hong Linh Ha Tinh vs Hanoi FC [No BLV - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/hong-linh-ha-tinh-vs-hanoi-fc-2340362?mode=flv2
+#EXTINF:-1 group-title="Hong Linh Ha Tinh vs Hanoi FC" referer="https://hoadao.tv/hong-linh-ha-tinh-vs-hanoi-fc-2340362?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-49c8340d333f9090e47d7ff69a65a880.png",Hong Linh Ha Tinh vs Hanoi FC [No BLV - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/hong-linh-ha-tinh-vs-hanoi-fc-2340362?mode=ndsd
+#EXTINF:-1 group-title="Hong Linh Ha Tinh vs Hanoi FC" referer="https://hoadao.tv/hong-linh-ha-tinh-vs-hanoi-fc-2340362?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-49c8340d333f9090e47d7ff69a65a880.png",Hong Linh Ha Tinh vs Hanoi FC [No BLV - SD (ND)]
+https://live.alilicloud.com/live/95d3dc54b441a006b98a3037573da2d3/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/kryvbas-u21-vs-sc-poltava-u21-2340409?mode=ndsd
+#EXTINF:-1 group-title="Kryvbas U21 vs SC Poltava U21" referer="https://hoadao.tv/kryvbas-u21-vs-sc-poltava-u21-2340409?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-4a64eb336e8da3e1f615571cdb333c9e.png",Kryvbas U21 vs SC Poltava U21 [No BLV - SD (ND)]
+https://live.alilicloud.com/live/a6ab54acc89dd8907bc553d12ece7d92/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/kolos-kovalivka-u21-vs-pfc-oleksandria-u21-2340414?mode=ndsd
+#EXTINF:-1 group-title="Kolos Kovalivka U21 vs PFC Oleksandria U21" referer="https://hoadao.tv/kolos-kovalivka-u21-vs-pfc-oleksandria-u21-2340414?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-8298c2e21a98f4017a18b6a4c922a463.png",Kolos Kovalivka U21 vs PFC Oleksandria U21 [No BLV - SD (ND)]
+https://live.alilicloud.com/live/1e0ca86a702b9b4e622abec740fd2b93/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/dempo-vs-chennaiyin-fc-2340336?mode=ndsd
+#EXTINF:-1 group-title="Dempo vs Chennaiyin FC" referer="https://hoadao.tv/dempo-vs-chennaiyin-fc-2340336?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-6002e272931c99024a3ad55aed33efea.png",Dempo vs Chennaiyin FC [No BLV - SD (ND)]
+https://live.alilicloud.com/live/9238f660e6b9b7f086733ea290552712/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/bc-ninh-qung-nam-2343721?mode=sd
 #EXTINF:-1 group-title="Bắc Ninh vs Quảng Ninh" referer="https://hoadao.tv/bc-ninh-qung-nam-2343721?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-3840913a1372d398c319695b8cb48557.png",Bắc Ninh vs Quảng Ninh [BLV CỤ RÙA - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
