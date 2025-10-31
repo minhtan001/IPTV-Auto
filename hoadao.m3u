@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/al-hilal-vs-al-shabab-fc-2340465?mode=sd
-#EXTINF:-1 group-title="Al Hilal vs Al Shabab FC" referer="https://hoadao.tv/al-hilal-vs-al-shabab-fc-2340465?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-7275c75615cdef93e08da7cb758e0a39.png",Al Hilal vs Al Shabab FC [BLV RICKY - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_rickysd/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/al-hilal-vs-al-shabab-fc-2340465?mode=hd
-#EXTINF:-1 group-title="Al Hilal vs Al Shabab FC" referer="https://hoadao.tv/al-hilal-vs-al-shabab-fc-2340465?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-7275c75615cdef93e08da7cb758e0a39.png",Al Hilal vs Al Shabab FC [BLV RICKY - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_ricky/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/al-hilal-vs-al-shabab-fc-2340465?mode=flv
-#EXTINF:-1 group-title="Al Hilal vs Al Shabab FC" referer="https://hoadao.tv/al-hilal-vs-al-shabab-fc-2340465?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-7275c75615cdef93e08da7cb758e0a39.png",Al Hilal vs Al Shabab FC [BLV RICKY - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_ricky.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/al-hilal-vs-al-shabab-fc-2340465?mode=flv2
-#EXTINF:-1 group-title="Al Hilal vs Al Shabab FC" referer="https://hoadao.tv/al-hilal-vs-al-shabab-fc-2340465?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-7275c75615cdef93e08da7cb758e0a39.png",Al Hilal vs Al Shabab FC [BLV RICKY - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_ricky.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/al-hilal-vs-al-shabab-fc-2340465?mode=ndsd
-#EXTINF:-1 group-title="Al Hilal vs Al Shabab FC" referer="https://hoadao.tv/al-hilal-vs-al-shabab-fc-2340465?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-7275c75615cdef93e08da7cb758e0a39.png",Al Hilal vs Al Shabab FC [BLV RICKY - SD (ND)]
-https://live.alilicloud.com/live/856d6d1dc944bf9d7eddab26cc299b7a/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/cska-moscow-vs-fc-pari-nizhniy-novgorod-2340509?mode=sd
 #EXTINF:-1 group-title="CSKA Moscow vs FC Pari Nizhniy Novgorod" referer="https://hoadao.tv/cska-moscow-vs-fc-pari-nizhniy-novgorod-2340509?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-f5a3bd55487fe8cafb8c27bac04d17bb.png",CSKA Moscow vs FC Pari Nizhniy Novgorod [BLV MÈO BÉO - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
@@ -29,21 +14,18 @@ https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/cska-moscow-vs-fc-pari-nizhniy-novgorod-2340509?mode=ndsd
 #EXTINF:-1 group-title="CSKA Moscow vs FC Pari Nizhniy Novgorod" referer="https://hoadao.tv/cska-moscow-vs-fc-pari-nizhniy-novgorod-2340509?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-f5a3bd55487fe8cafb8c27bac04d17bb.png",CSKA Moscow vs FC Pari Nizhniy Novgorod [BLV MÈO BÉO - SD (ND)]
 https://live.alilicloud.com/live/ef7b6142842ad4b990c7d613fa064d1b/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/dinamo-brest-vs-fc-molodechno-2340484?mode=ndsd
-#EXTINF:-1 group-title="Dinamo Brest vs FC Molodechno" referer="https://hoadao.tv/dinamo-brest-vs-fc-molodechno-2340484?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-535b44689a678a3323631a7f75a7c3c6.png",Dinamo Brest vs FC Molodechno [No BLV - SD (ND)]
-https://live.alilicloud.com/live/75d411746787b8dadda5c7c523e993de/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/asf-bobo-dioulasso-vs-sporting-football-des-cascades-2340487?mode=ndsd
-#EXTINF:-1 group-title="ASF Bobo Dioulasso vs Sporting Football des Cascades" referer="https://hoadao.tv/asf-bobo-dioulasso-vs-sporting-football-des-cascades-2340487?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-d2128b55af9905664d5ba4bf5f3f618f.png",ASF Bobo Dioulasso vs Sporting Football des Cascades [No BLV - SD (ND)]
-https://live.alilicloud.com/live/04f8e6dbab078d7f7b41e9bea6ef6f64/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/real-du-faso-vs-rc-kadiogo-2340488?mode=ndsd
-#EXTINF:-1 group-title="Real du Faso vs RC Kadiogo" referer="https://hoadao.tv/real-du-faso-vs-rc-kadiogo-2340488?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-420d98fc77c500e8072ceaa4df6e5832.png",Real du Faso vs RC Kadiogo [No BLV - SD (ND)]
-https://live.alilicloud.com/live/185745f4a9e95110cbb6b447454c4a38/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/cffeb-vs-rahimo-fc-2340489?mode=ndsd
-#EXTINF:-1 group-title="CFFEB vs Rahimo FC" referer="https://hoadao.tv/cffeb-vs-rahimo-fc-2340489?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-2b0fa24479dca5eadcb17125f48d1dd6.png",CFFEB vs Rahimo FC [No BLV - SD (ND)]
-https://live.alilicloud.com/live/84097e5e05dd49e3992e82795115230e/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/khor-fakkan-ssc-vs-al-wasl-sc-2340490?mode=ndsd
-#EXTINF:-1 group-title="Khor Fakkan SSC vs Al-Wasl SC" referer="https://hoadao.tv/khor-fakkan-ssc-vs-al-wasl-sc-2340490?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-41ce644ea766a598d3e635993a9881b2.png",Khor Fakkan SSC vs Al-Wasl SC [No BLV - SD (ND)]
-https://live.alilicloud.com/live/f0b5f7797e0b57da55cc2dd6083bdc03/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/al-ettifaq-fc-vs-al-hazem-2340546?mode=sd
+#EXTINF:-1 group-title="Al Ettifaq FC vs Al Hazem" referer="https://hoadao.tv/al-ettifaq-fc-vs-al-hazem-2340546?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-a5d2ddd89af3421c3f16f918c1285a59.png",Al Ettifaq FC vs Al Hazem [BLV RICKY - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_rickysd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/al-ettifaq-fc-vs-al-hazem-2340546?mode=hd
+#EXTINF:-1 group-title="Al Ettifaq FC vs Al Hazem" referer="https://hoadao.tv/al-ettifaq-fc-vs-al-hazem-2340546?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-a5d2ddd89af3421c3f16f918c1285a59.png",Al Ettifaq FC vs Al Hazem [BLV RICKY - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_ricky/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/al-ettifaq-fc-vs-al-hazem-2340546?mode=flv
+#EXTINF:-1 group-title="Al Ettifaq FC vs Al Hazem" referer="https://hoadao.tv/al-ettifaq-fc-vs-al-hazem-2340546?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-a5d2ddd89af3421c3f16f918c1285a59.png",Al Ettifaq FC vs Al Hazem [BLV RICKY - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_ricky.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/al-ettifaq-fc-vs-al-hazem-2340546?mode=flv2
+#EXTINF:-1 group-title="Al Ettifaq FC vs Al Hazem" referer="https://hoadao.tv/al-ettifaq-fc-vs-al-hazem-2340546?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-a5d2ddd89af3421c3f16f918c1285a59.png",Al Ettifaq FC vs Al Hazem [BLV RICKY - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_ricky.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/kudrivka-vs-obolon-kyiv-2340493?mode=ndsd
 #EXTINF:-1 group-title="Kudrivka vs Obolon Kyiv" referer="https://hoadao.tv/kudrivka-vs-obolon-kyiv-2340493?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-150989291b33eaf0794eaef806cba3db.png",Kudrivka vs Obolon Kyiv [No BLV - SD (ND)]
 https://live.alilicloud.com/live/f7d1109aabc1233c960ec59060dd3d7c/playlist.m3u8
@@ -83,3 +65,30 @@ https://live.alilicloud.com/live/85d7821d1a879bb7c110796e10e2763d/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/al-jazeera-vs-al-faisaly-2340515?mode=ndsd
 #EXTINF:-1 group-title="Al-Jazeera vs Al Faisaly" referer="https://hoadao.tv/al-jazeera-vs-al-faisaly-2340515?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-175b44dd289ec84c4a774dfd17188134.png",Al-Jazeera vs Al Faisaly [No BLV - SD (ND)]
 https://live.alilicloud.com/live/c676235706261435f5f5e0f65d12fbe6/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/stal-stalowa-wola-vs-resovia-rzeszow-2340516?mode=ndsd
+#EXTINF:-1 group-title="Stal Stalowa Wola vs Resovia Rzeszow" referer="https://hoadao.tv/stal-stalowa-wola-vs-resovia-rzeszow-2340516?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-97a05cf3d5f6519e872cf865f5001370.png",Stal Stalowa Wola vs Resovia Rzeszow [No BLV - SD (ND)]
+https://live.alilicloud.com/live/2098f4704aa3765f04387e0d8b6462f5/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/sk-prostejov-vs-fk-pribram-2340518?mode=ndsd
+#EXTINF:-1 group-title="SK Prostejov vs FK Pribram" referer="https://hoadao.tv/sk-prostejov-vs-fk-pribram-2340518?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-66578ba2061bbc9993f1016c980d73ce.png",SK Prostejov vs FK Pribram [No BLV - SD (ND)]
+https://live.alilicloud.com/live/65670bcb18bcf26e7d9f5978e82dfa46/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/gornik-leczna-vs-polonia-warszawa-2340522?mode=ndsd
+#EXTINF:-1 group-title="Gornik Leczna vs Polonia Warszawa" referer="https://hoadao.tv/gornik-leczna-vs-polonia-warszawa-2340522?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-944f46198f94224a5f559bb750e62e74.png",Gornik Leczna vs Polonia Warszawa [No BLV - SD (ND)]
+https://live.alilicloud.com/live/c9dbbf7be45ecfaed03cdf9bfea52bdf/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/sv-stripfing-vs-sk-rapid-ii-2340524?mode=ndsd
+#EXTINF:-1 group-title="SV Stripfing vs SK Rapid II" referer="https://hoadao.tv/sv-stripfing-vs-sk-rapid-ii-2340524?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-8b47b7134bdffce350b2a9ac06ebf2e3.png",SV Stripfing vs SK Rapid II [No BLV - SD (ND)]
+https://live.alilicloud.com/live/c73d043bad9b799943b0a36081d4f78f/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/baakehir-futbol-kulb-vs-kocaelispor-2340529?mode=ndsd
+#EXTINF:-1 group-title="Başakşehir Futbol Kulübü vs Kocaelispor" referer="https://hoadao.tv/baakehir-futbol-kulb-vs-kocaelispor-2340529?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-a5e2b28db9b242af1ffdccb41a9a1cd9.png",Başakşehir Futbol Kulübü vs Kocaelispor [No BLV - SD (ND)]
+https://live.alilicloud.com/live/a081eb2b9839a0fd157116d6944a99ca/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/atakas-hatayspor-vs-erzurum-bb-2340533?mode=ndsd
+#EXTINF:-1 group-title="Atakas Hatayspor vs Erzurum BB" referer="https://hoadao.tv/atakas-hatayspor-vs-erzurum-bb-2340533?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-de08834210e7f8451a78e09863bdfcca.png",Atakas Hatayspor vs Erzurum BB [No BLV - SD (ND)]
+https://live.alilicloud.com/live/c6003c1a7bd8953313a57b587ebc3c27/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/lks-nieciecza-vs-gks-katowice-2340535?mode=ndsd
+#EXTINF:-1 group-title="LKS Nieciecza vs GKS Katowice" referer="https://hoadao.tv/lks-nieciecza-vs-gks-katowice-2340535?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-aad29466870b1a979d26306f0d4edb2e.png",LKS Nieciecza vs GKS Katowice [No BLV - SD (ND)]
+https://live.alilicloud.com/live/fc004e4aa18b9ad98d43d9b64d6f9a99/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/vysocina-jihlava-vs-sparta-praha-b-2340538?mode=ndsd
+#EXTINF:-1 group-title="Vysocina jihlava vs Sparta Praha B" referer="https://hoadao.tv/vysocina-jihlava-vs-sparta-praha-b-2340538?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-f0059136953fec8e25b78bd96ffe2d85.png",Vysocina jihlava vs Sparta Praha B [No BLV - SD (ND)]
+https://live.alilicloud.com/live/d9aabf82ef0e46c9981442deabe19ed6/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/radnik-bijeljina-vs-rudar-prijedor-2341598?mode=ndsd
+#EXTINF:-1 group-title="Radnik Bijeljina vs Rudar Prijedor" referer="https://hoadao.tv/radnik-bijeljina-vs-rudar-prijedor-2341598?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-0567033ab19f86d0ad7c08fcd93579f1.png",Radnik Bijeljina vs Rudar Prijedor [No BLV - SD (ND)]
+https://live.alilicloud.com/live/b59e08ab563278fb09db67c3c58dbab5/playlist.m3u8
