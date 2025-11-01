@@ -1,7 +1,22 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/louisville-city-fc-vs-detroit-city-2343226?mode=ndsd
-#EXTINF:-1 group-title="Louisville City FC vs Detroit City" referer="https://hoadao.tv/louisville-city-fc-vs-detroit-city-2343226?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-c4a43c22083952c9f27f66e034eef919.png",Louisville City FC vs Detroit City [No BLV - SD (ND)]
-https://live.alilicloud.com/live/0c49297382c89b27669c896c4ddcace1/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/nashville-vs-inter-miami-cf-2341816?mode=sd
+#EXTINF:-1 group-title="Nashville vs Inter Miami CF" referer="https://hoadao.tv/nashville-vs-inter-miami-cf-2341816?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-2eccc35bdb9e618046212833bf39e99a.png",Nashville vs Inter Miami CF [BLV RICKY - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_rickysd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/nashville-vs-inter-miami-cf-2341816?mode=hd
+#EXTINF:-1 group-title="Nashville vs Inter Miami CF" referer="https://hoadao.tv/nashville-vs-inter-miami-cf-2341816?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-2eccc35bdb9e618046212833bf39e99a.png",Nashville vs Inter Miami CF [BLV RICKY - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_ricky/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/nashville-vs-inter-miami-cf-2341816?mode=flv
+#EXTINF:-1 group-title="Nashville vs Inter Miami CF" referer="https://hoadao.tv/nashville-vs-inter-miami-cf-2341816?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-2eccc35bdb9e618046212833bf39e99a.png",Nashville vs Inter Miami CF [BLV RICKY - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_ricky.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/nashville-vs-inter-miami-cf-2341816?mode=flv2
+#EXTINF:-1 group-title="Nashville vs Inter Miami CF" referer="https://hoadao.tv/nashville-vs-inter-miami-cf-2341816?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-2eccc35bdb9e618046212833bf39e99a.png",Nashville vs Inter Miami CF [BLV RICKY - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_ricky.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/nashville-vs-inter-miami-cf-2341816?mode=ndsd
+#EXTINF:-1 group-title="Nashville vs Inter Miami CF" referer="https://hoadao.tv/nashville-vs-inter-miami-cf-2341816?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-2eccc35bdb9e618046212833bf39e99a.png",Nashville vs Inter Miami CF [BLV RICKY - SD (ND)]
+https://live.alilicloud.com/live/4610f394f771f165946b55990d034440/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/leon-women-vs-unam-pumas-women-2341805?mode=ndsd
+#EXTINF:-1 group-title="Leon Women vs Unam Pumas Women" referer="https://hoadao.tv/leon-women-vs-unam-pumas-women-2341805?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-098c06c247d3917d163f7098fce1676c.png",Leon Women vs Unam Pumas Women [No BLV - SD (ND)]
+https://live.alilicloud.com/live/a2cdcb83321d05b4166e16b089fff8b8/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/ca-independiente-vs-atletico-tucuman-2341807?mode=ndsd
 #EXTINF:-1 group-title="CA Independiente vs Atletico Tucuman" referer="https://hoadao.tv/ca-independiente-vs-atletico-tucuman-2341807?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-5688d456b9365a65db7fdf307c88691d.png",CA Independiente vs Atletico Tucuman [No BLV - SD (ND)]
 https://live.alilicloud.com/live/0013c5f0124e876824e20d900eca5ee1/playlist.m3u8
@@ -20,6 +35,9 @@ https://live.alilicloud.com/live/f3a132f37993ec7e77f4b581565c69ee/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/club-libertad-asuncion-vs-olimpia-asuncion-2342888?mode=ndsd
 #EXTINF:-1 group-title="Club Libertad Asunción vs Olimpia Asuncion" referer="https://hoadao.tv/club-libertad-asuncion-vs-olimpia-asuncion-2342888?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-aa389c5f311ba1eea3ed21c78af552c3.png",Club Libertad Asunción vs Olimpia Asuncion [No BLV - SD (ND)]
 https://live.alilicloud.com/live/f7be4d88c4161e97c430e4f91c37394e/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/deportivo-tachira-vs-carabobo-2341800?mode=ndsd
+#EXTINF:-1 group-title="Deportivo Tachira vs Carabobo" referer="https://hoadao.tv/deportivo-tachira-vs-carabobo-2341800?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-8b823f87aefade5749d75f406e82f97a.png",Deportivo Tachira vs Carabobo [No BLV - SD (ND)]
+https://live.alilicloud.com/live/c9bbe83d80758035cc174ae406afa3bd/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/saturday-nights-main-event-2343863?mode=sd
 #EXTINF:-1 group-title="Saturday Night's Main Event vs Saturday Night's Main Event" referer="https://hoadao.tv/saturday-nights-main-event-2343863?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-7cb8fc9355b0a1d99b46beff1428fa2a.png",Saturday Night's Main Event vs Saturday Night's Main Event [BLV BÚN CHẢ - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_buncha/playlist.m3u8
