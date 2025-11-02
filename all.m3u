@@ -95,24 +95,6 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTINF:-1 group-title="Socolive_2",17h45: [RED BULL] CSKA Sofia vs PFK Montana
-http://sharing.gotdns.ch:8091/socolive.php?id=547345
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV MESSI] Thanh Hoa vs The Cong Viettel
-http://sharing.gotdns.ch:8091/socolive.php?id=494201
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV ĐỐM] Thanh Hoa vs The Cong Viettel
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV TOMIA] Thanh Hoa vs The Cong Viettel
-http://sharing.gotdns.ch:8091/socolive.php?id=9912008
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV ENZO] Thanh Hoa vs The Cong Viettel
-http://sharing.gotdns.ch:8091/socolive.php?id=380460
-#EXTINF:-1 group-title="Socolive_2",18h00: [THẠCH TÚ] Thanh Hoa vs The Cong Viettel
-http://sharing.gotdns.ch:8091/socolive.php?id=344370
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV GÔN] Thanh Hoa vs The Cong Viettel
-http://sharing.gotdns.ch:8091/socolive.php?id=445260
-#EXTINF:-1 group-title="Socolive_2",18h15: [CÔNG LÝ] Heracles Almelo vs PEC Zwolle
-http://sharing.gotdns.ch:8091/socolive.php?id=9912035
-#EXTINF:-1 group-title="Socolive_2",18h15: [BLV SATIVA] Heracles Almelo vs PEC Zwolle
-http://sharing.gotdns.ch:8091/socolive.php?id=321443
 #EXTINF:-1 group-title="Socolive_2",18h30: [BLV CRIS] Hellas Verona vs Inter Milan
 http://sharing.gotdns.ch:8091/socolive.php?id=9912103
 #EXTINF:-1 group-title="Socolive_2",18h30: [BLV Củ Cải] Hellas Verona vs Inter Milan
@@ -969,10 +951,10 @@ https://s6.kkphimplayer6.com/20250918/48nrktLm/3500kb/hls/index.m3u8
 https://s6.kkphimplayer6.com/20251010/86AEDncn/3500kb/hls/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 5
 https://live.fptplay53.net/epzch1/thethao05_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Concert Viettel Y-Fest
+https://freem3u.xyz/api/live/play.m3u8?vid=9888
 #EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 6
 https://live.fptplay53.net/epzch1/thethao06_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 137
-https://live.fptplay53.net/fnxch1/thethao137_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 134
 https://live.fptplay53.net/fnxch1/thethao134_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 121
