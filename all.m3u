@@ -95,20 +95,6 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV COCA] Levante vs RC Celta
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",20h00: [JACKMAN] Levante vs RC Celta
-http://sharing.gotdns.ch:8091/socolive.php?id=542758
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV SINGER] Levante vs RC Celta
-http://sharing.gotdns.ch:8091/socolive.php?id=9912102
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV FANTA] Levante vs RC Celta
-http://sharing.gotdns.ch:8091/socolive.php?id=9912104
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV PIRLO] Levante vs RC Celta
-http://sharing.gotdns.ch:8091/socolive.php?id=351530
-#EXTINF:-1 group-title="Socolive_2",20h00: [RICKHANTER] Levante vs RC Celta
-http://sharing.gotdns.ch:8091/socolive.php?id=9912101
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV BEAN] Nizhny Novgorod vs Unics Kazan
-http://sharing.gotdns.ch:8091/socolive.php?id=9912111
 #EXTINF:-1 group-title="Socolive_2",20h30: [BLV ANH TÀI] Groningen vs FC Twente Enschede
 http://sharing.gotdns.ch:8091/socolive.php?id=406865
 #EXTINF:-1 group-title="Socolive_2",20h30: [BLV ALEX] Groningen vs FC Twente Enschede
@@ -815,7 +801,9 @@ http://live.qphim.xyz/live/kubolive/index.m3u8
 http://live.qphim.xyz/live/kubocast/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Nino Channel 1
 http://live.qphim.xyz/hls_nonkey/ninochannel1/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",South Shields vs Shrewsbury
+#EXTINF:-1 group-title="TruyenHinh_2",Eastleigh vs Walsall
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157969.ts
+#EXTINF:-1 group-title="TruyenHinh_2",Port Vale vs Maldon & Tiptree
 http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/134129.ts
 #EXTINF:-1 group-title="TruyenHinh_2",Sky Sports News
 http://cmc.best-ott.me:80/play/live.php?mac=00:1A:79:B5:F9:D6&stream=588069&extension=ts&play_token=lh97TPSDwG
@@ -919,14 +907,6 @@ https://s6.kkphimplayer6.com/20251010/86AEDncn/3500kb/hls/index.m3u8
 https://live.fptplay53.net/epzch1/thethao05_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Concert Viettel Y-Fest
 https://freem3u.xyz/api/live/play.m3u8?vid=9888
-#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 6
-https://live.fptplay53.net/epzch1/thethao06_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 134
-https://live.fptplay53.net/fnxch1/thethao134_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 121
-https://live.fptplay53.net/epzch1/thethao121_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 122
-https://live.fptplay53.net/epzch1/thethao122_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
