@@ -108,6 +108,18 @@ https://stream.chuoichien.tv/chuoihot/index.m3u8
 #EXTINF:-1 group-title="FC Dallas vs Vancouver Whitecaps" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-32fd1002aeea7a05faa2ae475fae6f13.png",FC Dallas vs Vancouver Whitecaps [BLV Chuối Hột - SD2 - BLV Chuối Hột - SD2]
 https://stream.chuoichien.tv/chuoihot.flv
 #EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Portland Timbers vs San Diego" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-42bc320fec0383195682e6c96ed77b62.png",Portland Timbers vs San Diego [Nhà Đài - HD1 - Nhà Đài - HD1]
+https://gckc0525.edgemaxcdn.org/live/m4x3/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Portland Timbers vs San Diego" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-42bc320fec0383195682e6c96ed77b62.png",Portland Timbers vs San Diego [Nhà Đài - HD1 - Nhà Đài - HD2]
+https://gckc0525.edgemaxcdn.org/live/m4x3.flv
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Portland Timbers vs San Diego" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-42bc320fec0383195682e6c96ed77b62.png",Portland Timbers vs San Diego [Nhà Đài - HD2 - Nhà Đài - HD1]
+https://gckc0525.edgemaxcdn.org/live/m4x3/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Portland Timbers vs San Diego" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-42bc320fec0383195682e6c96ed77b62.png",Portland Timbers vs San Diego [Nhà Đài - HD2 - Nhà Đài - HD2]
+https://gckc0525.edgemaxcdn.org/live/m4x3.flv
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
 #EXTINF:-1 group-title="Club America vs Leon" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-8204c8c3a8c762332acfa41bca0dc442.png",Club America vs Leon [Nhà Đài - HD1 - Nhà Đài - HD1]
 https://gckc0525.edgemaxcdn.org/live/m4x1/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
@@ -131,27 +143,3 @@ https://gckc0525.edgemaxcdn.org/live/m4x2/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
 #EXTINF:-1 group-title="Central Coast Mariners W vs Adelaide United W" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-a1e2e9731fbd79bef3a1f6113d3b03c2.png",Central Coast Mariners W vs Adelaide United W [Nhà Đài - HD2 - Nhà Đài - HD2]
 https://gckc0525.edgemaxcdn.org/live/m4x2.flv
-#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
-#EXTINF:-1 group-title="Monterrey vs Tigres UANL" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-a267809020fad201352c3caf808ea98b.png",Monterrey vs Tigres UANL [Nhà Đài - HD1 - Nhà Đài - HD1]
-https://gckc0525.edgemaxcdn.org/live/m4x1/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
-#EXTINF:-1 group-title="Monterrey vs Tigres UANL" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-a267809020fad201352c3caf808ea98b.png",Monterrey vs Tigres UANL [Nhà Đài - HD1 - Nhà Đài - HD2]
-https://gckc0525.edgemaxcdn.org/live/m4x1.flv
-#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
-#EXTINF:-1 group-title="Monterrey vs Tigres UANL" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-a267809020fad201352c3caf808ea98b.png",Monterrey vs Tigres UANL [Nhà Đài - HD2 - Nhà Đài - HD1]
-https://gckc0525.edgemaxcdn.org/live/m4x1/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
-#EXTINF:-1 group-title="Monterrey vs Tigres UANL" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-a267809020fad201352c3caf808ea98b.png",Monterrey vs Tigres UANL [Nhà Đài - HD2 - Nhà Đài - HD2]
-https://gckc0525.edgemaxcdn.org/live/m4x1.flv
-#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
-#EXTINF:-1 group-title="Portland Timbers vs San Diego" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-42bc320fec0383195682e6c96ed77b62.png",Portland Timbers vs San Diego [Nhà Đài - HD1 - Nhà Đài - HD1]
-https://gckc0525.edgemaxcdn.org/live/m4x3/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
-#EXTINF:-1 group-title="Portland Timbers vs San Diego" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-42bc320fec0383195682e6c96ed77b62.png",Portland Timbers vs San Diego [Nhà Đài - HD1 - Nhà Đài - HD2]
-https://gckc0525.edgemaxcdn.org/live/m4x3.flv
-#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
-#EXTINF:-1 group-title="Portland Timbers vs San Diego" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-42bc320fec0383195682e6c96ed77b62.png",Portland Timbers vs San Diego [Nhà Đài - HD2 - Nhà Đài - HD1]
-https://gckc0525.edgemaxcdn.org/live/m4x3/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
-#EXTINF:-1 group-title="Portland Timbers vs San Diego" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-42bc320fec0383195682e6c96ed77b62.png",Portland Timbers vs San Diego [Nhà Đài - HD2 - Nhà Đài - HD2]
-https://gckc0525.edgemaxcdn.org/live/m4x3.flv

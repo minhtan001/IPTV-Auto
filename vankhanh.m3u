@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Monterrey vs Tigres UANL" tvg-logo="https://hxcv.site/images/cache/match-557617467d262e5ef470ca3a729baec1.png",Monterrey vs Tigres UANL [BLV GIÁO SƯ XOAY - HLS]
-https://hls.cdnvankhanh.com/live/GIAOSUXOAY/index.m3u8?expire=1892730180&sign=c561b814d05f14cf153b87d973755453
-#EXTINF:-1 group-title="Monterrey vs Tigres UANL" tvg-logo="https://hxcv.site/images/cache/match-557617467d262e5ef470ca3a729baec1.png",Monterrey vs Tigres UANL [BLV GIÁO SƯ XOAY - FLV]
- https://flv.cdnvankhanh.com/live/GIAOSUXOAY.flv?expire=1892730180&sign=c561b814d05f14cf153b87d973755453  
-#EXTINF:-1 group-title="FC Dallas vs Vancouver Whitecaps" tvg-logo="https://hxcv.site/images/cache/match-b4e2b104a8347760899dbff883ae1313.png",FC Dallas vs Vancouver Whitecaps [BLV VĂN KHANG - HLS]
-https://hls.cdnvankhanh.com/live/VANKHANG/index.m3u8?expire=1862206680&sign=7ac84ad876b1ccbad9036fe76373e2c6
-#EXTINF:-1 group-title="FC Dallas vs Vancouver Whitecaps" tvg-logo="https://hxcv.site/images/cache/match-b4e2b104a8347760899dbff883ae1313.png",FC Dallas vs Vancouver Whitecaps [BLV VĂN KHANG - FLV]
-https://flv.cdnvankhanh.com/live/VANKHANG.flv?expire=1862206680&sign=7ac84ad876b1ccbad9036fe76373e2c6
 #EXTINF:-1 group-title="Portland Timbers vs San Diego FC" tvg-logo="https://hxcv.site/images/cache/match-d5480f3df003d49738ecd32eb810f63e.png",Portland Timbers vs San Diego FC [BLV VĂN ĐỘ - HLS]
 https://hls.cdnvankhanh.com/live/VANDO/index.m3u8?expire=1892812920&sign=a0a29c944a41e507a7d578db683ea31a
 #EXTINF:-1 group-title="Portland Timbers vs San Diego FC" tvg-logo="https://hxcv.site/images/cache/match-d5480f3df003d49738ecd32eb810f63e.png",Portland Timbers vs San Diego FC [BLV VĂN ĐỘ - FLV]
@@ -15,3 +7,7 @@ https://hls.cdnvankhanh.com/live/VANDO/index.m3u8?expire=1892812920&sign=a0a29c9
 https://hls.cdnvankhanh.com/live/VANCHUONG/index.m3u8?expire=1890806880&sign=d5e33b097684f7c5682301b78b825aaf
 #EXTINF:-1 group-title="Club America vs Club Leon" tvg-logo="https://hxcv.site/images/cache/match-e4c6c7f53ff880c096b22c64e9e6248c.png",Club America vs Club Leon [BLV VĂN CHƯƠNG - FLV]
 https://flv.cdnvankhanh.com/live/VANCHUONG.flv?expire=1890806880&sign=d5e33b097684f7c5682301b78b825aaf
+#EXTINF:-1 group-title="FC Dallas vs Vancouver Whitecaps" tvg-logo="https://hxcv.site/images/cache/match-b4e2b104a8347760899dbff883ae1313.png",FC Dallas vs Vancouver Whitecaps [BLV VĂN KHANG - HLS]
+https://hls.cdnvankhanh.com/live/VANKHANG/index.m3u8?expire=1862206680&sign=7ac84ad876b1ccbad9036fe76373e2c6
+#EXTINF:-1 group-title="FC Dallas vs Vancouver Whitecaps" tvg-logo="https://hxcv.site/images/cache/match-b4e2b104a8347760899dbff883ae1313.png",FC Dallas vs Vancouver Whitecaps [BLV VĂN KHANG - FLV]
+https://flv.cdnvankhanh.com/live/VANKHANG.flv?expire=1862206680&sign=7ac84ad876b1ccbad9036fe76373e2c6
