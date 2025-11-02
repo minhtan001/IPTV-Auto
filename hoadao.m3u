@@ -1,16 +1,67 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/okayama-osaka-marvelous-2343868?mode=sd
-#EXTINF:-1 group-title="Okayama vs Osaka Marvelous" referer="https://hoadao.tv/okayama-osaka-marvelous-2343868?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-f229a532d8158397829418b8a28669a6.png",Okayama vs Osaka Marvelous [BLV PHÁO - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/okayama-osaka-marvelous-2343868?mode=hd
-#EXTINF:-1 group-title="Okayama vs Osaka Marvelous" referer="https://hoadao.tv/okayama-osaka-marvelous-2343868?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-f229a532d8158397829418b8a28669a6.png",Okayama vs Osaka Marvelous [BLV PHÁO - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_phao/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/okayama-osaka-marvelous-2343868?mode=flv
-#EXTINF:-1 group-title="Okayama vs Osaka Marvelous" referer="https://hoadao.tv/okayama-osaka-marvelous-2343868?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-f229a532d8158397829418b8a28669a6.png",Okayama vs Osaka Marvelous [BLV PHÁO - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/okayama-osaka-marvelous-2343868?mode=flv2
-#EXTINF:-1 group-title="Okayama vs Osaka Marvelous" referer="https://hoadao.tv/okayama-osaka-marvelous-2343868?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-f229a532d8158397829418b8a28669a6.png",Okayama vs Osaka Marvelous [BLV PHÁO - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/jubilo-iwata-vs-v-varen-nagasaki-2341845?mode=ndsd
+#EXTINF:-1 group-title="Jubilo Iwata vs V-Varen Nagasaki" referer="https://hoadao.tv/jubilo-iwata-vs-v-varen-nagasaki-2341845?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-f9180b9ae54ce08ebdd3e842bdefd204.png",Jubilo Iwata vs V-Varen Nagasaki [No BLV - SD (ND)]
+https://live.alilicloud.com/live/ad8842b55c987fd9cbc9f786d7c3e2f1/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/sagan-tosu-vs-tokushima-vortis-2341847?mode=ndsd
+#EXTINF:-1 group-title="Sagan Tosu vs Tokushima Vortis" referer="https://hoadao.tv/sagan-tosu-vs-tokushima-vortis-2341847?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-97a1c8d619256e7a90f6337720d7637a.png",Sagan Tosu vs Tokushima Vortis [No BLV - SD (ND)]
+https://live.alilicloud.com/live/9f8377f68b7475b7eb9c75db0082ae23/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/canberra-united-women-vs-newcastle-jets-women-2341848?mode=ndsd
+#EXTINF:-1 group-title="Canberra United Women vs Newcastle Jets Women" referer="https://hoadao.tv/canberra-united-women-vs-newcastle-jets-women-2341848?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-81f080179465589d6a7989b440660f67.png",Canberra United Women vs Newcastle Jets Women [No BLV - SD (ND)]
+https://live.alilicloud.com/live/ae25f52d435d0473a3295db0fab77940/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/rb-omiya-ardija-vs-blaublitz-akita-2341849?mode=ndsd
+#EXTINF:-1 group-title="RB Omiya Ardija vs Blaublitz Akita" referer="https://hoadao.tv/rb-omiya-ardija-vs-blaublitz-akita-2341849?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-85b8138618031b714864daaf5c93fc66.png",RB Omiya Ardija vs Blaublitz Akita [No BLV - SD (ND)]
+https://live.alilicloud.com/live/8fa95ec273339508d80618194fc17da4/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/gwangju-football-club-vs-jeju-sk-fc-2341850?mode=ndsd
+#EXTINF:-1 group-title="Gwangju Football Club vs Jeju SK FC" referer="https://hoadao.tv/gwangju-football-club-vs-jeju-sk-fc-2341850?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-9986ddb64fee0e51001bdbe955bd2688.png",Gwangju Football Club vs Jeju SK FC [No BLV - SD (ND)]
+https://live.alilicloud.com/live/cfa6eb2bd9830b5b3516b24d2757236d/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/jef-united-ichihara-chiba-vs-hokkaido-consadole-sapporo-2341851?mode=ndsd
+#EXTINF:-1 group-title="JEF United Ichihara Chiba vs Hokkaido Consadole Sapporo" referer="https://hoadao.tv/jef-united-ichihara-chiba-vs-hokkaido-consadole-sapporo-2341851?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-70356135546c17ab0a25c39267a3c905.png",JEF United Ichihara Chiba vs Hokkaido Consadole Sapporo [No BLV - SD (ND)]
+https://live.alilicloud.com/live/5266feb5d2391e2b278f753290741e7d/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/kataller-toyama-vs-ehime-fc-2341852?mode=ndsd
+#EXTINF:-1 group-title="Kataller Toyama vs Ehime FC" referer="https://hoadao.tv/kataller-toyama-vs-ehime-fc-2341852?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-ea750cc4133e6fa08deded51bf7b4e7c.png",Kataller Toyama vs Ehime FC [No BLV - SD (ND)]
+https://live.alilicloud.com/live/d12267b19371a794e592fa4aadc5ff86/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/ventforet-kofu-vs-mito-hollyhock-2341853?mode=ndsd
+#EXTINF:-1 group-title="Ventforet Kofu vs Mito Hollyhock" referer="https://hoadao.tv/ventforet-kofu-vs-mito-hollyhock-2341853?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-c5a22ce3b07900d8c1a87e78ff616529.png",Ventforet Kofu vs Mito Hollyhock [No BLV - SD (ND)]
+https://live.alilicloud.com/live/d08e53105e181c43a995f9efb861a6d1/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/iwaki-fc-vs-fujieda-myfc-2341854?mode=ndsd
+#EXTINF:-1 group-title="Iwaki FC vs Fujieda MYFC" referer="https://hoadao.tv/iwaki-fc-vs-fujieda-myfc-2341854?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-f5b8a7374fdf8edacc33f9bd93d3c291.png",Iwaki FC vs Fujieda MYFC [No BLV - SD (ND)]
+https://live.alilicloud.com/live/da0bbe271b6e5c77140a882b553c9964/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/fukushima-united-fc-vs-fc-osaka-2341855?mode=ndsd
+#EXTINF:-1 group-title="Fukushima United FC vs FC Osaka" referer="https://hoadao.tv/fukushima-united-fc-vs-fc-osaka-2341855?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-89380633533593ce3bc16707799367f2.png",Fukushima United FC vs FC Osaka [No BLV - SD (ND)]
+https://live.alilicloud.com/live/d8cc8f96bccbcca81968ccab4be3caf9/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/tochigi-sc-vs-fc-gifu-2341856?mode=ndsd
+#EXTINF:-1 group-title="Tochigi SC vs FC Gifu" referer="https://hoadao.tv/tochigi-sc-vs-fc-gifu-2341856?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-a0d73bb95ccdf92d646a1d75121aca31.png",Tochigi SC vs FC Gifu [No BLV - SD (ND)]
+https://live.alilicloud.com/live/1f41e6c86f71ae1a659da0d7d7225fdf/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/kamatamare-sanuki-vs-gainare-tottori-2341857?mode=ndsd
+#EXTINF:-1 group-title="Kamatamare Sanuki vs Gainare Tottori" referer="https://hoadao.tv/kamatamare-sanuki-vs-gainare-tottori-2341857?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-90b305a9b9bc122c97bc00260fa34760.png",Kamatamare Sanuki vs Gainare Tottori [No BLV - SD (ND)]
+https://live.alilicloud.com/live/be35c2438872ac56e15b0c06bede9b4f/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/azul-claro-numazu-vs-sc-sagamihara-2341858?mode=ndsd
+#EXTINF:-1 group-title="Azul Claro Numazu vs SC Sagamihara" referer="https://hoadao.tv/azul-claro-numazu-vs-sc-sagamihara-2341858?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-f167e038a398f6cb389784e3a9967e49.png",Azul Claro Numazu vs SC Sagamihara [No BLV - SD (ND)]
+https://live.alilicloud.com/live/67eb4536575809710fa4d8f187f79215/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/kagoshima-united-vs-matsumoto-yamaga-fc-2341859?mode=ndsd
+#EXTINF:-1 group-title="Kagoshima United vs Matsumoto Yamaga FC" referer="https://hoadao.tv/kagoshima-united-vs-matsumoto-yamaga-fc-2341859?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-993ad90672d69a1cf56280c1aca3a27c.png",Kagoshima United vs Matsumoto Yamaga FC [No BLV - SD (ND)]
+https://live.alilicloud.com/live/50dfeaa3e79cff0274cbfef7eb5679b4/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/tegevajaro-miyazaki-vs-nara-club-2341860?mode=ndsd
+#EXTINF:-1 group-title="Tegevajaro Miyazaki vs Nara Club" referer="https://hoadao.tv/tegevajaro-miyazaki-vs-nara-club-2341860?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-b99e54c3611e750a6a290d168f46ede5.png",Tegevajaro Miyazaki vs Nara Club [No BLV - SD (ND)]
+https://live.alilicloud.com/live/075ecf9192b6dfd09b4e0cdcf03ed2ff/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/incheon-united-club-vs-busan-i-park-2341861?mode=ndsd
+#EXTINF:-1 group-title="Incheon United Club vs Busan I Park" referer="https://hoadao.tv/incheon-united-club-vs-busan-i-park-2341861?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-27520d308c9bed16df1cf2c2ab38f772.png",Incheon United Club vs Busan I Park [No BLV - SD (ND)]
+https://live.alilicloud.com/live/5659d2cb6c5985e04750a1d0dc37ad8c/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/jeonnam-dragons-vs-seongnam-fc-2341862?mode=ndsd
+#EXTINF:-1 group-title="Jeonnam Dragons vs Seongnam FC" referer="https://hoadao.tv/jeonnam-dragons-vs-seongnam-fc-2341862?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-dc61729c3021510947a12fbb0167798e.png",Jeonnam Dragons vs Seongnam FC [No BLV - SD (ND)]
+https://live.alilicloud.com/live/b3e7a37bc76da41b93597ec38bf2fc38/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/kurobe-gunma-green-wings-2343869?mode=sd
+#EXTINF:-1 group-title="Kurobe vs Gunma Green Wings" referer="https://hoadao.tv/kurobe-gunma-green-wings-2343869?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-9c355e83ca0f49a769b91079c20be848.png",Kurobe vs Gunma Green Wings [BLV RICKY - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_rickysd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/kurobe-gunma-green-wings-2343869?mode=hd
+#EXTINF:-1 group-title="Kurobe vs Gunma Green Wings" referer="https://hoadao.tv/kurobe-gunma-green-wings-2343869?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-9c355e83ca0f49a769b91079c20be848.png",Kurobe vs Gunma Green Wings [BLV RICKY - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_ricky/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/kurobe-gunma-green-wings-2343869?mode=flv
+#EXTINF:-1 group-title="Kurobe vs Gunma Green Wings" referer="https://hoadao.tv/kurobe-gunma-green-wings-2343869?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-9c355e83ca0f49a769b91079c20be848.png",Kurobe vs Gunma Green Wings [BLV RICKY - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_ricky.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/kurobe-gunma-green-wings-2343869?mode=flv2
+#EXTINF:-1 group-title="Kurobe vs Gunma Green Wings" referer="https://hoadao.tv/kurobe-gunma-green-wings-2343869?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-9c355e83ca0f49a769b91079c20be848.png",Kurobe vs Gunma Green Wings [BLV RICKY - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_ricky.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/hitachi-nec-red-rockets-2343870?mode=sd
 #EXTINF:-1 group-title="Hitachi vs NEC Red Rockets" referer="https://hoadao.tv/hitachi-nec-red-rockets-2343870?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-7c5ca056ca433d5c0d87b1db8e597622.png",Hitachi vs NEC Red Rockets [BLV MÈO BÉO - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
