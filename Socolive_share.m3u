@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Socolive_2",15h00: [BLV BEAN] Enisey Krasnoyarsk W vs Novosibirsk W
-http://sharing.gotdns.ch:8091/socolive.php?id=9912111
-#EXTINF:-1 group-title="Socolive_2",15h05: [CHAN SENA] Saga vs SeaHorses Mikawa
-http://sharing.gotdns.ch:8091/socolive.php?id=515530
 #EXTINF:-1 group-title="Socolive_2",15h30: [MR BÍCH] PSM Makassar vs Madura United
 http://sharing.gotdns.ch:8091/socolive.php?id=285067
 #EXTINF:-1 group-title="Socolive_2",15h30: [BLV CHIVAS] PSM Makassar vs Madura United
@@ -372,6 +368,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=537460
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",05h15-03/11: [NGOẠ LONG] Atletico Nacional Medellin vs Aguilas Doradas
 http://sharing.gotdns.ch:8091/socolive.php?id=538979
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2",05h15-03/11: [BLV QUAN VŨ] Atletico Nacional Medellin vs Aguilas Doradas
+http://sharing.gotdns.ch:8091/socolive.php?id=239275
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",06h00-03/11: [BLV XO] Queretaro FC vs Mazatlan FC
 http://sharing.gotdns.ch:8091/socolive.php?id=472241
