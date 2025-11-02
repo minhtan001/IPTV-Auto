@@ -95,18 +95,6 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTINF:-1 group-title="Socolive_2",13h00: [BLV TOMMY] Central Coast Mariners vs Wellington Phoenix
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
-#EXTINF:-1 group-title="Socolive_2",13h00: [BLV FANTA] Central Coast Mariners vs Wellington Phoenix
-http://sharing.gotdns.ch:8091/socolive.php?id=9912104
-#EXTINF:-1 group-title="Socolive_2",13h00: [BLV PIRLO] Central Coast Mariners vs Wellington Phoenix
-http://sharing.gotdns.ch:8091/socolive.php?id=351530
-#EXTINF:-1 group-title="Socolive_2",13h00: [BLV ĐỐM] Central Coast Mariners vs Wellington Phoenix
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTINF:-1 group-title="Socolive_2",13h00: [BLV COCA] Central Coast Mariners vs Wellington Phoenix
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",13h00: [BLV LONG] Central Coast Mariners vs Wellington Phoenix
-http://sharing.gotdns.ch:8091/socolive.php?id=9912050
 #EXTINF:-1 group-title="Socolive_2",14h30: [BLV XAVI] Qingdao Hainiu FC vs Wuhan Three Towns FC
 http://sharing.gotdns.ch:8091/socolive.php?id=525090
 #EXTINF:-1 group-title="Socolive_2",14h30: [SÙNG A MÚP] Qingdao Hainiu FC vs Wuhan Three Towns FC
@@ -612,9 +600,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=327159
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h45-03/11: [BLV LONG] Austin FC vs Los Angeles FC
 http://sharing.gotdns.ch:8091/socolive.php?id=9912050
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h45-03/11: [TAM MAO] Austin FC vs Los Angeles FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912100
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h45-03/11: [BLV TAP] Austin FC vs Los Angeles FC
 http://sharing.gotdns.ch:8091/socolive.php?id=9912041
