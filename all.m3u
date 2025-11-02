@@ -95,8 +95,6 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV AK47] Quang Ninh vs Dong Tam Long An
-http://sharing.gotdns.ch:8091/socolive.php?id=9912092
 #EXTINF:-1 group-title="Socolive_2",17h45: [RED BULL] CSKA Sofia vs PFK Montana
 http://sharing.gotdns.ch:8091/socolive.php?id=547345
 #EXTINF:-1 group-title="Socolive_2",18h00: [BLV MESSI] Thanh Hoa vs The Cong Viettel
@@ -869,6 +867,8 @@ http://live.qphim.xyz/live/kubolive/index.m3u8
 http://live.qphim.xyz/live/kubocast/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Nino Channel 1
 http://live.qphim.xyz/hls_nonkey/ninochannel1/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",South Shields vs Shrewsbury
+http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/134129.ts
 #EXTINF:-1 group-title="TruyenHinh_2",Sky Sports News
 http://cmc.best-ott.me:80/play/live.php?mac=00:1A:79:B5:F9:D6&stream=588069&extension=ts&play_token=lh97TPSDwG
 #EXTINF:-1 group-title="TruyenHinh_2",Sky Sport F1
@@ -884,7 +884,7 @@ http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/145467.ts
 #EXTINF:-1 group-title="TruyenHinh_2",Canal+ Sport
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1184930&extension=ts&play_token=fHBckk00nW
 #EXTINF:-1 group-title="TruyenHinh_2",TNT Sports 1 4Mbps for 4G
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157967.ts
+http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/134129.ts
 #EXTINF:-1 group-title="TruyenHinh_2",TNT Sports 2 4Mbps for 4G
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157969.ts
 #EXTINF:-1 group-title="TruyenHinh_2",TNT Sports 3 4Mbps for 4G
@@ -969,8 +969,6 @@ https://s6.kkphimplayer6.com/20250918/48nrktLm/3500kb/hls/index.m3u8
 https://s6.kkphimplayer6.com/20251010/86AEDncn/3500kb/hls/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 5
 https://live.fptplay53.net/epzch1/thethao05_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 135
-https://live.fptplay53.net/fnxch1/thethao135_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 6
 https://live.fptplay53.net/epzch1/thethao06_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 137
@@ -981,8 +979,6 @@ https://live.fptplay53.net/fnxch1/thethao134_mx.smil/chunklist_b6000000.m3u8
 https://live.fptplay53.net/epzch1/thethao121_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 122
 https://live.fptplay53.net/epzch1/thethao122_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 4
-https://live.fptplay53.net/epzch1/thethao04_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
