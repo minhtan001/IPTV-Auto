@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/kerala-blasters-fc-vs-hyderabad-fc-2342726?mode=sd
-#EXTINF:-1 group-title="Kerala Blasters FC vs Hyderabad FC" referer="https://hoadao.tv/kerala-blasters-fc-vs-hyderabad-fc-2342726?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-b128c5a70c8290bc5f2353a3b4d830ea.png",Kerala Blasters FC vs Hyderabad FC [BLV PHÁO - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/kerala-blasters-fc-vs-hyderabad-fc-2342726?mode=hd
-#EXTINF:-1 group-title="Kerala Blasters FC vs Hyderabad FC" referer="https://hoadao.tv/kerala-blasters-fc-vs-hyderabad-fc-2342726?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-b128c5a70c8290bc5f2353a3b4d830ea.png",Kerala Blasters FC vs Hyderabad FC [BLV PHÁO - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/kerala-blasters-fc-vs-hyderabad-fc-2342726?mode=flv
-#EXTINF:-1 group-title="Kerala Blasters FC vs Hyderabad FC" referer="https://hoadao.tv/kerala-blasters-fc-vs-hyderabad-fc-2342726?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-b128c5a70c8290bc5f2353a3b4d830ea.png",Kerala Blasters FC vs Hyderabad FC [BLV PHÁO - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/kerala-blasters-fc-vs-hyderabad-fc-2342726?mode=flv2
-#EXTINF:-1 group-title="Kerala Blasters FC vs Hyderabad FC" referer="https://hoadao.tv/kerala-blasters-fc-vs-hyderabad-fc-2342726?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-b128c5a70c8290bc5f2353a3b4d830ea.png",Kerala Blasters FC vs Hyderabad FC [BLV PHÁO - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/kerala-blasters-fc-vs-hyderabad-fc-2342726?mode=ndsd
-#EXTINF:-1 group-title="Kerala Blasters FC vs Hyderabad FC" referer="https://hoadao.tv/kerala-blasters-fc-vs-hyderabad-fc-2342726?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-b128c5a70c8290bc5f2353a3b4d830ea.png",Kerala Blasters FC vs Hyderabad FC [BLV PHÁO - SD (ND)]
-https://live.alilicloud.com/live/ba3684489279cb05b2c7d0b8cffd85aa/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/rotor-volgograd-vs-arsenal-tula-2342736?mode=sd
 #EXTINF:-1 group-title="Rotor Volgograd vs Arsenal Tula" referer="https://hoadao.tv/rotor-volgograd-vs-arsenal-tula-2342736?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-36672638cf70a4eccf8c09f924eb5117.png",Rotor Volgograd vs Arsenal Tula [BLV CỤ RÙA - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
@@ -26,12 +11,21 @@ https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/rotor-volgograd-vs-arsenal-tula-2342736?mode=flv2
 #EXTINF:-1 group-title="Rotor Volgograd vs Arsenal Tula" referer="https://hoadao.tv/rotor-volgograd-vs-arsenal-tula-2342736?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-36672638cf70a4eccf8c09f924eb5117.png",Rotor Volgograd vs Arsenal Tula [BLV CỤ RÙA - FLV 2]
 https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/semen-padang-vs-arema-fc-2342733?mode=ndsd
-#EXTINF:-1 group-title="Semen Padang vs Arema FC" referer="https://hoadao.tv/semen-padang-vs-arema-fc-2342733?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-5ead2dc59c6d7eb1cf3e0d5a8f05bb7e.png",Semen Padang vs Arema FC [No BLV - SD (ND)]
-https://live.alilicloud.com/live/5127e729725f9046d6d2534e2f3fd970/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/ahrobiznes-volochysk-vs-prykarpattya-ivano-frankivsk-2342223?mode=ndsd
-#EXTINF:-1 group-title="Ahrobiznes Volochysk vs Prykarpattya Ivano Frankivsk" referer="https://hoadao.tv/ahrobiznes-volochysk-vs-prykarpattya-ivano-frankivsk-2342223?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-f0f395459410a174d952ab3678477e99.png",Ahrobiznes Volochysk vs Prykarpattya Ivano Frankivsk [No BLV - SD (ND)]
-https://live.alilicloud.com/live/03506411f2e26f273de51995ccb93159/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/rotor-volgograd-vs-arsenal-tula-2342736?mode=ndsd
+#EXTINF:-1 group-title="Rotor Volgograd vs Arsenal Tula" referer="https://hoadao.tv/rotor-volgograd-vs-arsenal-tula-2342736?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-36672638cf70a4eccf8c09f924eb5117.png",Rotor Volgograd vs Arsenal Tula [BLV CỤ RÙA - SD (ND)]
+https://live.alilicloud.com/live/5ec96c62f17a4202acc81c58cb7af096/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/nasaf-qarshi-vs-al-wahda-fc-2342748?mode=sd
+#EXTINF:-1 group-title="Nasaf Qarshi vs Al-Wahda FC" referer="https://hoadao.tv/nasaf-qarshi-vs-al-wahda-fc-2342748?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-fd8837a09698f8a2ff5ff5181145faf8.png",Nasaf Qarshi vs Al-Wahda FC [BLV PHÁO - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/nasaf-qarshi-vs-al-wahda-fc-2342748?mode=hd
+#EXTINF:-1 group-title="Nasaf Qarshi vs Al-Wahda FC" referer="https://hoadao.tv/nasaf-qarshi-vs-al-wahda-fc-2342748?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-fd8837a09698f8a2ff5ff5181145faf8.png",Nasaf Qarshi vs Al-Wahda FC [BLV PHÁO - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/nasaf-qarshi-vs-al-wahda-fc-2342748?mode=flv
+#EXTINF:-1 group-title="Nasaf Qarshi vs Al-Wahda FC" referer="https://hoadao.tv/nasaf-qarshi-vs-al-wahda-fc-2342748?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-fd8837a09698f8a2ff5ff5181145faf8.png",Nasaf Qarshi vs Al-Wahda FC [BLV PHÁO - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/nasaf-qarshi-vs-al-wahda-fc-2342748?mode=flv2
+#EXTINF:-1 group-title="Nasaf Qarshi vs Al-Wahda FC" referer="https://hoadao.tv/nasaf-qarshi-vs-al-wahda-fc-2342748?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-fd8837a09698f8a2ff5ff5181145faf8.png",Nasaf Qarshi vs Al-Wahda FC [BLV PHÁO - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/fk-dubocica-vs-borac-cacak-2342894?mode=ndsd
 #EXTINF:-1 group-title="FK Dubocica vs Borac Cacak" referer="https://hoadao.tv/fk-dubocica-vs-borac-cacak-2342894?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-9305c1ce476d16b9797e332bdde12744.png",FK Dubocica vs Borac Cacak [No BLV - SD (ND)]
 https://live.alilicloud.com/live/fbf63885dd248ab5a0683d086e046acc/playlist.m3u8
@@ -50,3 +44,39 @@ https://live.alilicloud.com/live/90229e8fb9d2e6751b68211935e84b81/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/south-africa-u17-vs-bolivia-u17-2343045?mode=ndsd
 #EXTINF:-1 group-title="South Africa U17 vs Bolivia U17" referer="https://hoadao.tv/south-africa-u17-vs-bolivia-u17-2343045?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-138128133f313df0ae804dae9a3f883d.png",South Africa U17 vs Bolivia U17 [No BLV - SD (ND)]
 https://live.alilicloud.com/live/9ce3c2e29b1fe36fd934dc2600d31b58/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/rotor-volgograd-vs-arsenal-tula-2342736?mode=sd
+#EXTINF:-1 group-title="Rotor Volgograd vs Arsenal Tula" referer="https://hoadao.tv/rotor-volgograd-vs-arsenal-tula-2342736?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-36672638cf70a4eccf8c09f924eb5117.png",Rotor Volgograd vs Arsenal Tula [No BLV - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/rotor-volgograd-vs-arsenal-tula-2342736?mode=hd
+#EXTINF:-1 group-title="Rotor Volgograd vs Arsenal Tula" referer="https://hoadao.tv/rotor-volgograd-vs-arsenal-tula-2342736?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-36672638cf70a4eccf8c09f924eb5117.png",Rotor Volgograd vs Arsenal Tula [No BLV - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/rotor-volgograd-vs-arsenal-tula-2342736?mode=flv
+#EXTINF:-1 group-title="Rotor Volgograd vs Arsenal Tula" referer="https://hoadao.tv/rotor-volgograd-vs-arsenal-tula-2342736?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-36672638cf70a4eccf8c09f924eb5117.png",Rotor Volgograd vs Arsenal Tula [No BLV - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/rotor-volgograd-vs-arsenal-tula-2342736?mode=flv2
+#EXTINF:-1 group-title="Rotor Volgograd vs Arsenal Tula" referer="https://hoadao.tv/rotor-volgograd-vs-arsenal-tula-2342736?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-36672638cf70a4eccf8c09f924eb5117.png",Rotor Volgograd vs Arsenal Tula [No BLV - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/rotor-volgograd-vs-arsenal-tula-2342736?mode=ndsd
+#EXTINF:-1 group-title="Rotor Volgograd vs Arsenal Tula" referer="https://hoadao.tv/rotor-volgograd-vs-arsenal-tula-2342736?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-36672638cf70a4eccf8c09f924eb5117.png",Rotor Volgograd vs Arsenal Tula [No BLV - SD (ND)]
+https://live.alilicloud.com/live/5ec96c62f17a4202acc81c58cb7af096/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/gandzasar-kapan-vs-alashkert-2344557?mode=ndsd
+#EXTINF:-1 group-title="Gandzasar Kapan vs Alashkert" referer="https://hoadao.tv/gandzasar-kapan-vs-alashkert-2344557?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-abdec344bdddaf87265d05a015390437.png",Gandzasar Kapan vs Alashkert [No BLV - SD (ND)]
+https://live.alilicloud.com/live/02209ae068829a58c5804986fee4941e/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/senegal-u17-vs-croatia-u17-2343038?mode=ndsd
+#EXTINF:-1 group-title="Senegal U17 vs Croatia U17" referer="https://hoadao.tv/senegal-u17-vs-croatia-u17-2343038?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-2e6d20926674133b5a62c66212b6a56e.png",Senegal U17 vs Croatia U17 [No BLV - SD (ND)]
+https://live.alilicloud.com/live/bb2b92e99d3dfd6a05397956a0b296dd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/ks-iliria-fushe-vs-burreli-2341547?mode=ndsd
+#EXTINF:-1 group-title="KS Iliria Fushe vs Burreli" referer="https://hoadao.tv/ks-iliria-fushe-vs-burreli-2341547?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-38d745068f674e2163ddabb333591729.png",KS Iliria Fushe vs Burreli [No BLV - SD (ND)]
+https://live.alilicloud.com/live/873339dd7e4fdec587644eaa6c42c1b8/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/pogradeci-vs-apolonia-fier-2341554?mode=ndsd
+#EXTINF:-1 group-title="Pogradeci vs Apolonia Fier" referer="https://hoadao.tv/pogradeci-vs-apolonia-fier-2341554?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-05697b4b13528223fc09cbeea07fb95a.png",Pogradeci vs Apolonia Fier [No BLV - SD (ND)]
+https://live.alilicloud.com/live/7507fd9065967f31ef4d58637790d9ab/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/ks-perparimi-kukesi-vs-kastrioti-kruje-2341565?mode=ndsd
+#EXTINF:-1 group-title="KS Perparimi Kukesi vs Kastrioti Kruje" referer="https://hoadao.tv/ks-perparimi-kukesi-vs-kastrioti-kruje-2341565?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-2d44a8d5252b07b2ee6f9cd51dac4371.png",KS Perparimi Kukesi vs Kastrioti Kruje [No BLV - SD (ND)]
+https://live.alilicloud.com/live/3f2ff611a9888e97f9bd44d9143e392c/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/kf-luftetari-vs-besa-kavaje-2341571?mode=ndsd
+#EXTINF:-1 group-title="KF Luftetari vs Besa Kavaje" referer="https://hoadao.tv/kf-luftetari-vs-besa-kavaje-2341571?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-a8b5d6538590a5b171e1c777a5131631.png",KF Luftetari vs Besa Kavaje [No BLV - SD (ND)]
+https://live.alilicloud.com/live/0b78d86290f09fff1f10cdf350702002/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/kf-tirana-vs-ks-bylis-2342394?mode=ndsd
+#EXTINF:-1 group-title="KF Tirana vs KS Bylis" referer="https://hoadao.tv/kf-tirana-vs-ks-bylis-2342394?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-5ec361adda511522dd025a89b9dd089d.png",KF Tirana vs KS Bylis [No BLV - SD (ND)]
+https://live.alilicloud.com/live/2894201bebd8b45600c105d63e65d4fc/playlist.m3u8
