@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Barcelona vs Elche" tvg-logo="https://hxcv.site/images/cache/match-dcbcb0ab896f93fbd9a76e2f084c5e18.png",Barcelona vs Elche [BLV VĂN MINH - HLS]
-https://hls.cdnvankhanh.com/live/TO3C/index.m3u8?expire=1875681300&sign=015129bcbd63368bf36946e12b5950c6
-#EXTINF:-1 group-title="Barcelona vs Elche" tvg-logo="https://hxcv.site/images/cache/match-dcbcb0ab896f93fbd9a76e2f084c5e18.png",Barcelona vs Elche [BLV VĂN MINH - FLV]
-https://flv.cdnvankhanh.com/live/TO3C.flv?expire=1875681300&sign=015129bcbd63368bf36946e12b5950c6
-#EXTINF:-1 group-title="Ispe FC vs Laconi Lian" tvg-logo="https://hxcv.site/images/cache/match-3edaed4926917921120a44dac001319e.png",Ispe FC vs Laconi Lian [BLV VĂN CHƯƠNG - HLS]
-https://hls.cdnvankhanh.com/live/VANCHUONG/index.m3u8?expire=1890806880&sign=d5e33b097684f7c5682301b78b825aaf
-#EXTINF:-1 group-title="Ispe FC vs Laconi Lian" tvg-logo="https://hxcv.site/images/cache/match-3edaed4926917921120a44dac001319e.png",Ispe FC vs Laconi Lian [BLV VĂN CHƯƠNG - FLV]
-https://flv.cdnvankhanh.com/live/VANCHUONG.flv?expire=1890806880&sign=d5e33b097684f7c5682301b78b825aaf
 #EXTINF:-1 group-title="FC Ufa vs Yenisey Krasnoyarsk" tvg-logo="https://hxcv.site/images/cache/match-96440726420704e833e6c520ff86b473.png",FC Ufa vs Yenisey Krasnoyarsk [BLV TIỂU LINH - HLS]
 https://hls.cdnvankhanh.com/live/TIEULINH/index.m3u8?expire=1891779900&sign=5353000df59fd7da4b1d1f4a66da8495
 #EXTINF:-1 group-title="FC Ufa vs Yenisey Krasnoyarsk" tvg-logo="https://hxcv.site/images/cache/match-96440726420704e833e6c520ff86b473.png",FC Ufa vs Yenisey Krasnoyarsk [BLV TIỂU LINH - FLV]
@@ -15,6 +7,10 @@ https://flv.cdnvankhanh.com/live/TIEULINH.flv?expire=1891779900&sign=5353000df59
 https://hls.cdnvankhanh.com/live/DOCTOR/index.m3u8?expire=1890806880&sign=122b6adf5f25b6a125910438f775abb8
 #EXTINF:-1 group-title="FC Ufa vs Yenisey Krasnoyarsk" tvg-logo="https://hxcv.site/images/cache/match-96440726420704e833e6c520ff86b473.png",FC Ufa vs Yenisey Krasnoyarsk [BLV DOCTOR - FLV]
 https://flv.cdnvankhanh.com/live/DOCTOR.flv?expire=1890806880&sign=122b6adf5f25b6a125910438f775abb8C
+#EXTINF:-1 group-title="Barcelona vs Elche" tvg-logo="https://hxcv.site/images/cache/match-dcbcb0ab896f93fbd9a76e2f084c5e18.png",Barcelona vs Elche [BLV VĂN MINH - HLS]
+https://hls.cdnvankhanh.com/live/TO3C/index.m3u8?expire=1875681300&sign=015129bcbd63368bf36946e12b5950c6
+#EXTINF:-1 group-title="Barcelona vs Elche" tvg-logo="https://hxcv.site/images/cache/match-dcbcb0ab896f93fbd9a76e2f084c5e18.png",Barcelona vs Elche [BLV VĂN MINH - FLV]
+https://flv.cdnvankhanh.com/live/TO3C.flv?expire=1875681300&sign=015129bcbd63368bf36946e12b5950c6
 #EXTINF:-1 group-title="Kerala Blasters FC vs Hyderabad FC" tvg-logo="https://hxcv.site/images/cache/match-ca81450ce579720a3c2abeedde708672.png",Kerala Blasters FC vs Hyderabad FC [BLV VĂN TÍCH - HLS]
 https://hls.cdnvankhanh.com/live/VANTICH/index.m3u8?expire=1892707800&sign=150a2229b67134ebc8c4d81573bca419
 #EXTINF:-1 group-title="Kerala Blasters FC vs Hyderabad FC" tvg-logo="https://hxcv.site/images/cache/match-ca81450ce579720a3c2abeedde708672.png",Kerala Blasters FC vs Hyderabad FC [BLV VĂN TÍCH - FLV]
@@ -23,3 +19,7 @@ https://flv.cdnvankhanh.com/live/VANTICH.flv?expire=1892707800&sign=150a2229b671
 https://hls.cdnvankhanh.com/live/VANTEO/index.m3u8?expire=1892616120&sign=d7b1c78e06fada5c68d59641889d2c55
 #EXTINF:-1 group-title="Kerala Blasters FC vs Hyderabad FC" tvg-logo="https://hxcv.site/images/cache/match-ca81450ce579720a3c2abeedde708672.png",Kerala Blasters FC vs Hyderabad FC [BLV VĂN TÈO - FLV]
 https://flv.cdnvankhanh.com/live/VANTEO.flv?expire=1892616120&sign=d7b1c78e06fada5c68d59641889d2c55
+#EXTINF:-1 group-title="Semen Padang vs Arema FC" tvg-logo="https://hxcv.site/images/cache/match-ddeb1e020080937c5dde33e61a75e9b7.png",Semen Padang vs Arema FC [BLV VĂN BIA - HLS]
+https://hls.cdnvankhanh.com/live/VANBIA/index.m3u8?expire=1892730180&sign=ca1be0c0d408ba9ac0bf97ec02f5049e
+#EXTINF:-1 group-title="Semen Padang vs Arema FC" tvg-logo="https://hxcv.site/images/cache/match-ddeb1e020080937c5dde33e61a75e9b7.png",Semen Padang vs Arema FC [BLV VĂN BIA - FLV]
+https://flv.cdnvankhanh.com/live/VANBIA.flv?expire=1892730180&sign=ca1be0c0d408ba9ac0bf97ec02f5049e
