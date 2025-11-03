@@ -1,16 +1,13 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/austin-fc-vs-los-angeles-fc-2342710?mode=sd
-#EXTINF:-1 group-title="Austin FC vs Los Angeles FC" referer="https://hoadao.tv/austin-fc-vs-los-angeles-fc-2342710?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-bb3cb6cd4fd530d7620c1a8265f063af.png",Austin FC vs Los Angeles FC [BLV CỤ RÙA - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/austin-fc-vs-los-angeles-fc-2342710?mode=hd
-#EXTINF:-1 group-title="Austin FC vs Los Angeles FC" referer="https://hoadao.tv/austin-fc-vs-los-angeles-fc-2342710?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-bb3cb6cd4fd530d7620c1a8265f063af.png",Austin FC vs Los Angeles FC [BLV CỤ RÙA - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/austin-fc-vs-los-angeles-fc-2342710?mode=flv
-#EXTINF:-1 group-title="Austin FC vs Los Angeles FC" referer="https://hoadao.tv/austin-fc-vs-los-angeles-fc-2342710?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-bb3cb6cd4fd530d7620c1a8265f063af.png",Austin FC vs Los Angeles FC [BLV CỤ RÙA - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/austin-fc-vs-los-angeles-fc-2342710?mode=flv2
-#EXTINF:-1 group-title="Austin FC vs Los Angeles FC" referer="https://hoadao.tv/austin-fc-vs-los-angeles-fc-2342710?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-bb3cb6cd4fd530d7620c1a8265f063af.png",Austin FC vs Los Angeles FC [BLV CỤ RÙA - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/austin-fc-vs-los-angeles-fc-2342710?mode=ndsd
-#EXTINF:-1 group-title="Austin FC vs Los Angeles FC" referer="https://hoadao.tv/austin-fc-vs-los-angeles-fc-2342710?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-bb3cb6cd4fd530d7620c1a8265f063af.png",Austin FC vs Los Angeles FC [BLV CỤ RÙA - SD (ND)]
-https://live.alilicloud.com/live/35b33709eece7d7519f35dc54029ec4e/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/jtekt-toray-arrows-2344318?mode=sd
+#EXTINF:-1 group-title="JTEKT vs Toray Arrows" referer="https://hoadao.tv/jtekt-toray-arrows-2344318?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-2114d07107325c20d1e53fcf2ec414c4.png",JTEKT vs Toray Arrows [BLV MÈO BÉO - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/jtekt-toray-arrows-2344318?mode=hd
+#EXTINF:-1 group-title="JTEKT vs Toray Arrows" referer="https://hoadao.tv/jtekt-toray-arrows-2344318?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-2114d07107325c20d1e53fcf2ec414c4.png",JTEKT vs Toray Arrows [BLV MÈO BÉO - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/jtekt-toray-arrows-2344318?mode=flv
+#EXTINF:-1 group-title="JTEKT vs Toray Arrows" referer="https://hoadao.tv/jtekt-toray-arrows-2344318?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-2114d07107325c20d1e53fcf2ec414c4.png",JTEKT vs Toray Arrows [BLV MÈO BÉO - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/jtekt-toray-arrows-2344318?mode=flv2
+#EXTINF:-1 group-title="JTEKT vs Toray Arrows" referer="https://hoadao.tv/jtekt-toray-arrows-2344318?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-2114d07107325c20d1e53fcf2ec414c4.png",JTEKT vs Toray Arrows [BLV MÈO BÉO - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
