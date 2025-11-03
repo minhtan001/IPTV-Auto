@@ -216,18 +216,6 @@ https://stream.chuoichien.tv/chuoitay/index.m3u8
 #EXTINF:-1 group-title="Lazio vs Cagliari" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-98070cbab7751755d9b15a633b22a3cb.png",Lazio vs Cagliari [Chuối Tây - SD2 - Chuối Tây - SD2]
 https://stream.chuoichien.tv/chuoitay.flv
 #EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
-#EXTINF:-1 group-title="GIL Vicente vs Santa Clara" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-94b1017b8db33bc3620ad9c4b91ee6d2.png",GIL Vicente vs Santa Clara [Nhà Đài - HD1 - Nhà Đài - HD1]
-https://gckc0525.edgemaxcdn.org/live/m4x4/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
-#EXTINF:-1 group-title="GIL Vicente vs Santa Clara" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-94b1017b8db33bc3620ad9c4b91ee6d2.png",GIL Vicente vs Santa Clara [Nhà Đài - HD1 - Nhà Đài - HD2]
-https://gckc0525.edgemaxcdn.org/live/m4x4.flv
-#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
-#EXTINF:-1 group-title="GIL Vicente vs Santa Clara" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-94b1017b8db33bc3620ad9c4b91ee6d2.png",GIL Vicente vs Santa Clara [Nhà Đài - HD2 - Nhà Đài - HD1]
-https://gckc0525.edgemaxcdn.org/live/m4x4/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
-#EXTINF:-1 group-title="GIL Vicente vs Santa Clara" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-94b1017b8db33bc3620ad9c4b91ee6d2.png",GIL Vicente vs Santa Clara [Nhà Đài - HD2 - Nhà Đài - HD2]
-https://gckc0525.edgemaxcdn.org/live/m4x4.flv
-#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
 #EXTINF:-1 group-title="Valladolid vs Granada CF" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-1215a7a58308e04fad12ec9e6f505b5f.png",Valladolid vs Granada CF [Nhà Đài - HD1 - Nhà Đài - HD1]
 https://gckc0525.edgemaxcdn.org/live/m5x3/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
@@ -299,3 +287,15 @@ https://gckc0525.edgemaxcdn.org/live/m4x3/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
 #EXTINF:-1 group-title="Oviedo vs Osasuna" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-b652c1d4f975bb0a09c0a6228870e19b.png",Oviedo vs Osasuna [Nhà Đài - HD2 - Nhà Đài - HD2]
 https://gckc0525.edgemaxcdn.org/live/m4x3.flv
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="GIL Vicente vs Santa Clara" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-94b1017b8db33bc3620ad9c4b91ee6d2.png",GIL Vicente vs Santa Clara [Nhà Đài - HD1 - Nhà Đài - HD1]
+https://gckc0525.edgemaxcdn.org/live/m4x4/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="GIL Vicente vs Santa Clara" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-94b1017b8db33bc3620ad9c4b91ee6d2.png",GIL Vicente vs Santa Clara [Nhà Đài - HD1 - Nhà Đài - HD2]
+https://gckc0525.edgemaxcdn.org/live/m4x4.flv
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="GIL Vicente vs Santa Clara" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-94b1017b8db33bc3620ad9c4b91ee6d2.png",GIL Vicente vs Santa Clara [Nhà Đài - HD2 - Nhà Đài - HD1]
+https://gckc0525.edgemaxcdn.org/live/m4x4/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="GIL Vicente vs Santa Clara" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-94b1017b8db33bc3620ad9c4b91ee6d2.png",GIL Vicente vs Santa Clara [Nhà Đài - HD2 - Nhà Đài - HD2]
+https://gckc0525.edgemaxcdn.org/live/m4x4.flv
