@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Barcelona vs Elche" tvg-logo="https://hxcv.site/images/cache/match-dcbcb0ab896f93fbd9a76e2f084c5e18.png",Barcelona vs Elche [BLV VĂN MINH - HLS]
-https://hls.cdnvankhanh.com/live/TO3C/index.m3u8?expire=1875681300&sign=015129bcbd63368bf36946e12b5950c6
-#EXTINF:-1 group-title="Barcelona vs Elche" tvg-logo="https://hxcv.site/images/cache/match-dcbcb0ab896f93fbd9a76e2f084c5e18.png",Barcelona vs Elche [BLV VĂN MINH - FLV]
-https://flv.cdnvankhanh.com/live/TO3C.flv?expire=1875681300&sign=015129bcbd63368bf36946e12b5950c6
 #EXTINF:-1 group-title="FC Ryukyu vs Tochigi City" tvg-logo="https://hxcv.site/images/cache/match-e95f960bb60fe2de13f7a8285c36ff99.png",FC Ryukyu vs Tochigi City [BLV TIỂU LINH - HLS]
 https://hls.cdnvankhanh.com/live/TIEULINH/index.m3u8?expire=1891779900&sign=5353000df59fd7da4b1d1f4a66da8495
 #EXTINF:-1 group-title="FC Ryukyu vs Tochigi City" tvg-logo="https://hxcv.site/images/cache/match-e95f960bb60fe2de13f7a8285c36ff99.png",FC Ryukyu vs Tochigi City [BLV TIỂU LINH - FLV]
@@ -11,3 +7,15 @@ https://flv.cdnvankhanh.com/live/TIEULINH.flv?expire=1891779900&sign=5353000df59
 https://hls.cdnvankhanh.com/live/VANDIEGO/index.m3u8?expire=1920976080&sign=4822e1f8f5ead43296828f1e9a00ef76
 #EXTINF:-1 group-title="FC Ryukyu vs Tochigi City" tvg-logo="https://hxcv.site/images/cache/match-e95f960bb60fe2de13f7a8285c36ff99.png",FC Ryukyu vs Tochigi City [BLV VĂN DIEGO - FLV]
 https://flv.cdnvankhanh.com/live/VANDIEGO.flv?expire=1920976080&sign=4822e1f8f5ead43296828f1e9a00ef76
+#EXTINF:-1 group-title="Persijap Jepara vs Malut United" tvg-logo="https://hxcv.site/images/cache/match-fd271134ffd05b952f263a6cd1badb1d.png",Persijap Jepara vs Malut United [BLV DOCTOR - HLS]
+https://hls.cdnvankhanh.com/live/DOCTOR/index.m3u8?expire=1890806880&sign=122b6adf5f25b6a125910438f775abb8
+#EXTINF:-1 group-title="Persijap Jepara vs Malut United" tvg-logo="https://hxcv.site/images/cache/match-fd271134ffd05b952f263a6cd1badb1d.png",Persijap Jepara vs Malut United [BLV DOCTOR - FLV]
+https://flv.cdnvankhanh.com/live/DOCTOR.flv?expire=1890806880&sign=122b6adf5f25b6a125910438f775abb8C
+#EXTINF:-1 group-title="Persijap Jepara vs Malut United" tvg-logo="https://hxcv.site/images/cache/match-fd271134ffd05b952f263a6cd1badb1d.png",Persijap Jepara vs Malut United [BLV VĂN VỞ - HLS]
+https://hls.cdnvankhanh.com/live/VANVO/index.m3u8?expire=1826356200&sign=f92cd6005b35a94f2c93f28b3ffac506
+#EXTINF:-1 group-title="Persijap Jepara vs Malut United" tvg-logo="https://hxcv.site/images/cache/match-fd271134ffd05b952f263a6cd1badb1d.png",Persijap Jepara vs Malut United [BLV VĂN VỞ - FLV]
+https://flv.cdnvankhanh.com/live/VANVO.flv?expire=1826356200&sign=f92cd6005b35a94f2c93f28b3ffac506
+#EXTINF:-1 group-title="Barcelona vs Elche" tvg-logo="https://hxcv.site/images/cache/match-dcbcb0ab896f93fbd9a76e2f084c5e18.png",Barcelona vs Elche [BLV VĂN MINH - HLS]
+https://hls.cdnvankhanh.com/live/TO3C/index.m3u8?expire=1875681300&sign=015129bcbd63368bf36946e12b5950c6
+#EXTINF:-1 group-title="Barcelona vs Elche" tvg-logo="https://hxcv.site/images/cache/match-dcbcb0ab896f93fbd9a76e2f084c5e18.png",Barcelona vs Elche [BLV VĂN MINH - FLV]
+https://flv.cdnvankhanh.com/live/TO3C.flv?expire=1875681300&sign=015129bcbd63368bf36946e12b5950c6
