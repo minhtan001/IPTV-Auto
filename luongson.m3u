@@ -1,17 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="Aurora vs Independiente Petrolero" tvg-logo="https://hxcv.site/images/cache/match-ed58f4040c7fa52b9dadd874f63413d5.png",Aurora vs Independiente Petrolero [BLV HẠNG VŨ - HLS]
-https://hls.cdnok9.com/live/HANGVU1/index.m3u8?expire=1788427256&sign=35e56aacb29c1a0624a29230271c3db1
-#EXTINF:-1 group-title="Aurora vs Independiente Petrolero" tvg-logo="https://hxcv.site/images/cache/match-ed58f4040c7fa52b9dadd874f63413d5.png",Aurora vs Independiente Petrolero [BLV HẠNG VŨ - FLV]
-https://flv.cdnok9.com/live/HANGVU1.flv?expire=1788427256&sign=35e56aacb29c1a0624a29230271c3db1
-#EXTINF:-1 group-title="Banfield vs Lanus" tvg-logo="https://hxcv.site/images/cache/match-12bef5742103c7a0240c4d51eeccf9df.png",Banfield vs Lanus [BLV TỐNG GIANG - HLS]
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:-1 group-title="Banfield vs Lanus" tvg-logo="https://hxcv.site/images/cache/match-12bef5742103c7a0240c4d51eeccf9df.png",Banfield vs Lanus [BLV TỐNG GIANG - FLV]
-https://flv.cdnok9.com/live/TONGGIANG.flv?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:-1 group-title="Belgrano vs Club Atletico Tigre" tvg-logo="https://hxcv.site/images/cache/match-ee18ffa9438a754fc9a5da3d8a92e8cb.png",Belgrano vs Club Atletico Tigre [TRỢ LÝ ĐIÊU THUYỀN - HLS]
-https://hls.cdnok9.com/live/DIEUTHUYEN/index.m3u8?expire=1788427256&sign=8cebea5448db2f74ea04021d9362ba87
-#EXTINF:-1 group-title="Belgrano vs Club Atletico Tigre" tvg-logo="https://hxcv.site/images/cache/match-ee18ffa9438a754fc9a5da3d8a92e8cb.png",Belgrano vs Club Atletico Tigre [TRỢ LÝ ĐIÊU THUYỀN - FLV]
-https://flv.cdnok9.com/live/DIEUTHUYEN.flv?expire=1788427256&sign=8cebea5448db2f74ea04021d9362ba87
-#EXTINF:-1 group-title="Belgrano vs Club Atletico Tigre" tvg-logo="https://hxcv.site/images/cache/match-ee18ffa9438a754fc9a5da3d8a92e8cb.png",Belgrano vs Club Atletico Tigre [BLV VÕ TÒNG - HLS]
- https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 group-title="Belgrano vs Club Atletico Tigre" tvg-logo="https://hxcv.site/images/cache/match-ee18ffa9438a754fc9a5da3d8a92e8cb.png",Belgrano vs Club Atletico Tigre [BLV VÕ TÒNG - FLV]
- https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 group-title="Sichuan (W) vs Beijing (W)" tvg-logo="https://hxcv.site/images/cache/match-a50775580427f211de7218d0107d772a.png",Sichuan (W) vs Beijing (W) [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvXrCyJzTgAzU26wW/playlist.m3u8
+#EXTINF:-1 group-title="FK Yarud Mariupol vs Podillya Khmelnytskyi" tvg-logo="https://hxcv.site/images/cache/match-5d3d1e69413eebb361e9f80a381db9df.png",FK Yarud Mariupol vs Podillya Khmelnytskyi [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuPtxQiso65Z7ayV6/playlist.m3u8
+#EXTINF:-1 group-title="Shanxi (W) vs Henan (W)" tvg-logo="https://hxcv.site/images/cache/match-b2723ab30abde46e9e6eb363cd2ba0ef.png",Shanxi (W) vs Henan (W) [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvXrCz5K6wTZ4bf56/playlist.m3u8
+#EXTINF:-1 group-title="Jiangsu (W) vs Hubei (W)" tvg-logo="https://hxcv.site/images/cache/match-7be15d53cc06183d4edb2fe0bdae4fe2.png",Jiangsu (W) vs Hubei (W) [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvXrCz5K4jygamjvC/playlist.m3u8
+#EXTINF:-1 group-title="Shanghai (W) vs Liaoning (W)" tvg-logo="https://hxcv.site/images/cache/match-2a2b50f58f38c1d7ebdb2aa06b8efd90.png",Shanghai (W) vs Liaoning (W) [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvXrCyJyy6vgEHBwr/playlist.m3u8
