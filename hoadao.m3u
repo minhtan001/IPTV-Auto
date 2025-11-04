@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/sepahan-vs-ahal-fk-2343319?mode=sd
-#EXTINF:-1 group-title="Sepahan vs Ahal FK" referer="https://hoadao.tv/sepahan-vs-ahal-fk-2343319?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-a4190ecde0a3620f8e50051cbc2dde48.png",Sepahan vs Ahal FK [BLV CỤ RÙA - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/sepahan-vs-ahal-fk-2343319?mode=hd
-#EXTINF:-1 group-title="Sepahan vs Ahal FK" referer="https://hoadao.tv/sepahan-vs-ahal-fk-2343319?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-a4190ecde0a3620f8e50051cbc2dde48.png",Sepahan vs Ahal FK [BLV CỤ RÙA - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/sepahan-vs-ahal-fk-2343319?mode=flv
-#EXTINF:-1 group-title="Sepahan vs Ahal FK" referer="https://hoadao.tv/sepahan-vs-ahal-fk-2343319?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-a4190ecde0a3620f8e50051cbc2dde48.png",Sepahan vs Ahal FK [BLV CỤ RÙA - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/sepahan-vs-ahal-fk-2343319?mode=flv2
-#EXTINF:-1 group-title="Sepahan vs Ahal FK" referer="https://hoadao.tv/sepahan-vs-ahal-fk-2343319?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-a4190ecde0a3620f8e50051cbc2dde48.png",Sepahan vs Ahal FK [BLV CỤ RÙA - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/sepahan-vs-ahal-fk-2343319?mode=ndsd
-#EXTINF:-1 group-title="Sepahan vs Ahal FK" referer="https://hoadao.tv/sepahan-vs-ahal-fk-2343319?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-a4190ecde0a3620f8e50051cbc2dde48.png",Sepahan vs Ahal FK [BLV CỤ RÙA - SD (ND)]
-https://live.alilicloud.com/live/b0bda64215d67e24a0b48e3f14509a20/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/napoli-vs-eintracht-frankfurt-2343330?mode=sd
 #EXTINF:-1 group-title="Napoli vs Eintracht Frankfurt" referer="https://hoadao.tv/napoli-vs-eintracht-frankfurt-2343330?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-02d766262046d04b247375fd9028f369.png",Napoli vs Eintracht Frankfurt [BLV MÈO BÉO - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
@@ -26,6 +11,9 @@ https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/napoli-vs-eintracht-frankfurt-2343330?mode=flv2
 #EXTINF:-1 group-title="Napoli vs Eintracht Frankfurt" referer="https://hoadao.tv/napoli-vs-eintracht-frankfurt-2343330?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-02d766262046d04b247375fd9028f369.png",Napoli vs Eintracht Frankfurt [BLV MÈO BÉO - FLV 2]
 https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/napoli-vs-eintracht-frankfurt-2343330?mode=ndsd
+#EXTINF:-1 group-title="Napoli vs Eintracht Frankfurt" referer="https://hoadao.tv/napoli-vs-eintracht-frankfurt-2343330?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-02d766262046d04b247375fd9028f369.png",Napoli vs Eintracht Frankfurt [BLV MÈO BÉO - SD (ND)]
+https://live.alilicloud.com/live/5b7bd41d5f02a0845ce95ea8756ade42/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/slavia-praha-vs-arsenal-2343331?mode=sd
 #EXTINF:-1 group-title="Slavia Praha vs Arsenal" referer="https://hoadao.tv/slavia-praha-vs-arsenal-2343331?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-89262247576bf0dd0076b81987fd48fe.png",Slavia Praha vs Arsenal [BLV PHÁO - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
@@ -38,6 +26,51 @@ https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/slavia-praha-vs-arsenal-2343331?mode=flv2
 #EXTINF:-1 group-title="Slavia Praha vs Arsenal" referer="https://hoadao.tv/slavia-praha-vs-arsenal-2343331?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-89262247576bf0dd0076b81987fd48fe.png",Slavia Praha vs Arsenal [BLV PHÁO - FLV 2]
 https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/nurnberg-women-vs-bayern-munchen-women-2343435?mode=ndsd
-#EXTINF:-1 group-title="Nurnberg Women vs Bayern Munchen Women" referer="https://hoadao.tv/nurnberg-women-vs-bayern-munchen-women-2343435?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-f0eddada58cf358c3681fa3718767ab6.png",Nurnberg Women vs Bayern Munchen Women [No BLV - SD (ND)]
-https://live.alilicloud.com/live/3197eba000890f890fcd483560f0907d/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/slavia-praha-vs-arsenal-2343331?mode=ndsd
+#EXTINF:-1 group-title="Slavia Praha vs Arsenal" referer="https://hoadao.tv/slavia-praha-vs-arsenal-2343331?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-89262247576bf0dd0076b81987fd48fe.png",Slavia Praha vs Arsenal [BLV PHÁO - SD (ND)]
+https://live.alilicloud.com/live/3fbbbb9be313aa35f14eb2ce6df9f63c/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/napoli-vs-eintracht-frankfurt-2343330?mode=sd
+#EXTINF:-1 group-title="Napoli vs Eintracht Frankfurt" referer="https://hoadao.tv/napoli-vs-eintracht-frankfurt-2343330?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-02d766262046d04b247375fd9028f369.png",Napoli vs Eintracht Frankfurt [No BLV - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/napoli-vs-eintracht-frankfurt-2343330?mode=hd
+#EXTINF:-1 group-title="Napoli vs Eintracht Frankfurt" referer="https://hoadao.tv/napoli-vs-eintracht-frankfurt-2343330?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-02d766262046d04b247375fd9028f369.png",Napoli vs Eintracht Frankfurt [No BLV - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/napoli-vs-eintracht-frankfurt-2343330?mode=flv
+#EXTINF:-1 group-title="Napoli vs Eintracht Frankfurt" referer="https://hoadao.tv/napoli-vs-eintracht-frankfurt-2343330?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-02d766262046d04b247375fd9028f369.png",Napoli vs Eintracht Frankfurt [No BLV - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/napoli-vs-eintracht-frankfurt-2343330?mode=flv2
+#EXTINF:-1 group-title="Napoli vs Eintracht Frankfurt" referer="https://hoadao.tv/napoli-vs-eintracht-frankfurt-2343330?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-02d766262046d04b247375fd9028f369.png",Napoli vs Eintracht Frankfurt [No BLV - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/napoli-vs-eintracht-frankfurt-2343330?mode=ndsd
+#EXTINF:-1 group-title="Napoli vs Eintracht Frankfurt" referer="https://hoadao.tv/napoli-vs-eintracht-frankfurt-2343330?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-02d766262046d04b247375fd9028f369.png",Napoli vs Eintracht Frankfurt [No BLV - SD (ND)]
+https://live.alilicloud.com/live/5b7bd41d5f02a0845ce95ea8756ade42/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/slavia-praha-vs-arsenal-2343331?mode=sd
+#EXTINF:-1 group-title="Slavia Praha vs Arsenal" referer="https://hoadao.tv/slavia-praha-vs-arsenal-2343331?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-89262247576bf0dd0076b81987fd48fe.png",Slavia Praha vs Arsenal [No BLV - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/slavia-praha-vs-arsenal-2343331?mode=hd
+#EXTINF:-1 group-title="Slavia Praha vs Arsenal" referer="https://hoadao.tv/slavia-praha-vs-arsenal-2343331?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-89262247576bf0dd0076b81987fd48fe.png",Slavia Praha vs Arsenal [No BLV - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/slavia-praha-vs-arsenal-2343331?mode=flv
+#EXTINF:-1 group-title="Slavia Praha vs Arsenal" referer="https://hoadao.tv/slavia-praha-vs-arsenal-2343331?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-89262247576bf0dd0076b81987fd48fe.png",Slavia Praha vs Arsenal [No BLV - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/slavia-praha-vs-arsenal-2343331?mode=flv2
+#EXTINF:-1 group-title="Slavia Praha vs Arsenal" referer="https://hoadao.tv/slavia-praha-vs-arsenal-2343331?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-89262247576bf0dd0076b81987fd48fe.png",Slavia Praha vs Arsenal [No BLV - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/slavia-praha-vs-arsenal-2343331?mode=ndsd
+#EXTINF:-1 group-title="Slavia Praha vs Arsenal" referer="https://hoadao.tv/slavia-praha-vs-arsenal-2343331?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-89262247576bf0dd0076b81987fd48fe.png",Slavia Praha vs Arsenal [No BLV - SD (ND)]
+https://live.alilicloud.com/live/3fbbbb9be313aa35f14eb2ce6df9f63c/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/union-berlin-women-vs-vfl-wolfsburg-women-2343429?mode=ndsd
+#EXTINF:-1 group-title="Union Berlin Women vs VfL Wolfsburg Women" referer="https://hoadao.tv/union-berlin-women-vs-vfl-wolfsburg-women-2343429?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-b5b2c9d077870fb7a7b55b7e239f4935.png",Union Berlin Women vs VfL Wolfsburg Women [No BLV - SD (ND)]
+https://live.alilicloud.com/live/55ef0b0959b004b8cff5c24318abf476/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/el-mokawloon-el-arab-vs-smouha-sc-2343332?mode=ndsd
+#EXTINF:-1 group-title="El Mokawloon El Arab vs Smouha SC" referer="https://hoadao.tv/el-mokawloon-el-arab-vs-smouha-sc-2343332?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-4b2ae1cf492ce1092825086fa391bfc1.png",El Mokawloon El Arab vs Smouha SC [No BLV - SD (ND)]
+https://live.alilicloud.com/live/697cef8a9dc8270d4eab47a5cc459051/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/zed-fc-vs-bank-el-ahly-2343333?mode=ndsd
+#EXTINF:-1 group-title="ZED FC vs Bank El Ahly" referer="https://hoadao.tv/zed-fc-vs-bank-el-ahly-2343333?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-3e62369fc24de57a178396ffbee1a8cc.png",ZED FC vs Bank El Ahly [No BLV - SD (ND)]
+https://live.alilicloud.com/live/c82598930348637f3373f24f7a2dba3c/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/viseu-vs-lusitania-fc-2342593?mode=ndsd
+#EXTINF:-1 group-title="Viseu vs Lusitania FC" referer="https://hoadao.tv/viseu-vs-lusitania-fc-2342593?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-b915651bccb2264d0e42cd51a916e14e.png",Viseu vs Lusitania FC [No BLV - SD (ND)]
+https://live.alilicloud.com/live/4bca305ffdd38850f6c531866b3fd1e3/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/al-ittihad-club-vs-al-sharjah-2343334?mode=ndsd
+#EXTINF:-1 group-title="Al Ittihad Club vs Al-Sharjah" referer="https://hoadao.tv/al-ittihad-club-vs-al-sharjah-2343334?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-f3daacdefe42f9bb0810109d5228f05c.png",Al Ittihad Club vs Al-Sharjah [No BLV - SD (ND)]
+https://live.alilicloud.com/live/5fa7b95b9838c7666f4ee1ad7253df22/playlist.m3u8
