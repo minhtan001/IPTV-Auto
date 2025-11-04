@@ -1,25 +1,49 @@
 #EXTM3U
-#EXTINF:-1 group-title="Slavia Praha vs Arsenal" tvg-logo="https://hxcv.site/images/cache/match-2de23af19fc01276a723c5c55caf8d80.png",Slavia Praha vs Arsenal [BLV VĂN VỸ - HLS]
-https://hls.cdnvankhanh.com/live/VANVY/index.m3u8?expire=1891070400&sign=642fee455822e2859b2b9f8dc5ed00d9
-#EXTINF:-1 group-title="Slavia Praha vs Arsenal" tvg-logo="https://hxcv.site/images/cache/match-2de23af19fc01276a723c5c55caf8d80.png",Slavia Praha vs Arsenal [BLV VĂN VỸ - FLV]
-https://flv.cdnvankhanh.com/live/VANVY.flv?expire=1891070400&sign=642fee455822e2859b2b9f8dc5ed00d9
-#EXTINF:-1 group-title="Slavia Praha vs Arsenal" tvg-logo="https://hxcv.site/images/cache/match-2de23af19fc01276a723c5c55caf8d80.png",Slavia Praha vs Arsenal [BLV VĂN LONG - HLS]
-https://hls.cdnvankhanh.com/live/VANLONG/index.m3u8?expire=1891070400&sign=8b0432bc178a10760ef797d47c1aabf7
-#EXTINF:-1 group-title="Slavia Praha vs Arsenal" tvg-logo="https://hxcv.site/images/cache/match-2de23af19fc01276a723c5c55caf8d80.png",Slavia Praha vs Arsenal [BLV VĂN LONG - FLV]
-https://flv.cdnvankhanh.com/live/VANLONG.flv?expire=1891070400&sign=8b0432bc178a10760ef797d47c1aabf7
-#EXTINF:-1 group-title="Napoli vs Eintracht Frankfurt" tvg-logo="https://hxcv.site/images/cache/match-4013d5fc12e4444c19ccc2fa2caead4d.png",Napoli vs Eintracht Frankfurt [BLV VĂN VỞ - HLS]
-https://hls.cdnvankhanh.com/live/VANVO/index.m3u8?expire=1826356200&sign=f92cd6005b35a94f2c93f28b3ffac506
-#EXTINF:-1 group-title="Napoli vs Eintracht Frankfurt" tvg-logo="https://hxcv.site/images/cache/match-4013d5fc12e4444c19ccc2fa2caead4d.png",Napoli vs Eintracht Frankfurt [BLV VĂN VỞ - FLV]
-https://flv.cdnvankhanh.com/live/VANVO.flv?expire=1826356200&sign=f92cd6005b35a94f2c93f28b3ffac506
-#EXTINF:-1 group-title="Napoli vs Eintracht Frankfurt" tvg-logo="https://hxcv.site/images/cache/match-4013d5fc12e4444c19ccc2fa2caead4d.png",Napoli vs Eintracht Frankfurt [BLV VĂN MINH - HLS]
-https://hls.cdnvankhanh.com/live/VANMINH/index.m3u8?expire=1891172040&sign=f6acb0ca35d53b8fc8f43ca1c11efb5e
-#EXTINF:-1 group-title="Napoli vs Eintracht Frankfurt" tvg-logo="https://hxcv.site/images/cache/match-4013d5fc12e4444c19ccc2fa2caead4d.png",Napoli vs Eintracht Frankfurt [BLV VĂN MINH - FLV]
-https://flv.cdnvankhanh.com/live/VANMINH.flv?expire=1891172040&sign=f6acb0ca35d53b8fc8f43ca1c11efb5e
-#EXTINF:-1 group-title="ZED FC vs NBE SC" tvg-logo="https://hxcv.site/images/cache/match-8318a61c96cd4a9982a61679a2c8f676.png",ZED FC vs NBE SC [BLV VĂN TÈO - HLS]
+#EXTINF:-1 group-title="Tottenham Hotspur vs FC Copenhagen" tvg-logo="https://hxcv.site/images/cache/match-5f96e28e04ac2d15705e80f2fbf3df84.png",Tottenham Hotspur vs FC Copenhagen [BLV VĂN BIA - HLS]
+https://hls.cdnvankhanh.com/live/VANBIA/index.m3u8?expire=1892730180&sign=ca1be0c0d408ba9ac0bf97ec02f5049e
+#EXTINF:-1 group-title="Tottenham Hotspur vs FC Copenhagen" tvg-logo="https://hxcv.site/images/cache/match-5f96e28e04ac2d15705e80f2fbf3df84.png",Tottenham Hotspur vs FC Copenhagen [BLV VĂN BIA - FLV]
+https://flv.cdnvankhanh.com/live/VANBIA.flv?expire=1892730180&sign=ca1be0c0d408ba9ac0bf97ec02f5049e
+#EXTINF:-1 group-title="Olympiakos Piraeus vs PSV Eindhoven" tvg-logo="https://hxcv.site/images/cache/match-c69b088182ab37cf8789e00d74cdfbdc.png",Olympiakos Piraeus vs PSV Eindhoven [BLV VĂN VẺ - HLS]
+https://hls.cdnvankhanh.com/live/VEVAN/index.m3u8?expire=1848307620&sign=5779030852f8cafeab86dae9130be2f5
+#EXTINF:-1 group-title="Olympiakos Piraeus vs PSV Eindhoven" tvg-logo="https://hxcv.site/images/cache/match-c69b088182ab37cf8789e00d74cdfbdc.png",Olympiakos Piraeus vs PSV Eindhoven [BLV VĂN VẺ - FLV]
+https://flv.cdnvankhanh.com/live/VEVAN.flv?expire=1848307620&sign=5779030852f8cafeab86dae9130be2f5
+#EXTINF:-1 group-title="Atletico Madrid vs Saint Gilloise" tvg-logo="https://hxcv.site/images/cache/match-6bdd4de0e16be4c7b69a700595261fbd.png",Atletico Madrid vs Saint Gilloise [BLV VĂN CHUN - HLS]
+https://hls.cdnvankhanh.com/live/VANCHUN/index.m3u8?expire=1898518320&sign=e855afc2f47c2589486b995f1194c0fc
+#EXTINF:-1 group-title="Atletico Madrid vs Saint Gilloise" tvg-logo="https://hxcv.site/images/cache/match-6bdd4de0e16be4c7b69a700595261fbd.png",Atletico Madrid vs Saint Gilloise [BLV VĂN CHUN - FLV]
+https://flv.cdnvankhanh.com/live/VANCHUN.flv?expire=1898518320&sign=e855afc2f47c2589486b995f1194c0fc
+#EXTINF:-1 group-title="Atletico Madrid vs Saint Gilloise" tvg-logo="https://hxcv.site/images/cache/match-6bdd4de0e16be4c7b69a700595261fbd.png",Atletico Madrid vs Saint Gilloise [BLV VĂN TÈO - HLS]
 https://hls.cdnvankhanh.com/live/VANTEO/index.m3u8?expire=1892616120&sign=d7b1c78e06fada5c68d59641889d2c55
-#EXTINF:-1 group-title="ZED FC vs NBE SC" tvg-logo="https://hxcv.site/images/cache/match-8318a61c96cd4a9982a61679a2c8f676.png",ZED FC vs NBE SC [BLV VĂN TÈO - FLV]
+#EXTINF:-1 group-title="Atletico Madrid vs Saint Gilloise" tvg-logo="https://hxcv.site/images/cache/match-6bdd4de0e16be4c7b69a700595261fbd.png",Atletico Madrid vs Saint Gilloise [BLV VĂN TÈO - FLV]
 https://flv.cdnvankhanh.com/live/VANTEO.flv?expire=1892616120&sign=d7b1c78e06fada5c68d59641889d2c55
-#EXTINF:-1 group-title="El Mokawloon El Arab vs Smouha SC" tvg-logo="https://hxcv.site/images/cache/match-8d7feac29e955d93f93927726fe134c1.png",El Mokawloon El Arab vs Smouha SC [BLV DOCTOR - HLS]
+#EXTINF:-1 group-title="Liverpool vs Real Madrid" tvg-logo="https://hxcv.site/images/cache/match-af77b4df1df9750979fb02ce81fd1dd8.png",Liverpool vs Real Madrid [BLV VĂN VỸ - HLS]
+https://hls.cdnvankhanh.com/live/VANVY/index.m3u8?expire=1891070400&sign=642fee455822e2859b2b9f8dc5ed00d9
+#EXTINF:-1 group-title="Liverpool vs Real Madrid" tvg-logo="https://hxcv.site/images/cache/match-af77b4df1df9750979fb02ce81fd1dd8.png",Liverpool vs Real Madrid [BLV VĂN VỸ - FLV]
+https://flv.cdnvankhanh.com/live/VANVY.flv?expire=1891070400&sign=642fee455822e2859b2b9f8dc5ed00d9
+#EXTINF:-1 group-title="Liverpool vs Real Madrid" tvg-logo="https://hxcv.site/images/cache/match-af77b4df1df9750979fb02ce81fd1dd8.png",Liverpool vs Real Madrid [BLV VĂN LONG - HLS]
+https://hls.cdnvankhanh.com/live/VANLONG/index.m3u8?expire=1891070400&sign=8b0432bc178a10760ef797d47c1aabf7
+#EXTINF:-1 group-title="Liverpool vs Real Madrid" tvg-logo="https://hxcv.site/images/cache/match-af77b4df1df9750979fb02ce81fd1dd8.png",Liverpool vs Real Madrid [BLV VĂN LONG - FLV]
+https://flv.cdnvankhanh.com/live/VANLONG.flv?expire=1891070400&sign=8b0432bc178a10760ef797d47c1aabf7
+#EXTINF:-1 group-title="Liverpool vs Real Madrid" tvg-logo="https://hxcv.site/images/cache/match-af77b4df1df9750979fb02ce81fd1dd8.png",Liverpool vs Real Madrid [BLV VĂN MINH - HLS]
+https://hls.cdnvankhanh.com/live/VANMINH/index.m3u8?expire=1891172040&sign=f6acb0ca35d53b8fc8f43ca1c11efb5e
+#EXTINF:-1 group-title="Liverpool vs Real Madrid" tvg-logo="https://hxcv.site/images/cache/match-af77b4df1df9750979fb02ce81fd1dd8.png",Liverpool vs Real Madrid [BLV VĂN MINH - FLV]
+https://flv.cdnvankhanh.com/live/VANMINH.flv?expire=1891172040&sign=f6acb0ca35d53b8fc8f43ca1c11efb5e
+#EXTINF:-1 group-title="Juventus vs Sporting CP" tvg-logo="https://hxcv.site/images/cache/match-1dba49654823ce02bada84aec2178350.png",Juventus vs Sporting CP [BLV VĂN GÔN - HLS]
+https://hls.cdnvankhanh.com/live/VANGON/index.m3u8?expire=1891583400&sign=db46845cd1edc815d5bba4a6538fd9ce
+#EXTINF:-1 group-title="Juventus vs Sporting CP" tvg-logo="https://hxcv.site/images/cache/match-1dba49654823ce02bada84aec2178350.png",Juventus vs Sporting CP [BLV VĂN GÔN - FLV]
+https://flv.cdnvankhanh.com/live/VANGON.flv?expire=1891583400&sign=db46845cd1edc815d5bba4a6538fd9ce
+#EXTINF:-1 group-title="Juventus vs Sporting CP" tvg-logo="https://hxcv.site/images/cache/match-1dba49654823ce02bada84aec2178350.png",Juventus vs Sporting CP [BLV VĂN CÒ - HLS]
+https://hls.cdnvankhanh.com/live/VANCO/index.m3u8?expire=1826356200&sign=1cb184635e81263192025d4eedf6dec8
+#EXTINF:-1 group-title="Juventus vs Sporting CP" tvg-logo="https://hxcv.site/images/cache/match-1dba49654823ce02bada84aec2178350.png",Juventus vs Sporting CP [BLV VĂN CÒ - FLV]
+https://flv.cdnvankhanh.com/live/VANCO.flv?expire=1826356200&sign=1cb184635e81263192025d4eedf6dec8
+#EXTINF:-1 group-title="Bodo Glimt vs Monaco" tvg-logo="https://hxcv.site/images/cache/match-ed914280391bdeb9865c09ab6b6ab677.png",Bodo Glimt vs Monaco [BLV VĂN TÀI - HLS]
+https://hls.cdnvankhanh.com/live/VANTAI/index.m3u8?expire=1860501480&sign=48479b66b503225db4b2785147e6c4d1
+#EXTINF:-1 group-title="Bodo Glimt vs Monaco" tvg-logo="https://hxcv.site/images/cache/match-ed914280391bdeb9865c09ab6b6ab677.png",Bodo Glimt vs Monaco [BLV VĂN TÀI - FLV]
+https://flv.cdnvankhanh.com/live/VANTAI.flv?expire=1860501480&sign=48479b66b503225db4b2785147e6c4d1
+#EXTINF:-1 group-title="Paris Saint Germain (PSG) vs Bayern Munchen" tvg-logo="https://hxcv.site/images/cache/match-16dc20a823b62e330f65b181cd3c6060.png",Paris Saint Germain (PSG) vs Bayern Munchen [BLV DOCTOR - HLS]
 https://hls.cdnvankhanh.com/live/DOCTOR/index.m3u8?expire=1890806880&sign=122b6adf5f25b6a125910438f775abb8
-#EXTINF:-1 group-title="El Mokawloon El Arab vs Smouha SC" tvg-logo="https://hxcv.site/images/cache/match-8d7feac29e955d93f93927726fe134c1.png",El Mokawloon El Arab vs Smouha SC [BLV DOCTOR - FLV]
+#EXTINF:-1 group-title="Paris Saint Germain (PSG) vs Bayern Munchen" tvg-logo="https://hxcv.site/images/cache/match-16dc20a823b62e330f65b181cd3c6060.png",Paris Saint Germain (PSG) vs Bayern Munchen [BLV DOCTOR - FLV]
 https://flv.cdnvankhanh.com/live/DOCTOR.flv?expire=1890806880&sign=122b6adf5f25b6a125910438f775abb8C
+#EXTINF:-1 group-title="Paris Saint Germain (PSG) vs Bayern Munchen" tvg-logo="https://hxcv.site/images/cache/match-16dc20a823b62e330f65b181cd3c6060.png",Paris Saint Germain (PSG) vs Bayern Munchen [BLV VĂN VỞ - HLS]
+https://hls.cdnvankhanh.com/live/VANVO/index.m3u8?expire=1826356200&sign=f92cd6005b35a94f2c93f28b3ffac506
+#EXTINF:-1 group-title="Paris Saint Germain (PSG) vs Bayern Munchen" tvg-logo="https://hxcv.site/images/cache/match-16dc20a823b62e330f65b181cd3c6060.png",Paris Saint Germain (PSG) vs Bayern Munchen [BLV VĂN VỞ - FLV]
+https://flv.cdnvankhanh.com/live/VANVO.flv?expire=1826356200&sign=f92cd6005b35a94f2c93f28b3ffac506
