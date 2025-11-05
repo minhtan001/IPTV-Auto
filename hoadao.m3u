@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/al-khaldiya-vs-fk-andijon-2343750?mode=ndsd
-#EXTINF:-1 group-title="Al Khaldiya vs FK Andijon" referer="https://hoadao.tv/al-khaldiya-vs-fk-andijon-2343750?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-95bc7662eca579d78235645d259908af.png",Al Khaldiya vs FK Andijon [Nhà đài - SD (ND)]
-https://live.alilicloud.com/live/f956987425a00e2ae5dda3ba5bf7dc77/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/pafos-fc-vs-villarreal-cf-2343764?mode=sd
 #EXTINF:-1 group-title="Pafos FC vs Villarreal CF" referer="https://hoadao.tv/pafos-fc-vs-villarreal-cf-2343764?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-6f8e76c1d0c74bf0660805caaf8824e3.png",Pafos FC vs Villarreal CF [BLV MÈO BÉO - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
@@ -14,6 +11,9 @@ https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/pafos-fc-vs-villarreal-cf-2343764?mode=flv2
 #EXTINF:-1 group-title="Pafos FC vs Villarreal CF" referer="https://hoadao.tv/pafos-fc-vs-villarreal-cf-2343764?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-6f8e76c1d0c74bf0660805caaf8824e3.png",Pafos FC vs Villarreal CF [BLV MÈO BÉO - FLV 2]
 https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/pafos-fc-vs-villarreal-cf-2343764?mode=ndsd
+#EXTINF:-1 group-title="Pafos FC vs Villarreal CF" referer="https://hoadao.tv/pafos-fc-vs-villarreal-cf-2343764?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-6f8e76c1d0c74bf0660805caaf8824e3.png",Pafos FC vs Villarreal CF [BLV MÈO BÉO - SD (ND)]
+https://live.alilicloud.com/live/ade63cdc32b78740a3b0edf8b69fbb6a/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/qarabag-vs-chelsea-2343765?mode=sd
 #EXTINF:-1 group-title="Qarabag vs Chelsea" referer="https://hoadao.tv/qarabag-vs-chelsea-2343765?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-390156e32ec372e0b757a374391f6ff5.png",Qarabag vs Chelsea [BLV CỤ RÙA - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
@@ -26,6 +26,51 @@ https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/qarabag-vs-chelsea-2343765?mode=flv2
 #EXTINF:-1 group-title="Qarabag vs Chelsea" referer="https://hoadao.tv/qarabag-vs-chelsea-2343765?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-390156e32ec372e0b757a374391f6ff5.png",Qarabag vs Chelsea [BLV CỤ RÙA - FLV 2]
 https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/qarabag-vs-chelsea-2343765?mode=ndsd
+#EXTINF:-1 group-title="Qarabag vs Chelsea" referer="https://hoadao.tv/qarabag-vs-chelsea-2343765?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-390156e32ec372e0b757a374391f6ff5.png",Qarabag vs Chelsea [BLV CỤ RÙA - SD (ND)]
+https://live.alilicloud.com/live/2572f2468b783de7ffd5def06ae65ad9/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/zenit-st-petersburg-vs-dynamo-moscow-2343759?mode=ndsd
 #EXTINF:-1 group-title="Zenit St. Petersburg vs Dynamo Moscow" referer="https://hoadao.tv/zenit-st-petersburg-vs-dynamo-moscow-2343759?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-f0da5d2671d6c644f354189b9285909b.png",Zenit St. Petersburg vs Dynamo Moscow [No BLV - SD (ND)]
 https://live.alilicloud.com/live/ce91263962e9e867e58b96b2ef098094/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/pafos-fc-vs-villarreal-cf-2343764?mode=sd
+#EXTINF:-1 group-title="Pafos FC vs Villarreal CF" referer="https://hoadao.tv/pafos-fc-vs-villarreal-cf-2343764?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-6f8e76c1d0c74bf0660805caaf8824e3.png",Pafos FC vs Villarreal CF [No BLV - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/pafos-fc-vs-villarreal-cf-2343764?mode=hd
+#EXTINF:-1 group-title="Pafos FC vs Villarreal CF" referer="https://hoadao.tv/pafos-fc-vs-villarreal-cf-2343764?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-6f8e76c1d0c74bf0660805caaf8824e3.png",Pafos FC vs Villarreal CF [No BLV - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/pafos-fc-vs-villarreal-cf-2343764?mode=flv
+#EXTINF:-1 group-title="Pafos FC vs Villarreal CF" referer="https://hoadao.tv/pafos-fc-vs-villarreal-cf-2343764?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-6f8e76c1d0c74bf0660805caaf8824e3.png",Pafos FC vs Villarreal CF [No BLV - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/pafos-fc-vs-villarreal-cf-2343764?mode=flv2
+#EXTINF:-1 group-title="Pafos FC vs Villarreal CF" referer="https://hoadao.tv/pafos-fc-vs-villarreal-cf-2343764?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-6f8e76c1d0c74bf0660805caaf8824e3.png",Pafos FC vs Villarreal CF [No BLV - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/pafos-fc-vs-villarreal-cf-2343764?mode=ndsd
+#EXTINF:-1 group-title="Pafos FC vs Villarreal CF" referer="https://hoadao.tv/pafos-fc-vs-villarreal-cf-2343764?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-6f8e76c1d0c74bf0660805caaf8824e3.png",Pafos FC vs Villarreal CF [No BLV - SD (ND)]
+https://live.alilicloud.com/live/ade63cdc32b78740a3b0edf8b69fbb6a/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/qarabag-vs-chelsea-2343765?mode=sd
+#EXTINF:-1 group-title="Qarabag vs Chelsea" referer="https://hoadao.tv/qarabag-vs-chelsea-2343765?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-390156e32ec372e0b757a374391f6ff5.png",Qarabag vs Chelsea [No BLV - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/qarabag-vs-chelsea-2343765?mode=hd
+#EXTINF:-1 group-title="Qarabag vs Chelsea" referer="https://hoadao.tv/qarabag-vs-chelsea-2343765?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-390156e32ec372e0b757a374391f6ff5.png",Qarabag vs Chelsea [No BLV - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/qarabag-vs-chelsea-2343765?mode=flv
+#EXTINF:-1 group-title="Qarabag vs Chelsea" referer="https://hoadao.tv/qarabag-vs-chelsea-2343765?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-390156e32ec372e0b757a374391f6ff5.png",Qarabag vs Chelsea [No BLV - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/qarabag-vs-chelsea-2343765?mode=flv2
+#EXTINF:-1 group-title="Qarabag vs Chelsea" referer="https://hoadao.tv/qarabag-vs-chelsea-2343765?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-390156e32ec372e0b757a374391f6ff5.png",Qarabag vs Chelsea [No BLV - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/qarabag-vs-chelsea-2343765?mode=ndsd
+#EXTINF:-1 group-title="Qarabag vs Chelsea" referer="https://hoadao.tv/qarabag-vs-chelsea-2343765?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-390156e32ec372e0b757a374391f6ff5.png",Qarabag vs Chelsea [No BLV - SD (ND)]
+https://live.alilicloud.com/live/2572f2468b783de7ffd5def06ae65ad9/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/eintracht-frankfurt-women-vs-koln-women-2343437?mode=ndsd
+#EXTINF:-1 group-title="Eintracht Frankfurt Women vs Koln Women" referer="https://hoadao.tv/eintracht-frankfurt-women-vs-koln-women-2343437?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-a2208c37652450acc7d67f4e7ecd628d.png",Eintracht Frankfurt Women vs Koln Women [No BLV - SD (ND)]
+https://live.alilicloud.com/live/2b63853006a73e28d794c7bf016f2a12/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/bohemians-1905-vs-mlada-boleslav-2347886?mode=ndsd
+#EXTINF:-1 group-title="Bohemians 1905 vs Mlada Boleslav" referer="https://hoadao.tv/bohemians-1905-vs-mlada-boleslav-2347886?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-f6417c6a16628cfd6d4213dcd41d8fa3.png",Bohemians 1905 vs Mlada Boleslav [No BLV - SD (ND)]
+https://live.alilicloud.com/live/17033aed2dd6410f56c7a08d1b7ba21b/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/al-nassr-fc-vs-fc-goa-2343776?mode=ndsd
+#EXTINF:-1 group-title="Al Nassr FC vs FC Goa" referer="https://hoadao.tv/al-nassr-fc-vs-fc-goa-2343776?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-b93b9f7b9e16a6c8005db9ec33f7ebac.png",Al Nassr FC vs FC Goa [No BLV - SD (ND)]
+https://live.alilicloud.com/live/be7ef702a960673ea3a54518741c58c5/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/al-wehdat-vs-esteghlal-tehran-2343777?mode=ndsd
+#EXTINF:-1 group-title="Al Wehdat vs Esteghlal Tehran" referer="https://hoadao.tv/al-wehdat-vs-esteghlal-tehran-2343777?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-23247f725fb73f1c15c17400402a0ba4.png",Al Wehdat vs Esteghlal Tehran [No BLV - SD (ND)]
+https://live.alilicloud.com/live/33b99c73c74b0eaf9f70380b6fc2120f/playlist.m3u8
