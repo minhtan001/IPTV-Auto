@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="PanamaU17 vs Ireland U17" tvg-logo="https://hxcv.site/images/cache/match-4da17a55f09258f762a0d38360231749.png",PanamaU17 vs Ireland U17 [BLV TIỂU LINH - HLS]
-https://hls.cdnvankhanh.com/live/TIEULINH/index.m3u8?expire=1891779900&sign=5353000df59fd7da4b1d1f4a66da8495
-#EXTINF:-1 group-title="PanamaU17 vs Ireland U17" tvg-logo="https://hxcv.site/images/cache/match-4da17a55f09258f762a0d38360231749.png",PanamaU17 vs Ireland U17 [BLV TIỂU LINH - FLV]
-https://flv.cdnvankhanh.com/live/TIEULINH.flv?expire=1891779900&sign=5353000df59fd7da4b1d1f4a66da8495
-#EXTINF:-1 group-title="Tajikistan U17 vs Czech Republic U17" tvg-logo="https://hxcv.site/images/cache/match-06b8247db390fc12ce33e8163b3c0782.png",Tajikistan U17 vs Czech Republic U17 [VĂN QUÁ - HLS]
-https://hls.cdnvankhanh.com/live/VANQUA/index.m3u8?expire=1848232560&sign=1dde72065670bd44db0f1ee0f575303c
-#EXTINF:-1 group-title="Tajikistan U17 vs Czech Republic U17" tvg-logo="https://hxcv.site/images/cache/match-06b8247db390fc12ce33e8163b3c0782.png",Tajikistan U17 vs Czech Republic U17 [VĂN QUÁ - FLV]
-https://flv.cdnvankhanh.com/live/VANQUA.flv?expire=1848232560&sign=1dde72065670bd44db0f1ee0f575303c
 #EXTINF:-1 group-title="Paraguay U17 vs Uzbekistan U17" tvg-logo="https://hxcv.site/images/cache/match-051a0a0c720fef55ebbe06f5032dcfd0.png",Paraguay U17 vs Uzbekistan U17 [BLV VĂN CHƯƠNG - HLS]
 https://hls.cdnvankhanh.com/live/VANCHUONG/index.m3u8?expire=1890806880&sign=d5e33b097684f7c5682301b78b825aaf
 #EXTINF:-1 group-title="Paraguay U17 vs Uzbekistan U17" tvg-logo="https://hxcv.site/images/cache/match-051a0a0c720fef55ebbe06f5032dcfd0.png",Paraguay U17 vs Uzbekistan U17 [BLV VĂN CHƯƠNG - FLV]
@@ -39,3 +31,15 @@ https://flv.cdnvankhanh.com/live/VANTAI.flv?expire=1860501480&sign=48479b66b5032
 https://hls.cdnvankhanh.com/live/VANREN/index.m3u8?expire=1891583400&sign=f4cca58ffdf3217d4ca677039510da17
 #EXTINF:-1 group-title="Ural Sverdlovsk Oblast vs Chelyabinsk" tvg-logo="https://hxcv.site/images/cache/match-6991472775dfdfbaa311154b749e992d.png",Ural Sverdlovsk Oblast vs Chelyabinsk [BLV VĂN REN - FLV]
 https://flv.cdnvankhanh.com/live/VANREN.flv?expire=1891583400&sign=f4cca58ffdf3217d4ca677039510da17
+#EXTINF:-1 group-title="Mali U17 vs New Zealand U17" tvg-logo="https://hxcv.site/images/cache/match-aa63c209791e109136b60b5ae653943e.png",Mali U17 vs New Zealand U17 [BLV VĂN TÍCH - HLS]
+https://hls.cdnvankhanh.com/live/VANTICH/index.m3u8?expire=1892707800&sign=150a2229b67134ebc8c4d81573bca419
+#EXTINF:-1 group-title="Mali U17 vs New Zealand U17" tvg-logo="https://hxcv.site/images/cache/match-aa63c209791e109136b60b5ae653943e.png",Mali U17 vs New Zealand U17 [BLV VĂN TÍCH - FLV]
+https://flv.cdnvankhanh.com/live/VANTICH.flv?expire=1892707800&sign=150a2229b67134ebc8c4d81573bca419
+#EXTINF:-1 group-title="Newcastle U19 vs Bilbao U19" tvg-logo="https://hxcv.site/images/cache/match-4ac41180a4f7ed8ec13db5592dfa8130.png",Newcastle U19 vs Bilbao U19 [BLV VĂN BIA - HLS]
+https://hls.cdnvankhanh.com/live/VANBIA/index.m3u8?expire=1892730180&sign=ca1be0c0d408ba9ac0bf97ec02f5049e
+#EXTINF:-1 group-title="Newcastle U19 vs Bilbao U19" tvg-logo="https://hxcv.site/images/cache/match-4ac41180a4f7ed8ec13db5592dfa8130.png",Newcastle U19 vs Bilbao U19 [BLV VĂN BIA - FLV]
+https://flv.cdnvankhanh.com/live/VANBIA.flv?expire=1892730180&sign=ca1be0c0d408ba9ac0bf97ec02f5049e
+#EXTINF:-1 group-title="Manchester City U19 vs Borussia Dortmund U19" tvg-logo="https://hxcv.site/images/cache/match-cf63f971a79589716620c003f2b5ea37.png",Manchester City U19 vs Borussia Dortmund U19 [BLV VĂN VỸ - HLS]
+https://hls.cdnvankhanh.com/live/VANVY/index.m3u8?expire=1891070400&sign=642fee455822e2859b2b9f8dc5ed00d9
+#EXTINF:-1 group-title="Manchester City U19 vs Borussia Dortmund U19" tvg-logo="https://hxcv.site/images/cache/match-cf63f971a79589716620c003f2b5ea37.png",Manchester City U19 vs Borussia Dortmund U19 [BLV VĂN VỸ - FLV]
+https://flv.cdnvankhanh.com/live/VANVY.flv?expire=1891070400&sign=642fee455822e2859b2b9f8dc5ed00d9
