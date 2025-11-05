@@ -19,10 +19,14 @@ https://flv.cdnvankhanh.com/live/VANTICH.flv?expire=1892707800&sign=150a2229b671
 https://hls.cdnvankhanh.com/live/VANGON/index.m3u8?expire=1891583400&sign=db46845cd1edc815d5bba4a6538fd9ce
 #EXTINF:-1 group-title="Zenit St. Petersburg vs Dynamo Moscow" tvg-logo="https://hxcv.site/images/cache/match-6be1461d2a47d2af09fde88e26944da3.png",Zenit St. Petersburg vs Dynamo Moscow [BLV VĂN GÔN - FLV]
 https://flv.cdnvankhanh.com/live/VANGON.flv?expire=1891583400&sign=db46845cd1edc815d5bba4a6538fd9ce
-#EXTINF:-1 group-title="Qarabag vs Chelsea" tvg-logo="https://hxcv.site/images/cache/match-ea729c38b96ac043bb65e88a8fa5b360.png",Qarabag vs Chelsea [BLV VĂN BIA - HLS]
-https://hls.cdnvankhanh.com/live/VANBIA/index.m3u8?expire=1892730180&sign=ca1be0c0d408ba9ac0bf97ec02f5049e
-#EXTINF:-1 group-title="Qarabag vs Chelsea" tvg-logo="https://hxcv.site/images/cache/match-ea729c38b96ac043bb65e88a8fa5b360.png",Qarabag vs Chelsea [BLV VĂN BIA - FLV]
-https://flv.cdnvankhanh.com/live/VANBIA.flv?expire=1892730180&sign=ca1be0c0d408ba9ac0bf97ec02f5049e
+#EXTINF:-1 group-title="AEP Paphos vs Villarreal" tvg-logo="https://hxcv.site/images/cache/match-75414e63f0edce8989a9237193420d20.png",AEP Paphos vs Villarreal [BLV VĂN VỞ - HLS]
+https://hls.cdnvankhanh.com/live/VANVO/index.m3u8?expire=1826356200&sign=f92cd6005b35a94f2c93f28b3ffac506
+#EXTINF:-1 group-title="AEP Paphos vs Villarreal" tvg-logo="https://hxcv.site/images/cache/match-75414e63f0edce8989a9237193420d20.png",AEP Paphos vs Villarreal [BLV VĂN VỞ - FLV]
+https://flv.cdnvankhanh.com/live/VANVO.flv?expire=1826356200&sign=f92cd6005b35a94f2c93f28b3ffac506
+#EXTINF:-1 group-title="AEP Paphos vs Villarreal" tvg-logo="https://hxcv.site/images/cache/match-75414e63f0edce8989a9237193420d20.png",AEP Paphos vs Villarreal [BLV VĂN MINH - HLS]
+https://hls.cdnvankhanh.com/live/VANMINH/index.m3u8?expire=1891172040&sign=f6acb0ca35d53b8fc8f43ca1c11efb5e
+#EXTINF:-1 group-title="AEP Paphos vs Villarreal" tvg-logo="https://hxcv.site/images/cache/match-75414e63f0edce8989a9237193420d20.png",AEP Paphos vs Villarreal [BLV VĂN MINH - FLV]
+https://flv.cdnvankhanh.com/live/VANMINH.flv?expire=1891172040&sign=f6acb0ca35d53b8fc8f43ca1c11efb5e
 #EXTINF:-1 group-title="Qarabag vs Chelsea" tvg-logo="https://hxcv.site/images/cache/match-ea729c38b96ac043bb65e88a8fa5b360.png",Qarabag vs Chelsea [BLV VĂN CHUN - HLS]
 https://hls.cdnvankhanh.com/live/VANCHUN/index.m3u8?expire=1898518320&sign=e855afc2f47c2589486b995f1194c0fc
 #EXTINF:-1 group-title="Qarabag vs Chelsea" tvg-logo="https://hxcv.site/images/cache/match-ea729c38b96ac043bb65e88a8fa5b360.png",Qarabag vs Chelsea [BLV VĂN CHUN - FLV]
@@ -31,3 +35,15 @@ https://flv.cdnvankhanh.com/live/VANCHUN.flv?expire=1898518320&sign=e855afc2f47c
 https://hls.cdnvankhanh.com/live/VANLONG/index.m3u8?expire=1891070400&sign=8b0432bc178a10760ef797d47c1aabf7
 #EXTINF:-1 group-title="Qarabag vs Chelsea" tvg-logo="https://hxcv.site/images/cache/match-ea729c38b96ac043bb65e88a8fa5b360.png",Qarabag vs Chelsea [BLV VĂN LONG - FLV]
 https://flv.cdnvankhanh.com/live/VANLONG.flv?expire=1891070400&sign=8b0432bc178a10760ef797d47c1aabf7
+#EXTINF:-1 group-title="Qarabag vs Chelsea" tvg-logo="https://hxcv.site/images/cache/match-ea729c38b96ac043bb65e88a8fa5b360.png",Qarabag vs Chelsea [BLV VĂN BIA - HLS]
+https://hls.cdnvankhanh.com/live/VANBIA/index.m3u8?expire=1892730180&sign=ca1be0c0d408ba9ac0bf97ec02f5049e
+#EXTINF:-1 group-title="Qarabag vs Chelsea" tvg-logo="https://hxcv.site/images/cache/match-ea729c38b96ac043bb65e88a8fa5b360.png",Qarabag vs Chelsea [BLV VĂN BIA - FLV]
+https://flv.cdnvankhanh.com/live/VANBIA.flv?expire=1892730180&sign=ca1be0c0d408ba9ac0bf97ec02f5049e
+#EXTINF:-1 group-title="SG Essen-Schonebeck (W) vs Werder Bremen (W)" tvg-logo="https://hxcv.site/images/cache/match-56276f5eecad478ee5eda3db016fb524.png",SG Essen-Schonebeck (W) vs Werder Bremen (W) [BLV DOCTOR - HLS]
+https://hls.cdnvankhanh.com/live/DOCTOR/index.m3u8?expire=1890806880&sign=122b6adf5f25b6a125910438f775abb8
+#EXTINF:-1 group-title="SG Essen-Schonebeck (W) vs Werder Bremen (W)" tvg-logo="https://hxcv.site/images/cache/match-56276f5eecad478ee5eda3db016fb524.png",SG Essen-Schonebeck (W) vs Werder Bremen (W) [BLV DOCTOR - FLV]
+https://flv.cdnvankhanh.com/live/DOCTOR.flv?expire=1890806880&sign=122b6adf5f25b6a125910438f775abb8C
+#EXTINF:-1 group-title="Bayer Leverkusen (W) vs Hamburger SV (W)" tvg-logo="https://hxcv.site/images/cache/match-3a6f6332f1cd66b737bb8966e5c05d04.png",Bayer Leverkusen (W) vs Hamburger SV (W) [VĂN QUÁ - HLS]
+https://hls.cdnvankhanh.com/live/VANQUA/index.m3u8?expire=1848232560&sign=1dde72065670bd44db0f1ee0f575303c
+#EXTINF:-1 group-title="Bayer Leverkusen (W) vs Hamburger SV (W)" tvg-logo="https://hxcv.site/images/cache/match-3a6f6332f1cd66b737bb8966e5c05d04.png",Bayer Leverkusen (W) vs Hamburger SV (W) [VĂN QUÁ - FLV]
+https://flv.cdnvankhanh.com/live/VANQUA.flv?expire=1848232560&sign=1dde72065670bd44db0f1ee0f575303c
