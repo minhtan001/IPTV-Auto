@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/spartak-moscow-vs-lokomotiv-moscow-2344104?mode=sd
-#EXTINF:-1 group-title="Spartak Moscow vs Lokomotiv Moscow" referer="https://hoadao.tv/spartak-moscow-vs-lokomotiv-moscow-2344104?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-7feb578b29b22f7a391b4d4c94f8ad17.png",Spartak Moscow vs Lokomotiv Moscow [BLV CỤ RÙA - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/spartak-moscow-vs-lokomotiv-moscow-2344104?mode=hd
-#EXTINF:-1 group-title="Spartak Moscow vs Lokomotiv Moscow" referer="https://hoadao.tv/spartak-moscow-vs-lokomotiv-moscow-2344104?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-7feb578b29b22f7a391b4d4c94f8ad17.png",Spartak Moscow vs Lokomotiv Moscow [BLV CỤ RÙA - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/spartak-moscow-vs-lokomotiv-moscow-2344104?mode=flv
-#EXTINF:-1 group-title="Spartak Moscow vs Lokomotiv Moscow" referer="https://hoadao.tv/spartak-moscow-vs-lokomotiv-moscow-2344104?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-7feb578b29b22f7a391b4d4c94f8ad17.png",Spartak Moscow vs Lokomotiv Moscow [BLV CỤ RÙA - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/spartak-moscow-vs-lokomotiv-moscow-2344104?mode=flv2
-#EXTINF:-1 group-title="Spartak Moscow vs Lokomotiv Moscow" referer="https://hoadao.tv/spartak-moscow-vs-lokomotiv-moscow-2344104?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-7feb578b29b22f7a391b4d4c94f8ad17.png",Spartak Moscow vs Lokomotiv Moscow [BLV CỤ RÙA - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/spartak-moscow-vs-lokomotiv-moscow-2344104?mode=ndsd
-#EXTINF:-1 group-title="Spartak Moscow vs Lokomotiv Moscow" referer="https://hoadao.tv/spartak-moscow-vs-lokomotiv-moscow-2344104?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-7feb578b29b22f7a391b4d4c94f8ad17.png",Spartak Moscow vs Lokomotiv Moscow [BLV CỤ RÙA - SD (ND)]
-https://live.alilicloud.com/live/a0ba1574b3488bedc6a8a6e8bf761be1/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/1-fsv-mainz-05-vs-fiorentina-2344112?mode=sd
 #EXTINF:-1 group-title="1. FSV Mainz 05 vs Fiorentina" referer="https://hoadao.tv/1-fsv-mainz-05-vs-fiorentina-2344112?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-78ab4032aa5360b8edd4e395874e2aef.png",1. FSV Mainz 05 vs Fiorentina [BLV MÈO BÉO - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
@@ -26,6 +11,9 @@ https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/1-fsv-mainz-05-vs-fiorentina-2344112?mode=flv2
 #EXTINF:-1 group-title="1. FSV Mainz 05 vs Fiorentina" referer="https://hoadao.tv/1-fsv-mainz-05-vs-fiorentina-2344112?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-78ab4032aa5360b8edd4e395874e2aef.png",1. FSV Mainz 05 vs Fiorentina [BLV MÈO BÉO - FLV 2]
 https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/1-fsv-mainz-05-vs-fiorentina-2344112?mode=ndsd
+#EXTINF:-1 group-title="1. FSV Mainz 05 vs Fiorentina" referer="https://hoadao.tv/1-fsv-mainz-05-vs-fiorentina-2344112?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-78ab4032aa5360b8edd4e395874e2aef.png",1. FSV Mainz 05 vs Fiorentina [BLV MÈO BÉO - SD (ND)]
+https://live.alilicloud.com/live/233a3384fe923159685ba3b3a687a20b/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/sturm-graz-vs-nottingham-forest-2344118?mode=sd
 #EXTINF:-1 group-title="Sturm Graz vs Nottingham Forest" referer="https://hoadao.tv/sturm-graz-vs-nottingham-forest-2344118?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-1410d5dfd8c50fe9a9396bce553037a1.png",Sturm Graz vs Nottingham Forest [BLV CHIM NHỎ - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
@@ -41,27 +29,6 @@ https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/sturm-graz-vs-nottingham-forest-2344118?mode=ndsd
 #EXTINF:-1 group-title="Sturm Graz vs Nottingham Forest" referer="https://hoadao.tv/sturm-graz-vs-nottingham-forest-2344118?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-1410d5dfd8c50fe9a9396bce553037a1.png",Sturm Graz vs Nottingham Forest [BLV CHIM NHỎ - SD (ND)]
 https://live.alilicloud.com/live/c3353ebbb6edd650061d6b653ff8f09e/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/1-fsv-mainz-05-vs-fiorentina-2344112?mode=sd
-#EXTINF:-1 group-title="1. FSV Mainz 05 vs Fiorentina" referer="https://hoadao.tv/1-fsv-mainz-05-vs-fiorentina-2344112?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-78ab4032aa5360b8edd4e395874e2aef.png",1. FSV Mainz 05 vs Fiorentina [No BLV - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/1-fsv-mainz-05-vs-fiorentina-2344112?mode=hd
-#EXTINF:-1 group-title="1. FSV Mainz 05 vs Fiorentina" referer="https://hoadao.tv/1-fsv-mainz-05-vs-fiorentina-2344112?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-78ab4032aa5360b8edd4e395874e2aef.png",1. FSV Mainz 05 vs Fiorentina [No BLV - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/1-fsv-mainz-05-vs-fiorentina-2344112?mode=flv
-#EXTINF:-1 group-title="1. FSV Mainz 05 vs Fiorentina" referer="https://hoadao.tv/1-fsv-mainz-05-vs-fiorentina-2344112?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-78ab4032aa5360b8edd4e395874e2aef.png",1. FSV Mainz 05 vs Fiorentina [No BLV - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/1-fsv-mainz-05-vs-fiorentina-2344112?mode=flv2
-#EXTINF:-1 group-title="1. FSV Mainz 05 vs Fiorentina" referer="https://hoadao.tv/1-fsv-mainz-05-vs-fiorentina-2344112?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-78ab4032aa5360b8edd4e395874e2aef.png",1. FSV Mainz 05 vs Fiorentina [No BLV - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/dinamo-zagreb-vs-rc-celta-2344113?mode=ndsd
-#EXTINF:-1 group-title="Dinamo Zagreb vs RC Celta" referer="https://hoadao.tv/dinamo-zagreb-vs-rc-celta-2344113?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-bebfebc8a61426a7002193281518045d.png",Dinamo Zagreb vs RC Celta [No BLV - SD (ND)]
-https://live.alilicloud.com/live/4c2f24bc4e7c9e4baa13a57a42893016/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/sparta-praha-vs-rakow-czestochowa-2344114?mode=ndsd
-#EXTINF:-1 group-title="Sparta Praha vs Rakow Czestochowa" referer="https://hoadao.tv/sparta-praha-vs-rakow-czestochowa-2344114?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-f0044f31b309d2277daa65ffe1292b2f.png",Sparta Praha vs Rakow Czestochowa [No BLV - SD (ND)]
-https://live.alilicloud.com/live/715ae03ac808a55416604c0672440f79/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/aek-larnaca-vs-aberdeen-2344115?mode=ndsd
-#EXTINF:-1 group-title="AEK Larnaca vs Aberdeen" referer="https://hoadao.tv/aek-larnaca-vs-aberdeen-2344115?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-5c1ec14a522cc3951d204902e488f291.png",AEK Larnaca vs Aberdeen [No BLV - SD (ND)]
-https://live.alilicloud.com/live/4d0edc1782c2fc7e4f6bcb997c68ba79/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/midtjylland-vs-celtic-fc-2344116?mode=ndsd
 #EXTINF:-1 group-title="Midtjylland vs Celtic FC" referer="https://hoadao.tv/midtjylland-vs-celtic-fc-2344116?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-38b38d834648446c4ae9da11f7e2b2f6.png",Midtjylland vs Celtic FC [No BLV - SD (ND)]
 https://live.alilicloud.com/live/b1ca5b48e97e40add93ab23a2a5f5f87/playlist.m3u8
