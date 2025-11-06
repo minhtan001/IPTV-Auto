@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/argentina-u17-vs-tunisia-u17-2344103?mode=sd
-#EXTINF:-1 group-title="Argentina U17 vs Tunisia U17" referer="https://hoadao.tv/argentina-u17-vs-tunisia-u17-2344103?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-86d87d01d44bd7f0aa44f1ca9c5e1f11.png",Argentina U17 vs Tunisia U17 [Thí Sinh - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/argentina-u17-vs-tunisia-u17-2344103?mode=hd
-#EXTINF:-1 group-title="Argentina U17 vs Tunisia U17" referer="https://hoadao.tv/argentina-u17-vs-tunisia-u17-2344103?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-86d87d01d44bd7f0aa44f1ca9c5e1f11.png",Argentina U17 vs Tunisia U17 [Thí Sinh - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/argentina-u17-vs-tunisia-u17-2344103?mode=flv
-#EXTINF:-1 group-title="Argentina U17 vs Tunisia U17" referer="https://hoadao.tv/argentina-u17-vs-tunisia-u17-2344103?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-86d87d01d44bd7f0aa44f1ca9c5e1f11.png",Argentina U17 vs Tunisia U17 [Thí Sinh - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/argentina-u17-vs-tunisia-u17-2344103?mode=flv2
-#EXTINF:-1 group-title="Argentina U17 vs Tunisia U17" referer="https://hoadao.tv/argentina-u17-vs-tunisia-u17-2344103?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-86d87d01d44bd7f0aa44f1ca9c5e1f11.png",Argentina U17 vs Tunisia U17 [Thí Sinh - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/al-hazem-vs-al-khaleej-club-2343859?mode=sd
 #EXTINF:-1 group-title="Al Hazem vs Al Khaleej Club" referer="https://hoadao.tv/al-hazem-vs-al-khaleej-club-2343859?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-686450cbb5c0f6d66cd8fc53da404e0d.png",Al Hazem vs Al Khaleej Club [BLV PHÁO - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
@@ -38,9 +26,9 @@ https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/spartak-moscow-vs-lokomotiv-moscow-2344104?mode=flv2
 #EXTINF:-1 group-title="Spartak Moscow vs Lokomotiv Moscow" referer="https://hoadao.tv/spartak-moscow-vs-lokomotiv-moscow-2344104?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-7feb578b29b22f7a391b4d4c94f8ad17.png",Spartak Moscow vs Lokomotiv Moscow [BLV CỤ RÙA - FLV 2]
 https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/amman-fc-vs-al-ramtha-sc-2344444?mode=ndsd
-#EXTINF:-1 group-title="Amman FC vs Al-Ramtha SC" referer="https://hoadao.tv/amman-fc-vs-al-ramtha-sc-2344444?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-539c54847d4233ee8a275b8b0701b2b5.png",Amman FC vs Al-Ramtha SC [No BLV - SD (ND)]
-https://live.alilicloud.com/live/26dda9891da1e8864bd3cb90e299cb4c/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/united-arab-emirates-u17-vs-croatia-u17-2344101?mode=ndsd
-#EXTINF:-1 group-title="United Arab Emirates U17 vs Croatia U17" referer="https://hoadao.tv/united-arab-emirates-u17-vs-croatia-u17-2344101?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-217b4fa4734ba6f454a1b70cd0ca94f7.png",United Arab Emirates U17 vs Croatia U17 [No BLV - SD (ND)]
-https://live.alilicloud.com/live/412db88512c28b28c5f07a9c67437bab/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/flora-tallinn-ii-vs-fc-nomme-united-2344100?mode=ndsd
+#EXTINF:-1 group-title="Flora Tallinn II vs FC Nomme United" referer="https://hoadao.tv/flora-tallinn-ii-vs-fc-nomme-united-2344100?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-da18979d438610dcdc793d17312e36b5.png",Flora Tallinn II vs FC Nomme United [No BLV - SD (ND)]
+https://live.alilicloud.com/live/9b2d151f3205875b44631e29eda4bca0/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/liscr-fc-vs-watanga-fc-2347980?mode=ndsd
+#EXTINF:-1 group-title="LISCR FC vs Watanga FC" referer="https://hoadao.tv/liscr-fc-vs-watanga-fc-2347980?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-4c64238e56bfbf563ac644373e2e9606.png",LISCR FC vs Watanga FC [No BLV - SD (ND)]
+https://live.alilicloud.com/live/d372f1b370166becdba24a2ebfd9aa31/playlist.m3u8
