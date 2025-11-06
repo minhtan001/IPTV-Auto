@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/bg-pathum-united-vs-kaya-fc-iloilo-2343850?mode=sd
-#EXTINF:-1 group-title="BG Pathum United vs Kaya FC-Iloilo" referer="https://hoadao.tv/bg-pathum-united-vs-kaya-fc-iloilo-2343850?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-2a76ae00f4e2e999b944d3fa94dbff6b.png",BG Pathum United vs Kaya FC-Iloilo [BLV CỤ RÙA - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/bg-pathum-united-vs-kaya-fc-iloilo-2343850?mode=hd
-#EXTINF:-1 group-title="BG Pathum United vs Kaya FC-Iloilo" referer="https://hoadao.tv/bg-pathum-united-vs-kaya-fc-iloilo-2343850?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-2a76ae00f4e2e999b944d3fa94dbff6b.png",BG Pathum United vs Kaya FC-Iloilo [BLV CỤ RÙA - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/bg-pathum-united-vs-kaya-fc-iloilo-2343850?mode=flv
-#EXTINF:-1 group-title="BG Pathum United vs Kaya FC-Iloilo" referer="https://hoadao.tv/bg-pathum-united-vs-kaya-fc-iloilo-2343850?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-2a76ae00f4e2e999b944d3fa94dbff6b.png",BG Pathum United vs Kaya FC-Iloilo [BLV CỤ RÙA - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/bg-pathum-united-vs-kaya-fc-iloilo-2343850?mode=flv2
-#EXTINF:-1 group-title="BG Pathum United vs Kaya FC-Iloilo" referer="https://hoadao.tv/bg-pathum-united-vs-kaya-fc-iloilo-2343850?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-2a76ae00f4e2e999b944d3fa94dbff6b.png",BG Pathum United vs Kaya FC-Iloilo [BLV CỤ RÙA - FLV 2]
-v
-#EXTVLCOPT:http-referrer=https://hoadao.tv/bg-pathum-united-vs-kaya-fc-iloilo-2343850?mode=ndsd
-#EXTINF:-1 group-title="BG Pathum United vs Kaya FC-Iloilo" referer="https://hoadao.tv/bg-pathum-united-vs-kaya-fc-iloilo-2343850?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-2a76ae00f4e2e999b944d3fa94dbff6b.png",BG Pathum United vs Kaya FC-Iloilo [BLV CỤ RÙA - SD (ND)]
-https://live.alilicloud.com/live/8232776ffd3d939c95bc54296b639ada/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/argentina-u17-vs-tunisia-u17-2344103?mode=sd
 #EXTINF:-1 group-title="Argentina U17 vs Tunisia U17" referer="https://hoadao.tv/argentina-u17-vs-tunisia-u17-2344103?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-86d87d01d44bd7f0aa44f1ca9c5e1f11.png",Argentina U17 vs Tunisia U17 [Thí Sinh - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
@@ -29,6 +14,18 @@ https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/argentina-u17-vs-tunisia-u17-2344103?mode=ndsd
 #EXTINF:-1 group-title="Argentina U17 vs Tunisia U17" referer="https://hoadao.tv/argentina-u17-vs-tunisia-u17-2344103?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-86d87d01d44bd7f0aa44f1ca9c5e1f11.png",Argentina U17 vs Tunisia U17 [Thí Sinh - SD (ND)]
 https://live.alilicloud.com/live/2faf4acf136e1dc94705c42356893781/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/al-hazem-vs-al-khaleej-club-2343859?mode=sd
+#EXTINF:-1 group-title="Al Hazem vs Al Khaleej Club" referer="https://hoadao.tv/al-hazem-vs-al-khaleej-club-2343859?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-686450cbb5c0f6d66cd8fc53da404e0d.png",Al Hazem vs Al Khaleej Club [BLV PHÁO - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/al-hazem-vs-al-khaleej-club-2343859?mode=hd
+#EXTINF:-1 group-title="Al Hazem vs Al Khaleej Club" referer="https://hoadao.tv/al-hazem-vs-al-khaleej-club-2343859?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-686450cbb5c0f6d66cd8fc53da404e0d.png",Al Hazem vs Al Khaleej Club [BLV PHÁO - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/al-hazem-vs-al-khaleej-club-2343859?mode=flv
+#EXTINF:-1 group-title="Al Hazem vs Al Khaleej Club" referer="https://hoadao.tv/al-hazem-vs-al-khaleej-club-2343859?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-686450cbb5c0f6d66cd8fc53da404e0d.png",Al Hazem vs Al Khaleej Club [BLV PHÁO - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/al-hazem-vs-al-khaleej-club-2343859?mode=flv2
+#EXTINF:-1 group-title="Al Hazem vs Al Khaleej Club" referer="https://hoadao.tv/al-hazem-vs-al-khaleej-club-2343859?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-686450cbb5c0f6d66cd8fc53da404e0d.png",Al Hazem vs Al Khaleej Club [BLV PHÁO - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/argentina-u17-vs-tunisia-u17-2344103?mode=sd
 #EXTINF:-1 group-title="Argentina U17 vs Tunisia U17" referer="https://hoadao.tv/argentina-u17-vs-tunisia-u17-2344103?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-86d87d01d44bd7f0aa44f1ca9c5e1f11.png",Argentina U17 vs Tunisia U17 [No BLV - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
@@ -50,3 +47,6 @@ https://live.alilicloud.com/live/0a9a24c1eebc3ffd92a79bdeab94baed/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/mumbai-city-fc-vs-kerala-blasters-fc-2343858?mode=ndsd
 #EXTINF:-1 group-title="Mumbai City FC vs Kerala Blasters FC" referer="https://hoadao.tv/mumbai-city-fc-vs-kerala-blasters-fc-2343858?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-544b6a83efb679cc612b1ab02773415c.png",Mumbai City FC vs Kerala Blasters FC [No BLV - SD (ND)]
 https://live.alilicloud.com/live/526cf9563627f24eb2f6338539efdae2/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/st-michel-united-fc-vs-bel-air-fc-2348147?mode=ndsd
+#EXTINF:-1 group-title="St Michel United FC vs Bel Air FC" referer="https://hoadao.tv/st-michel-united-fc-vs-bel-air-fc-2348147?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-9166f4a96e88b763aca50d318a7d4643.png",St Michel United FC vs Bel Air FC [No BLV - SD (ND)]
+https://live.alilicloud.com/live/074f66302e8c6e959634ace39180e787/playlist.m3u8
