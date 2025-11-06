@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Botafogo RJ vs Vasco da Gama" tvg-logo="https://hxcv.site/images/cache/match-35f51beaa39351b0387914fc9418a82d.png",Botafogo RJ vs Vasco da Gama [BLV VĂN KHANG - HLS]
-https://hls.cdnvankhanh.com/live/VANKHANG/index.m3u8?expire=1862206680&sign=7ac84ad876b1ccbad9036fe76373e2c6
-#EXTINF:-1 group-title="Botafogo RJ vs Vasco da Gama" tvg-logo="https://hxcv.site/images/cache/match-35f51beaa39351b0387914fc9418a82d.png",Botafogo RJ vs Vasco da Gama [BLV VĂN KHANG - FLV]
-https://flv.cdnvankhanh.com/live/VANKHANG.flv?expire=1862206680&sign=7ac84ad876b1ccbad9036fe76373e2c6
-#EXTINF:-1 group-title="Gremio (RS) vs Cruzeiro" tvg-logo="https://hxcv.site/images/cache/match-2c545f9f7275381547364a9e15445a26.png",Gremio (RS) vs Cruzeiro [BLV VĂN CHƯƠNG - HLS]
-https://hls.cdnvankhanh.com/live/VANCHUONG/index.m3u8?expire=1890806880&sign=d5e33b097684f7c5682301b78b825aaf
-#EXTINF:-1 group-title="Gremio (RS) vs Cruzeiro" tvg-logo="https://hxcv.site/images/cache/match-2c545f9f7275381547364a9e15445a26.png",Gremio (RS) vs Cruzeiro [BLV VĂN CHƯƠNG - FLV]
-https://flv.cdnvankhanh.com/live/VANCHUONG.flv?expire=1890806880&sign=d5e33b097684f7c5682301b78b825aaf
-#EXTINF:-1 group-title="Atletico Mineiro vs Bahia" tvg-logo="https://hxcv.site/images/cache/match-389d43e4b26cbba2bb18b45d260a38c8.png",Atletico Mineiro vs Bahia [BLV TIỂU LINH - HLS]
-https://hls.cdnvankhanh.com/live/TIEULINH/index.m3u8?expire=1891779900&sign=5353000df59fd7da4b1d1f4a66da8495
-#EXTINF:-1 group-title="Atletico Mineiro vs Bahia" tvg-logo="https://hxcv.site/images/cache/match-389d43e4b26cbba2bb18b45d260a38c8.png",Atletico Mineiro vs Bahia [BLV TIỂU LINH - FLV]
-https://flv.cdnvankhanh.com/live/TIEULINH.flv?expire=1891779900&sign=5353000df59fd7da4b1d1f4a66da8495
 #EXTINF:-1 group-title="Antigua GFC vs Coban Imperial" tvg-logo="https://hxcv.site/images/cache/match-e47e348b5febdcd51b4b88372d81d204.png",Antigua GFC vs Coban Imperial [BLV VĂN MILAN - HLS]
 https://hls.cdnvankhanh.com/live/VANMILAN/index.m3u8?expire=1892616120&sign=a4103cfb6e6a1371923d317a9442db9b
 #EXTINF:-1 group-title="Antigua GFC vs Coban Imperial" tvg-logo="https://hxcv.site/images/cache/match-e47e348b5febdcd51b4b88372d81d204.png",Antigua GFC vs Coban Imperial [BLV VĂN MILAN - FLV]
@@ -19,3 +7,7 @@ https://flv.cdnvankhanh.com/live/VANMILAN.flv?expire=1892616120&sign=a4103cfb6e6
 https://hls.cdnvankhanh.com/live/VANDO/index.m3u8?expire=1892812920&sign=a0a29c944a41e507a7d578db683ea31a
 #EXTINF:-1 group-title="Independiente Rivadavia vs Argentinos Juniors" tvg-logo="https://hxcv.site/images/cache/match-6a100cd38ff66efa82226e42855c172f.png",Independiente Rivadavia vs Argentinos Juniors [BLV VĂN ĐỘ - FLV]
  https://flv.cdnvankhanh.com/live/VANDO.flv?expire=1892812920&sign=a0a29c944a41e507a7d578db683ea31a
+#EXTINF:-1 group-title="Sao Paulo vs Flamengo" tvg-logo="https://hxcv.site/images/cache/match-cae6b543db4d3ed78ce7ffccad133e3e.png",Sao Paulo vs Flamengo [BLV GIÁO SƯ XOAY - HLS]
+https://hls.cdnvankhanh.com/live/GIAOSUXOAY/index.m3u8?expire=1892730180&sign=c561b814d05f14cf153b87d973755453
+#EXTINF:-1 group-title="Sao Paulo vs Flamengo" tvg-logo="https://hxcv.site/images/cache/match-cae6b543db4d3ed78ce7ffccad133e3e.png",Sao Paulo vs Flamengo [BLV GIÁO SƯ XOAY - FLV]
+ https://flv.cdnvankhanh.com/live/GIAOSUXOAY.flv?expire=1892730180&sign=c561b814d05f14cf153b87d973755453  
