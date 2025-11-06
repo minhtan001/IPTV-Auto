@@ -7,6 +7,8 @@ http://live.qphim.xyz/live/kubocast/index.m3u8
 http://live.qphim.xyz/hls_nonkey/ninochannel1/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Nino Channel 2
 http://live.qphim.xyz/hls_nonkey/ninochannel2/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",SGEvents
+https://akaviettel.sgchill.io.vn/v1/stream/twitch/channel/sgevents.smil/playlist_1080p.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sky Sports News
 http://cmc.best-ott.me:80/play/live.php?mac=00:1A:79:B5:F9:D6&stream=588069&extension=ts&play_token=lh97TPSDwG
 #EXTINF:-1 group-title="TruyenHinh_2",Sky Sport F1
@@ -105,12 +107,6 @@ https://s6.kkphimplayer6.com/20250901/2RZvePPZ/3500kb/hls/index.m3u8
 https://s6.kkphimplayer6.com/20250918/48nrktLm/3500kb/hls/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Thám Tử Kiên: Kỳ Án Không Đầu
 https://s6.kkphimplayer6.com/20251010/86AEDncn/3500kb/hls/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 121
-https://live.fptplay53.net/epzch1/thethao121_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 20
-https://live.fptplay53.net/fnxch1/thethao20_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 243
-https://event.fptplay53.net/channel/thethao243-uhd/master_avc.m3u8?sign=1759651633-sign-0-896d7ece47c0f23da9a95f11c5f29167
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
