@@ -1,13 +1,22 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/epitsentr-u21-vs-obolon-kiev-u21-2344219?mode=ndsd
-#EXTINF:-1 group-title="Epitsentr U21 vs Obolon Kiev U21" referer="https://hoadao.tv/epitsentr-u21-vs-obolon-kiev-u21-2344219?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-6b0575bf7566b1a502bcffd243398441.png",Epitsentr U21 vs Obolon Kiev U21 [No BLV - SD (ND)]
-https://live.alilicloud.com/live/d673e8e638fca37ade38c2f29f3b23ef/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/kudrivka-nyva-u21-vs-kolos-kovalivka-u21-2344220?mode=ndsd
-#EXTINF:-1 group-title="Kudrivka Nyva U21 vs Kolos Kovalivka U21" referer="https://hoadao.tv/kudrivka-nyva-u21-vs-kolos-kovalivka-u21-2344220?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-dd161f13eb679b76220ac2eaf7c01b7a.png",Kudrivka Nyva U21 vs Kolos Kovalivka U21 [No BLV - SD (ND)]
-https://live.alilicloud.com/live/e972cde44a009d083023965813ee5bb9/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/bg-pathum-united-vs-kaya-fc-iloilo-2343850?mode=sd
+#EXTINF:-1 group-title="BG Pathum United vs Kaya FC-Iloilo" referer="https://hoadao.tv/bg-pathum-united-vs-kaya-fc-iloilo-2343850?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-2a76ae00f4e2e999b944d3fa94dbff6b.png",BG Pathum United vs Kaya FC-Iloilo [BLV CỤ RÙA - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/bg-pathum-united-vs-kaya-fc-iloilo-2343850?mode=hd
+#EXTINF:-1 group-title="BG Pathum United vs Kaya FC-Iloilo" referer="https://hoadao.tv/bg-pathum-united-vs-kaya-fc-iloilo-2343850?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-2a76ae00f4e2e999b944d3fa94dbff6b.png",BG Pathum United vs Kaya FC-Iloilo [BLV CỤ RÙA - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/bg-pathum-united-vs-kaya-fc-iloilo-2343850?mode=flv
+#EXTINF:-1 group-title="BG Pathum United vs Kaya FC-Iloilo" referer="https://hoadao.tv/bg-pathum-united-vs-kaya-fc-iloilo-2343850?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-2a76ae00f4e2e999b944d3fa94dbff6b.png",BG Pathum United vs Kaya FC-Iloilo [BLV CỤ RÙA - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/bg-pathum-united-vs-kaya-fc-iloilo-2343850?mode=flv2
+#EXTINF:-1 group-title="BG Pathum United vs Kaya FC-Iloilo" referer="https://hoadao.tv/bg-pathum-united-vs-kaya-fc-iloilo-2343850?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-2a76ae00f4e2e999b944d3fa94dbff6b.png",BG Pathum United vs Kaya FC-Iloilo [BLV CỤ RÙA - FLV 2]
+v
 #EXTVLCOPT:http-referrer=https://hoadao.tv/rajasthan-united-fc-vs-hyderabad-fc-2343839?mode=ndsd
 #EXTINF:-1 group-title="Rajasthan United FC vs Hyderabad FC" referer="https://hoadao.tv/rajasthan-united-fc-vs-hyderabad-fc-2343839?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-43a3e86c83f91f0f4f55d972e18e6fcc.png",Rajasthan United FC vs Hyderabad FC [No BLV - SD (ND)]
 https://live.alilicloud.com/live/5952bbaabd46c99fee0556a1156cc3ef/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/albirex-niigata-fc-vs-balestier-khalsa-fc-2343899?mode=ndsd
+#EXTINF:-1 group-title="Albirex Niigata FC vs Balestier Khalsa FC" referer="https://hoadao.tv/albirex-niigata-fc-vs-balestier-khalsa-fc-2343899?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-c9a8a964e11847f7a448c01becb7f38d.png",Albirex Niigata FC vs Balestier Khalsa FC [No BLV - SD (ND)]
+https://live.alilicloud.com/live/ff10e3c9d1dc35a0016e89a3a193c871/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/pepper-gs-caltex-2347707?mode=sd
 #EXTINF:-1 group-title="Pepper vs GS Caltex" referer="https://hoadao.tv/pepper-gs-caltex-2347707?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-94f4803d75b8782ee51c04a89c6e0cef.png",Pepper vs GS Caltex [BLV MÈO BÉO - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
