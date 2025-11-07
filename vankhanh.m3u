@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Al-Fateh vs Al-Taawoun" tvg-logo="https://hxcv.site/images/cache/match-80c1680e161cb9cdd2818a84422460bc.png",Al-Fateh vs Al-Taawoun [BLV VĂN LONG - HLS]
-https://hls.cdnvankhanh.com/live/VANLONG/index.m3u8?expire=1891070400&sign=8b0432bc178a10760ef797d47c1aabf7
-#EXTINF:-1 group-title="Al-Fateh vs Al-Taawoun" tvg-logo="https://hxcv.site/images/cache/match-80c1680e161cb9cdd2818a84422460bc.png",Al-Fateh vs Al-Taawoun [BLV VĂN LONG - FLV]
-https://flv.cdnvankhanh.com/live/VANLONG.flv?expire=1891070400&sign=8b0432bc178a10760ef797d47c1aabf7
-#EXTINF:-1 group-title="Al-Fateh vs Al-Taawoun" tvg-logo="https://hxcv.site/images/cache/match-80c1680e161cb9cdd2818a84422460bc.png",Al-Fateh vs Al-Taawoun [BLV VĂN CHUN - HLS]
-https://hls.cdnvankhanh.com/live/VANCHUN/index.m3u8?expire=1898518320&sign=e855afc2f47c2589486b995f1194c0fc
-#EXTINF:-1 group-title="Al-Fateh vs Al-Taawoun" tvg-logo="https://hxcv.site/images/cache/match-80c1680e161cb9cdd2818a84422460bc.png",Al-Fateh vs Al-Taawoun [BLV VĂN CHUN - FLV]
-https://flv.cdnvankhanh.com/live/VANCHUN.flv?expire=1898518320&sign=e855afc2f47c2589486b995f1194c0fc
-#EXTINF:-1 group-title="Al Shamal vs Al-Wakra" tvg-logo="https://hxcv.site/images/cache/match-d46dc06b345683ab203a7e6b0c29a435.png",Al Shamal vs Al-Wakra [BLV VĂN VỞ - HLS]
-https://hls.cdnvankhanh.com/live/VANVO/index.m3u8?expire=1826356200&sign=f92cd6005b35a94f2c93f28b3ffac506
-#EXTINF:-1 group-title="Al Shamal vs Al-Wakra" tvg-logo="https://hxcv.site/images/cache/match-d46dc06b345683ab203a7e6b0c29a435.png",Al Shamal vs Al-Wakra [BLV VĂN VỞ - FLV]
-https://flv.cdnvankhanh.com/live/VANVO.flv?expire=1826356200&sign=f92cd6005b35a94f2c93f28b3ffac506
 #EXTINF:-1 group-title="Switzerland U17 vs South Korea U17" tvg-logo="https://hxcv.site/images/cache/match-5cb5cf50843634f2f488304e65ac91a8.png",Switzerland U17 vs South Korea U17 [BLV VĂN TÍCH - HLS]
 https://hls.cdnvankhanh.com/live/VANTICH/index.m3u8?expire=1892707800&sign=150a2229b67134ebc8c4d81573bca419
 #EXTINF:-1 group-title="Switzerland U17 vs South Korea U17" tvg-logo="https://hxcv.site/images/cache/match-5cb5cf50843634f2f488304e65ac91a8.png",Switzerland U17 vs South Korea U17 [BLV VĂN TÍCH - FLV]
@@ -35,3 +23,7 @@ https://flv.cdnvankhanh.com/live/VANTEO.flv?expire=1892616120&sign=d7b1c78e06fad
 https://hls.cdnvankhanh.com/live/VEVAN/index.m3u8?expire=1848307620&sign=5779030852f8cafeab86dae9130be2f5
 #EXTINF:-1 group-title="Al-Garrafa vs Qatar SC" tvg-logo="https://hxcv.site/images/cache/match-5183cea9744f0a9119710015740634b5.png",Al-Garrafa vs Qatar SC [BLV VĂN VẺ - FLV]
 https://flv.cdnvankhanh.com/live/VEVAN.flv?expire=1848307620&sign=5779030852f8cafeab86dae9130be2f5
+#EXTINF:-1 group-title="Radomiak Radom vs Cracovia Krakow" tvg-logo="https://hxcv.site/images/cache/match-0bc55ae8bfe7223d6fc6548a26f10ce6.png",Radomiak Radom vs Cracovia Krakow [BLV VĂN ĐỘ - HLS]
+https://hls.cdnvankhanh.com/live/VANDO/index.m3u8?expire=1892812920&sign=a0a29c944a41e507a7d578db683ea31a
+#EXTINF:-1 group-title="Radomiak Radom vs Cracovia Krakow" tvg-logo="https://hxcv.site/images/cache/match-0bc55ae8bfe7223d6fc6548a26f10ce6.png",Radomiak Radom vs Cracovia Krakow [BLV VĂN ĐỘ - FLV]
+ https://flv.cdnvankhanh.com/live/VANDO.flv?expire=1892812920&sign=a0a29c944a41e507a7d578db683ea31a
