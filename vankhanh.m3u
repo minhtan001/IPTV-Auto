@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Al Najma(KSA) vs Al Hilal" tvg-logo="https://hxcv.site/images/cache/match-baf0a54b5f5929c2012e51be47907c85.png",Al Najma(KSA) vs Al Hilal [BLV VĂN REN - HLS]
-https://hls.cdnvankhanh.com/live/VANREN/index.m3u8?expire=1891583400&sign=f4cca58ffdf3217d4ca677039510da17
-#EXTINF:-1 group-title="Al Najma(KSA) vs Al Hilal" tvg-logo="https://hxcv.site/images/cache/match-baf0a54b5f5929c2012e51be47907c85.png",Al Najma(KSA) vs Al Hilal [BLV VĂN REN - FLV]
-https://flv.cdnvankhanh.com/live/VANREN.flv?expire=1891583400&sign=f4cca58ffdf3217d4ca677039510da17
-#EXTINF:-1 group-title="Al Najma(KSA) vs Al Hilal" tvg-logo="https://hxcv.site/images/cache/match-baf0a54b5f5929c2012e51be47907c85.png",Al Najma(KSA) vs Al Hilal [BLV VĂN CONAN - HLS]
-https://hls.cdnvankhanh.com/live/VANCONA/index.m3u8?expire=1892707800&sign=4579e25a0f1074c0ba42757f6b09cfb9
-#EXTINF:-1 group-title="Al Najma(KSA) vs Al Hilal" tvg-logo="https://hxcv.site/images/cache/match-baf0a54b5f5929c2012e51be47907c85.png",Al Najma(KSA) vs Al Hilal [BLV VĂN CONAN - FLV]
-https://flv.cdnvankhanh.com/live/VANCONA.flv?expire=1892707800&sign=4579e25a0f1074c0ba42757f6b09cfb9
-#EXTINF:-1 group-title="Dynamo Dresden vs Nurnberg" tvg-logo="https://hxcv.site/images/cache/match-907492ff3a459c786ffc61c5bbe77951.png",Dynamo Dresden vs Nurnberg [BLV VĂN MINH - HLS]
-https://hls.cdnvankhanh.com/live/VANMINH/index.m3u8?expire=1891172040&sign=f6acb0ca35d53b8fc8f43ca1c11efb5e
-#EXTINF:-1 group-title="Dynamo Dresden vs Nurnberg" tvg-logo="https://hxcv.site/images/cache/match-907492ff3a459c786ffc61c5bbe77951.png",Dynamo Dresden vs Nurnberg [BLV VĂN MINH - FLV]
-https://flv.cdnvankhanh.com/live/VANMINH.flv?expire=1891172040&sign=f6acb0ca35d53b8fc8f43ca1c11efb5e
-#EXTINF:-1 group-title="Greuther Furth vs Preuben Munster" tvg-logo="https://hxcv.site/images/cache/match-cb79b4a69c9eb24ce757f0dc377b6d9e.png",Greuther Furth vs Preuben Munster [BLV VĂN BIA - HLS]
-https://hls.cdnvankhanh.com/live/VANBIA/index.m3u8?expire=1892730180&sign=ca1be0c0d408ba9ac0bf97ec02f5049e
-#EXTINF:-1 group-title="Greuther Furth vs Preuben Munster" tvg-logo="https://hxcv.site/images/cache/match-cb79b4a69c9eb24ce757f0dc377b6d9e.png",Greuther Furth vs Preuben Munster [BLV VĂN BIA - FLV]
-https://flv.cdnvankhanh.com/live/VANBIA.flv?expire=1892730180&sign=ca1be0c0d408ba9ac0bf97ec02f5049e
-#EXTINF:-1 group-title="Bayern Munchen (W) vs Union Berlin (W)" tvg-logo="https://hxcv.site/images/cache/match-2b46e912f0d0259a623fc6cb405d500b.png",Bayern Munchen (W) vs Union Berlin (W) [BLV VĂN LONG - HLS]
-https://hls.cdnvankhanh.com/live/VANLONG/index.m3u8?expire=1891070400&sign=8b0432bc178a10760ef797d47c1aabf7
-#EXTINF:-1 group-title="Bayern Munchen (W) vs Union Berlin (W)" tvg-logo="https://hxcv.site/images/cache/match-2b46e912f0d0259a623fc6cb405d500b.png",Bayern Munchen (W) vs Union Berlin (W) [BLV VĂN LONG - FLV]
-https://flv.cdnvankhanh.com/live/VANLONG.flv?expire=1891070400&sign=8b0432bc178a10760ef797d47c1aabf7
 #EXTINF:-1 group-title="Odense BK vs Silkeborg IF" tvg-logo="https://hxcv.site/images/cache/match-c93badbbd93978175b9f7a7073317761.png",Odense BK vs Silkeborg IF [BLV VĂN TÀI - HLS]
 https://hls.cdnvankhanh.com/live/VANTAI/index.m3u8?expire=1860501480&sign=48479b66b503225db4b2785147e6c4d1
 #EXTINF:-1 group-title="Odense BK vs Silkeborg IF" tvg-logo="https://hxcv.site/images/cache/match-c93badbbd93978175b9f7a7073317761.png",Odense BK vs Silkeborg IF [BLV VĂN TÀI - FLV]
@@ -27,11 +7,31 @@ https://flv.cdnvankhanh.com/live/VANTAI.flv?expire=1860501480&sign=48479b66b5032
 https://hls.cdnvankhanh.com/live/VEVAN/index.m3u8?expire=1848307620&sign=5779030852f8cafeab86dae9130be2f5
 #EXTINF:-1 group-title="FC Twente Enschede vs SC Telstar" tvg-logo="https://hxcv.site/images/cache/match-cf66cf15485bbc79b5c8716040f2250f.png",FC Twente Enschede vs SC Telstar [BLV VĂN VẺ - FLV]
 https://flv.cdnvankhanh.com/live/VEVAN.flv?expire=1848307620&sign=5779030852f8cafeab86dae9130be2f5
+#EXTINF:-1 group-title="Werder Bremen vs VfL Wolfsburg" tvg-logo="https://hxcv.site/images/cache/match-e8bebff9fba969f2725b6ea7574e78a1.png",Werder Bremen vs VfL Wolfsburg [BLV VĂN BIA - HLS]
+https://hls.cdnvankhanh.com/live/VANBIA/index.m3u8?expire=1892730180&sign=ca1be0c0d408ba9ac0bf97ec02f5049e
+#EXTINF:-1 group-title="Werder Bremen vs VfL Wolfsburg" tvg-logo="https://hxcv.site/images/cache/match-e8bebff9fba969f2725b6ea7574e78a1.png",Werder Bremen vs VfL Wolfsburg [BLV VĂN BIA - FLV]
+https://flv.cdnvankhanh.com/live/VANBIA.flv?expire=1892730180&sign=ca1be0c0d408ba9ac0bf97ec02f5049e
 #EXTINF:-1 group-title="Zaglebie Lubin vs Gornik Zabrze" tvg-logo="https://hxcv.site/images/cache/match-5556e9c16adcfd53770ee54400c09b14.png",Zaglebie Lubin vs Gornik Zabrze [BLV VĂN CÒ - HLS]
 https://hls.cdnvankhanh.com/live/VANCO/index.m3u8?expire=1826356200&sign=1cb184635e81263192025d4eedf6dec8
 #EXTINF:-1 group-title="Zaglebie Lubin vs Gornik Zabrze" tvg-logo="https://hxcv.site/images/cache/match-5556e9c16adcfd53770ee54400c09b14.png",Zaglebie Lubin vs Gornik Zabrze [BLV VĂN CÒ - FLV]
 https://flv.cdnvankhanh.com/live/VANCO.flv?expire=1826356200&sign=1cb184635e81263192025d4eedf6dec8
+#EXTINF:-1 group-title="Pisa vs Cremonese" tvg-logo="https://hxcv.site/images/cache/match-214d42fbfef5c630aba6de5b9a293dea.png",Pisa vs Cremonese [BLV VĂN LONG - HLS]
+https://hls.cdnvankhanh.com/live/VANLONG/index.m3u8?expire=1891070400&sign=8b0432bc178a10760ef797d47c1aabf7
+#EXTINF:-1 group-title="Pisa vs Cremonese" tvg-logo="https://hxcv.site/images/cache/match-214d42fbfef5c630aba6de5b9a293dea.png",Pisa vs Cremonese [BLV VĂN LONG - FLV]
+https://flv.cdnvankhanh.com/live/VANLONG.flv?expire=1891070400&sign=8b0432bc178a10760ef797d47c1aabf7
+#EXTINF:-1 group-title="Pisa vs Cremonese" tvg-logo="https://hxcv.site/images/cache/match-214d42fbfef5c630aba6de5b9a293dea.png",Pisa vs Cremonese [BLV VĂN MINH - HLS]
+https://hls.cdnvankhanh.com/live/VANMINH/index.m3u8?expire=1891172040&sign=f6acb0ca35d53b8fc8f43ca1c11efb5e
+#EXTINF:-1 group-title="Pisa vs Cremonese" tvg-logo="https://hxcv.site/images/cache/match-214d42fbfef5c630aba6de5b9a293dea.png",Pisa vs Cremonese [BLV VĂN MINH - FLV]
+https://flv.cdnvankhanh.com/live/VANMINH.flv?expire=1891172040&sign=f6acb0ca35d53b8fc8f43ca1c11efb5e
 #EXTINF:-1 group-title="Paris FC vs Rennes" tvg-logo="https://hxcv.site/images/cache/match-4a1a0c3a25dc4807c0f5fd6b26efbc41.png",Paris FC vs Rennes [VĂN QUÁ - HLS]
 https://hls.cdnvankhanh.com/live/VANQUA/index.m3u8?expire=1848232560&sign=1dde72065670bd44db0f1ee0f575303c
 #EXTINF:-1 group-title="Paris FC vs Rennes" tvg-logo="https://hxcv.site/images/cache/match-4a1a0c3a25dc4807c0f5fd6b26efbc41.png",Paris FC vs Rennes [VĂN QUÁ - FLV]
 https://flv.cdnvankhanh.com/live/VANQUA.flv?expire=1848232560&sign=1dde72065670bd44db0f1ee0f575303c
+#EXTINF:-1 group-title="Elche vs Real Sociedad" tvg-logo="https://hxcv.site/images/cache/match-88bf6074efc0d901d9f89cc4a288af8b.png",Elche vs Real Sociedad [BLV VĂN TÈO - HLS]
+https://hls.cdnvankhanh.com/live/VANTEO/index.m3u8?expire=1892616120&sign=d7b1c78e06fada5c68d59641889d2c55
+#EXTINF:-1 group-title="Elche vs Real Sociedad" tvg-logo="https://hxcv.site/images/cache/match-88bf6074efc0d901d9f89cc4a288af8b.png",Elche vs Real Sociedad [BLV VĂN TÈO - FLV]
+https://flv.cdnvankhanh.com/live/VANTEO.flv?expire=1892616120&sign=d7b1c78e06fada5c68d59641889d2c55
+#EXTINF:-1 group-title="Watford vs Bristol City" tvg-logo="https://hxcv.site/images/cache/match-9c62addb50ab96826a123a1b793bba2f.png",Watford vs Bristol City [BLV VĂN CONAN - HLS]
+https://hls.cdnvankhanh.com/live/VANCONA/index.m3u8?expire=1892707800&sign=4579e25a0f1074c0ba42757f6b09cfb9
+#EXTINF:-1 group-title="Watford vs Bristol City" tvg-logo="https://hxcv.site/images/cache/match-9c62addb50ab96826a123a1b793bba2f.png",Watford vs Bristol City [BLV VĂN CONAN - FLV]
+https://flv.cdnvankhanh.com/live/VANCONA.flv?expire=1892707800&sign=4579e25a0f1074c0ba42757f6b09cfb9
