@@ -1,16 +1,13 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/palmeiras-vs-santos-2344158?mode=sd
-#EXTINF:-1 group-title="Palmeiras vs Santos" referer="https://hoadao.tv/palmeiras-vs-santos-2344158?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-e67292fecd3a98066b9fee419567e00b.png",Palmeiras vs Santos [BLV CỤ RÙA - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/palmeiras-vs-santos-2344158?mode=hd
-#EXTINF:-1 group-title="Palmeiras vs Santos" referer="https://hoadao.tv/palmeiras-vs-santos-2344158?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-e67292fecd3a98066b9fee419567e00b.png",Palmeiras vs Santos [BLV CỤ RÙA - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/palmeiras-vs-santos-2344158?mode=flv
-#EXTINF:-1 group-title="Palmeiras vs Santos" referer="https://hoadao.tv/palmeiras-vs-santos-2344158?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-e67292fecd3a98066b9fee419567e00b.png",Palmeiras vs Santos [BLV CỤ RÙA - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/palmeiras-vs-santos-2344158?mode=flv2
-#EXTINF:-1 group-title="Palmeiras vs Santos" referer="https://hoadao.tv/palmeiras-vs-santos-2344158?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-e67292fecd3a98066b9fee419567e00b.png",Palmeiras vs Santos [BLV CỤ RÙA - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/palmeiras-vs-santos-2344158?mode=ndsd
-#EXTINF:-1 group-title="Palmeiras vs Santos" referer="https://hoadao.tv/palmeiras-vs-santos-2344158?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-e67292fecd3a98066b9fee419567e00b.png",Palmeiras vs Santos [BLV CỤ RÙA - SD (ND)]
-https://live.alilicloud.com/live/cc4b74c1aa4c21f96d4940e322a6eecf/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/adelaide-united-vs-western-sydney-2344171?mode=sd
+#EXTINF:-1 group-title="Adelaide United vs Western Sydney" referer="https://hoadao.tv/adelaide-united-vs-western-sydney-2344171?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-91ba0816cb73e7b69f571fc1eabf1a09.png",Adelaide United vs Western Sydney [BLV MÈO BÉO - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/adelaide-united-vs-western-sydney-2344171?mode=hd
+#EXTINF:-1 group-title="Adelaide United vs Western Sydney" referer="https://hoadao.tv/adelaide-united-vs-western-sydney-2344171?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-91ba0816cb73e7b69f571fc1eabf1a09.png",Adelaide United vs Western Sydney [BLV MÈO BÉO - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/adelaide-united-vs-western-sydney-2344171?mode=flv
+#EXTINF:-1 group-title="Adelaide United vs Western Sydney" referer="https://hoadao.tv/adelaide-united-vs-western-sydney-2344171?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-91ba0816cb73e7b69f571fc1eabf1a09.png",Adelaide United vs Western Sydney [BLV MÈO BÉO - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/adelaide-united-vs-western-sydney-2344171?mode=flv2
+#EXTINF:-1 group-title="Adelaide United vs Western Sydney" referer="https://hoadao.tv/adelaide-united-vs-western-sydney-2344171?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-91ba0816cb73e7b69f571fc1eabf1a09.png",Adelaide United vs Western Sydney [BLV MÈO BÉO - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
