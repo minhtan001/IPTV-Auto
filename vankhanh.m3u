@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Club Tijuana vs Atlas" tvg-logo="https://hxcv.site/images/cache/match-fc8e1ead6ade96fbf14542fe121ccb95.png",Club Tijuana vs Atlas [BLV VĂN CHƯƠNG - HLS]
-https://hls.cdnvankhanh.com/live/VANCHUONG/index.m3u8?expire=1890806880&sign=d5e33b097684f7c5682301b78b825aaf
-#EXTINF:-1 group-title="Club Tijuana vs Atlas" tvg-logo="https://hxcv.site/images/cache/match-fc8e1ead6ade96fbf14542fe121ccb95.png",Club Tijuana vs Atlas [BLV VĂN CHƯƠNG - FLV]
-https://flv.cdnvankhanh.com/live/VANCHUONG.flv?expire=1890806880&sign=d5e33b097684f7c5682301b78b825aaf
-#EXTINF:-1 group-title="Mazatlan FC vs Necaxa" tvg-logo="https://hxcv.site/images/cache/match-a803993c7b444b063fb0924c3a0e53ea.png",Mazatlan FC vs Necaxa [BLV TIỂU LINH - HLS]
-https://hls.cdnvankhanh.com/live/TIEULINH/index.m3u8?expire=1891779900&sign=5353000df59fd7da4b1d1f4a66da8495
-#EXTINF:-1 group-title="Mazatlan FC vs Necaxa" tvg-logo="https://hxcv.site/images/cache/match-a803993c7b444b063fb0924c3a0e53ea.png",Mazatlan FC vs Necaxa [BLV TIỂU LINH - FLV]
-https://flv.cdnvankhanh.com/live/TIEULINH.flv?expire=1891779900&sign=5353000df59fd7da4b1d1f4a66da8495
-#EXTINF:-1 group-title="Kashima Antlers vs Yokohama FC" tvg-logo="https://hxcv.site/images/cache/match-ef42cf26b4c9f44257dc580024b44cc1.png",Kashima Antlers vs Yokohama FC [BLV GIÁO SƯ XOAY - HLS]
-https://hls.cdnvankhanh.com/live/GIAOSUXOAY/index.m3u8?expire=1892730180&sign=c561b814d05f14cf153b87d973755453
-#EXTINF:-1 group-title="Kashima Antlers vs Yokohama FC" tvg-logo="https://hxcv.site/images/cache/match-ef42cf26b4c9f44257dc580024b44cc1.png",Kashima Antlers vs Yokohama FC [BLV GIÁO SƯ XOAY - FLV]
- https://flv.cdnvankhanh.com/live/GIAOSUXOAY.flv?expire=1892730180&sign=c561b814d05f14cf153b87d973755453  
 #EXTINF:-1 group-title="Jeju SK FC vs FC Anyang" tvg-logo="https://hxcv.site/images/cache/match-bb52babf34e6ce9bb7441d9d0ca1c101.png",Jeju SK FC vs FC Anyang [BLV VĂN GÔN - HLS]
 https://hls.cdnvankhanh.com/live/VANGON/index.m3u8?expire=1891583400&sign=db46845cd1edc815d5bba4a6538fd9ce
 #EXTINF:-1 group-title="Jeju SK FC vs FC Anyang" tvg-logo="https://hxcv.site/images/cache/match-bb52babf34e6ce9bb7441d9d0ca1c101.png",Jeju SK FC vs FC Anyang [BLV VĂN GÔN - FLV]
@@ -19,6 +7,10 @@ https://flv.cdnvankhanh.com/live/VANGON.flv?expire=1891583400&sign=db46845cd1edc
 https://hls.cdnvankhanh.com/live/VANDO/index.m3u8?expire=1892812920&sign=a0a29c944a41e507a7d578db683ea31a
 #EXTINF:-1 group-title="Daegu FC vs Gwangju Football Club" tvg-logo="https://hxcv.site/images/cache/match-8c7c8ef43114735bc8abe93d66656895.png",Daegu FC vs Gwangju Football Club [BLV VĂN ĐỘ - FLV]
  https://flv.cdnvankhanh.com/live/VANDO.flv?expire=1892812920&sign=a0a29c944a41e507a7d578db683ea31a
+#EXTINF:-1 group-title="Kashima Antlers vs Yokohama FC" tvg-logo="https://hxcv.site/images/cache/match-ef42cf26b4c9f44257dc580024b44cc1.png",Kashima Antlers vs Yokohama FC [BLV GIÁO SƯ XOAY - HLS]
+https://hls.cdnvankhanh.com/live/GIAOSUXOAY/index.m3u8?expire=1892730180&sign=c561b814d05f14cf153b87d973755453
+#EXTINF:-1 group-title="Kashima Antlers vs Yokohama FC" tvg-logo="https://hxcv.site/images/cache/match-ef42cf26b4c9f44257dc580024b44cc1.png",Kashima Antlers vs Yokohama FC [BLV GIÁO SƯ XOAY - FLV]
+ https://flv.cdnvankhanh.com/live/GIAOSUXOAY.flv?expire=1892730180&sign=c561b814d05f14cf153b87d973755453  
 #EXTINF:-1 group-title="Tokyo Verdy vs Avispa Fukuoka" tvg-logo="https://hxcv.site/images/cache/match-1f1f41b55fb710f764ed87cd90ca575b.png",Tokyo Verdy vs Avispa Fukuoka [BLV VĂN KHANG - HLS]
  https://hls.cdnvankhanh.com/live/VANKHANG/index.m3u8?expire=1862206680&sign=7ac84ad876b1ccbad9036fe76373e2c6
 #EXTINF:-1 group-title="Tokyo Verdy vs Avispa Fukuoka" tvg-logo="https://hxcv.site/images/cache/match-1f1f41b55fb710f764ed87cd90ca575b.png",Tokyo Verdy vs Avispa Fukuoka [BLV VĂN KHANG - FLV]

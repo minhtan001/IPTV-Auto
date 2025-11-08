@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Club Tijuana vs Atlas" tvg-logo="https://hxcv.site/images/cache/match-16a7a6447bd504bc5f1e4109daded93f.png",Club Tijuana vs Atlas [BLV TỐNG GIANG - HLS]
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:-1 group-title="Club Tijuana vs Atlas" tvg-logo="https://hxcv.site/images/cache/match-16a7a6447bd504bc5f1e4109daded93f.png",Club Tijuana vs Atlas [BLV TỐNG GIANG - FLV]
-https://flv.cdnok9.com/live/TONGGIANG.flv?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:-1 group-title="Mazatlan FC vs Necaxa" tvg-logo="https://hxcv.site/images/cache/match-9e69569ca6e6fed9dc8d206a557529fe.png",Mazatlan FC vs Necaxa [BLV VÕ TÒNG - HLS]
- https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 group-title="Mazatlan FC vs Necaxa" tvg-logo="https://hxcv.site/images/cache/match-9e69569ca6e6fed9dc8d206a557529fe.png",Mazatlan FC vs Necaxa [BLV VÕ TÒNG - FLV]
- https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:-1 group-title="Jeju SK FC vs FC Anyang" tvg-logo="https://hxcv.site/images/cache/match-c74dff59c7f93eeee3bba81777945ec0.png",Jeju SK FC vs FC Anyang [BLV ZORO - HLS]
 https://hls.cdnok9.com/live/ZORO/index.m3u8?expire=1788427256&sign=8e04682553e334be697e3ef428fa6031
 #EXTINF:-1 group-title="Jeju SK FC vs FC Anyang" tvg-logo="https://hxcv.site/images/cache/match-c74dff59c7f93eeee3bba81777945ec0.png",Jeju SK FC vs FC Anyang [BLV ZORO - FLV]
@@ -15,14 +7,14 @@ https://flv.cdnok9.com/live/ZORO.flv?expire=1788427256&sign=8e04682553e334be697e
 https://hls.cdnok9.com/live/LOELOE6380K/index.m3u8?expire=1788427256&sign=86b4dafe54d1b6da2bffad6653671edb
 #EXTINF:-1 group-title="Daegu FC vs Gwangju Football Club" tvg-logo="https://hxcv.site/images/cache/match-cd6a2b567287abefcad598a79a0d3340.png",Daegu FC vs Gwangju Football Club [BLV HOA VINH - FLV]
 https://flv.cdnok9.com/live/LOELOE6380K.flv?expire=1788427256&sign=86b4dafe54d1b6da2bffad6653671edb
-#EXTINF:-1 group-title="Tokyo Verdy vs Avispa Fukuoka" tvg-logo="https://hxcv.site/images/cache/match-985a86f993bb350a1593d7f72e4560e3.png",Tokyo Verdy vs Avispa Fukuoka [TRỢ LÝ ĐIÊU THUYỀN - HLS]
-https://hls.cdnok9.com/live/DIEUTHUYEN/index.m3u8?expire=1788427256&sign=8cebea5448db2f74ea04021d9362ba87
-#EXTINF:-1 group-title="Tokyo Verdy vs Avispa Fukuoka" tvg-logo="https://hxcv.site/images/cache/match-985a86f993bb350a1593d7f72e4560e3.png",Tokyo Verdy vs Avispa Fukuoka [TRỢ LÝ ĐIÊU THUYỀN - FLV]
-https://flv.cdnok9.com/live/DIEUTHUYEN.flv?expire=1788427256&sign=8cebea5448db2f74ea04021d9362ba87
 #EXTINF:-1 group-title="Kashima Antlers vs Yokohama FC" tvg-logo="https://hxcv.site/images/cache/match-d53d9c711ed6e3944825c7d0471edd29.png",Kashima Antlers vs Yokohama FC [BLV THẠCH TÚ - HLS]
 https://hls.cdnok9.com/live/THACHTU/index.m3u8?expire=1788427256&sign=77e6bae02b2c5f48ff9d9c5092df8d47
 #EXTINF:-1 group-title="Kashima Antlers vs Yokohama FC" tvg-logo="https://hxcv.site/images/cache/match-d53d9c711ed6e3944825c7d0471edd29.png",Kashima Antlers vs Yokohama FC [BLV THẠCH TÚ - FLV]
 https://flv.cdnok9.com/live/THACHTU.flv?expire=1788427256&sign=77e6bae02b2c5f48ff9d9c5092df8d47
+#EXTINF:-1 group-title="Tokyo Verdy vs Avispa Fukuoka" tvg-logo="https://hxcv.site/images/cache/match-985a86f993bb350a1593d7f72e4560e3.png",Tokyo Verdy vs Avispa Fukuoka [TRỢ LÝ ĐIÊU THUYỀN - HLS]
+https://hls.cdnok9.com/live/DIEUTHUYEN/index.m3u8?expire=1788427256&sign=8cebea5448db2f74ea04021d9362ba87
+#EXTINF:-1 group-title="Tokyo Verdy vs Avispa Fukuoka" tvg-logo="https://hxcv.site/images/cache/match-985a86f993bb350a1593d7f72e4560e3.png",Tokyo Verdy vs Avispa Fukuoka [TRỢ LÝ ĐIÊU THUYỀN - FLV]
+https://flv.cdnok9.com/live/DIEUTHUYEN.flv?expire=1788427256&sign=8cebea5448db2f74ea04021d9362ba87
 #EXTINF:-1 group-title="Dynamo Moscow vs Akron Togliatti" tvg-logo="https://hxcv.site/images/cache/match-fd39042ef525a43e3dd3993c7ec88317.png",Dynamo Moscow vs Akron Togliatti [BLV KENCHU - HLS]
 https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
 #EXTINF:-1 group-title="Dynamo Moscow vs Akron Togliatti" tvg-logo="https://hxcv.site/images/cache/match-fd39042ef525a43e3dd3993c7ec88317.png",Dynamo Moscow vs Akron Togliatti [BLV KENCHU - FLV]
