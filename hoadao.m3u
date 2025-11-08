@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/club-atletico-la-paz-vs-atlante-fc-2345251?mode=ndsd
-#EXTINF:-1 group-title="Club Atletico La Paz vs Atlante FC" referer="https://hoadao.tv/club-atletico-la-paz-vs-atlante-fc-2345251?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-0472bb183a7d6e07971eddbf2d7218e9.png",Club Atletico La Paz vs Atlante FC [No BLV - SD (ND)]
-https://live.alilicloud.com/live/d193806c1318142314eb7123bcb7093f/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/wellington-phoenix-women-vs-canberra-united-women-2345252?mode=ndsd
-#EXTINF:-1 group-title="Wellington Phoenix Women vs Canberra United Women" referer="https://hoadao.tv/wellington-phoenix-women-vs-canberra-united-women-2345252?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-8a8e64896d233ceab614f6df613476a9.png",Wellington Phoenix Women vs Canberra United Women [No BLV - SD (ND)]
-https://live.alilicloud.com/live/9dc364eb824b3376cf92ffe256b21d88/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/denso-airybees-nec-red-rockets-2348555?mode=sd
 #EXTINF:-1 group-title="Denso Airybees vs NEC Red Rockets" referer="https://hoadao.tv/denso-airybees-nec-red-rockets-2348555?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-521fbb06541dcfb1d41f0719b65eeb6d.png",Denso Airybees vs NEC Red Rockets [BLV PHÁO - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
@@ -17,3 +11,27 @@ https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/denso-airybees-nec-red-rockets-2348555?mode=flv2
 #EXTINF:-1 group-title="Denso Airybees vs NEC Red Rockets" referer="https://hoadao.tv/denso-airybees-nec-red-rockets-2348555?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-521fbb06541dcfb1d41f0719b65eeb6d.png",Denso Airybees vs NEC Red Rockets [BLV PHÁO - FLV 2]
 https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/gunma-green-wings-hisamitsu-2348556?mode=sd
+#EXTINF:-1 group-title="Gunma Green Wings vs Hisamitsu" referer="https://hoadao.tv/gunma-green-wings-hisamitsu-2348556?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-8bdd31ed12b51b3e2b557bbc7ac84aa7.png",Gunma Green Wings vs Hisamitsu [BLV BÚN CHẢ - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_buncha/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/gunma-green-wings-hisamitsu-2348556?mode=hd
+#EXTINF:-1 group-title="Gunma Green Wings vs Hisamitsu" referer="https://hoadao.tv/gunma-green-wings-hisamitsu-2348556?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-8bdd31ed12b51b3e2b557bbc7ac84aa7.png",Gunma Green Wings vs Hisamitsu [BLV BÚN CHẢ - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_buncha/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/gunma-green-wings-hisamitsu-2348556?mode=flv
+#EXTINF:-1 group-title="Gunma Green Wings vs Hisamitsu" referer="https://hoadao.tv/gunma-green-wings-hisamitsu-2348556?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-8bdd31ed12b51b3e2b557bbc7ac84aa7.png",Gunma Green Wings vs Hisamitsu [BLV BÚN CHẢ - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_buncha.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/gunma-green-wings-hisamitsu-2348556?mode=flv2
+#EXTINF:-1 group-title="Gunma Green Wings vs Hisamitsu" referer="https://hoadao.tv/gunma-green-wings-hisamitsu-2348556?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-8bdd31ed12b51b3e2b557bbc7ac84aa7.png",Gunma Green Wings vs Hisamitsu [BLV BÚN CHẢ - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_buncha.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/aranmare-okayama-2348557?mode=sd
+#EXTINF:-1 group-title="Aranmare vs Okayama" referer="https://hoadao.tv/aranmare-okayama-2348557?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-9c7fbd517102b7a8abc4cb6f18cac59a.png",Aranmare vs Okayama [BLV CỤ RÙA - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/aranmare-okayama-2348557?mode=hd
+#EXTINF:-1 group-title="Aranmare vs Okayama" referer="https://hoadao.tv/aranmare-okayama-2348557?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-9c7fbd517102b7a8abc4cb6f18cac59a.png",Aranmare vs Okayama [BLV CỤ RÙA - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/aranmare-okayama-2348557?mode=flv
+#EXTINF:-1 group-title="Aranmare vs Okayama" referer="https://hoadao.tv/aranmare-okayama-2348557?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-9c7fbd517102b7a8abc4cb6f18cac59a.png",Aranmare vs Okayama [BLV CỤ RÙA - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/aranmare-okayama-2348557?mode=flv2
+#EXTINF:-1 group-title="Aranmare vs Okayama" referer="https://hoadao.tv/aranmare-okayama-2348557?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-9c7fbd517102b7a8abc4cb6f18cac59a.png",Aranmare vs Okayama [BLV CỤ RÙA - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
