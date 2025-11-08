@@ -3,12 +3,6 @@
 https://hls.cdnok9.com/live/DIEUTHUYEN/index.m3u8?expire=1788427256&sign=8cebea5448db2f74ea04021d9362ba87
 #EXTINF:-1 group-title="Talleres Cordoba vs CA Platense" tvg-logo="https://hxcv.site/images/cache/match-42d72703b5d7ea524a549dd386f39eb1.png",Talleres Cordoba vs CA Platense [TRỢ LÝ ĐIÊU THUYỀN - FLV]
 https://flv.cdnok9.com/live/DIEUTHUYEN.flv?expire=1788427256&sign=8cebea5448db2f74ea04021d9362ba87
-#EXTINF:-1 group-title="Santa Clara vs Sporting CP" tvg-logo="https://hxcv.site/images/cache/match-3b04471783cd989641013b3b74fd8c76.png",Santa Clara vs Sporting CP [BLV LÝ BÍ - HLS]
-https://hls.cdnok9.com/live/LYBI/index.m3u8?expire=1891347600&sign=082e8fbd254f7197ef828148b0832d36
-#EXTINF:-1 group-title="Santa Clara vs Sporting CP" tvg-logo="https://hxcv.site/images/cache/match-3b04471783cd989641013b3b74fd8c76.png",Santa Clara vs Sporting CP [BLV LÝ BÍ - FLV]
-https://flv.cdnok9.com/live/LYBI.flv?expire=1891347600&sign=082e8fbd254f7197ef828148b0832d36
-#EXTINF:-1 group-title="Palestino vs Coquimbo Unido" tvg-logo="https://hxcv.site/images/cache/match-111d264b16a0df7905eef3f317c421a2.png",Palestino vs Coquimbo Unido [NHÀ ĐÀI - HLS]
-https://auto.cdnvankhanh.com/live/sd-6MtMtP3mVQ9i5KowRn/playlist.m3u8
 #EXTINF:-1 group-title="Vasco da Gama vs Juventude" tvg-logo="https://hxcv.site/images/cache/match-61906fa45666f887229b08dd3e7e5a70.png",Vasco da Gama vs Juventude [NHÀ ĐÀI - HLS]
 https://auto.cdnvankhanh.com/live/sd-6MtJQoJJBmqjSwVz76/playlist.m3u8
 #EXTINF:-1 group-title="Olimpia Asuncion vs General Caballero LJM" tvg-logo="https://hxcv.site/images/cache/match-9540fe7bcb24353503da9fc3e5e0eae9.png",Olimpia Asuncion vs General Caballero LJM [NHÀ ĐÀI - HLS]
@@ -17,24 +11,32 @@ https://auto.cdnvankhanh.com/live/sd-6MuPtT52AMvMQgCyiL/playlist.m3u8
 https://auto.cdnvankhanh.com/live/sd-6MvYbXJxLF2Y2SBzdS/playlist.m3u8
 #EXTINF:-1 group-title="Fortaleza F.C vs Atletico Junior Barranquilla" tvg-logo="https://hxcv.site/images/cache/match-fcffe8fea29c116657cc20ee1d54e84c.png",Fortaleza F.C vs Atletico Junior Barranquilla [NHÀ ĐÀI - HLS]
 https://auto.cdnvankhanh.com/live/sd-6MuTcdxwyQpUz5b2pC/playlist.m3u8
-#EXTINF:-1 group-title="San Jose de Oruro vs Real Oruro" tvg-logo="https://hxcv.site/images/cache/match-ba3b6cc81cc8d4dfddbd5a2caa9ae107.png",San Jose de Oruro vs Real Oruro [NHÀ ĐÀI - HLS]
-https://auto.cdnvankhanh.com/live/sd-6MvYM2cq5Eg4PbAT5n/playlist.m3u8
-#EXTINF:-1 group-title="Internacional RS vs Bahia" tvg-logo="https://hxcv.site/images/cache/match-f98dfab92783a8b3a5fd6de6e82143fe.png",Internacional RS vs Bahia [NHÀ ĐÀI - HLS]
-https://auto.cdnvankhanh.com/live/sd-6MtJQoJJBd3oy2CKVW/playlist.m3u8
 #EXTINF:-1 group-title="Atletico Paranaense vs Volta Redonda" tvg-logo="https://hxcv.site/images/cache/match-8de345d8d461bb1ec435ad16d3a779ca.png",Atletico Paranaense vs Volta Redonda [NHÀ ĐÀI - HLS]
 https://auto.cdnvankhanh.com/live/sd-6MuS7qYBXRDsvJCGtt/playlist.m3u8
 #EXTINF:-1 group-title="Independiente del Valle vs Universidad Catolica" tvg-logo="https://hxcv.site/images/cache/match-c12f002a23465821fcfda974ba1bc88f.png",Independiente del Valle vs Universidad Catolica [NHÀ ĐÀI - HLS]
 https://auto.cdnvankhanh.com/live/sd-6MvXriHZPw4A7VEoj2/playlist.m3u8
+#EXTINF:-1 group-title="San Jose de Oruro vs Real Oruro" tvg-logo="https://hxcv.site/images/cache/match-ba3b6cc81cc8d4dfddbd5a2caa9ae107.png",San Jose de Oruro vs Real Oruro [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYM2cq5Eg4PbAT5n/playlist.m3u8
+#EXTINF:-1 group-title="Internacional RS vs Bahia" tvg-logo="https://hxcv.site/images/cache/match-f98dfab92783a8b3a5fd6de6e82143fe.png",Internacional RS vs Bahia [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MtJQoJJBd3oy2CKVW/playlist.m3u8
 #EXTINF:-1 group-title="Wanderers FC vs CA River Plate" tvg-logo="https://hxcv.site/images/cache/match-c608eeaec0bc937f493cac6dff66525d.png",Wanderers FC vs CA River Plate [NHÀ ĐÀI - HLS]
 https://auto.cdnvankhanh.com/live/sd-6MvYM2Z99DkpLqpzSY/playlist.m3u8
 #EXTINF:-1 group-title="Southern United (NZL)(W) vs Central Football  (W)" tvg-logo="https://hxcv.site/images/cache/match-57ba865b4784abfe1b6fbd0da29fa568.png",Southern United (NZL)(W) vs Central Football  (W) [NHÀ ĐÀI - HLS]
 https://auto.cdnvankhanh.com/live/sd-6MvYboeA25EwnNYuji/playlist.m3u8
 #EXTINF:-1 group-title="Estudiantes de Caseros vs Estudiantes Rio Cuarto" tvg-logo="https://hxcv.site/images/cache/match-018078f354661f34480451d489e3da57.png",Estudiantes de Caseros vs Estudiantes Rio Cuarto [NHÀ ĐÀI - HLS]
 https://auto.cdnvankhanh.com/live/sd-6MvYM2Zt8UpsfmRBMN/playlist.m3u8
-#EXTINF:-1 group-title="Eastern Suburbs (W) vs Wellington Phoenix Reserves (W)" tvg-logo="https://hxcv.site/images/cache/match-3198badcb37ae33292894b8353e30b3e.png",Eastern Suburbs (W) vs Wellington Phoenix Reserves (W) [NHÀ ĐÀI - HLS]
-https://auto.cdnvankhanh.com/live/sd-6MvYboeAXUqqAfe4mS/playlist.m3u8
+#EXTINF:-1 group-title="FC Cincinnati vs Columbus Crew" tvg-logo="https://hxcv.site/images/cache/match-54e439284a48c65fab14f919b14d343d.png",FC Cincinnati vs Columbus Crew [BLV VÕ TÒNG - HLS]
+ https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 group-title="FC Cincinnati vs Columbus Crew" tvg-logo="https://hxcv.site/images/cache/match-54e439284a48c65fab14f919b14d343d.png",FC Cincinnati vs Columbus Crew [BLV VÕ TÒNG - FLV]
+ https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 group-title="Tigres UANL vs Atletico San Luis" tvg-logo="https://hxcv.site/images/cache/match-371c7a266998bf4279ba0b187ad691f0.png",Tigres UANL vs Atletico San Luis [BLV TỐNG GIANG - HLS]
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:-1 group-title="Tigres UANL vs Atletico San Luis" tvg-logo="https://hxcv.site/images/cache/match-371c7a266998bf4279ba0b187ad691f0.png",Tigres UANL vs Atletico San Luis [BLV TỐNG GIANG - FLV]
+https://flv.cdnok9.com/live/TONGGIANG.flv?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
 #EXTINF:-1 group-title="Canterbury United (W) vs West Coast Rangers (W)" tvg-logo="https://hxcv.site/images/cache/match-65d2e8357ec78cdfb9852fb63b984699.png",Canterbury United (W) vs West Coast Rangers (W) [NHÀ ĐÀI - HLS]
 https://auto.cdnvankhanh.com/live/sd-6MvYboeA233Tutizap/playlist.m3u8
+#EXTINF:-1 group-title="Eastern Suburbs (W) vs Wellington Phoenix Reserves (W)" tvg-logo="https://hxcv.site/images/cache/match-3198badcb37ae33292894b8353e30b3e.png",Eastern Suburbs (W) vs Wellington Phoenix Reserves (W) [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYboeAXUqqAfe4mS/playlist.m3u8
 #EXTINF:-1 group-title="Chivas Guadalajara vs Monterrey" tvg-logo="https://hxcv.site/images/cache/match-c8679c81dc167bb4d09779906d83a741.png",Chivas Guadalajara vs Monterrey [NHÀ ĐÀI - HLS]
 https://auto.cdnvankhanh.com/live/sd-6MuSNiyaaSHmKX1aC4/playlist.m3u8
 #EXTINF:-1 group-title="Atletico Nacional Medellin vs Aguilas Doradas" tvg-logo="https://hxcv.site/images/cache/match-d72c28adef7a168f853edbfd9de9313b.png",Atletico Nacional Medellin vs Aguilas Doradas [NHÀ ĐÀI - HLS]
@@ -43,6 +45,10 @@ https://auto.cdnvankhanh.com/live/sd-6MuTcdxwyT1xrZQwy6/playlist.m3u8
 https://auto.cdnvankhanh.com/live/sd-6MtMtP3mVHZGTtLBy6/playlist.m3u8
 #EXTINF:-1 group-title="Vila Nova vs Avai FC" tvg-logo="https://hxcv.site/images/cache/match-1ebf45af7f658be4e9cee1ba607e8aeb.png",Vila Nova vs Avai FC [NHÀ ĐÀI - HLS]
 https://auto.cdnvankhanh.com/live/sd-6MuS7qYBMe9uNX3qKa/playlist.m3u8
+#EXTINF:-1 group-title="Toluca vs Club America" tvg-logo="https://hxcv.site/images/cache/match-c843f12fe45a0f53aafc1510be1e89e9.png",Toluca vs Club America [BLV VÕ TÒNG - HLS]
+ https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 group-title="Toluca vs Club America" tvg-logo="https://hxcv.site/images/cache/match-c843f12fe45a0f53aafc1510be1e89e9.png",Toluca vs Club America [BLV VÕ TÒNG - FLV]
+ https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:-1 group-title="Atletico Bucaramanga vs La Equidad" tvg-logo="https://hxcv.site/images/cache/match-c435651bf3666271dbb557b60b7840c8.png",Atletico Bucaramanga vs La Equidad [NHÀ ĐÀI - HLS]
 https://auto.cdnvankhanh.com/live/sd-6MuTcdxwyLRXF7wCWQ/playlist.m3u8
 #EXTINF:-1 group-title="Hai Phong vs Da Nang" tvg-logo="https://hxcv.site/images/cache/match-9f5525295027628a0ec40a1814a79c81.png",Hai Phong vs Da Nang [BLV KENCHU - HLS]
