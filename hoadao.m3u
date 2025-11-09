@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/valencia-cf-vs-real-betis-2347599?mode=sd
-#EXTINF:-1 group-title="Valencia CF vs Real Betis" referer="https://hoadao.tv/valencia-cf-vs-real-betis-2347599?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-c391cd8682864b31e4e1ba540d6ccbda.png",Valencia CF vs Real Betis [BLV PHÁO - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/valencia-cf-vs-real-betis-2347599?mode=hd
-#EXTINF:-1 group-title="Valencia CF vs Real Betis" referer="https://hoadao.tv/valencia-cf-vs-real-betis-2347599?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-c391cd8682864b31e4e1ba540d6ccbda.png",Valencia CF vs Real Betis [BLV PHÁO - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/valencia-cf-vs-real-betis-2347599?mode=flv
-#EXTINF:-1 group-title="Valencia CF vs Real Betis" referer="https://hoadao.tv/valencia-cf-vs-real-betis-2347599?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-c391cd8682864b31e4e1ba540d6ccbda.png",Valencia CF vs Real Betis [BLV PHÁO - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/valencia-cf-vs-real-betis-2347599?mode=flv2
-#EXTINF:-1 group-title="Valencia CF vs Real Betis" referer="https://hoadao.tv/valencia-cf-vs-real-betis-2347599?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-c391cd8682864b31e4e1ba540d6ccbda.png",Valencia CF vs Real Betis [BLV PHÁO - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/valencia-cf-vs-real-betis-2347599?mode=ndsd
-#EXTINF:-1 group-title="Valencia CF vs Real Betis" referer="https://hoadao.tv/valencia-cf-vs-real-betis-2347599?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-c391cd8682864b31e4e1ba540d6ccbda.png",Valencia CF vs Real Betis [BLV PHÁO - SD (ND)]
-https://live.alilicloud.com/live/22fa2016e8c8ed1b59d5ace191a2bb23/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/inter-milan-vs-lazio-2347625?mode=sd
 #EXTINF:-1 group-title="Inter Milan vs Lazio" referer="https://hoadao.tv/inter-milan-vs-lazio-2347625?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-a773a651834c6f7f58bbaab3260ae2dc.png",Inter Milan vs Lazio [BLV MÈO BÉO - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
@@ -44,42 +29,27 @@ https://pjoo0925.edgemaxcdn.org/live/blv_cachep.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/lyon-vs-paris-saint-germain-2347626?mode=ndsd
 #EXTINF:-1 group-title="Lyon vs Paris Saint Germain" referer="https://hoadao.tv/lyon-vs-paris-saint-germain-2347626?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-72f9acf47dd7baf28b24d75072b7a58b.png",Lyon vs Paris Saint Germain [BLV CÁ CHÉP - SD (ND)]
 https://live.alilicloud.com/live/fc4eaafb571a4b7dbe084572b8c235c4/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/huachipato-vs-audax-italiano-2347603?mode=ndsd
-#EXTINF:-1 group-title="Huachipato vs Audax Italiano" referer="https://hoadao.tv/huachipato-vs-audax-italiano-2347603?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-e3bd4e7ad6192e9418c6ed3a41fc7586.png",Huachipato vs Audax Italiano [No BLV - SD (ND)]
-https://live.alilicloud.com/live/26d92f5b9851ac2a76e7e32f2f1797e7/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/fc-famalicao-vs-fc-porto-2347606?mode=ndsd
-#EXTINF:-1 group-title="FC Famalicao vs FC Porto" referer="https://hoadao.tv/fc-famalicao-vs-fc-porto-2347606?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-676bf1130fe6cb601b66c2630103ac94.png",FC Famalicao vs FC Porto [No BLV - SD (ND)]
-https://live.alilicloud.com/live/95bf8f17aa6db835a13c61e71e404b03/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/hapoel-haifa-vs-hapoel-petah-tikva-2346705?mode=ndsd
-#EXTINF:-1 group-title="Hapoel Haifa vs Hapoel Petah Tikva" referer="https://hoadao.tv/hapoel-haifa-vs-hapoel-petah-tikva-2346705?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-6c000e5118dbee66db3ed224beffb95d.png",Hapoel Haifa vs Hapoel Petah Tikva [No BLV - SD (ND)]
-https://live.alilicloud.com/live/85b2370c543511067a4b204c0ee46227/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/kv-mechelen-vs-union-saint-gilloise-2347607?mode=ndsd
-#EXTINF:-1 group-title="KV Mechelen vs Union Saint-Gilloise" referer="https://hoadao.tv/kv-mechelen-vs-union-saint-gilloise-2347607?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-0f7da8ac7ced05507d23b62bc50226f8.png",KV Mechelen vs Union Saint-Gilloise [No BLV - SD (ND)]
-https://live.alilicloud.com/live/0bd90f1494ec07b4b37792346f693c53/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/haugesund-vs-molde-2346586?mode=ndsd
-#EXTINF:-1 group-title="Haugesund vs Molde" referer="https://hoadao.tv/haugesund-vs-molde-2346586?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-816e2782ea3ffad51ddb7c3630c844f0.png",Haugesund vs Molde [No BLV - SD (ND)]
-https://live.alilicloud.com/live/27248874d78859805695afc07c1acd2c/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/maccabi-tel-aviv-vs-beitar-jerusalem-2347605?mode=ndsd
-#EXTINF:-1 group-title="Maccabi Tel Aviv vs Beitar Jerusalem" referer="https://hoadao.tv/maccabi-tel-aviv-vs-beitar-jerusalem-2347605?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-21001e2806c9cabb2b47893355f8ab4b.png",Maccabi Tel Aviv vs Beitar Jerusalem [No BLV - SD (ND)]
-https://live.alilicloud.com/live/a49d0b3f2bbe8454ab9faeb05c9c9a3d/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/eintracht-frankfurt-vs-1-fsv-mainz-05-2347608?mode=ndsd
-#EXTINF:-1 group-title="Eintracht Frankfurt vs 1. FSV Mainz 05" referer="https://hoadao.tv/eintracht-frankfurt-vs-1-fsv-mainz-05-2347608?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-4b0791740000ecfc3cc9001ccbb08203.png",Eintracht Frankfurt vs 1. FSV Mainz 05 [No BLV - SD (ND)]
-https://live.alilicloud.com/live/677effdecb5b0aa6f847868c91cea6ac/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/hermannstadt-vs-fotbal-club-fcsb-2347609?mode=ndsd
-#EXTINF:-1 group-title="Hermannstadt vs Fotbal Club FCSB" referer="https://hoadao.tv/hermannstadt-vs-fotbal-club-fcsb-2347609?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-2a71188b23615e1f5951d553469a0aec.png",Hermannstadt vs Fotbal Club FCSB [No BLV - SD (ND)]
-https://live.alilicloud.com/live/74b719259d541ecec9fc5213969726d9/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/sv-wehen-wiesbaden-vs-fc-viktoria-kln-2347610?mode=ndsd
-#EXTINF:-1 group-title="SV Wehen Wiesbaden vs FC Viktoria Köln" referer="https://hoadao.tv/sv-wehen-wiesbaden-vs-fc-viktoria-kln-2347610?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-6c57940576c556f614356ab598a56bd4.png",SV Wehen Wiesbaden vs FC Viktoria Köln [No BLV - SD (ND)]
-https://live.alilicloud.com/live/1ac0c3f9b663b40e6f03fe5c8c93e68f/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/rc-celta-vs-fc-barcelona-2347627?mode=sd
+#EXTINF:-1 group-title="RC Celta vs FC Barcelona" referer="https://hoadao.tv/rc-celta-vs-fc-barcelona-2347627?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-77066b4c95d140c93a1774b10a7489f6.png",RC Celta vs FC Barcelona [BLV CHIM NHỎ - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/rc-celta-vs-fc-barcelona-2347627?mode=hd
+#EXTINF:-1 group-title="RC Celta vs FC Barcelona" referer="https://hoadao.tv/rc-celta-vs-fc-barcelona-2347627?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-77066b4c95d140c93a1774b10a7489f6.png",RC Celta vs FC Barcelona [BLV CHIM NHỎ - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/rc-celta-vs-fc-barcelona-2347627?mode=flv
+#EXTINF:-1 group-title="RC Celta vs FC Barcelona" referer="https://hoadao.tv/rc-celta-vs-fc-barcelona-2347627?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-77066b4c95d140c93a1774b10a7489f6.png",RC Celta vs FC Barcelona [BLV CHIM NHỎ - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/rc-celta-vs-fc-barcelona-2347627?mode=flv2
+#EXTINF:-1 group-title="RC Celta vs FC Barcelona" referer="https://hoadao.tv/rc-celta-vs-fc-barcelona-2347627?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-77066b4c95d140c93a1774b10a7489f6.png",RC Celta vs FC Barcelona [BLV CHIM NHỎ - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/rc-celta-vs-fc-barcelona-2347627?mode=ndsd
+#EXTINF:-1 group-title="RC Celta vs FC Barcelona" referer="https://hoadao.tv/rc-celta-vs-fc-barcelona-2347627?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-77066b4c95d140c93a1774b10a7489f6.png",RC Celta vs FC Barcelona [BLV CHIM NHỎ - SD (ND)]
+https://live.alilicloud.com/live/d5368458e6d423e051d4b4cbe4e3e7a1/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/deportiva-once-caldas-vs-deportivo-pasto-2347612?mode=ndsd
 #EXTINF:-1 group-title="Deportiva Once Caldas vs Deportivo Pasto" referer="https://hoadao.tv/deportiva-once-caldas-vs-deportivo-pasto-2347612?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-4cb4b4790e4472bd8e111d0172706489.png",Deportiva Once Caldas vs Deportivo Pasto [No BLV - SD (ND)]
 https://live.alilicloud.com/live/24f6b161c52336fcc0fcd3ac8a6d93cb/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/panathinaikos-vs-paok-saloniki-2347613?mode=ndsd
 #EXTINF:-1 group-title="Panathinaikos vs PAOK Saloniki" referer="https://hoadao.tv/panathinaikos-vs-paok-saloniki-2347613?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-10ace83e40a2d497b9730a027f451efb.png",Panathinaikos vs PAOK Saloniki [No BLV - SD (ND)]
 https://live.alilicloud.com/live/a98df8ffd02b227ef45d0512ab307c5d/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/as-far-rabat-vs-maghreb-fez-2347614?mode=ndsd
-#EXTINF:-1 group-title="AS FAR Rabat vs Maghreb Fez" referer="https://hoadao.tv/as-far-rabat-vs-maghreb-fez-2347614?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-8880360a35c885941d6454d758cfa03e.png",AS FAR Rabat vs Maghreb Fez [No BLV - SD (ND)]
-https://live.alilicloud.com/live/3112d8e64a636869a4945d90a99c7b1b/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/corinthians-paulista-sp-vs-ceara-2347615?mode=ndsd
 #EXTINF:-1 group-title="Corinthians Paulista (SP) vs Ceara" referer="https://hoadao.tv/corinthians-paulista-sp-vs-ceara-2347615?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-ea7576be28cc1d83607fcd0d4262cb20.png",Corinthians Paulista (SP) vs Ceara [No BLV - SD (ND)]
 https://live.alilicloud.com/live/03574dfe666a8a1a92cfa0eb557125e1/playlist.m3u8
@@ -116,3 +86,60 @@ https://live.alilicloud.com/live/d547df5a348af12e66c14c683101a62b/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/ca-juventud-vs-club-atletico-progreso-2347745?mode=ndsd
 #EXTINF:-1 group-title="CA Juventud vs Club Atletico Progreso" referer="https://hoadao.tv/ca-juventud-vs-club-atletico-progreso-2347745?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-f10edcc820c871405377b1ba5fd3657d.png",CA Juventud vs Club Atletico Progreso [No BLV - SD (ND)]
 https://live.alilicloud.com/live/e97cfa400cd472bb6cb99156279353bc/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/inter-milan-vs-lazio-2347625?mode=sd
+#EXTINF:-1 group-title="Inter Milan vs Lazio" referer="https://hoadao.tv/inter-milan-vs-lazio-2347625?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-a773a651834c6f7f58bbaab3260ae2dc.png",Inter Milan vs Lazio [No BLV - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/inter-milan-vs-lazio-2347625?mode=hd
+#EXTINF:-1 group-title="Inter Milan vs Lazio" referer="https://hoadao.tv/inter-milan-vs-lazio-2347625?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-a773a651834c6f7f58bbaab3260ae2dc.png",Inter Milan vs Lazio [No BLV - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/inter-milan-vs-lazio-2347625?mode=flv
+#EXTINF:-1 group-title="Inter Milan vs Lazio" referer="https://hoadao.tv/inter-milan-vs-lazio-2347625?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-a773a651834c6f7f58bbaab3260ae2dc.png",Inter Milan vs Lazio [No BLV - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/inter-milan-vs-lazio-2347625?mode=flv2
+#EXTINF:-1 group-title="Inter Milan vs Lazio" referer="https://hoadao.tv/inter-milan-vs-lazio-2347625?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-a773a651834c6f7f58bbaab3260ae2dc.png",Inter Milan vs Lazio [No BLV - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/inter-milan-vs-lazio-2347625?mode=ndsd
+#EXTINF:-1 group-title="Inter Milan vs Lazio" referer="https://hoadao.tv/inter-milan-vs-lazio-2347625?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-a773a651834c6f7f58bbaab3260ae2dc.png",Inter Milan vs Lazio [No BLV - SD (ND)]
+https://live.alilicloud.com/live/8eb855cb96a415cc379ec92f0f6146e3/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/lyon-vs-paris-saint-germain-2347626?mode=sd
+#EXTINF:-1 group-title="Lyon vs Paris Saint Germain" referer="https://hoadao.tv/lyon-vs-paris-saint-germain-2347626?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-72f9acf47dd7baf28b24d75072b7a58b.png",Lyon vs Paris Saint Germain [No BLV - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_cachep/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/lyon-vs-paris-saint-germain-2347626?mode=hd
+#EXTINF:-1 group-title="Lyon vs Paris Saint Germain" referer="https://hoadao.tv/lyon-vs-paris-saint-germain-2347626?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-72f9acf47dd7baf28b24d75072b7a58b.png",Lyon vs Paris Saint Germain [No BLV - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_cachep/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/lyon-vs-paris-saint-germain-2347626?mode=flv
+#EXTINF:-1 group-title="Lyon vs Paris Saint Germain" referer="https://hoadao.tv/lyon-vs-paris-saint-germain-2347626?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-72f9acf47dd7baf28b24d75072b7a58b.png",Lyon vs Paris Saint Germain [No BLV - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_cachep.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/lyon-vs-paris-saint-germain-2347626?mode=flv2
+#EXTINF:-1 group-title="Lyon vs Paris Saint Germain" referer="https://hoadao.tv/lyon-vs-paris-saint-germain-2347626?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-72f9acf47dd7baf28b24d75072b7a58b.png",Lyon vs Paris Saint Germain [No BLV - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_cachep.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/lyon-vs-paris-saint-germain-2347626?mode=ndsd
+#EXTINF:-1 group-title="Lyon vs Paris Saint Germain" referer="https://hoadao.tv/lyon-vs-paris-saint-germain-2347626?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-72f9acf47dd7baf28b24d75072b7a58b.png",Lyon vs Paris Saint Germain [No BLV - SD (ND)]
+https://live.alilicloud.com/live/fc4eaafb571a4b7dbe084572b8c235c4/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/portland-thorns-fc-women-vs-san-diego-wave-women-2347789?mode=ndsd
+#EXTINF:-1 group-title="Portland Thorns FC Women vs San Diego Wave Women" referer="https://hoadao.tv/portland-thorns-fc-women-vs-san-diego-wave-women-2347789?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-fbfc507ec24feb540279fc865aa2c755.png",Portland Thorns FC Women vs San Diego Wave Women [No BLV - SD (ND)]
+https://live.alilicloud.com/live/6a5499c916f0c75eec8002f25f4d1e4d/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/criciuma-vs-atletico-clube-goianiense-2346780?mode=ndsd
+#EXTINF:-1 group-title="Criciuma vs Atletico Clube Goianiense" referer="https://hoadao.tv/criciuma-vs-atletico-clube-goianiense-2346780?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-9e6e540ff4808d675a6a3014788ecab6.png",Criciuma vs Atletico Clube Goianiense [No BLV - SD (ND)]
+https://live.alilicloud.com/live/61f701435d9e6e3e545f924e359cbbb1/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/rc-celta-vs-fc-barcelona-2347627?mode=sd
+#EXTINF:-1 group-title="RC Celta vs FC Barcelona" referer="https://hoadao.tv/rc-celta-vs-fc-barcelona-2347627?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-77066b4c95d140c93a1774b10a7489f6.png",RC Celta vs FC Barcelona [No BLV - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/rc-celta-vs-fc-barcelona-2347627?mode=hd
+#EXTINF:-1 group-title="RC Celta vs FC Barcelona" referer="https://hoadao.tv/rc-celta-vs-fc-barcelona-2347627?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-77066b4c95d140c93a1774b10a7489f6.png",RC Celta vs FC Barcelona [No BLV - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/rc-celta-vs-fc-barcelona-2347627?mode=flv
+#EXTINF:-1 group-title="RC Celta vs FC Barcelona" referer="https://hoadao.tv/rc-celta-vs-fc-barcelona-2347627?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-77066b4c95d140c93a1774b10a7489f6.png",RC Celta vs FC Barcelona [No BLV - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/rc-celta-vs-fc-barcelona-2347627?mode=flv2
+#EXTINF:-1 group-title="RC Celta vs FC Barcelona" referer="https://hoadao.tv/rc-celta-vs-fc-barcelona-2347627?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-77066b4c95d140c93a1774b10a7489f6.png",RC Celta vs FC Barcelona [No BLV - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/rc-celta-vs-fc-barcelona-2347627?mode=ndsd
+#EXTINF:-1 group-title="RC Celta vs FC Barcelona" referer="https://hoadao.tv/rc-celta-vs-fc-barcelona-2347627?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-77066b4c95d140c93a1774b10a7489f6.png",RC Celta vs FC Barcelona [No BLV - SD (ND)]
+https://live.alilicloud.com/live/d5368458e6d423e051d4b4cbe4e3e7a1/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/cadiz-vs-real-valladolid-cf-2347628?mode=ndsd
+#EXTINF:-1 group-title="Cadiz vs Real Valladolid CF" referer="https://hoadao.tv/cadiz-vs-real-valladolid-cf-2347628?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-a613c4bb73ee26fa578cf4f4882b9750.png",Cadiz vs Real Valladolid CF [No BLV - SD (ND)]
+https://live.alilicloud.com/live/75d97c0a02a1b1deafd578389a085434/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/alianza-atletico-sullana-vs-alianza-universidad-de-huanuco-2347629?mode=ndsd
+#EXTINF:-1 group-title="Alianza Atletico Sullana vs Alianza Universidad de Huánuco" referer="https://hoadao.tv/alianza-atletico-sullana-vs-alianza-universidad-de-huanuco-2347629?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-3aaa2e7ac8d6cce40a8b05202800f1f6.png",Alianza Atletico Sullana vs Alianza Universidad de Huánuco [No BLV - SD (ND)]
+https://live.alilicloud.com/live/27fd5d46b646617411e05a97da003280/playlist.m3u8
