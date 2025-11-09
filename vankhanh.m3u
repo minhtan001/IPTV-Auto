@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Sunderland vs Arsenal" tvg-logo="https://hxcv.site/images/cache/match-50cf783d4d5a51dd45294df6696d234b.png",Sunderland vs Arsenal [BLV VĂN LONG - HLS]
-https://hls.cdnvankhanh.com/live/LIVEIDOL/index.m3u8?expire=1892268480&sign=ad89f5d0e54a928eedab933028b7035d
-#EXTINF:-1 group-title="Sunderland vs Arsenal" tvg-logo="https://hxcv.site/images/cache/match-50cf783d4d5a51dd45294df6696d234b.png",Sunderland vs Arsenal [BLV VĂN LONG - FLV]
-https://flv.cdnvankhanh.com/live/LIVEIDOL.flv?expire=1892268480&sign=ad89f5d0e54a928eedab933028b7035d
-#EXTINF:-1 group-title="CDSyC Cruz Azul vs Pumas U.N.A.M." tvg-logo="https://hxcv.site/images/cache/match-56f127fbdbc91cff8c6b9ee0b87e3d87.png",CDSyC Cruz Azul vs Pumas U.N.A.M. [BLV TIỂU LINH - HLS]
-https://hls.cdnvankhanh.com/live/TIEULINH/index.m3u8?expire=1891779900&sign=5353000df59fd7da4b1d1f4a66da8495
-#EXTINF:-1 group-title="CDSyC Cruz Azul vs Pumas U.N.A.M." tvg-logo="https://hxcv.site/images/cache/match-56f127fbdbc91cff8c6b9ee0b87e3d87.png",CDSyC Cruz Azul vs Pumas U.N.A.M. [BLV TIỂU LINH - FLV]
-https://flv.cdnvankhanh.com/live/TIEULINH.flv?expire=1891779900&sign=5353000df59fd7da4b1d1f4a66da8495
 #EXTINF:-1 group-title="Sydney FC vs FC Macarthur" tvg-logo="https://hxcv.site/images/cache/match-bd19041104e6ddda8ee5241ff4e1afc8.png",Sydney FC vs FC Macarthur [BLV GIÁO SƯ XOAY - HLS]
 https://hls.cdnvankhanh.com/live/GIAOSUXOAY/index.m3u8?expire=1892730180&sign=c561b814d05f14cf153b87d973755453
 #EXTINF:-1 group-title="Sydney FC vs FC Macarthur" tvg-logo="https://hxcv.site/images/cache/match-bd19041104e6ddda8ee5241ff4e1afc8.png",Sydney FC vs FC Macarthur [BLV GIÁO SƯ XOAY - FLV]
@@ -15,15 +7,35 @@ https://hls.cdnvankhanh.com/live/GIAOSUXOAY/index.m3u8?expire=1892730180&sign=c5
  https://hls.cdnvankhanh.com/live/VANKHANG/index.m3u8?expire=1862206680&sign=7ac84ad876b1ccbad9036fe76373e2c6
 #EXTINF:-1 group-title="Pohang Steelers vs FC Seoul" tvg-logo="https://hxcv.site/images/cache/match-5180e303c47250de33ef2f314c1c4be5.png",Pohang Steelers vs FC Seoul [BLV VĂN KHANG - FLV]
  https://flv.cdnvankhanh.com/live/VANKHANG.flv?expire=1862206680&sign=7ac84ad876b1ccbad9036fe76373e2c6
-#EXTINF:-1 group-title="Kyoto Sanga vs Yokohama Marinos" tvg-logo="https://hxcv.site/images/cache/match-dd61756c78e894d742541996be6e04eb.png",Kyoto Sanga vs Yokohama Marinos [BLV VĂN CHƯƠNG - HLS]
-https://hls.cdnvankhanh.com/live/VANCHUONG/index.m3u8?expire=1890806880&sign=d5e33b097684f7c5682301b78b825aaf
-#EXTINF:-1 group-title="Kyoto Sanga vs Yokohama Marinos" tvg-logo="https://hxcv.site/images/cache/match-dd61756c78e894d742541996be6e04eb.png",Kyoto Sanga vs Yokohama Marinos [BLV VĂN CHƯƠNG - FLV]
-https://flv.cdnvankhanh.com/live/VANCHUONG.flv?expire=1890806880&sign=d5e33b097684f7c5682301b78b825aaf
 #EXTINF:-1 group-title="Machida Zelvia vs FC Tokyo" tvg-logo="https://hxcv.site/images/cache/match-70a2bd781c9c6c5303410754bb3d2136.png",Machida Zelvia vs FC Tokyo [BLV VĂN ĐỘ - HLS]
 https://hls.cdnvankhanh.com/live/VANDO/index.m3u8?expire=1892812920&sign=a0a29c944a41e507a7d578db683ea31a
 #EXTINF:-1 group-title="Machida Zelvia vs FC Tokyo" tvg-logo="https://hxcv.site/images/cache/match-70a2bd781c9c6c5303410754bb3d2136.png",Machida Zelvia vs FC Tokyo [BLV VĂN ĐỘ - FLV]
  https://flv.cdnvankhanh.com/live/VANDO.flv?expire=1892812920&sign=a0a29c944a41e507a7d578db683ea31a
+#EXTINF:-1 group-title="Kyoto Sanga vs Yokohama Marinos" tvg-logo="https://hxcv.site/images/cache/match-dd61756c78e894d742541996be6e04eb.png",Kyoto Sanga vs Yokohama Marinos [BLV VĂN CHƯƠNG - HLS]
+https://hls.cdnvankhanh.com/live/VANCHUONG/index.m3u8?expire=1890806880&sign=d5e33b097684f7c5682301b78b825aaf
+#EXTINF:-1 group-title="Kyoto Sanga vs Yokohama Marinos" tvg-logo="https://hxcv.site/images/cache/match-dd61756c78e894d742541996be6e04eb.png",Kyoto Sanga vs Yokohama Marinos [BLV VĂN CHƯƠNG - FLV]
+https://flv.cdnvankhanh.com/live/VANCHUONG.flv?expire=1890806880&sign=d5e33b097684f7c5682301b78b825aaf
+#EXTINF:-1 group-title="Sunderland vs Arsenal" tvg-logo="https://hxcv.site/images/cache/match-50cf783d4d5a51dd45294df6696d234b.png",Sunderland vs Arsenal [BLV VĂN LONG - HLS]
+https://hls.cdnvankhanh.com/live/LIVEIDOL/index.m3u8?expire=1892268480&sign=ad89f5d0e54a928eedab933028b7035d
+#EXTINF:-1 group-title="Sunderland vs Arsenal" tvg-logo="https://hxcv.site/images/cache/match-50cf783d4d5a51dd45294df6696d234b.png",Sunderland vs Arsenal [BLV VĂN LONG - FLV]
+https://flv.cdnvankhanh.com/live/LIVEIDOL.flv?expire=1892268480&sign=ad89f5d0e54a928eedab933028b7035d
 #EXTINF:-1 group-title="Tottenham vs Manchester United " tvg-logo="https://hxcv.site/images/cache/match-2f379232031b6770d6ba38b7a0f5581b.png",Tottenham vs Manchester United  [VĂN CHUN & VĂN VẺ - HLS]
 https://hls.cdnvankhanh.com/live/TO3C/index.m3u8?expire=1875681300&sign=015129bcbd63368bf36946e12b5950c6
 #EXTINF:-1 group-title="Tottenham vs Manchester United " tvg-logo="https://hxcv.site/images/cache/match-2f379232031b6770d6ba38b7a0f5581b.png",Tottenham vs Manchester United  [VĂN CHUN & VĂN VẺ - FLV]
 https://flv.cdnvankhanh.com/live/TO3C.flv?expire=1875681300&sign=015129bcbd63368bf36946e12b5950c6
+#EXTINF:-1 group-title="Gamba Osaka vs Vissel Kobe" tvg-logo="https://hxcv.site/images/cache/match-266ebece326cf3534a3295e2c87db5ad.png",Gamba Osaka vs Vissel Kobe [BLV DOCTOR - HLS]
+https://hls.cdnvankhanh.com/live/DOCTOR/index.m3u8?expire=1890806880&sign=122b6adf5f25b6a125910438f775abb8
+#EXTINF:-1 group-title="Gamba Osaka vs Vissel Kobe" tvg-logo="https://hxcv.site/images/cache/match-266ebece326cf3534a3295e2c87db5ad.png",Gamba Osaka vs Vissel Kobe [BLV DOCTOR - FLV]
+https://flv.cdnvankhanh.com/live/DOCTOR.flv?expire=1890806880&sign=122b6adf5f25b6a125910438f775abb8C
+#EXTINF:-1 group-title="Shimizu S-Pulse vs Cerezo Osaka" tvg-logo="https://hxcv.site/images/cache/match-c8822b00b5d63d4c91000e4eee33120a.png",Shimizu S-Pulse vs Cerezo Osaka [BLV VĂN MILAN - HLS]
+https://hls.cdnvankhanh.com/live/VANMILAN/index.m3u8?expire=1892616120&sign=a4103cfb6e6a1371923d317a9442db9b
+#EXTINF:-1 group-title="Shimizu S-Pulse vs Cerezo Osaka" tvg-logo="https://hxcv.site/images/cache/match-c8822b00b5d63d4c91000e4eee33120a.png",Shimizu S-Pulse vs Cerezo Osaka [BLV VĂN MILAN - FLV]
+https://flv.cdnvankhanh.com/live/VANMILAN.flv?expire=1892616120&sign=a4103cfb6e6a1371923d317a9442db9b
+#EXTINF:-1 group-title="Brisbane Roar vs Newcastle Jets" tvg-logo="https://hxcv.site/images/cache/match-7d217626100a59c9875ca883016dd265.png",Brisbane Roar vs Newcastle Jets [BLV VĂN TÀI - HLS]
+https://hls.cdnvankhanh.com/live/VANTAI/index.m3u8?expire=1860501480&sign=48479b66b503225db4b2785147e6c4d1
+#EXTINF:-1 group-title="Brisbane Roar vs Newcastle Jets" tvg-logo="https://hxcv.site/images/cache/match-7d217626100a59c9875ca883016dd265.png",Brisbane Roar vs Newcastle Jets [BLV VĂN TÀI - FLV]
+https://flv.cdnvankhanh.com/live/VANTAI.flv?expire=1860501480&sign=48479b66b503225db4b2785147e6c4d1
+#EXTINF:-1 group-title="Brisbane Roar vs Newcastle Jets" tvg-logo="https://hxcv.site/images/cache/match-7d217626100a59c9875ca883016dd265.png",Brisbane Roar vs Newcastle Jets [VĂN QUÁ - HLS]
+https://hls.cdnvankhanh.com/live/VANBIA/index.m3u8?expire=1892730180&sign=ca1be0c0d408ba9ac0bf97ec02f5049e
+#EXTINF:-1 group-title="Brisbane Roar vs Newcastle Jets" tvg-logo="https://hxcv.site/images/cache/match-7d217626100a59c9875ca883016dd265.png",Brisbane Roar vs Newcastle Jets [VĂN QUÁ - FLV]
+https://flv.cdnvankhanh.com/live/VANBIA.flv?expire=1892730180&sign=ca1be0c0d408ba9ac0bf97ec02f5049e
