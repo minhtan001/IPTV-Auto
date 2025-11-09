@@ -1,17 +1,5 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
-#EXTINF:-1 group-title="Long An FC vs Hồ Chí Minh II" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-3e6476741229140d4c8f94d8023f72d1.png",Long An FC vs Hồ Chí Minh II [Nhà Đài - HD1 - Nhà Đài - HD1]
-https://gckc0525.edgemaxcdn.org/live/m4x2/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
-#EXTINF:-1 group-title="Long An FC vs Hồ Chí Minh II" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-3e6476741229140d4c8f94d8023f72d1.png",Long An FC vs Hồ Chí Minh II [Nhà Đài - HD1 - Nhà Đài - HD2]
-https://gckc0525.edgemaxcdn.org/live/m4x2.flv
-#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
-#EXTINF:-1 group-title="Long An FC vs Hồ Chí Minh II" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-3e6476741229140d4c8f94d8023f72d1.png",Long An FC vs Hồ Chí Minh II [Nhà Đài - HD2 - Nhà Đài - HD1]
-https://gckc0525.edgemaxcdn.org/live/m4x2/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
-#EXTINF:-1 group-title="Long An FC vs Hồ Chí Minh II" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-3e6476741229140d4c8f94d8023f72d1.png",Long An FC vs Hồ Chí Minh II [Nhà Đài - HD2 - Nhà Đài - HD2]
-https://gckc0525.edgemaxcdn.org/live/m4x2.flv
-#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
 #EXTINF:-1 group-title="Hoang Anh Gia Lai vs Thanh Hóa" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-3e2eb563fb8584d1421b5c9202484f76.png",Hoang Anh Gia Lai vs Thanh Hóa [Chuối Lùn - HD1 - Chuối Lùn - HD1]
 https://gckc0525.edgemaxcdn.org/live/chuoilun/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
@@ -120,29 +108,233 @@ https://stream.chuoichien.tv/chuoilun/index.m3u8
 #EXTINF:-1 group-title="Hoang Anh Gia Lai vs Thanh Hóa" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-3e2eb563fb8584d1421b5c9202484f76.png",Hoang Anh Gia Lai vs Thanh Hóa [Chuối Lùn - SD2 - Chuối Lùn - SD2]
 https://stream.chuoichien.tv/chuoilun.flv
 #EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
-#EXTINF:-1 group-title="Slavia Sofia vs Montana" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-7117fad3cf020088ddbcde8d4e7254f8.png",Slavia Sofia vs Montana [Nhà Đài - HD1 - Nhà Đài - HD1]
-https://gckc0525.edgemaxcdn.org/live/m4x4/playlist.m3u8
+#EXTINF:-1 group-title="Hai Phong vs Da Nang" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-615377a9770cf311997f0f549458b7ec.png",Hai Phong vs Da Nang [BLV Chuối Hột - HD1 - BLV Chuối Hột - HD1]
+https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
-#EXTINF:-1 group-title="Slavia Sofia vs Montana" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-7117fad3cf020088ddbcde8d4e7254f8.png",Slavia Sofia vs Montana [Nhà Đài - HD1 - Nhà Đài - HD2]
-https://gckc0525.edgemaxcdn.org/live/m4x4.flv
+#EXTINF:-1 group-title="Hai Phong vs Da Nang" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-615377a9770cf311997f0f549458b7ec.png",Hai Phong vs Da Nang [BLV Chuối Hột - HD1 - BLV Chuối Hột - HD2]
+https://cyber.chuoichien.tv/chuoihot/index.m3u8
 #EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
-#EXTINF:-1 group-title="Slavia Sofia vs Montana" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-7117fad3cf020088ddbcde8d4e7254f8.png",Slavia Sofia vs Montana [Nhà Đài - HD2 - Nhà Đài - HD1]
-https://gckc0525.edgemaxcdn.org/live/m4x4/playlist.m3u8
+#EXTINF:-1 group-title="Hai Phong vs Da Nang" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-615377a9770cf311997f0f549458b7ec.png",Hai Phong vs Da Nang [BLV Chuối Hột - HD1 - BLV Chuối Hột - HD3]
+https://gckc0525.edgemaxcdn.org/live/chuoihot.flv
 #EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
-#EXTINF:-1 group-title="Slavia Sofia vs Montana" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-7117fad3cf020088ddbcde8d4e7254f8.png",Slavia Sofia vs Montana [Nhà Đài - HD2 - Nhà Đài - HD2]
-https://gckc0525.edgemaxcdn.org/live/m4x4.flv
+#EXTINF:-1 group-title="Hai Phong vs Da Nang" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-615377a9770cf311997f0f549458b7ec.png",Hai Phong vs Da Nang [BLV Chuối Hột - HD1 - BLV Chuối Hột - HD4]
+https://cyber.chuoichien.tv/chuoihot.flv
 #EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
-#EXTINF:-1 group-title="Dewa United vs PSM Makassar" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-ddc18dcc2adb43684ac26eeb34b46a54.png",Dewa United vs PSM Makassar [Nhà Đài - HD1 - Nhà Đài - HD1]
-https://gckc0525.edgemaxcdn.org/live/m4x1/playlist.m3u8
+#EXTINF:-1 group-title="Hai Phong vs Da Nang" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-615377a9770cf311997f0f549458b7ec.png",Hai Phong vs Da Nang [BLV Chuối Hột - HD1 - BLV Chuối Hột - SD1]
+https://stream.chuoichien.tv/chuoihot/index.m3u8
 #EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
-#EXTINF:-1 group-title="Dewa United vs PSM Makassar" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-ddc18dcc2adb43684ac26eeb34b46a54.png",Dewa United vs PSM Makassar [Nhà Đài - HD1 - Nhà Đài - HD2]
-https://gckc0525.edgemaxcdn.org/live/m4x1.flv
+#EXTINF:-1 group-title="Hai Phong vs Da Nang" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-615377a9770cf311997f0f549458b7ec.png",Hai Phong vs Da Nang [BLV Chuối Hột - HD1 - BLV Chuối Hột - SD2]
+https://stream.chuoichien.tv/chuoihot.flv
 #EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
-#EXTINF:-1 group-title="Dewa United vs PSM Makassar" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-ddc18dcc2adb43684ac26eeb34b46a54.png",Dewa United vs PSM Makassar [Nhà Đài - HD2 - Nhà Đài - HD1]
-https://gckc0525.edgemaxcdn.org/live/m4x1/playlist.m3u8
+#EXTINF:-1 group-title="Hai Phong vs Da Nang" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-615377a9770cf311997f0f549458b7ec.png",Hai Phong vs Da Nang [BLV Chuối Hột - HD2 - BLV Chuối Hột - HD1]
+https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
-#EXTINF:-1 group-title="Dewa United vs PSM Makassar" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-ddc18dcc2adb43684ac26eeb34b46a54.png",Dewa United vs PSM Makassar [Nhà Đài - HD2 - Nhà Đài - HD2]
-https://gckc0525.edgemaxcdn.org/live/m4x1.flv
+#EXTINF:-1 group-title="Hai Phong vs Da Nang" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-615377a9770cf311997f0f549458b7ec.png",Hai Phong vs Da Nang [BLV Chuối Hột - HD2 - BLV Chuối Hột - HD2]
+https://cyber.chuoichien.tv/chuoihot/index.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Hai Phong vs Da Nang" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-615377a9770cf311997f0f549458b7ec.png",Hai Phong vs Da Nang [BLV Chuối Hột - HD2 - BLV Chuối Hột - HD3]
+https://gckc0525.edgemaxcdn.org/live/chuoihot.flv
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Hai Phong vs Da Nang" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-615377a9770cf311997f0f549458b7ec.png",Hai Phong vs Da Nang [BLV Chuối Hột - HD2 - BLV Chuối Hột - HD4]
+https://cyber.chuoichien.tv/chuoihot.flv
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Hai Phong vs Da Nang" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-615377a9770cf311997f0f549458b7ec.png",Hai Phong vs Da Nang [BLV Chuối Hột - HD2 - BLV Chuối Hột - SD1]
+https://stream.chuoichien.tv/chuoihot/index.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Hai Phong vs Da Nang" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-615377a9770cf311997f0f549458b7ec.png",Hai Phong vs Da Nang [BLV Chuối Hột - HD2 - BLV Chuối Hột - SD2]
+https://stream.chuoichien.tv/chuoihot.flv
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Hai Phong vs Da Nang" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-615377a9770cf311997f0f549458b7ec.png",Hai Phong vs Da Nang [BLV Chuối Hột - HD3 - BLV Chuối Hột - HD1]
+https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Hai Phong vs Da Nang" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-615377a9770cf311997f0f549458b7ec.png",Hai Phong vs Da Nang [BLV Chuối Hột - HD3 - BLV Chuối Hột - HD2]
+https://cyber.chuoichien.tv/chuoihot/index.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Hai Phong vs Da Nang" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-615377a9770cf311997f0f549458b7ec.png",Hai Phong vs Da Nang [BLV Chuối Hột - HD3 - BLV Chuối Hột - HD3]
+https://gckc0525.edgemaxcdn.org/live/chuoihot.flv
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Hai Phong vs Da Nang" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-615377a9770cf311997f0f549458b7ec.png",Hai Phong vs Da Nang [BLV Chuối Hột - HD3 - BLV Chuối Hột - HD4]
+https://cyber.chuoichien.tv/chuoihot.flv
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Hai Phong vs Da Nang" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-615377a9770cf311997f0f549458b7ec.png",Hai Phong vs Da Nang [BLV Chuối Hột - HD3 - BLV Chuối Hột - SD1]
+https://stream.chuoichien.tv/chuoihot/index.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Hai Phong vs Da Nang" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-615377a9770cf311997f0f549458b7ec.png",Hai Phong vs Da Nang [BLV Chuối Hột - HD3 - BLV Chuối Hột - SD2]
+https://stream.chuoichien.tv/chuoihot.flv
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Hai Phong vs Da Nang" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-615377a9770cf311997f0f549458b7ec.png",Hai Phong vs Da Nang [BLV Chuối Hột - HD4 - BLV Chuối Hột - HD1]
+https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Hai Phong vs Da Nang" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-615377a9770cf311997f0f549458b7ec.png",Hai Phong vs Da Nang [BLV Chuối Hột - HD4 - BLV Chuối Hột - HD2]
+https://cyber.chuoichien.tv/chuoihot/index.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Hai Phong vs Da Nang" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-615377a9770cf311997f0f549458b7ec.png",Hai Phong vs Da Nang [BLV Chuối Hột - HD4 - BLV Chuối Hột - HD3]
+https://gckc0525.edgemaxcdn.org/live/chuoihot.flv
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Hai Phong vs Da Nang" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-615377a9770cf311997f0f549458b7ec.png",Hai Phong vs Da Nang [BLV Chuối Hột - HD4 - BLV Chuối Hột - HD4]
+https://cyber.chuoichien.tv/chuoihot.flv
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Hai Phong vs Da Nang" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-615377a9770cf311997f0f549458b7ec.png",Hai Phong vs Da Nang [BLV Chuối Hột - HD4 - BLV Chuối Hột - SD1]
+https://stream.chuoichien.tv/chuoihot/index.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Hai Phong vs Da Nang" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-615377a9770cf311997f0f549458b7ec.png",Hai Phong vs Da Nang [BLV Chuối Hột - HD4 - BLV Chuối Hột - SD2]
+https://stream.chuoichien.tv/chuoihot.flv
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Hai Phong vs Da Nang" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-615377a9770cf311997f0f549458b7ec.png",Hai Phong vs Da Nang [BLV Chuối Hột - SD1 - BLV Chuối Hột - HD1]
+https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Hai Phong vs Da Nang" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-615377a9770cf311997f0f549458b7ec.png",Hai Phong vs Da Nang [BLV Chuối Hột - SD1 - BLV Chuối Hột - HD2]
+https://cyber.chuoichien.tv/chuoihot/index.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Hai Phong vs Da Nang" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-615377a9770cf311997f0f549458b7ec.png",Hai Phong vs Da Nang [BLV Chuối Hột - SD1 - BLV Chuối Hột - HD3]
+https://gckc0525.edgemaxcdn.org/live/chuoihot.flv
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Hai Phong vs Da Nang" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-615377a9770cf311997f0f549458b7ec.png",Hai Phong vs Da Nang [BLV Chuối Hột - SD1 - BLV Chuối Hột - HD4]
+https://cyber.chuoichien.tv/chuoihot.flv
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Hai Phong vs Da Nang" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-615377a9770cf311997f0f549458b7ec.png",Hai Phong vs Da Nang [BLV Chuối Hột - SD1 - BLV Chuối Hột - SD1]
+https://stream.chuoichien.tv/chuoihot/index.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Hai Phong vs Da Nang" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-615377a9770cf311997f0f549458b7ec.png",Hai Phong vs Da Nang [BLV Chuối Hột - SD1 - BLV Chuối Hột - SD2]
+https://stream.chuoichien.tv/chuoihot.flv
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Hai Phong vs Da Nang" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-615377a9770cf311997f0f549458b7ec.png",Hai Phong vs Da Nang [BLV Chuối Hột - SD2 - BLV Chuối Hột - HD1]
+https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Hai Phong vs Da Nang" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-615377a9770cf311997f0f549458b7ec.png",Hai Phong vs Da Nang [BLV Chuối Hột - SD2 - BLV Chuối Hột - HD2]
+https://cyber.chuoichien.tv/chuoihot/index.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Hai Phong vs Da Nang" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-615377a9770cf311997f0f549458b7ec.png",Hai Phong vs Da Nang [BLV Chuối Hột - SD2 - BLV Chuối Hột - HD3]
+https://gckc0525.edgemaxcdn.org/live/chuoihot.flv
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Hai Phong vs Da Nang" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-615377a9770cf311997f0f549458b7ec.png",Hai Phong vs Da Nang [BLV Chuối Hột - SD2 - BLV Chuối Hột - HD4]
+https://cyber.chuoichien.tv/chuoihot.flv
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Hai Phong vs Da Nang" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-615377a9770cf311997f0f549458b7ec.png",Hai Phong vs Da Nang [BLV Chuối Hột - SD2 - BLV Chuối Hột - SD1]
+https://stream.chuoichien.tv/chuoihot/index.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Hai Phong vs Da Nang" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-615377a9770cf311997f0f549458b7ec.png",Hai Phong vs Da Nang [BLV Chuối Hột - SD2 - BLV Chuối Hột - SD2]
+https://stream.chuoichien.tv/chuoihot.flv
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Song Lam Nghe An vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-a64d8dd796ddd360a545c7bf4ffb1cbd.png",Song Lam Nghe An vs Becamex Hồ Chí Minh [BLV Chuối Lửa - HD1 - BLV Chuối Lửa - HD1]
+https://gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Song Lam Nghe An vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-a64d8dd796ddd360a545c7bf4ffb1cbd.png",Song Lam Nghe An vs Becamex Hồ Chí Minh [BLV Chuối Lửa - HD1 - BLV Chuối Lửa - HD2]
+https://cyber.chuoichien.tv/chuoilua/index.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Song Lam Nghe An vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-a64d8dd796ddd360a545c7bf4ffb1cbd.png",Song Lam Nghe An vs Becamex Hồ Chí Minh [BLV Chuối Lửa - HD1 - BLV Chuối Lửa - HD3]
+https://gckc0525.edgemaxcdn.org/live/chuoilua.flv
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Song Lam Nghe An vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-a64d8dd796ddd360a545c7bf4ffb1cbd.png",Song Lam Nghe An vs Becamex Hồ Chí Minh [BLV Chuối Lửa - HD1 - BLV Chuối Lửa - HD4]
+https://cyber.chuoichien.tv/chuoilua.flv
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Song Lam Nghe An vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-a64d8dd796ddd360a545c7bf4ffb1cbd.png",Song Lam Nghe An vs Becamex Hồ Chí Minh [BLV Chuối Lửa - HD1 - BLV Chuối Lửa - SD1]
+https://stream.chuoichien.tv/chuoilua/index.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Song Lam Nghe An vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-a64d8dd796ddd360a545c7bf4ffb1cbd.png",Song Lam Nghe An vs Becamex Hồ Chí Minh [BLV Chuối Lửa - HD1 - BLV Chuối Lửa - SD2]
+https://stream.chuoichien.tv/chuoilua.flv
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Song Lam Nghe An vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-a64d8dd796ddd360a545c7bf4ffb1cbd.png",Song Lam Nghe An vs Becamex Hồ Chí Minh [BLV Chuối Lửa - HD2 - BLV Chuối Lửa - HD1]
+https://gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Song Lam Nghe An vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-a64d8dd796ddd360a545c7bf4ffb1cbd.png",Song Lam Nghe An vs Becamex Hồ Chí Minh [BLV Chuối Lửa - HD2 - BLV Chuối Lửa - HD2]
+https://cyber.chuoichien.tv/chuoilua/index.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Song Lam Nghe An vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-a64d8dd796ddd360a545c7bf4ffb1cbd.png",Song Lam Nghe An vs Becamex Hồ Chí Minh [BLV Chuối Lửa - HD2 - BLV Chuối Lửa - HD3]
+https://gckc0525.edgemaxcdn.org/live/chuoilua.flv
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Song Lam Nghe An vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-a64d8dd796ddd360a545c7bf4ffb1cbd.png",Song Lam Nghe An vs Becamex Hồ Chí Minh [BLV Chuối Lửa - HD2 - BLV Chuối Lửa - HD4]
+https://cyber.chuoichien.tv/chuoilua.flv
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Song Lam Nghe An vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-a64d8dd796ddd360a545c7bf4ffb1cbd.png",Song Lam Nghe An vs Becamex Hồ Chí Minh [BLV Chuối Lửa - HD2 - BLV Chuối Lửa - SD1]
+https://stream.chuoichien.tv/chuoilua/index.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Song Lam Nghe An vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-a64d8dd796ddd360a545c7bf4ffb1cbd.png",Song Lam Nghe An vs Becamex Hồ Chí Minh [BLV Chuối Lửa - HD2 - BLV Chuối Lửa - SD2]
+https://stream.chuoichien.tv/chuoilua.flv
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Song Lam Nghe An vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-a64d8dd796ddd360a545c7bf4ffb1cbd.png",Song Lam Nghe An vs Becamex Hồ Chí Minh [BLV Chuối Lửa - HD3 - BLV Chuối Lửa - HD1]
+https://gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Song Lam Nghe An vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-a64d8dd796ddd360a545c7bf4ffb1cbd.png",Song Lam Nghe An vs Becamex Hồ Chí Minh [BLV Chuối Lửa - HD3 - BLV Chuối Lửa - HD2]
+https://cyber.chuoichien.tv/chuoilua/index.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Song Lam Nghe An vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-a64d8dd796ddd360a545c7bf4ffb1cbd.png",Song Lam Nghe An vs Becamex Hồ Chí Minh [BLV Chuối Lửa - HD3 - BLV Chuối Lửa - HD3]
+https://gckc0525.edgemaxcdn.org/live/chuoilua.flv
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Song Lam Nghe An vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-a64d8dd796ddd360a545c7bf4ffb1cbd.png",Song Lam Nghe An vs Becamex Hồ Chí Minh [BLV Chuối Lửa - HD3 - BLV Chuối Lửa - HD4]
+https://cyber.chuoichien.tv/chuoilua.flv
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Song Lam Nghe An vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-a64d8dd796ddd360a545c7bf4ffb1cbd.png",Song Lam Nghe An vs Becamex Hồ Chí Minh [BLV Chuối Lửa - HD3 - BLV Chuối Lửa - SD1]
+https://stream.chuoichien.tv/chuoilua/index.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Song Lam Nghe An vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-a64d8dd796ddd360a545c7bf4ffb1cbd.png",Song Lam Nghe An vs Becamex Hồ Chí Minh [BLV Chuối Lửa - HD3 - BLV Chuối Lửa - SD2]
+https://stream.chuoichien.tv/chuoilua.flv
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Song Lam Nghe An vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-a64d8dd796ddd360a545c7bf4ffb1cbd.png",Song Lam Nghe An vs Becamex Hồ Chí Minh [BLV Chuối Lửa - HD4 - BLV Chuối Lửa - HD1]
+https://gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Song Lam Nghe An vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-a64d8dd796ddd360a545c7bf4ffb1cbd.png",Song Lam Nghe An vs Becamex Hồ Chí Minh [BLV Chuối Lửa - HD4 - BLV Chuối Lửa - HD2]
+https://cyber.chuoichien.tv/chuoilua/index.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Song Lam Nghe An vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-a64d8dd796ddd360a545c7bf4ffb1cbd.png",Song Lam Nghe An vs Becamex Hồ Chí Minh [BLV Chuối Lửa - HD4 - BLV Chuối Lửa - HD3]
+https://gckc0525.edgemaxcdn.org/live/chuoilua.flv
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Song Lam Nghe An vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-a64d8dd796ddd360a545c7bf4ffb1cbd.png",Song Lam Nghe An vs Becamex Hồ Chí Minh [BLV Chuối Lửa - HD4 - BLV Chuối Lửa - HD4]
+https://cyber.chuoichien.tv/chuoilua.flv
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Song Lam Nghe An vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-a64d8dd796ddd360a545c7bf4ffb1cbd.png",Song Lam Nghe An vs Becamex Hồ Chí Minh [BLV Chuối Lửa - HD4 - BLV Chuối Lửa - SD1]
+https://stream.chuoichien.tv/chuoilua/index.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Song Lam Nghe An vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-a64d8dd796ddd360a545c7bf4ffb1cbd.png",Song Lam Nghe An vs Becamex Hồ Chí Minh [BLV Chuối Lửa - HD4 - BLV Chuối Lửa - SD2]
+https://stream.chuoichien.tv/chuoilua.flv
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Song Lam Nghe An vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-a64d8dd796ddd360a545c7bf4ffb1cbd.png",Song Lam Nghe An vs Becamex Hồ Chí Minh [BLV Chuối Lửa - SD1 - BLV Chuối Lửa - HD1]
+https://gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Song Lam Nghe An vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-a64d8dd796ddd360a545c7bf4ffb1cbd.png",Song Lam Nghe An vs Becamex Hồ Chí Minh [BLV Chuối Lửa - SD1 - BLV Chuối Lửa - HD2]
+https://cyber.chuoichien.tv/chuoilua/index.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Song Lam Nghe An vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-a64d8dd796ddd360a545c7bf4ffb1cbd.png",Song Lam Nghe An vs Becamex Hồ Chí Minh [BLV Chuối Lửa - SD1 - BLV Chuối Lửa - HD3]
+https://gckc0525.edgemaxcdn.org/live/chuoilua.flv
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Song Lam Nghe An vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-a64d8dd796ddd360a545c7bf4ffb1cbd.png",Song Lam Nghe An vs Becamex Hồ Chí Minh [BLV Chuối Lửa - SD1 - BLV Chuối Lửa - HD4]
+https://cyber.chuoichien.tv/chuoilua.flv
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Song Lam Nghe An vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-a64d8dd796ddd360a545c7bf4ffb1cbd.png",Song Lam Nghe An vs Becamex Hồ Chí Minh [BLV Chuối Lửa - SD1 - BLV Chuối Lửa - SD1]
+https://stream.chuoichien.tv/chuoilua/index.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Song Lam Nghe An vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-a64d8dd796ddd360a545c7bf4ffb1cbd.png",Song Lam Nghe An vs Becamex Hồ Chí Minh [BLV Chuối Lửa - SD1 - BLV Chuối Lửa - SD2]
+https://stream.chuoichien.tv/chuoilua.flv
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Song Lam Nghe An vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-a64d8dd796ddd360a545c7bf4ffb1cbd.png",Song Lam Nghe An vs Becamex Hồ Chí Minh [BLV Chuối Lửa - SD2 - BLV Chuối Lửa - HD1]
+https://gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Song Lam Nghe An vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-a64d8dd796ddd360a545c7bf4ffb1cbd.png",Song Lam Nghe An vs Becamex Hồ Chí Minh [BLV Chuối Lửa - SD2 - BLV Chuối Lửa - HD2]
+https://cyber.chuoichien.tv/chuoilua/index.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Song Lam Nghe An vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-a64d8dd796ddd360a545c7bf4ffb1cbd.png",Song Lam Nghe An vs Becamex Hồ Chí Minh [BLV Chuối Lửa - SD2 - BLV Chuối Lửa - HD3]
+https://gckc0525.edgemaxcdn.org/live/chuoilua.flv
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Song Lam Nghe An vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-a64d8dd796ddd360a545c7bf4ffb1cbd.png",Song Lam Nghe An vs Becamex Hồ Chí Minh [BLV Chuối Lửa - SD2 - BLV Chuối Lửa - HD4]
+https://cyber.chuoichien.tv/chuoilua.flv
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Song Lam Nghe An vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-a64d8dd796ddd360a545c7bf4ffb1cbd.png",Song Lam Nghe An vs Becamex Hồ Chí Minh [BLV Chuối Lửa - SD2 - BLV Chuối Lửa - SD1]
+https://stream.chuoichien.tv/chuoilua/index.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Song Lam Nghe An vs Becamex Hồ Chí Minh" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-a64d8dd796ddd360a545c7bf4ffb1cbd.png",Song Lam Nghe An vs Becamex Hồ Chí Minh [BLV Chuối Lửa - SD2 - BLV Chuối Lửa - SD2]
+https://stream.chuoichien.tv/chuoilua.flv
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Long An FC vs Hồ Chí Minh II" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-3e6476741229140d4c8f94d8023f72d1.png",Long An FC vs Hồ Chí Minh II [Nhà Đài - HD1 - Nhà Đài - HD1]
+https://gckc0525.edgemaxcdn.org/live/m4x2/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Long An FC vs Hồ Chí Minh II" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-3e6476741229140d4c8f94d8023f72d1.png",Long An FC vs Hồ Chí Minh II [Nhà Đài - HD1 - Nhà Đài - HD2]
+https://gckc0525.edgemaxcdn.org/live/m4x2.flv
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Long An FC vs Hồ Chí Minh II" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-3e6476741229140d4c8f94d8023f72d1.png",Long An FC vs Hồ Chí Minh II [Nhà Đài - HD2 - Nhà Đài - HD1]
+https://gckc0525.edgemaxcdn.org/live/m4x2/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Long An FC vs Hồ Chí Minh II" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-3e6476741229140d4c8f94d8023f72d1.png",Long An FC vs Hồ Chí Minh II [Nhà Đài - HD2 - Nhà Đài - HD2]
+https://gckc0525.edgemaxcdn.org/live/m4x2.flv
 #EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
 #EXTINF:-1 group-title="Khatoco Khanh Hoa vs Đồng Tháp" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-32fbf3e29101a66abb058c1fc929b065.png",Khatoco Khanh Hoa vs Đồng Tháp [Nhà Đài - HD1 - Nhà Đài - HD1]
 https://gckc0525.edgemaxcdn.org/live/m4x3/playlist.m3u8
@@ -155,3 +347,15 @@ https://gckc0525.edgemaxcdn.org/live/m4x3/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
 #EXTINF:-1 group-title="Khatoco Khanh Hoa vs Đồng Tháp" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-32fbf3e29101a66abb058c1fc929b065.png",Khatoco Khanh Hoa vs Đồng Tháp [Nhà Đài - HD2 - Nhà Đài - HD2]
 https://gckc0525.edgemaxcdn.org/live/m4x3.flv
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Slavia Sofia vs Montana" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-7117fad3cf020088ddbcde8d4e7254f8.png",Slavia Sofia vs Montana [Nhà Đài - HD1 - Nhà Đài - HD1]
+https://gckc0525.edgemaxcdn.org/live/m4x4/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Slavia Sofia vs Montana" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-7117fad3cf020088ddbcde8d4e7254f8.png",Slavia Sofia vs Montana [Nhà Đài - HD1 - Nhà Đài - HD2]
+https://gckc0525.edgemaxcdn.org/live/m4x4.flv
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Slavia Sofia vs Montana" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-7117fad3cf020088ddbcde8d4e7254f8.png",Slavia Sofia vs Montana [Nhà Đài - HD2 - Nhà Đài - HD1]
+https://gckc0525.edgemaxcdn.org/live/m4x4/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
+#EXTINF:-1 group-title="Slavia Sofia vs Montana" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-7117fad3cf020088ddbcde8d4e7254f8.png",Slavia Sofia vs Montana [Nhà Đài - HD2 - Nhà Đài - HD2]
+https://gckc0525.edgemaxcdn.org/live/m4x4.flv
