@@ -11,8 +11,6 @@ https://flv.cdnvankhanh.com/live/TO3C.flv?expire=1875681300&sign=015129bcbd63368
 https://hls.cdnvankhanh.com/live/CASTINGBLV/index.m3u8?expire=1890806880&sign=74de8b3d772b2bf487a23deba55942e0
 #EXTINF:-1 group-title="Rayo Vallecano vs Real Madrid" tvg-logo="https://hxcv.site/images/cache/match-5d256cff2dc2fcd09e750b0676ee7668.png",Rayo Vallecano vs Real Madrid [BLV DOCTOR - FLV]
 https://flv.cdnvankhanh.com/live/CASTINGBLV.flv?expire=1890806880&sign=74de8b3d772b2bf487a23deba55942e0
-#EXTINF:-1 group-title="Imigresen FC II vs Perlis GSA FC" tvg-logo="https://hxcv.site/images/cache/match-913cca243626bba5a5715e6235faf2a2.png",Imigresen FC II vs Perlis GSA FC [NHÀ ĐÀI - HLS]
-https://auto.cdnvankhanh.com/live/sd-6MvYM2f3CHLH7PWUZJ/playlist.m3u8
 #EXTINF:-1 group-title="EMC Podillya (W) vs Vorskla Poltava W" tvg-logo="https://hxcv.site/images/cache/match-07581dd1e0afb2a9e4da024ffaf63a2b.png",EMC Podillya (W) vs Vorskla Poltava W [NHÀ ĐÀI - HLS]
 https://auto.cdnvankhanh.com/live/sd-6MuPtZdETUuVAZfhqv/playlist.m3u8
 #EXTINF:-1 group-title="Zhytomyr (W) vs Pantery Uman (W)" tvg-logo="https://hxcv.site/images/cache/match-27da6e050fde167697efdaa452fd7af3.png",Zhytomyr (W) vs Pantery Uman (W) [NHÀ ĐÀI - HLS]
@@ -23,3 +21,15 @@ https://auto.cdnvankhanh.com/live/sd-6MuS7x49r8nUHDqi12/playlist.m3u8
 https://auto.cdnvankhanh.com/live/sd-6MuS7x49r6azQk1nr8/playlist.m3u8
 #EXTINF:-1 group-title="Pandjsher Rumi vs Khosilot Parkhar" tvg-logo="https://hxcv.site/images/cache/match-cc794356e770b57f5efce1bb17c1f8af.png",Pandjsher Rumi vs Khosilot Parkhar [NHÀ ĐÀI - HLS]
 https://auto.cdnvankhanh.com/live/sd-6MuS7x49qc1k6WGsrU/playlist.m3u8
+#EXTINF:-1 group-title="Nam Dinh FC vs Hanoi FC" tvg-logo="https://hxcv.site/images/cache/match-f2696939b1b9586fc9936e1d96a086c3.png",Nam Dinh FC vs Hanoi FC [BLV VĂN TÈO - HLS]
+https://hls.cdnvankhanh.com/live/VANTEO/index.m3u8?expire=1892616120&sign=d7b1c78e06fada5c68d59641889d2c55
+#EXTINF:-1 group-title="Nam Dinh FC vs Hanoi FC" tvg-logo="https://hxcv.site/images/cache/match-f2696939b1b9586fc9936e1d96a086c3.png",Nam Dinh FC vs Hanoi FC [BLV VĂN TÈO - FLV]
+https://flv.cdnvankhanh.com/live/VANTEO.flv?expire=1892616120&sign=d7b1c78e06fada5c68d59641889d2c55
+#EXTINF:-1 group-title="Nam Dinh FC vs Hanoi FC" tvg-logo="https://hxcv.site/images/cache/match-f2696939b1b9586fc9936e1d96a086c3.png",Nam Dinh FC vs Hanoi FC [BLV VĂN GÔN - HLS]
+https://hls.cdnvankhanh.com/live/VANGON/index.m3u8?expire=1891583400&sign=db46845cd1edc815d5bba4a6538fd9ce
+#EXTINF:-1 group-title="Nam Dinh FC vs Hanoi FC" tvg-logo="https://hxcv.site/images/cache/match-f2696939b1b9586fc9936e1d96a086c3.png",Nam Dinh FC vs Hanoi FC [BLV VĂN GÔN - FLV]
+https://flv.cdnvankhanh.com/live/VANGON.flv?expire=1891583400&sign=db46845cd1edc815d5bba4a6538fd9ce
+#EXTINF:-1 group-title="Nam Dinh FC vs Hanoi FC" tvg-logo="https://hxcv.site/images/cache/match-f2696939b1b9586fc9936e1d96a086c3.png",Nam Dinh FC vs Hanoi FC [BLV DOCTOR - HLS]
+https://hls.cdnvankhanh.com/live/DOCTOR/index.m3u8?expire=1890806880&sign=122b6adf5f25b6a125910438f775abb8
+#EXTINF:-1 group-title="Nam Dinh FC vs Hanoi FC" tvg-logo="https://hxcv.site/images/cache/match-f2696939b1b9586fc9936e1d96a086c3.png",Nam Dinh FC vs Hanoi FC [BLV DOCTOR - FLV]
+https://flv.cdnvankhanh.com/live/DOCTOR.flv?expire=1890806880&sign=122b6adf5f25b6a125910438f775abb8C
