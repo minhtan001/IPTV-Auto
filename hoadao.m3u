@@ -1,4 +1,13 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/realidade-jovemsp-women-vs-santos-women-2347828?mode=ndsd
-#EXTINF:-1 group-title="Realidade Jovem/SP Women vs Santos Women" referer="https://hoadao.tv/realidade-jovemsp-women-vs-santos-women-2347828?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-9d582ea099b3d675c07a115bccb615c3.png",Realidade Jovem/SP Women vs Santos Women [No BLV - SD (ND)]
-https://live.alilicloud.com/live/a07a0c922e92529c05a3e38c9b3dbac5/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/raw-raw-2349866?mode=sd
+#EXTINF:-1 group-title="RAW vs RAW" referer="https://hoadao.tv/raw-raw-2349866?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-3bba1c23acff9362bbaa1374d6d94583.png",RAW vs RAW [BLV BÚN CHẢ - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_buncha/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/raw-raw-2349866?mode=hd
+#EXTINF:-1 group-title="RAW vs RAW" referer="https://hoadao.tv/raw-raw-2349866?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-3bba1c23acff9362bbaa1374d6d94583.png",RAW vs RAW [BLV BÚN CHẢ - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_buncha/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/raw-raw-2349866?mode=flv
+#EXTINF:-1 group-title="RAW vs RAW" referer="https://hoadao.tv/raw-raw-2349866?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-3bba1c23acff9362bbaa1374d6d94583.png",RAW vs RAW [BLV BÚN CHẢ - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_buncha.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/raw-raw-2349866?mode=flv2
+#EXTINF:-1 group-title="RAW vs RAW" referer="https://hoadao.tv/raw-raw-2349866?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-3bba1c23acff9362bbaa1374d6d94583.png",RAW vs RAW [BLV BÚN CHẢ - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_buncha.flv
