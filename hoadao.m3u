@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/italy-u19-vs-moldova-u19-2348259?mode=sd
-#EXTINF:-1 group-title="Italy U19 vs Moldova U19" referer="https://hoadao.tv/italy-u19-vs-moldova-u19-2348259?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-8b334e942f1684a67199c62009d6fd20.png",Italy U19 vs Moldova U19 [BLV MÈO BÉO - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/italy-u19-vs-moldova-u19-2348259?mode=hd
-#EXTINF:-1 group-title="Italy U19 vs Moldova U19" referer="https://hoadao.tv/italy-u19-vs-moldova-u19-2348259?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-8b334e942f1684a67199c62009d6fd20.png",Italy U19 vs Moldova U19 [BLV MÈO BÉO - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/italy-u19-vs-moldova-u19-2348259?mode=flv
-#EXTINF:-1 group-title="Italy U19 vs Moldova U19" referer="https://hoadao.tv/italy-u19-vs-moldova-u19-2348259?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-8b334e942f1684a67199c62009d6fd20.png",Italy U19 vs Moldova U19 [BLV MÈO BÉO - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/italy-u19-vs-moldova-u19-2348259?mode=flv2
-#EXTINF:-1 group-title="Italy U19 vs Moldova U19" referer="https://hoadao.tv/italy-u19-vs-moldova-u19-2348259?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-8b334e942f1684a67199c62009d6fd20.png",Italy U19 vs Moldova U19 [BLV MÈO BÉO - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/italy-u19-vs-moldova-u19-2348259?mode=ndsd
-#EXTINF:-1 group-title="Italy U19 vs Moldova U19" referer="https://hoadao.tv/italy-u19-vs-moldova-u19-2348259?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-8b334e942f1684a67199c62009d6fd20.png",Italy U19 vs Moldova U19 [BLV MÈO BÉO - SD (ND)]
-https://live.alilicloud.com/live/c1e51070c69268f67ec5aedb078e07af/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/england-u19-vs-lithuania-u19-2348491?mode=sd
 #EXTINF:-1 group-title="England U19 vs Lithuania U19" referer="https://hoadao.tv/england-u19-vs-lithuania-u19-2348491?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-4548b2d176ddc1c26e708a4bbb337397.png",England U19 vs Lithuania U19 [BLV PHÁO - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
@@ -26,3 +11,15 @@ https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/england-u19-vs-lithuania-u19-2348491?mode=flv2
 #EXTINF:-1 group-title="England U19 vs Lithuania U19" referer="https://hoadao.tv/england-u19-vs-lithuania-u19-2348491?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-4548b2d176ddc1c26e708a4bbb337397.png",England U19 vs Lithuania U19 [BLV PHÁO - FLV 2]
 https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/russia-vs-peru-2348665?mode=sd
+#EXTINF:-1 group-title="Russia vs Peru" referer="https://hoadao.tv/russia-vs-peru-2348665?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-5b193e68056ec17ef7e28359c082e3e3.png",Russia vs Peru [BLV MÈO BÉO - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/russia-vs-peru-2348665?mode=hd
+#EXTINF:-1 group-title="Russia vs Peru" referer="https://hoadao.tv/russia-vs-peru-2348665?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-5b193e68056ec17ef7e28359c082e3e3.png",Russia vs Peru [BLV MÈO BÉO - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/russia-vs-peru-2348665?mode=flv
+#EXTINF:-1 group-title="Russia vs Peru" referer="https://hoadao.tv/russia-vs-peru-2348665?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-5b193e68056ec17ef7e28359c082e3e3.png",Russia vs Peru [BLV MÈO BÉO - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/russia-vs-peru-2348665?mode=flv2
+#EXTINF:-1 group-title="Russia vs Peru" referer="https://hoadao.tv/russia-vs-peru-2348665?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-5b193e68056ec17ef7e28359c082e3e3.png",Russia vs Peru [BLV MÈO BÉO - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
