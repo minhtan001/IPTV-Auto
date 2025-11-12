@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/england-u19-vs-lithuania-u19-2348491?mode=sd
-#EXTINF:-1 group-title="England U19 vs Lithuania U19" referer="https://hoadao.tv/england-u19-vs-lithuania-u19-2348491?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-4548b2d176ddc1c26e708a4bbb337397.png",England U19 vs Lithuania U19 [BLV PHÁO - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/england-u19-vs-lithuania-u19-2348491?mode=hd
-#EXTINF:-1 group-title="England U19 vs Lithuania U19" referer="https://hoadao.tv/england-u19-vs-lithuania-u19-2348491?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-4548b2d176ddc1c26e708a4bbb337397.png",England U19 vs Lithuania U19 [BLV PHÁO - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/england-u19-vs-lithuania-u19-2348491?mode=flv
-#EXTINF:-1 group-title="England U19 vs Lithuania U19" referer="https://hoadao.tv/england-u19-vs-lithuania-u19-2348491?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-4548b2d176ddc1c26e708a4bbb337397.png",England U19 vs Lithuania U19 [BLV PHÁO - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/england-u19-vs-lithuania-u19-2348491?mode=flv2
-#EXTINF:-1 group-title="England U19 vs Lithuania U19" referer="https://hoadao.tv/england-u19-vs-lithuania-u19-2348491?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-4548b2d176ddc1c26e708a4bbb337397.png",England U19 vs Lithuania U19 [BLV PHÁO - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/england-u19-vs-lithuania-u19-2348491?mode=ndsd
-#EXTINF:-1 group-title="England U19 vs Lithuania U19" referer="https://hoadao.tv/england-u19-vs-lithuania-u19-2348491?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-4548b2d176ddc1c26e708a4bbb337397.png",England U19 vs Lithuania U19 [BLV PHÁO - SD (ND)]
-https://live.alilicloud.com/live/4747186ce6574b1cd4845e054e3fa5db/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/russia-vs-peru-2348665?mode=sd
 #EXTINF:-1 group-title="Russia vs Peru" referer="https://hoadao.tv/russia-vs-peru-2348665?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-5b193e68056ec17ef7e28359c082e3e3.png",Russia vs Peru [BLV MÈO BÉO - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
@@ -29,21 +14,15 @@ https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/russia-vs-peru-2348665?mode=ndsd
 #EXTINF:-1 group-title="Russia vs Peru" referer="https://hoadao.tv/russia-vs-peru-2348665?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-5b193e68056ec17ef7e28359c082e3e3.png",Russia vs Peru [BLV MÈO BÉO - SD (ND)]
 https://live.alilicloud.com/live/d0a6ecbda8c24274fea959c5e466de1f/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/usa-u19-vs-germany-u19-2348687?mode=ndsd
-#EXTINF:-1 group-title="USA U19 vs Germany U19" referer="https://hoadao.tv/usa-u19-vs-germany-u19-2348687?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-ed25fcd02cf35b5af5125b30c1988098.png",USA U19 vs Germany U19 [No BLV - SD (ND)]
-https://live.alilicloud.com/live/354998af2bd16b78809a1b3031df9d3e/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/russia-vs-peru-2348665?mode=sd
-#EXTINF:-1 group-title="Russia vs Peru" referer="https://hoadao.tv/russia-vs-peru-2348665?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-5b193e68056ec17ef7e28359c082e3e3.png",Russia vs Peru [No BLV - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/russia-vs-peru-2348665?mode=hd
-#EXTINF:-1 group-title="Russia vs Peru" referer="https://hoadao.tv/russia-vs-peru-2348665?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-5b193e68056ec17ef7e28359c082e3e3.png",Russia vs Peru [No BLV - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/russia-vs-peru-2348665?mode=flv
-#EXTINF:-1 group-title="Russia vs Peru" referer="https://hoadao.tv/russia-vs-peru-2348665?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-5b193e68056ec17ef7e28359c082e3e3.png",Russia vs Peru [No BLV - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/russia-vs-peru-2348665?mode=flv2
-#EXTINF:-1 group-title="Russia vs Peru" referer="https://hoadao.tv/russia-vs-peru-2348665?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-5b193e68056ec17ef7e28359c082e3e3.png",Russia vs Peru [No BLV - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/russia-vs-peru-2348665?mode=ndsd
-#EXTINF:-1 group-title="Russia vs Peru" referer="https://hoadao.tv/russia-vs-peru-2348665?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-5b193e68056ec17ef7e28359c082e3e3.png",Russia vs Peru [No BLV - SD (ND)]
-https://live.alilicloud.com/live/d0a6ecbda8c24274fea959c5e466de1f/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/barcelona-women-vs-oud-heverlee-leuven-women-2348499?mode=ndsd
+#EXTINF:-1 group-title="Barcelona Women vs Oud Heverlee Leuven Women" referer="https://hoadao.tv/barcelona-women-vs-oud-heverlee-leuven-women-2348499?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-9c2fa509444d4d8b89c3d95aa84071c7.png",Barcelona Women vs Oud Heverlee Leuven Women [No BLV - SD (ND)]
+https://live.alilicloud.com/live/ba7fda886c55bf6da337e37b8290ee37/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/bayern-munchen-women-vs-arsenal-women-2348500?mode=ndsd
+#EXTINF:-1 group-title="Bayern Munchen Women vs Arsenal Women" referer="https://hoadao.tv/bayern-munchen-women-vs-arsenal-women-2348500?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-99e7ee34b5300b349e1054eb746a4bde.png",Bayern Munchen Women vs Arsenal Women [No BLV - SD (ND)]
+https://live.alilicloud.com/live/bf30a541209e89a9f2841c9003a4c0e1/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/cyprus-u19-vs-netherlands-u19-2348502?mode=ndsd
+#EXTINF:-1 group-title="Cyprus U19 vs Netherlands U19" referer="https://hoadao.tv/cyprus-u19-vs-netherlands-u19-2348502?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-3bf5d2e9081dacb0628a46d5a2ff6adb.png",Cyprus U19 vs Netherlands U19 [No BLV - SD (ND)]
+https://live.alilicloud.com/live/6570a3fb6edc05c311379b707161d01d/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/taubate-women-vs-bragantino-women-2348516?mode=ndsd
+#EXTINF:-1 group-title="Taubate Women vs Bragantino Women" referer="https://hoadao.tv/taubate-women-vs-bragantino-women-2348516?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-31cb027a49f3a95ff8fd9c49314bcad5.png",Taubate Women vs Bragantino Women [No BLV - SD (ND)]
+https://live.alilicloud.com/live/501e773257b8bf64ceecf6f3e6e3d346/playlist.m3u8
