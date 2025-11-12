@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/russia-vs-peru-2348665?mode=sd
-#EXTINF:-1 group-title="Russia vs Peru" referer="https://hoadao.tv/russia-vs-peru-2348665?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-5b193e68056ec17ef7e28359c082e3e3.png",Russia vs Peru [BLV MÈO BÉO - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/russia-vs-peru-2348665?mode=hd
-#EXTINF:-1 group-title="Russia vs Peru" referer="https://hoadao.tv/russia-vs-peru-2348665?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-5b193e68056ec17ef7e28359c082e3e3.png",Russia vs Peru [BLV MÈO BÉO - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/russia-vs-peru-2348665?mode=flv
-#EXTINF:-1 group-title="Russia vs Peru" referer="https://hoadao.tv/russia-vs-peru-2348665?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-5b193e68056ec17ef7e28359c082e3e3.png",Russia vs Peru [BLV MÈO BÉO - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/russia-vs-peru-2348665?mode=flv2
-#EXTINF:-1 group-title="Russia vs Peru" referer="https://hoadao.tv/russia-vs-peru-2348665?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-5b193e68056ec17ef7e28359c082e3e3.png",Russia vs Peru [BLV MÈO BÉO - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/russia-vs-peru-2348665?mode=ndsd
-#EXTINF:-1 group-title="Russia vs Peru" referer="https://hoadao.tv/russia-vs-peru-2348665?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-5b193e68056ec17ef7e28359c082e3e3.png",Russia vs Peru [BLV MÈO BÉO - SD (ND)]
-https://live.alilicloud.com/live/d0a6ecbda8c24274fea959c5e466de1f/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/cyprus-u19-vs-netherlands-u19-2348502?mode=ndsd
 #EXTINF:-1 group-title="Cyprus U19 vs Netherlands U19" referer="https://hoadao.tv/cyprus-u19-vs-netherlands-u19-2348502?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-3bf5d2e9081dacb0628a46d5a2ff6adb.png",Cyprus U19 vs Netherlands U19 [No BLV - SD (ND)]
 https://live.alilicloud.com/live/6570a3fb6edc05c311379b707161d01d/playlist.m3u8
@@ -23,3 +8,15 @@ https://live.alilicloud.com/live/501e773257b8bf64ceecf6f3e6e3d346/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/werder-bremen-youth-vs-altona-93-2348627?mode=ndsd
 #EXTINF:-1 group-title="Werder Bremen Youth vs Altona 93" referer="https://hoadao.tv/werder-bremen-youth-vs-altona-93-2348627?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-ad711cf5bbfed3e55d89f6325f67e41b.png",Werder Bremen Youth vs Altona 93 [No BLV - SD (ND)]
 https://live.alilicloud.com/live/8f77d844c30e9c7f4fc2f86762165836/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/gimnasia-lp-reserves-vs-newells-reserves-2348631?mode=ndsd
+#EXTINF:-1 group-title="Gimnasia LP Reserves vs Newell's Reserves" referer="https://hoadao.tv/gimnasia-lp-reserves-vs-newells-reserves-2348631?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-7a1e48c79cb134faff4708bd4840b444.png",Gimnasia LP Reserves vs Newell's Reserves [No BLV - SD (ND)]
+https://live.alilicloud.com/live/42ac218554ea717f202db01844e1cb2f/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/instituto-ac-cordoba-ii-vs-racing-club-reserves-2348632?mode=ndsd
+#EXTINF:-1 group-title="Instituto AC Cordoba II vs Racing Club Reserves" referer="https://hoadao.tv/instituto-ac-cordoba-ii-vs-racing-club-reserves-2348632?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-103ed22e792041f2740098ce8fbcffb0.png",Instituto AC Cordoba II vs Racing Club Reserves [No BLV - SD (ND)]
+https://live.alilicloud.com/live/79af81382e6046e65e72548166e8560d/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/sunderland-u21-vs-athletic-bilbao-b-2348508?mode=ndsd
+#EXTINF:-1 group-title="Sunderland U21 vs Athletic Bilbao B" referer="https://hoadao.tv/sunderland-u21-vs-athletic-bilbao-b-2348508?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-f80c4ae534ced1c3542a9e8c93c4711e.png",Sunderland U21 vs Athletic Bilbao B [No BLV - SD (ND)]
+https://live.alilicloud.com/live/80a09e6c8a86213dfdcb1a006d0de0f1/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/san-antonio-bulo-bulo-vs-always-ready-2351080?mode=ndsd
+#EXTINF:-1 group-title="San Antonio Bulo Bulo vs Always Ready" referer="https://hoadao.tv/san-antonio-bulo-bulo-vs-always-ready-2351080?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-86111baa96cc0895523b9d7fd00be0e4.png",San Antonio Bulo Bulo vs Always Ready [No BLV - SD (ND)]
+https://live.alilicloud.com/live/65b7aa47b17e237ee1d1971e38984c79/playlist.m3u8
