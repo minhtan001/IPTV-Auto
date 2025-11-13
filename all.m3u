@@ -176,13 +176,13 @@ https://pull06.scstream.net/live/stream-474421_lhd.flv?auth_key=1763007909-0-0-5
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-ab73a612937bf8583af4647ad4bd4f20.png",Hong Kong vs Cambodia [VỊT BẠC - FLV]
 https://pull06.scstream.net/live/stream-474421_lsd.flv?auth_key=1763007909-0-0-6ca21a2b7d267b194304292ff88f198b
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-ab73a612937bf8583af4647ad4bd4f20.png",Hong Kong vs Cambodia [MR BÍCH - HD M3U8]
-https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1762973777-0-0-2c3945b1a3863e6fc11ab6cba453336c
+https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1763020561-0-0-176bb7704eab216ae6bcc1ecb6dd505e
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-ab73a612937bf8583af4647ad4bd4f20.png",Hong Kong vs Cambodia [MR BÍCH - M3U8]
-https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1762973777-0-0-25fd48f82b7c176ade6dc7710983cb9e
+https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1763020561-0-0-352862704ecc5e0942d47b9b2b62d503
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-ab73a612937bf8583af4647ad4bd4f20.png",Hong Kong vs Cambodia [MR BÍCH - HD FLV]
-https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1762973777-0-0-a86c65a66537b35002e0439d3ae329f6
+https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1763020561-0-0-cacf28e6309a6ded44e68b421b14609f
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-ab73a612937bf8583af4647ad4bd4f20.png",Hong Kong vs Cambodia [MR BÍCH - FLV]
-https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1762973777-0-0-b481c6e0f7b5575f0156395e9913a431
+https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1763020561-0-0-b3977014366369489f3d64e8d4ba3e3f
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-ab73a612937bf8583af4647ad4bd4f20.png",Hong Kong vs Cambodia [BLV SÓI - HD M3U8]
 https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1762913708-0-0-c933d15beea510903eb39e844142003e
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-ab73a612937bf8583af4647ad4bd4f20.png",Hong Kong vs Cambodia [BLV SÓI - M3U8]
@@ -655,6 +655,10 @@ https://flv.cdnvankhanh.com/live/luckytest.flv?expire=1883742060&sign=ed258748d4
 https://hls.cdnvankhanh.com/live/TO3C/index.m3u8?expire=1875681300&sign=015129bcbd63368bf36946e12b5950c6
 #EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-45f74c40634425b1450359bd4b1b944e.png",Inter Milan vs Lazio [BLV VĂN MINH - FLV]
 https://flv.cdnvankhanh.com/live/TO3C.flv?expire=1875681300&sign=015129bcbd63368bf36946e12b5950c6
+#EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-0989420b8369be854b1723db9107c22b.png",Melbourne City (W) vs Lion City Sailors (W) [BLV VĂN CHƯƠNG - HLS]
+https://hls.cdnvankhanh.com/live/VANCHUONG/index.m3u8?expire=1890806880&sign=d5e33b097684f7c5682301b78b825aaf
+#EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-0989420b8369be854b1723db9107c22b.png",Melbourne City (W) vs Lion City Sailors (W) [BLV VĂN CHƯƠNG - FLV]
+https://flv.cdnvankhanh.com/live/VANCHUONG.flv?expire=1890806880&sign=d5e33b097684f7c5682301b78b825aaf
 #EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
 #EXTINF:-1 group-title="Chuoichien" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-259405ceecc7a58828c03b79b1a83b18.png",Kumamoto Masters Japan 2025 vs DAY 3 [SÂN 1 - HD1 - SÂN 1 - HD1]
 https://gckc0525.edgemaxcdn.org/live/m4x1/playlist.m3u8
