@@ -1,28 +1,49 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/moldova-u21-vs-albania-u21-2351432?mode=ndsd
-#EXTINF:-1 group-title="Moldova U21 vs Albania U21" referer="https://hoadao.tv/moldova-u21-vs-albania-u21-2351432?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-e3e08b6afad70fc7e0027a41a0d3dc40.png",Moldova U21 vs Albania U21 [No BLV - SD (ND)]
-https://live.alilicloud.com/live/4320b8a04c7e77177104d64d2c3f104c/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/pepper-hungkuk-2351404?mode=sd
-#EXTINF:-1 group-title="Pepper vs Hungkuk" referer="https://hoadao.tv/pepper-hungkuk-2351404?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-7f9a80949205b8b2bcf55ba133667667.png",Pepper vs Hungkuk [BLV CÁ CHÉP - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_cachep/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/pepper-hungkuk-2351404?mode=hd
-#EXTINF:-1 group-title="Pepper vs Hungkuk" referer="https://hoadao.tv/pepper-hungkuk-2351404?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-7f9a80949205b8b2bcf55ba133667667.png",Pepper vs Hungkuk [BLV CÁ CHÉP - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_cachep/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/pepper-hungkuk-2351404?mode=flv
-#EXTINF:-1 group-title="Pepper vs Hungkuk" referer="https://hoadao.tv/pepper-hungkuk-2351404?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-7f9a80949205b8b2bcf55ba133667667.png",Pepper vs Hungkuk [BLV CÁ CHÉP - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_cachep.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/pepper-hungkuk-2351404?mode=flv2
-#EXTINF:-1 group-title="Pepper vs Hungkuk" referer="https://hoadao.tv/pepper-hungkuk-2351404?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-7f9a80949205b8b2bcf55ba133667667.png",Pepper vs Hungkuk [BLV CÁ CHÉP - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_cachep.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/tokyo-great-bears-nagoya-2351405?mode=sd
-#EXTINF:-1 group-title="Tokyo Great Bears vs Nagoya" referer="https://hoadao.tv/tokyo-great-bears-nagoya-2351405?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-65555a3faa3d8ee34a417056942c1b67.png",Tokyo Great Bears vs Nagoya [BLV MÈO BÉO - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/tokyo-great-bears-nagoya-2351405?mode=hd
-#EXTINF:-1 group-title="Tokyo Great Bears vs Nagoya" referer="https://hoadao.tv/tokyo-great-bears-nagoya-2351405?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-65555a3faa3d8ee34a417056942c1b67.png",Tokyo Great Bears vs Nagoya [BLV MÈO BÉO - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/tokyo-great-bears-nagoya-2351405?mode=flv
-#EXTINF:-1 group-title="Tokyo Great Bears vs Nagoya" referer="https://hoadao.tv/tokyo-great-bears-nagoya-2351405?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-65555a3faa3d8ee34a417056942c1b67.png",Tokyo Great Bears vs Nagoya [BLV MÈO BÉO - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/tokyo-great-bears-nagoya-2351405?mode=flv2
-#EXTINF:-1 group-title="Tokyo Great Bears vs Nagoya" referer="https://hoadao.tv/tokyo-great-bears-nagoya-2351405?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-65555a3faa3d8ee34a417056942c1b67.png",Tokyo Great Bears vs Nagoya [BLV MÈO BÉO - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/thailand-vs-singapore-2348670?mode=sd
+#EXTINF:-1 group-title="Thailand vs Singapore" referer="https://hoadao.tv/thailand-vs-singapore-2348670?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-9901fb8204441fb990c14c94508f762b.png",Thailand vs Singapore [BLV PHÁO - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/thailand-vs-singapore-2348670?mode=hd
+#EXTINF:-1 group-title="Thailand vs Singapore" referer="https://hoadao.tv/thailand-vs-singapore-2348670?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-9901fb8204441fb990c14c94508f762b.png",Thailand vs Singapore [BLV PHÁO - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/thailand-vs-singapore-2348670?mode=flv
+#EXTINF:-1 group-title="Thailand vs Singapore" referer="https://hoadao.tv/thailand-vs-singapore-2348670?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-9901fb8204441fb990c14c94508f762b.png",Thailand vs Singapore [BLV PHÁO - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/thailand-vs-singapore-2348670?mode=flv2
+#EXTINF:-1 group-title="Thailand vs Singapore" referer="https://hoadao.tv/thailand-vs-singapore-2348670?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-9901fb8204441fb990c14c94508f762b.png",Thailand vs Singapore [BLV PHÁO - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/thailand-vs-singapore-2348670?mode=ndsd
+#EXTINF:-1 group-title="Thailand vs Singapore" referer="https://hoadao.tv/thailand-vs-singapore-2348670?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-9901fb8204441fb990c14c94508f762b.png",Thailand vs Singapore [BLV PHÁO - SD (ND)]
+https://live.alilicloud.com/live/41d50aa046995a5ba3e42412cdc0087d/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/jiangsu-w-vs-shanghai-w-2351311?mode=ndsd
+#EXTINF:-1 group-title="Jiangsu (w) vs Shanghai (w)" referer="https://hoadao.tv/jiangsu-w-vs-shanghai-w-2351311?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-586f56d1894b67b9711af3b441f59547.png",Jiangsu (w) vs Shanghai (w) [No BLV - SD (ND)]
+https://live.alilicloud.com/live/9c5923f51c8f8d1f246668f593f84adb/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/guangdong-women-vs-hubei-w-2351312?mode=ndsd
+#EXTINF:-1 group-title="Guangdong Women vs Hubei (w)" referer="https://hoadao.tv/guangdong-women-vs-hubei-w-2351312?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-d69f48cb07b6b4c66ee9603c6e9ededf.png",Guangdong Women vs Hubei (w) [No BLV - SD (ND)]
+https://live.alilicloud.com/live/3eaa0f780125d5b88f5998cbb5253697/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/borussia-monchengladbach-vs-lierse-kempenzonen-2351413?mode=ndsd
+#EXTINF:-1 group-title="Borussia Monchengladbach vs Lierse Kempenzonen" referer="https://hoadao.tv/borussia-monchengladbach-vs-lierse-kempenzonen-2351413?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-f45e7c49a410d05392aa8ee4c6973df1.png",Borussia Monchengladbach vs Lierse Kempenzonen [No BLV - SD (ND)]
+https://live.alilicloud.com/live/ac3353d506932e12770dfe2d0aa708bc/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/hong-kong-vs-cambodia-2348669?mode=ndsd
+#EXTINF:-1 group-title="Hong Kong vs Cambodia" referer="https://hoadao.tv/hong-kong-vs-cambodia-2348669?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-e2e51426472ff3d8c6dbe4f766f44365.png",Hong Kong vs Cambodia [No BLV - SD (ND)]
+https://live.alilicloud.com/live/e82b3fa31e82e60811985118acf3fbc1/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/sumsel-united-vs-persikad-depok-2351485?mode=ndsd
+#EXTINF:-1 group-title="Sumsel United vs Persikad Depok" referer="https://hoadao.tv/sumsel-united-vs-persikad-depok-2351485?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-239bd3027442b76f2d603473c86b3738.png",Sumsel United vs Persikad Depok [No BLV - SD (ND)]
+https://live.alilicloud.com/live/50a25e8167e697f5e88d5599df716082/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/ho-chi-minh-city-women-vs-stallion-laguna-fc-w-2348525?mode=ndsd
+#EXTINF:-1 group-title="Hồ Chí Minh City Women vs Stallion Laguna FC (W)" referer="https://hoadao.tv/ho-chi-minh-city-women-vs-stallion-laguna-fc-w-2348525?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-18cdb0a924a8a383d7d4f21f328de008.png",Hồ Chí Minh City Women vs Stallion Laguna FC (W) [No BLV - SD (ND)]
+https://live.alilicloud.com/live/efc5a511ba21e5aa9dff91afef40f330/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/thailand-vs-singapore-2348670?mode=sd
+#EXTINF:-1 group-title="Thailand vs Singapore" referer="https://hoadao.tv/thailand-vs-singapore-2348670?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-9901fb8204441fb990c14c94508f762b.png",Thailand vs Singapore [No BLV - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/thailand-vs-singapore-2348670?mode=hd
+#EXTINF:-1 group-title="Thailand vs Singapore" referer="https://hoadao.tv/thailand-vs-singapore-2348670?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-9901fb8204441fb990c14c94508f762b.png",Thailand vs Singapore [No BLV - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/thailand-vs-singapore-2348670?mode=flv
+#EXTINF:-1 group-title="Thailand vs Singapore" referer="https://hoadao.tv/thailand-vs-singapore-2348670?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-9901fb8204441fb990c14c94508f762b.png",Thailand vs Singapore [No BLV - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/thailand-vs-singapore-2348670?mode=flv2
+#EXTINF:-1 group-title="Thailand vs Singapore" referer="https://hoadao.tv/thailand-vs-singapore-2348670?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-9901fb8204441fb990c14c94508f762b.png",Thailand vs Singapore [No BLV - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/thailand-vs-singapore-2348670?mode=ndsd
+#EXTINF:-1 group-title="Thailand vs Singapore" referer="https://hoadao.tv/thailand-vs-singapore-2348670?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-9901fb8204441fb990c14c94508f762b.png",Thailand vs Singapore [No BLV - SD (ND)]
+https://live.alilicloud.com/live/41d50aa046995a5ba3e42412cdc0087d/playlist.m3u8
