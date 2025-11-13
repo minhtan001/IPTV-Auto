@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Rebel Kyiv vs Kolos Kovalivka II" tvg-logo="https://hxcv.site/images/cache/match-0ec170995c55797a5f956e3cf17becc2.png",Rebel Kyiv vs Kolos Kovalivka II [BLV NGŨ CA - HLS]
-https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 group-title="Rebel Kyiv vs Kolos Kovalivka II" tvg-logo="https://hxcv.site/images/cache/match-0ec170995c55797a5f956e3cf17becc2.png",Rebel Kyiv vs Kolos Kovalivka II [BLV NGŨ CA - FLV]
-https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 group-title="Moldova U21 vs Albania U21" tvg-logo="https://hxcv.site/images/cache/match-59fd450904dae9032198d3b04b807708.png",Moldova U21 vs Albania U21 [NHÀ ĐÀI - HLS]
-https://auto.cdnvankhanh.com/live/sd-6MvYLv7auK1wByU5hn/playlist.m3u8
 #EXTINF:-1 group-title="Al-Hudod vs Al Karkh" tvg-logo="https://hxcv.site/images/cache/match-8d2db6a1f1baae104a300978380833f1.png",Al-Hudod vs Al Karkh [BLV TÔN LẬP - HLS]
 https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 #EXTINF:-1 group-title="Al-Hudod vs Al Karkh" tvg-logo="https://hxcv.site/images/cache/match-8d2db6a1f1baae104a300978380833f1.png",Al-Hudod vs Al Karkh [BLV TÔN LẬP - FLV]
@@ -13,10 +7,14 @@ https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b
 https://hls.cdnok9.com/live/CHUDONG/index.m3u8?expire=1788427256&sign=b7df620ef99aaa1798bda4e698168a46
 #EXTINF:-1 group-title="Al-Hudod vs Al Karkh" tvg-logo="https://hxcv.site/images/cache/match-8d2db6a1f1baae104a300978380833f1.png",Al-Hudod vs Al Karkh [BLV CHU ĐỒNG - FLV]
 https://flv.cdnok9.com/live/CHUDONG.flv?expire=1788427256&sign=b7df620ef99aaa1798bda4e698168a46
-#EXTINF:-1 group-title="Guangdong (W) vs Hubei (W)" tvg-logo="https://hxcv.site/images/cache/match-7119d5e848bb7b25223c28619a5057ef.png",Guangdong (W) vs Hubei (W) [NHÀ ĐÀI - HLS]
-https://auto.cdnvankhanh.com/live/sd-6MvYLv6qFArrtpFdR6/playlist.m3u8
-#EXTINF:-1 group-title="Jiangsu (W) vs Shanghai (W)" tvg-logo="https://hxcv.site/images/cache/match-2764d43af744bd0a106d18ff469ac65f.png",Jiangsu (W) vs Shanghai (W) [NHÀ ĐÀI - HLS]
-https://auto.cdnvankhanh.com/live/sd-6MvYLv6qFFFpdmuTit/playlist.m3u8
+#EXTINF:-1 group-title="Al-Hudod vs Al Karkh" tvg-logo="https://hxcv.site/images/cache/match-8d2db6a1f1baae104a300978380833f1.png",Al-Hudod vs Al Karkh [BLV LÝ QUỲ - HLS]
+https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 group-title="Al-Hudod vs Al Karkh" tvg-logo="https://hxcv.site/images/cache/match-8d2db6a1f1baae104a300978380833f1.png",Al-Hudod vs Al Karkh [BLV LÝ QUỲ - FLV]
+https://flv.cdnok9.com/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 group-title="Rebel Kyiv vs Kolos Kovalivka II" tvg-logo="https://hxcv.site/images/cache/match-0ec170995c55797a5f956e3cf17becc2.png",Rebel Kyiv vs Kolos Kovalivka II [BLV NGŨ CA - HLS]
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:-1 group-title="Rebel Kyiv vs Kolos Kovalivka II" tvg-logo="https://hxcv.site/images/cache/match-0ec170995c55797a5f956e3cf17becc2.png",Rebel Kyiv vs Kolos Kovalivka II [BLV NGŨ CA - FLV]
+https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTINF:-1 group-title="Al Sahel vs Al-Sharq" tvg-logo="https://hxcv.site/images/cache/match-bbf571f7edd9734d664f4c9c4630093d.png",Al Sahel vs Al-Sharq [BLV VÕ TÒNG - HLS]
  https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:-1 group-title="Al Sahel vs Al-Sharq" tvg-logo="https://hxcv.site/images/cache/match-bbf571f7edd9734d664f4c9c4630093d.png",Al Sahel vs Al-Sharq [BLV VÕ TÒNG - FLV]
@@ -25,29 +23,55 @@ https://auto.cdnvankhanh.com/live/sd-6MvYLv6qFFFpdmuTit/playlist.m3u8
 https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
 #EXTINF:-1 group-title="Al Sahel vs Al-Sharq" tvg-logo="https://hxcv.site/images/cache/match-bbf571f7edd9734d664f4c9c4630093d.png",Al Sahel vs Al-Sharq [BLV TRƯƠNG THANH - FLV]
 https://flv.cdnok9.com/live/TRUONGTHANH.flv?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
-#EXTINF:-1 group-title="Borussia Monchengladbach vs Lierse SK" tvg-logo="https://hxcv.site/images/cache/match-13d32b82045f3677446e31b66fafc920.png",Borussia Monchengladbach vs Lierse SK [NHÀ ĐÀI - HLS]
-https://auto.cdnvankhanh.com/live/sd-6MvYLv7aZwsPSpJnKe/playlist.m3u8
+#EXTINF:-1 group-title="Al-Rawdhah vs Al-Shoalah" tvg-logo="https://hxcv.site/images/cache/match-282af908b273ab0236910bc164e16970.png",Al-Rawdhah vs Al-Shoalah [BLV LÝ BÍ - HLS]
+https://hls.cdnok9.com/live/LYBI/index.m3u8?expire=1891347600&sign=082e8fbd254f7197ef828148b0832d36
+#EXTINF:-1 group-title="Al-Rawdhah vs Al-Shoalah" tvg-logo="https://hxcv.site/images/cache/match-282af908b273ab0236910bc164e16970.png",Al-Rawdhah vs Al-Shoalah [BLV LÝ BÍ - FLV]
+https://flv.cdnok9.com/live/LYBI.flv?expire=1891347600&sign=082e8fbd254f7197ef828148b0832d36
+#EXTINF:-1 group-title="Al-Rawdhah vs Al-Shoalah" tvg-logo="https://hxcv.site/images/cache/match-282af908b273ab0236910bc164e16970.png",Al-Rawdhah vs Al-Shoalah [BLV PHONG VÂN - HLS]
+https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:-1 group-title="Al-Rawdhah vs Al-Shoalah" tvg-logo="https://hxcv.site/images/cache/match-282af908b273ab0236910bc164e16970.png",Al-Rawdhah vs Al-Shoalah [BLV PHONG VÂN - FLV]
+https://flv.cdnok9.com/live/PHONGVAN.flv?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:-1 group-title="Hong Kong vs Cambodia" tvg-logo="https://hxcv.site/images/cache/match-afdcad6f61974e6a8a32b59b80d8e4dc.png",Hong Kong vs Cambodia [BLV HOA VINH - HLS]
+https://hls.cdnok9.com/live/LOELOE6380K/index.m3u8?expire=1788427256&sign=86b4dafe54d1b6da2bffad6653671edb
+#EXTINF:-1 group-title="Hong Kong vs Cambodia" tvg-logo="https://hxcv.site/images/cache/match-afdcad6f61974e6a8a32b59b80d8e4dc.png",Hong Kong vs Cambodia [BLV HOA VINH - FLV]
+https://flv.cdnok9.com/live/LOELOE6380K.flv?expire=1788427256&sign=86b4dafe54d1b6da2bffad6653671edb
+#EXTINF:-1 group-title="Hong Kong vs Cambodia" tvg-logo="https://hxcv.site/images/cache/match-afdcad6f61974e6a8a32b59b80d8e4dc.png",Hong Kong vs Cambodia [BLV NHỊ KA - HLS]
+https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:-1 group-title="Hong Kong vs Cambodia" tvg-logo="https://hxcv.site/images/cache/match-afdcad6f61974e6a8a32b59b80d8e4dc.png",Hong Kong vs Cambodia [BLV NHỊ KA - FLV]
+https://flv.cdnok9.com/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:-1 group-title="Hong Kong vs Cambodia" tvg-logo="https://hxcv.site/images/cache/match-afdcad6f61974e6a8a32b59b80d8e4dc.png",Hong Kong vs Cambodia [BLV KEVILL - HLS]
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTINF:-1 group-title="Hong Kong vs Cambodia" tvg-logo="https://hxcv.site/images/cache/match-afdcad6f61974e6a8a32b59b80d8e4dc.png",Hong Kong vs Cambodia [BLV KEVILL - FLV]
+https://flv.cdnok9.com/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTINF:-1 group-title="Hong Kong vs Cambodia" tvg-logo="https://hxcv.site/images/cache/match-afdcad6f61974e6a8a32b59b80d8e4dc.png",Hong Kong vs Cambodia [BLV LỮ BỐ - HLS]
+https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:-1 group-title="Hong Kong vs Cambodia" tvg-logo="https://hxcv.site/images/cache/match-afdcad6f61974e6a8a32b59b80d8e4dc.png",Hong Kong vs Cambodia [BLV LỮ BỐ - FLV]
+https://flv.cdnok9.com/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:-1 group-title="Hong Kong vs Cambodia" tvg-logo="https://hxcv.site/images/cache/match-afdcad6f61974e6a8a32b59b80d8e4dc.png",Hong Kong vs Cambodia [BLV ZORO - HLS]
+https://hls.cdnok9.com/live/ZORO/index.m3u8?expire=1788427256&sign=8e04682553e334be697e3ef428fa6031
+#EXTINF:-1 group-title="Hong Kong vs Cambodia" tvg-logo="https://hxcv.site/images/cache/match-afdcad6f61974e6a8a32b59b80d8e4dc.png",Hong Kong vs Cambodia [BLV ZORO - FLV]
+https://flv.cdnok9.com/live/ZORO.flv?expire=1788427256&sign=8e04682553e334be697e3ef428fa6031
 #EXTINF:-1 group-title="Sumsel United vs Persikad Depok" tvg-logo="https://hxcv.site/images/cache/match-624a8724602eda0a70753686ef41dee4.png",Sumsel United vs Persikad Depok [BLV YẾN THANH - HLS]
  https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:-1 group-title="Sumsel United vs Persikad Depok" tvg-logo="https://hxcv.site/images/cache/match-624a8724602eda0a70753686ef41dee4.png",Sumsel United vs Persikad Depok [BLV YẾN THANH - FLV]
 https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="Sumsel United vs Persikad Depok" tvg-logo="https://hxcv.site/images/cache/match-624a8724602eda0a70753686ef41dee4.png",Sumsel United vs Persikad Depok [BLV LA THÀNH - HLS]
+https://hls.cdnok9.com/live/LATHANH/index.m3u8?expire=1788427256&sign=7b02684cf8b57cee675a2501454277cf
+#EXTINF:-1 group-title="Sumsel United vs Persikad Depok" tvg-logo="https://hxcv.site/images/cache/match-624a8724602eda0a70753686ef41dee4.png",Sumsel United vs Persikad Depok [BLV LA THÀNH - FLV]
+https://flv.cdnok9.com/live/LATHANH.flv?expire=1788427256&sign=7b02684cf8b57cee675a2501454277cf
+#EXTINF:-1 group-title="Ho Chi Minh City (W) vs Stallion Laguna FC (W)" tvg-logo="https://hxcv.site/images/cache/match-a80b51392699d055465bef2c8d07dfda.png",Ho Chi Minh City (W) vs Stallion Laguna FC (W) [BLV SÁCH SIÊU - HLS]
+https://hls.cdnok9.com/live/SACHSIEU1/index.m3u8?expire=1788427256&sign=db0c3e1d3d520e4ddb0a8740f0b6aa29
+#EXTINF:-1 group-title="Ho Chi Minh City (W) vs Stallion Laguna FC (W)" tvg-logo="https://hxcv.site/images/cache/match-a80b51392699d055465bef2c8d07dfda.png",Ho Chi Minh City (W) vs Stallion Laguna FC (W) [BLV SÁCH SIÊU - FLV]
+https://flv.cdnok9.com/live/SACHSIEU1.flv?expire=1788427256&sign=db0c3e1d3d520e4ddb0a8740f0b6aa29
+#EXTINF:-1 group-title="Ho Chi Minh City (W) vs Stallion Laguna FC (W)" tvg-logo="https://hxcv.site/images/cache/match-a80b51392699d055465bef2c8d07dfda.png",Ho Chi Minh City (W) vs Stallion Laguna FC (W) [BLV TỐNG GIANG - HLS]
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:-1 group-title="Ho Chi Minh City (W) vs Stallion Laguna FC (W)" tvg-logo="https://hxcv.site/images/cache/match-a80b51392699d055465bef2c8d07dfda.png",Ho Chi Minh City (W) vs Stallion Laguna FC (W) [BLV TỐNG GIANG - FLV]
+https://flv.cdnok9.com/live/TONGGIANG.flv?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:-1 group-title="Ho Chi Minh City (W) vs Stallion Laguna FC (W)" tvg-logo="https://hxcv.site/images/cache/match-a80b51392699d055465bef2c8d07dfda.png",Ho Chi Minh City (W) vs Stallion Laguna FC (W) [BLV QUAN VŨ - HLS]
+ https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:-1 group-title="Ho Chi Minh City (W) vs Stallion Laguna FC (W)" tvg-logo="https://hxcv.site/images/cache/match-a80b51392699d055465bef2c8d07dfda.png",Ho Chi Minh City (W) vs Stallion Laguna FC (W) [BLV QUAN VŨ - FLV]
+https://flv.cdnok9.com/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 #EXTINF:-1 group-title="Dinamo-2 Minsk vs Dnepr Mogilev" tvg-logo="https://hxcv.site/images/cache/match-604aea02563b31a89c24dcbef834f783.png",Dinamo-2 Minsk vs Dnepr Mogilev [BLV KENCHU - HLS]
 https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
 #EXTINF:-1 group-title="Dinamo-2 Minsk vs Dnepr Mogilev" tvg-logo="https://hxcv.site/images/cache/match-604aea02563b31a89c24dcbef834f783.png",Dinamo-2 Minsk vs Dnepr Mogilev [BLV KENCHU - FLV]
 https://flv.cdnok9.com/live/KENCHU.flv?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
-#EXTINF:-1 group-title="Hungary U21 vs Faroe Islands U21" tvg-logo="https://hxcv.site/images/cache/match-12be101055bf1a3c08f8b64fcda72e6c.png",Hungary U21 vs Faroe Islands U21 [NHÀ ĐÀI - HLS]
-https://auto.cdnvankhanh.com/live/sd-6MvYLv6qkEgRSnuY4k/playlist.m3u8
-#EXTINF:-1 group-title="Iran vs Cape Verde" tvg-logo="https://hxcv.site/images/cache/match-d5097751f3b7b4b1da0a829f6c252ff9.png",Iran vs Cape Verde [NHÀ ĐÀI - HLS]
-https://auto.cdnvankhanh.com/live/sd-6MvYLyJ9Q3K9tCArVJ/playlist.m3u8
-#EXTINF:-1 group-title="Luxembourg U21 vs Iceland U21" tvg-logo="https://hxcv.site/images/cache/match-a6f73a2185bf92f36b964dd61c51d452.png",Luxembourg U21 vs Iceland U21 [NHÀ ĐÀI - HLS]
-https://auto.cdnvankhanh.com/live/sd-6MuSNSi4eCZTGPo6YU/playlist.m3u8
-#EXTINF:-1 group-title="Northern Ireland U21 vs Latvia U21" tvg-logo="https://hxcv.site/images/cache/match-3be901919877f3c445d2e1a40b325327.png",Northern Ireland U21 vs Latvia U21 [NHÀ ĐÀI - HLS]
-https://auto.cdnvankhanh.com/live/sd-6MuSNSipJgVrPsSoDE/playlist.m3u8
-#EXTINF:-1 group-title="Belgrano Reserves vs San Lorenzo Reserves" tvg-logo="https://hxcv.site/images/cache/match-89a1179d0c037d78bf67ad76d47acb0a.png",Belgrano Reserves vs San Lorenzo Reserves [NHÀ ĐÀI - HLS]
-https://auto.cdnvankhanh.com/live/sd-6MvYLyKcCRZHfRwUWx/playlist.m3u8
-#EXTINF:-1 group-title="Huracan Reserves vs CA Independiente Reserves" tvg-logo="https://hxcv.site/images/cache/match-76d6f18370266369c24ab12bbbb43da7.png",Huracan Reserves vs CA Independiente Reserves [NHÀ ĐÀI - HLS]
-https://auto.cdnvankhanh.com/live/sd-6MvYLyKcCPMonx7ZN4/playlist.m3u8
-#EXTINF:-1 group-title="Ferroviaria SP (W) vs SC Corinthians Paulista (W)" tvg-logo="https://hxcv.site/images/cache/match-c36280a9b7a12a8ef94ce1c98a2d295b.png",Ferroviaria SP (W) vs SC Corinthians Paulista (W) [NHÀ ĐÀI - HLS]
-https://auto.cdnvankhanh.com/live/sd-6MuSNGznLmbMAfe3UQ/playlist.m3u8
-#EXTINF:-1 group-title="Suriname vs El Salvador" tvg-logo="https://hxcv.site/images/cache/match-c305d93e2d02aa5d374832e9cf1714cf.png",Suriname vs El Salvador [NHÀ ĐÀI - HLS]
-https://auto.cdnvankhanh.com/live/sd-6MuT7NBnKdm4ifBS7N/playlist.m3u8
