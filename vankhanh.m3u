@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Germany U20 vs Romania U20" tvg-logo="https://hxcv.site/images/cache/match-b039b33a781569a9ef4ad828c4955efa.png",Germany U20 vs Romania U20 [BLV VĂN ĐỘ - HLS]
-https://hls.cdnvankhanh.com/live/VANDO/index.m3u8?expire=1892812920&sign=a0a29c944a41e507a7d578db683ea31a
-#EXTINF:-1 group-title="Germany U20 vs Romania U20" tvg-logo="https://hxcv.site/images/cache/match-b039b33a781569a9ef4ad828c4955efa.png",Germany U20 vs Romania U20 [BLV VĂN ĐỘ - FLV]
- https://flv.cdnvankhanh.com/live/VANDO.flv?expire=1892812920&sign=a0a29c944a41e507a7d578db683ea31a
 #EXTINF:-1 group-title="Al-Arabi SC vs Al Shamal" tvg-logo="https://hxcv.site/images/cache/match-a17365d32791f9ce07906691131e6bc8.png",Al-Arabi SC vs Al Shamal [BLV VĂN MINH - HLS]
 https://hls.cdnvankhanh.com/live/VANMINH/index.m3u8?expire=1891172040&sign=f6acb0ca35d53b8fc8f43ca1c11efb5e
 #EXTINF:-1 group-title="Al-Arabi SC vs Al Shamal" tvg-logo="https://hxcv.site/images/cache/match-a17365d32791f9ce07906691131e6bc8.png",Al-Arabi SC vs Al Shamal [BLV VĂN MINH - FLV]
@@ -31,11 +27,23 @@ https://hls.cdnvankhanh.com/live/GIAOSUXOAY/index.m3u8?expire=1892730180&sign=c5
 https://hls.cdnvankhanh.com/live/VEVAN/index.m3u8?expire=1848307620&sign=5779030852f8cafeab86dae9130be2f5
 #EXTINF:-1 group-title="Egypt vs Uzbekistan" tvg-logo="https://hxcv.site/images/cache/match-e2baf8f83855e58d3fd6ea1581f32c99.png",Egypt vs Uzbekistan [BLV VĂN VẺ - FLV]
 https://flv.cdnvankhanh.com/live/VEVAN.flv?expire=1848307620&sign=5779030852f8cafeab86dae9130be2f5
-#EXTINF:-1 group-title="Angola vs Argentina" tvg-logo="https://hxcv.site/images/cache/match-5ca2872f7389edb6ab6bc902c620100a.png",Angola vs Argentina [BLV VĂN LONG - HLS]
-https://hls.cdnvankhanh.com/live/VANLONG/index.m3u8?expire=1891070400&sign=8b0432bc178a10760ef797d47c1aabf7
-#EXTINF:-1 group-title="Angola vs Argentina" tvg-logo="https://hxcv.site/images/cache/match-5ca2872f7389edb6ab6bc902c620100a.png",Angola vs Argentina [BLV VĂN LONG - FLV]
-https://flv.cdnvankhanh.com/live/VANLONG.flv?expire=1891070400&sign=8b0432bc178a10760ef797d47c1aabf7
-#EXTINF:-1 group-title="Angola vs Argentina" tvg-logo="https://hxcv.site/images/cache/match-5ca2872f7389edb6ab6bc902c620100a.png",Angola vs Argentina [BLV DOCTOR - HLS]
+#EXTINF:-1 group-title="Angola vs Argentina" tvg-logo="https://hxcv.site/images/cache/match-ac8202a2a08c2e5764fac30661c220ed.png",Angola vs Argentina [BLV DOCTOR - HLS]
 https://hls.cdnvankhanh.com/live/DOCTOR/index.m3u8?expire=1890806880&sign=122b6adf5f25b6a125910438f775abb8
-#EXTINF:-1 group-title="Angola vs Argentina" tvg-logo="https://hxcv.site/images/cache/match-5ca2872f7389edb6ab6bc902c620100a.png",Angola vs Argentina [BLV DOCTOR - FLV]
+#EXTINF:-1 group-title="Angola vs Argentina" tvg-logo="https://hxcv.site/images/cache/match-ac8202a2a08c2e5764fac30661c220ed.png",Angola vs Argentina [BLV DOCTOR - FLV]
 https://flv.cdnvankhanh.com/live/DOCTOR.flv?expire=1890806880&sign=122b6adf5f25b6a125910438f775abb8C
+#EXTINF:-1 group-title="Angola vs Argentina" tvg-logo="https://hxcv.site/images/cache/match-ac8202a2a08c2e5764fac30661c220ed.png",Angola vs Argentina [BLV VĂN LONG - HLS]
+https://hls.cdnvankhanh.com/live/VANLONG/index.m3u8?expire=1891070400&sign=8b0432bc178a10760ef797d47c1aabf7
+#EXTINF:-1 group-title="Angola vs Argentina" tvg-logo="https://hxcv.site/images/cache/match-ac8202a2a08c2e5764fac30661c220ed.png",Angola vs Argentina [BLV VĂN LONG - FLV]
+https://flv.cdnvankhanh.com/live/VANLONG.flv?expire=1891070400&sign=8b0432bc178a10760ef797d47c1aabf7
+#EXTINF:-1 group-title="Saudi Arabia vs Ivory Coast" tvg-logo="https://hxcv.site/images/cache/match-d594b491e8f945642a6ff746173165ba.png",Saudi Arabia vs Ivory Coast [BLV VĂN TÈO - HLS]
+https://hls.cdnvankhanh.com/live/VANTEO/index.m3u8?expire=1892616120&sign=d7b1c78e06fada5c68d59641889d2c55
+#EXTINF:-1 group-title="Saudi Arabia vs Ivory Coast" tvg-logo="https://hxcv.site/images/cache/match-d594b491e8f945642a6ff746173165ba.png",Saudi Arabia vs Ivory Coast [BLV VĂN TÈO - FLV]
+https://flv.cdnvankhanh.com/live/VANTEO.flv?expire=1892616120&sign=d7b1c78e06fada5c68d59641889d2c55
+#EXTINF:-1 group-title="Al-Sailiya vs Al Rayyan" tvg-logo="https://hxcv.site/images/cache/match-6f4c8048bad5c60fa43fe0c7cc4c9324.png",Al-Sailiya vs Al Rayyan [BLV VĂN CHUN - HLS]
+https://hls.cdnvankhanh.com/live/VANCHUN/index.m3u8?expire=1898518320&sign=e855afc2f47c2589486b995f1194c0fc
+#EXTINF:-1 group-title="Al-Sailiya vs Al Rayyan" tvg-logo="https://hxcv.site/images/cache/match-6f4c8048bad5c60fa43fe0c7cc4c9324.png",Al-Sailiya vs Al Rayyan [BLV VĂN CHUN - FLV]
+https://flv.cdnvankhanh.com/live/VANCHUN.flv?expire=1898518320&sign=e855afc2f47c2589486b995f1194c0fc
+#EXTINF:-1 group-title="Finland vs Malta" tvg-logo="https://hxcv.site/images/cache/match-88b51a2c3899934ac79c7c33f6a67d5d.png",Finland vs Malta [BLV VĂN MINH - HLS]
+https://hls.cdnvankhanh.com/live/VANMINH/index.m3u8?expire=1891172040&sign=f6acb0ca35d53b8fc8f43ca1c11efb5e
+#EXTINF:-1 group-title="Finland vs Malta" tvg-logo="https://hxcv.site/images/cache/match-88b51a2c3899934ac79c7c33f6a67d5d.png",Finland vs Malta [BLV VĂN MINH - FLV]
+https://flv.cdnvankhanh.com/live/VANMINH.flv?expire=1891172040&sign=f6acb0ca35d53b8fc8f43ca1c11efb5e
