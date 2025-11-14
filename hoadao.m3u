@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/angola-vs-argentina-2349263?mode=sd
-#EXTINF:-1 group-title="Angola vs Argentina" referer="https://hoadao.tv/angola-vs-argentina-2349263?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-f7e4b20ab1c1e1efeb42b82b605c6bcc.png",Angola vs Argentina [BLV PHÁO - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/angola-vs-argentina-2349263?mode=hd
-#EXTINF:-1 group-title="Angola vs Argentina" referer="https://hoadao.tv/angola-vs-argentina-2349263?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-f7e4b20ab1c1e1efeb42b82b605c6bcc.png",Angola vs Argentina [BLV PHÁO - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/angola-vs-argentina-2349263?mode=flv
-#EXTINF:-1 group-title="Angola vs Argentina" referer="https://hoadao.tv/angola-vs-argentina-2349263?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-f7e4b20ab1c1e1efeb42b82b605c6bcc.png",Angola vs Argentina [BLV PHÁO - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/angola-vs-argentina-2349263?mode=flv2
-#EXTINF:-1 group-title="Angola vs Argentina" referer="https://hoadao.tv/angola-vs-argentina-2349263?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-f7e4b20ab1c1e1efeb42b82b605c6bcc.png",Angola vs Argentina [BLV PHÁO - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/angola-vs-argentina-2349263?mode=ndsd
-#EXTINF:-1 group-title="Angola vs Argentina" referer="https://hoadao.tv/angola-vs-argentina-2349263?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-f7e4b20ab1c1e1efeb42b82b605c6bcc.png",Angola vs Argentina [BLV PHÁO - SD (ND)]
-https://live.alilicloud.com/live/a5a5d8aef7ee21006af5894b215c1c41/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/finland-vs-malta-2349281?mode=sd
 #EXTINF:-1 group-title="Finland vs Malta" referer="https://hoadao.tv/finland-vs-malta-2349281?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-a31d61ff8841b6669e47f9fb2072729b.png",Finland vs Malta [BLV MÈO BÉO - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
@@ -29,36 +14,18 @@ https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/finland-vs-malta-2349281?mode=ndsd
 #EXTINF:-1 group-title="Finland vs Malta" referer="https://hoadao.tv/finland-vs-malta-2349281?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-a31d61ff8841b6669e47f9fb2072729b.png",Finland vs Malta [BLV MÈO BÉO - SD (ND)]
 https://live.alilicloud.com/live/0f2f25b116372899e1476bcb68cff8db/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/fk-pohronie-vs-mfk-lokomotiva-zvolen-2349266?mode=ndsd
-#EXTINF:-1 group-title="FK Pohronie vs MFK Lokomotiva Zvolen" referer="https://hoadao.tv/fk-pohronie-vs-mfk-lokomotiva-zvolen-2349266?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-5e03a2f57f10481e64918114c1e88b52.png",FK Pohronie vs MFK Lokomotiva Zvolen [No BLV - SD (ND)]
-https://live.alilicloud.com/live/f6cf8c27f8758b9bd947d4f701796a6d/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/uzbekistan-vs-egypt-2349278?mode=ndsd
-#EXTINF:-1 group-title="Uzbekistan vs Egypt" referer="https://hoadao.tv/uzbekistan-vs-egypt-2349278?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-42a7c086e027337544c42aea96e8bc67.png",Uzbekistan vs Egypt [No BLV - SD (ND)]
-https://live.alilicloud.com/live/aa1e3b4f3a4a02fc95485e62ee63d018/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/al-sailiya-vs-al-rayyan-2349261?mode=ndsd
-#EXTINF:-1 group-title="Al-Sailiya vs Al Rayyan" referer="https://hoadao.tv/al-sailiya-vs-al-rayyan-2349261?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-6701ad3b1981406ba0edbb6cff55cf42.png",Al-Sailiya vs Al Rayyan [No BLV - SD (ND)]
-https://live.alilicloud.com/live/2626f83abe0b55b976a7bf507fc1c3cd/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/saudi-arabia-vs-cote-divoire-2349269?mode=ndsd
-#EXTINF:-1 group-title="Saudi Arabia vs Cote d'Ivoire" referer="https://hoadao.tv/saudi-arabia-vs-cote-divoire-2349269?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-1eb532ab0c4ad31224b93b237b781fb7.png",Saudi Arabia vs Cote d'Ivoire [No BLV - SD (ND)]
-https://live.alilicloud.com/live/eabfdaa189dc7b3b30e9404c3e070e86/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/tunisia-vs-jordan-2349284?mode=ndsd
-#EXTINF:-1 group-title="Tunisia vs Jordan" referer="https://hoadao.tv/tunisia-vs-jordan-2349284?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-b646c1316eee77eff641ef20363f3bac.png",Tunisia vs Jordan [No BLV - SD (ND)]
-https://live.alilicloud.com/live/300dd81e091b3160bb2615a8f700d2d2/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/czechia-republic-u21-vs-serbia-u21-2351437?mode=ndsd
-#EXTINF:-1 group-title="Czechia Republic U21 vs Serbia U21" referer="https://hoadao.tv/czechia-republic-u21-vs-serbia-u21-2351437?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-ec2a1225a23be937e82db0cb5e67f130.png",Czechia Republic U21 vs Serbia U21 [No BLV - SD (ND)]
-https://live.alilicloud.com/live/2666a934da0095977952ea334f0ea4be/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/denmark-u21-vs-usa-u21-2351438?mode=ndsd
-#EXTINF:-1 group-title="Denmark U21 vs USA U21" referer="https://hoadao.tv/denmark-u21-vs-usa-u21-2351438?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-236266f22f6125149d2ba6047d956ad3.png",Denmark U21 vs USA U21 [No BLV - SD (ND)]
-https://live.alilicloud.com/live/7ec31202104ab6e9f0a2b24f8bf8e9e6/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/cyprus-u21-vs-kosovo-u21-2349271?mode=ndsd
-#EXTINF:-1 group-title="Cyprus U21 vs Kosovo U21" referer="https://hoadao.tv/cyprus-u21-vs-kosovo-u21-2349271?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-47be3ef87a7bfd407393e32216d93e2a.png",Cyprus U21 vs Kosovo U21 [No BLV - SD (ND)]
-https://live.alilicloud.com/live/a85c4831710819ffaa990a825ea64f17/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/germany-u21-vs-malta-u21-2349273?mode=ndsd
-#EXTINF:-1 group-title="Germany U21 vs Malta U21" referer="https://hoadao.tv/germany-u21-vs-malta-u21-2349273?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-852b84a051a75fa309de18137e65ff9e.png",Germany U21 vs Malta U21 [No BLV - SD (ND)]
-https://live.alilicloud.com/live/d0f7ec557c7da84da94f8448890e5e6d/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/turkiye-u21-vs-ukraine-u21-2349274?mode=ndsd
-#EXTINF:-1 group-title="Turkiye U21 vs Ukraine U21" referer="https://hoadao.tv/turkiye-u21-vs-ukraine-u21-2349274?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-5664743c9fe2aa32846450622d440239.png",Turkiye U21 vs Ukraine U21 [No BLV - SD (ND)]
-https://live.alilicloud.com/live/0db040045fa79e6b672be24784cca49e/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/morocco-vs-mozambique-2349317?mode=sd
+#EXTINF:-1 group-title="Morocco vs Mozambique" referer="https://hoadao.tv/morocco-vs-mozambique-2349317?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-4791088382ba4323dbbd66652dbb06d9.png",Morocco vs Mozambique [BLV CỤ RÙA - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/morocco-vs-mozambique-2349317?mode=hd
+#EXTINF:-1 group-title="Morocco vs Mozambique" referer="https://hoadao.tv/morocco-vs-mozambique-2349317?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-4791088382ba4323dbbd66652dbb06d9.png",Morocco vs Mozambique [BLV CỤ RÙA - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/morocco-vs-mozambique-2349317?mode=flv
+#EXTINF:-1 group-title="Morocco vs Mozambique" referer="https://hoadao.tv/morocco-vs-mozambique-2349317?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-4791088382ba4323dbbd66652dbb06d9.png",Morocco vs Mozambique [BLV CỤ RÙA - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/morocco-vs-mozambique-2349317?mode=flv2
+#EXTINF:-1 group-title="Morocco vs Mozambique" referer="https://hoadao.tv/morocco-vs-mozambique-2349317?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-4791088382ba4323dbbd66652dbb06d9.png",Morocco vs Mozambique [BLV CỤ RÙA - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/austria-u21-vs-belgium-u21-2349275?mode=ndsd
 #EXTINF:-1 group-title="Austria U21 vs Belgium U21" referer="https://hoadao.tv/austria-u21-vs-belgium-u21-2349275?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-5834aac92d736fabd2b81ce3e838169f.png",Austria U21 vs Belgium U21 [No BLV - SD (ND)]
 https://live.alilicloud.com/live/c01e93767cc72f7bd4e2c9995979933b/playlist.m3u8
@@ -80,3 +47,6 @@ https://live.alilicloud.com/live/0f2f25b116372899e1476bcb68cff8db/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/italy-u20-vs-portugal-u20-2348991?mode=ndsd
 #EXTINF:-1 group-title="Italy U20 vs Portugal U20" referer="https://hoadao.tv/italy-u20-vs-portugal-u20-2348991?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-bb297a1a3ebc7ddecdbabcd749191ae8.png",Italy U20 vs Portugal U20 [No BLV - SD (ND)]
 https://live.alilicloud.com/live/3efb0c2975ebf094cf7af3c3fa272837/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/israel-u21-vs-norway-u21-2349285?mode=ndsd
+#EXTINF:-1 group-title="Israel U21 vs Norway U21" referer="https://hoadao.tv/israel-u21-vs-norway-u21-2349285?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-b8b913fa3f84a458875250dc59bb6e6e.png",Israel U21 vs Norway U21 [No BLV - SD (ND)]
+https://live.alilicloud.com/live/222931df4986ce9644a99d4b3ea9b1e5/playlist.m3u8
