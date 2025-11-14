@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/morocco-vs-mozambique-2349317?mode=sd
-#EXTINF:-1 group-title="Morocco vs Mozambique" referer="https://hoadao.tv/morocco-vs-mozambique-2349317?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-4791088382ba4323dbbd66652dbb06d9.png",Morocco vs Mozambique [BLV CỤ RÙA - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/morocco-vs-mozambique-2349317?mode=hd
-#EXTINF:-1 group-title="Morocco vs Mozambique" referer="https://hoadao.tv/morocco-vs-mozambique-2349317?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-4791088382ba4323dbbd66652dbb06d9.png",Morocco vs Mozambique [BLV CỤ RÙA - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/morocco-vs-mozambique-2349317?mode=flv
-#EXTINF:-1 group-title="Morocco vs Mozambique" referer="https://hoadao.tv/morocco-vs-mozambique-2349317?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-4791088382ba4323dbbd66652dbb06d9.png",Morocco vs Mozambique [BLV CỤ RÙA - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/morocco-vs-mozambique-2349317?mode=flv2
-#EXTINF:-1 group-title="Morocco vs Mozambique" referer="https://hoadao.tv/morocco-vs-mozambique-2349317?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-4791088382ba4323dbbd66652dbb06d9.png",Morocco vs Mozambique [BLV CỤ RÙA - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/croatia-vs-faroe-islands-2349330?mode=sd
 #EXTINF:-1 group-title="Croatia vs Faroe Islands" referer="https://hoadao.tv/croatia-vs-faroe-islands-2349330?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-16d74ca82633b3604ac7ca8e31593a3b.png",Croatia vs Faroe Islands [BLV CÁ CHÉP - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_cachep/playlist.m3u8
@@ -56,30 +44,6 @@ https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/luxembourg-vs-germany-2349344?mode=ndsd
 #EXTINF:-1 group-title="Luxembourg vs Germany" referer="https://hoadao.tv/luxembourg-vs-germany-2349344?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-82378d6ea26d142c178f8ebdeadb874c.png",Luxembourg vs Germany [BLV CHIM NHỎ - SD (ND)]
 https://live.alilicloud.com/live/9c65008c20157eb7fa08b47c62c45462/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/spain-u21-vs-san-marino-u21-2349332?mode=ndsd
-#EXTINF:-1 group-title="Spain U21 vs San Marino U21" referer="https://hoadao.tv/spain-u21-vs-san-marino-u21-2349332?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-a0d9b81bed1f8f3573c868ea470571f0.png",Spain U21 vs San Marino U21 [No BLV - SD (ND)]
-https://live.alilicloud.com/live/9a300ab9e34825a674a10c8559c70f22/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/england-u21-vs-ireland-u21-2349333?mode=ndsd
-#EXTINF:-1 group-title="England U21 vs Ireland U21" referer="https://hoadao.tv/england-u21-vs-ireland-u21-2349333?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-4b5862d5f789dca04d679506bb349ddc.png",England U21 vs Ireland U21 [No BLV - SD (ND)]
-https://live.alilicloud.com/live/b0e4c20a68b1f42e5ca2663e2440624c/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/gibraltar-vs-montenegro-2349342?mode=ndsd
-#EXTINF:-1 group-title="Gibraltar vs Montenegro" referer="https://hoadao.tv/gibraltar-vs-montenegro-2349342?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-359917d8b0a2bbb1527c613f0007bee7.png",Gibraltar vs Montenegro [No BLV - SD (ND)]
-https://live.alilicloud.com/live/d55b02ec8ef2b2fb8483a08a2bde2033/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/slovakia-vs-northern-ireland-2349343?mode=ndsd
-#EXTINF:-1 group-title="Slovakia vs Northern Ireland" referer="https://hoadao.tv/slovakia-vs-northern-ireland-2349343?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-7950d719c88ec16a90bd3bf63d0ad640.png",Slovakia vs Northern Ireland [No BLV - SD (ND)]
-https://live.alilicloud.com/live/e00e901da2e3eb77970cda892dc38cee/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/luxembourg-vs-germany-2349344?mode=sd
-#EXTINF:-1 group-title="Luxembourg vs Germany" referer="https://hoadao.tv/luxembourg-vs-germany-2349344?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-82378d6ea26d142c178f8ebdeadb874c.png",Luxembourg vs Germany [No BLV - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/luxembourg-vs-germany-2349344?mode=hd
-#EXTINF:-1 group-title="Luxembourg vs Germany" referer="https://hoadao.tv/luxembourg-vs-germany-2349344?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-82378d6ea26d142c178f8ebdeadb874c.png",Luxembourg vs Germany [No BLV - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/luxembourg-vs-germany-2349344?mode=flv
-#EXTINF:-1 group-title="Luxembourg vs Germany" referer="https://hoadao.tv/luxembourg-vs-germany-2349344?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-82378d6ea26d142c178f8ebdeadb874c.png",Luxembourg vs Germany [No BLV - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/luxembourg-vs-germany-2349344?mode=flv2
-#EXTINF:-1 group-title="Luxembourg vs Germany" referer="https://hoadao.tv/luxembourg-vs-germany-2349344?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-82378d6ea26d142c178f8ebdeadb874c.png",Luxembourg vs Germany [No BLV - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/luxembourg-vs-germany-2349344?mode=ndsd
-#EXTINF:-1 group-title="Luxembourg vs Germany" referer="https://hoadao.tv/luxembourg-vs-germany-2349344?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-82378d6ea26d142c178f8ebdeadb874c.png",Luxembourg vs Germany [No BLV - SD (ND)]
-https://live.alilicloud.com/live/9c65008c20157eb7fa08b47c62c45462/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/club-guarani-vs-fc-nacional-asuncion-2351987?mode=ndsd
+#EXTINF:-1 group-title="Club Guaraní vs FC Nacional Asuncion" referer="https://hoadao.tv/club-guarani-vs-fc-nacional-asuncion-2351987?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-d67f1188142218588dae90e22f2791ce.png",Club Guaraní vs FC Nacional Asuncion [No BLV - SD (ND)]
+https://live.alilicloud.com/live/4e5ae92af8a4974954f26df4f955ae74/playlist.m3u8
