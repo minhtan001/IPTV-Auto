@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/al-arabi-sc-vs-al-shamal-2349070?mode=sd
-#EXTINF:-1 group-title="Al-Arabi SC vs Al Shamal" referer="https://hoadao.tv/al-arabi-sc-vs-al-shamal-2349070?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-cc66d870df6fd1e97254579a47c2f5e2.png",Al-Arabi SC vs Al Shamal [BLV CHIM NHỎ - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/al-arabi-sc-vs-al-shamal-2349070?mode=hd
-#EXTINF:-1 group-title="Al-Arabi SC vs Al Shamal" referer="https://hoadao.tv/al-arabi-sc-vs-al-shamal-2349070?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-cc66d870df6fd1e97254579a47c2f5e2.png",Al-Arabi SC vs Al Shamal [BLV CHIM NHỎ - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/al-arabi-sc-vs-al-shamal-2349070?mode=flv
-#EXTINF:-1 group-title="Al-Arabi SC vs Al Shamal" referer="https://hoadao.tv/al-arabi-sc-vs-al-shamal-2349070?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-cc66d870df6fd1e97254579a47c2f5e2.png",Al-Arabi SC vs Al Shamal [BLV CHIM NHỎ - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/al-arabi-sc-vs-al-shamal-2349070?mode=flv2
-#EXTINF:-1 group-title="Al-Arabi SC vs Al Shamal" referer="https://hoadao.tv/al-arabi-sc-vs-al-shamal-2349070?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-cc66d870df6fd1e97254579a47c2f5e2.png",Al-Arabi SC vs Al Shamal [BLV CHIM NHỎ - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/al-arabi-sc-vs-al-shamal-2349070?mode=ndsd
-#EXTINF:-1 group-title="Al-Arabi SC vs Al Shamal" referer="https://hoadao.tv/al-arabi-sc-vs-al-shamal-2349070?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-cc66d870df6fd1e97254579a47c2f5e2.png",Al-Arabi SC vs Al Shamal [BLV CHIM NHỎ - SD (ND)]
-https://live.alilicloud.com/live/085858b160806072df5dc713910c37ab/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/angola-vs-argentina-2349263?mode=sd
 #EXTINF:-1 group-title="Angola vs Argentina" referer="https://hoadao.tv/angola-vs-argentina-2349263?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-f7e4b20ab1c1e1efeb42b82b605c6bcc.png",Angola vs Argentina [BLV PHÁO - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
@@ -29,9 +14,18 @@ https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/angola-vs-argentina-2349263?mode=ndsd
 #EXTINF:-1 group-title="Angola vs Argentina" referer="https://hoadao.tv/angola-vs-argentina-2349263?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-f7e4b20ab1c1e1efeb42b82b605c6bcc.png",Angola vs Argentina [BLV PHÁO - SD (ND)]
 https://live.alilicloud.com/live/a5a5d8aef7ee21006af5894b215c1c41/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/oman-vs-sudan-2352263?mode=ndsd
-#EXTINF:-1 group-title="Oman vs Sudan" referer="https://hoadao.tv/oman-vs-sudan-2352263?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-89813c981931e3264728fe91112ecc09.png",Oman vs Sudan [No BLV - SD (ND)]
-https://live.alilicloud.com/live/e40b3a67c6adc89193c1781f7f06c4d9/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/finland-vs-malta-2349281?mode=sd
+#EXTINF:-1 group-title="Finland vs Malta" referer="https://hoadao.tv/finland-vs-malta-2349281?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-a31d61ff8841b6669e47f9fb2072729b.png",Finland vs Malta [BLV MÈO BÉO - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/finland-vs-malta-2349281?mode=hd
+#EXTINF:-1 group-title="Finland vs Malta" referer="https://hoadao.tv/finland-vs-malta-2349281?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-a31d61ff8841b6669e47f9fb2072729b.png",Finland vs Malta [BLV MÈO BÉO - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/finland-vs-malta-2349281?mode=flv
+#EXTINF:-1 group-title="Finland vs Malta" referer="https://hoadao.tv/finland-vs-malta-2349281?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-a31d61ff8841b6669e47f9fb2072729b.png",Finland vs Malta [BLV MÈO BÉO - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/finland-vs-malta-2349281?mode=flv2
+#EXTINF:-1 group-title="Finland vs Malta" referer="https://hoadao.tv/finland-vs-malta-2349281?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-a31d61ff8841b6669e47f9fb2072729b.png",Finland vs Malta [BLV MÈO BÉO - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/ireland-u17-vs-canada-u17-2351513?mode=ndsd
 #EXTINF:-1 group-title="Ireland U17 vs Canada U17" referer="https://hoadao.tv/ireland-u17-vs-canada-u17-2351513?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-58e1e8b0232eaae9950b2650930add09.png",Ireland U17 vs Canada U17 [No BLV - SD (ND)]
 https://live.alilicloud.com/live/998ca5c4ccfa9a039ce109a5c23b55cb/playlist.m3u8
@@ -71,3 +65,9 @@ https://live.alilicloud.com/live/f6cf8c27f8758b9bd947d4f701796a6d/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/uzbekistan-vs-egypt-2349278?mode=ndsd
 #EXTINF:-1 group-title="Uzbekistan vs Egypt" referer="https://hoadao.tv/uzbekistan-vs-egypt-2349278?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-42a7c086e027337544c42aea96e8bc67.png",Uzbekistan vs Egypt [No BLV - SD (ND)]
 https://live.alilicloud.com/live/aa1e3b4f3a4a02fc95485e62ee63d018/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/al-sailiya-vs-al-rayyan-2349261?mode=ndsd
+#EXTINF:-1 group-title="Al-Sailiya vs Al Rayyan" referer="https://hoadao.tv/al-sailiya-vs-al-rayyan-2349261?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-6701ad3b1981406ba0edbb6cff55cf42.png",Al-Sailiya vs Al Rayyan [No BLV - SD (ND)]
+https://live.alilicloud.com/live/2626f83abe0b55b976a7bf507fc1c3cd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/saudi-arabia-vs-cote-divoire-2349269?mode=ndsd
+#EXTINF:-1 group-title="Saudi Arabia vs Cote d'Ivoire" referer="https://hoadao.tv/saudi-arabia-vs-cote-divoire-2349269?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-1eb532ab0c4ad31224b93b237b781fb7.png",Saudi Arabia vs Cote d'Ivoire [No BLV - SD (ND)]
+https://live.alilicloud.com/live/eabfdaa189dc7b3b30e9404c3e070e86/playlist.m3u8
