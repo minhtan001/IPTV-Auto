@@ -1,4 +1,34 @@
 #EXTM3U
+#EXTVLCOPT:http-referrer=https://hoadao.tv/japan-vs-ghana-2348869?mode=sd
+#EXTINF:-1 group-title="Japan vs Ghana" referer="https://hoadao.tv/japan-vs-ghana-2348869?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-4f886ed6ef8dd6a9534da60d6ac7fd04.png",Japan vs Ghana [BLV CHIM NHỎ - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/japan-vs-ghana-2348869?mode=hd
+#EXTINF:-1 group-title="Japan vs Ghana" referer="https://hoadao.tv/japan-vs-ghana-2348869?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-4f886ed6ef8dd6a9534da60d6ac7fd04.png",Japan vs Ghana [BLV CHIM NHỎ - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/japan-vs-ghana-2348869?mode=flv
+#EXTINF:-1 group-title="Japan vs Ghana" referer="https://hoadao.tv/japan-vs-ghana-2348869?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-4f886ed6ef8dd6a9534da60d6ac7fd04.png",Japan vs Ghana [BLV CHIM NHỎ - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/japan-vs-ghana-2348869?mode=flv2
+#EXTINF:-1 group-title="Japan vs Ghana" referer="https://hoadao.tv/japan-vs-ghana-2348869?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-4f886ed6ef8dd6a9534da60d6ac7fd04.png",Japan vs Ghana [BLV CHIM NHỎ - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/japan-vs-ghana-2348869?mode=ndsd
+#EXTINF:-1 group-title="Japan vs Ghana" referer="https://hoadao.tv/japan-vs-ghana-2348869?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-4f886ed6ef8dd6a9534da60d6ac7fd04.png",Japan vs Ghana [BLV CHIM NHỎ - SD (ND)]
+https://live.alilicloud.com/live/b249abd6da295d98c92e28da2f7a8c39/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/south-korea-vs-bolivia-2348870?mode=sd
+#EXTINF:-1 group-title="South Korea vs Bolivia" referer="https://hoadao.tv/south-korea-vs-bolivia-2348870?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-29afa5ca8c897ade68dfd978d3f2878c.png",South Korea vs Bolivia [BLV MÈO BÉO - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/south-korea-vs-bolivia-2348870?mode=hd
+#EXTINF:-1 group-title="South Korea vs Bolivia" referer="https://hoadao.tv/south-korea-vs-bolivia-2348870?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-29afa5ca8c897ade68dfd978d3f2878c.png",South Korea vs Bolivia [BLV MÈO BÉO - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/south-korea-vs-bolivia-2348870?mode=flv
+#EXTINF:-1 group-title="South Korea vs Bolivia" referer="https://hoadao.tv/south-korea-vs-bolivia-2348870?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-29afa5ca8c897ade68dfd978d3f2878c.png",South Korea vs Bolivia [BLV MÈO BÉO - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/south-korea-vs-bolivia-2348870?mode=flv2
+#EXTINF:-1 group-title="South Korea vs Bolivia" referer="https://hoadao.tv/south-korea-vs-bolivia-2348870?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-29afa5ca8c897ade68dfd978d3f2878c.png",South Korea vs Bolivia [BLV MÈO BÉO - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/south-korea-vs-bolivia-2348870?mode=ndsd
+#EXTINF:-1 group-title="South Korea vs Bolivia" referer="https://hoadao.tv/south-korea-vs-bolivia-2348870?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-29afa5ca8c897ade68dfd978d3f2878c.png",South Korea vs Bolivia [BLV MÈO BÉO - SD (ND)]
+https://live.alilicloud.com/live/150f014380b0be606a0d619cb2e187da/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/bng-chuyn-n-hn-quc-2351406?mode=sd
 #EXTINF:-1 group-title="IBK vs GS Caltex" referer="https://hoadao.tv/bng-chuyn-n-hn-quc-2351406?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-f80b3a05cd0805b827658d6165e27d87.png",IBK vs GS Caltex [BLV CỤ RÙA - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
