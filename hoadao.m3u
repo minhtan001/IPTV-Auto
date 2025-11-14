@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/switzerland-u17-vs-egypt-u17-2351510?mode=sd
-#EXTINF:-1 group-title="Switzerland U17 vs Egypt U17" referer="https://hoadao.tv/switzerland-u17-vs-egypt-u17-2351510?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-fb11aed416be1687997f23dae6cbf6f1.png",Switzerland U17 vs Egypt U17 [BLV PHÁO - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/switzerland-u17-vs-egypt-u17-2351510?mode=hd
-#EXTINF:-1 group-title="Switzerland U17 vs Egypt U17" referer="https://hoadao.tv/switzerland-u17-vs-egypt-u17-2351510?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-fb11aed416be1687997f23dae6cbf6f1.png",Switzerland U17 vs Egypt U17 [BLV PHÁO - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/switzerland-u17-vs-egypt-u17-2351510?mode=flv
-#EXTINF:-1 group-title="Switzerland U17 vs Egypt U17" referer="https://hoadao.tv/switzerland-u17-vs-egypt-u17-2351510?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-fb11aed416be1687997f23dae6cbf6f1.png",Switzerland U17 vs Egypt U17 [BLV PHÁO - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/switzerland-u17-vs-egypt-u17-2351510?mode=flv2
-#EXTINF:-1 group-title="Switzerland U17 vs Egypt U17" referer="https://hoadao.tv/switzerland-u17-vs-egypt-u17-2351510?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-fb11aed416be1687997f23dae6cbf6f1.png",Switzerland U17 vs Egypt U17 [BLV PHÁO - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/switzerland-u17-vs-egypt-u17-2351510?mode=ndsd
-#EXTINF:-1 group-title="Switzerland U17 vs Egypt U17" referer="https://hoadao.tv/switzerland-u17-vs-egypt-u17-2351510?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-fb11aed416be1687997f23dae6cbf6f1.png",Switzerland U17 vs Egypt U17 [BLV PHÁO - SD (ND)]
-https://live.alilicloud.com/live/3ce9aeba5866965211410d24855c76c7/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/al-arabi-sc-vs-al-shamal-2349070?mode=sd
 #EXTINF:-1 group-title="Al-Arabi SC vs Al Shamal" referer="https://hoadao.tv/al-arabi-sc-vs-al-shamal-2349070?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-cc66d870df6fd1e97254579a47c2f5e2.png",Al-Arabi SC vs Al Shamal [BLV CHIM NHỎ - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
@@ -29,18 +14,18 @@ https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/al-arabi-sc-vs-al-shamal-2349070?mode=ndsd
 #EXTINF:-1 group-title="Al-Arabi SC vs Al Shamal" referer="https://hoadao.tv/al-arabi-sc-vs-al-shamal-2349070?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-cc66d870df6fd1e97254579a47c2f5e2.png",Al-Arabi SC vs Al Shamal [BLV CHIM NHỎ - SD (ND)]
 https://live.alilicloud.com/live/085858b160806072df5dc713910c37ab/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/pecsi-mfc-w-vs-gyori-dozsa-women-2349066?mode=ndsd
-#EXTINF:-1 group-title="Pecsi MFC (w) vs Gyori Dozsa Women" referer="https://hoadao.tv/pecsi-mfc-w-vs-gyori-dozsa-women-2349066?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-296b06ddd5932a8cde8c035c90fce520.png",Pecsi MFC (w) vs Gyori Dozsa Women [No BLV - SD (ND)]
-https://live.alilicloud.com/live/165d65cdb27cebc5edc01df966024b71/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/france-u17-vs-colombia-u17-2351511?mode=ndsd
-#EXTINF:-1 group-title="France U17 vs Colombia U17" referer="https://hoadao.tv/france-u17-vs-colombia-u17-2351511?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-bddefed806a05b29290f7ebb07ff0778.png",France U17 vs Colombia U17 [No BLV - SD (ND)]
-https://live.alilicloud.com/live/9123b2e37ba63617bfe0db5548501bde/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/belarus-u21-vs-wales-u21-2349067?mode=ndsd
-#EXTINF:-1 group-title="Belarus U21 vs Wales U21" referer="https://hoadao.tv/belarus-u21-vs-wales-u21-2349067?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-95656ecca0b1619223987e1d287a2edc.png",Belarus U21 vs Wales U21 [No BLV - SD (ND)]
-https://live.alilicloud.com/live/1929aedcd901c35b925b7452dc07ed3b/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/germany-u20-vs-romania-u20-2348879?mode=ndsd
-#EXTINF:-1 group-title="Germany U20 vs Romania U20" referer="https://hoadao.tv/germany-u20-vs-romania-u20-2348879?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-2a73c847fc6debed1d32d65889d2ad10.png",Germany U20 vs Romania U20 [No BLV - SD (ND)]
-https://live.alilicloud.com/live/8fe76ab4ef5ba883d053fcec456ae5c8/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/oman-vs-sudan-2352247?mode=sd
+#EXTINF:-1 group-title="Oman vs Sudan" referer="https://hoadao.tv/oman-vs-sudan-2352247?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-89813c981931e3264728fe91112ecc09.png",Oman vs Sudan [No BLV - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_cachep/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/oman-vs-sudan-2352247?mode=hd
+#EXTINF:-1 group-title="Oman vs Sudan" referer="https://hoadao.tv/oman-vs-sudan-2352247?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-89813c981931e3264728fe91112ecc09.png",Oman vs Sudan [No BLV - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_cachep/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/oman-vs-sudan-2352247?mode=flv
+#EXTINF:-1 group-title="Oman vs Sudan" referer="https://hoadao.tv/oman-vs-sudan-2352247?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-89813c981931e3264728fe91112ecc09.png",Oman vs Sudan [No BLV - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_cachep.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/oman-vs-sudan-2352247?mode=flv2
+#EXTINF:-1 group-title="Oman vs Sudan" referer="https://hoadao.tv/oman-vs-sudan-2352247?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-89813c981931e3264728fe91112ecc09.png",Oman vs Sudan [No BLV - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_cachep.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/al-arabi-sc-vs-al-shamal-2349070?mode=sd
 #EXTINF:-1 group-title="Al-Arabi SC vs Al Shamal" referer="https://hoadao.tv/al-arabi-sc-vs-al-shamal-2349070?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-cc66d870df6fd1e97254579a47c2f5e2.png",Al-Arabi SC vs Al Shamal [No BLV - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
@@ -56,3 +41,12 @@ https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/al-arabi-sc-vs-al-shamal-2349070?mode=ndsd
 #EXTINF:-1 group-title="Al-Arabi SC vs Al Shamal" referer="https://hoadao.tv/al-arabi-sc-vs-al-shamal-2349070?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-cc66d870df6fd1e97254579a47c2f5e2.png",Al-Arabi SC vs Al Shamal [No BLV - SD (ND)]
 https://live.alilicloud.com/live/085858b160806072df5dc713910c37ab/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/greece-u21-vs-georgia-u21-2349072?mode=ndsd
+#EXTINF:-1 group-title="Greece U21 vs Georgia U21" referer="https://hoadao.tv/greece-u21-vs-georgia-u21-2349072?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-02f3c891fb8a0b83bd77876ce519de17.png",Greece U21 vs Georgia U21 [No BLV - SD (ND)]
+https://live.alilicloud.com/live/253bbda5576f1461970fe1a2635a7436/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/finland-u21-vs-romania-u21-2349073?mode=ndsd
+#EXTINF:-1 group-title="Finland U21 vs Romania U21" referer="https://hoadao.tv/finland-u21-vs-romania-u21-2349073?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-e8169e8e9b726aa8a3bc48da8d6e3e42.png",Finland U21 vs Romania U21 [No BLV - SD (ND)]
+https://live.alilicloud.com/live/19e4d0a4dc3b28c054b00f0a8a8a2869/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/poland-u21-vs-italy-u21-2349074?mode=ndsd
+#EXTINF:-1 group-title="Poland U21 vs Italy U21" referer="https://hoadao.tv/poland-u21-vs-italy-u21-2349074?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-a335a237091be511d2d49b1a4926f0f2.png",Poland U21 vs Italy U21 [No BLV - SD (ND)]
+https://live.alilicloud.com/live/705e12e10486b3cd23a5a0f0206981d8/playlist.m3u8
