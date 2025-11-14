@@ -95,20 +95,6 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTINF:-1 group-title="Socolive_2",05h00: [NGOẠ LONG] Suriname vs El Salvador
-http://sharing.gotdns.ch:8091/socolive.php?id=538979
-#EXTINF:-1 group-title="Socolive_2",05h00: [BLV GẤU] Suriname vs El Salvador
-http://sharing.gotdns.ch:8091/socolive.php?id=9912107
-#EXTINF:-1 group-title="Socolive_2",05h00: [BLV NOKA] Suriname vs El Salvador
-http://sharing.gotdns.ch:8091/socolive.php?id=537460
-#EXTINF:-1 group-title="Socolive_2",05h00: [BLV Hổ Lùn] Suriname vs El Salvador
-http://sharing.gotdns.ch:8091/socolive.php?id=308080
-#EXTINF:-1 group-title="Socolive_2",05h00: [BLV HENRY] Bauru vs Botafogo
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",06h00: [BLV SÓI] Universitario De Vinto vs Blooming
-http://sharing.gotdns.ch:8091/socolive.php?id=427562
-#EXTINF:-1 group-title="Socolive_2",06h00: [BLV VODKA] Universitario De Vinto vs Blooming
-http://sharing.gotdns.ch:8091/socolive.php?id=500605
 #EXTINF:-1 group-title="Socolive_2",07h00: [VỊT BẠC] Bermuda vs Curacao
 http://sharing.gotdns.ch:8091/socolive.php?id=474421
 #EXTINF:-1 group-title="Socolive_2",07h00: [BLV GÔN] Bermuda vs Curacao
@@ -129,18 +115,18 @@ http://sharing.gotdns.ch:8091/socolive.php?id=283501
 http://sharing.gotdns.ch:8091/socolive.php?id=356042
 #EXTINF:-1 group-title="Socolive_2",07h00: [BLV  TYPN] Cruz Azul Women vs Tigres Women
 http://sharing.gotdns.ch:8091/socolive.php?id=9912009
-#EXTINF:-1 group-title="Socolive_2",07h00: [BLV HENRY] Cleveland Cavaliers vs Toronto Raptors
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",07h00: [CHAN SENA] Cleveland Cavaliers vs Toronto Raptors
-http://sharing.gotdns.ch:8091/socolive.php?id=515530
-#EXTINF:-1 group-title="Socolive_2",07h00: [BLV DUSTIN] Cleveland Cavaliers vs Toronto Raptors
-http://sharing.gotdns.ch:8091/socolive.php?id=289098
 #EXTINF:-1 group-title="Socolive_2",07h30: [BLV RAMBO] Canada vs Ecuador
 http://sharing.gotdns.ch:8091/socolive.php?id=534055
 #EXTINF:-1 group-title="Socolive_2",07h30: [CÔNG LÝ] Canada vs Ecuador
 http://sharing.gotdns.ch:8091/socolive.php?id=9912035
 #EXTINF:-1 group-title="Socolive_2",07h30: [BLV Sao Đỏ] Canada vs Ecuador
 http://sharing.gotdns.ch:8091/socolive.php?id=519740
+#EXTINF:-1 group-title="Socolive_2",07h35: [BLV HENRY] Cleveland Cavaliers vs Toronto Raptors
+http://sharing.gotdns.ch:8091/socolive.php?id=9912112
+#EXTINF:-1 group-title="Socolive_2",07h35: [CHAN SENA] Cleveland Cavaliers vs Toronto Raptors
+http://sharing.gotdns.ch:8091/socolive.php?id=515530
+#EXTINF:-1 group-title="Socolive_2",07h35: [BLV DUSTIN] Cleveland Cavaliers vs Toronto Raptors
+http://sharing.gotdns.ch:8091/socolive.php?id=289098
 #EXTINF:-1 group-title="Socolive_2",08h15: [BLV TÁO] Club Atlético Morelia vs Cancun FC
 http://sharing.gotdns.ch:8091/socolive.php?id=479849
 #EXTINF:-1 group-title="Socolive_2",08h15: [BLV SÓI] Club Atlético Morelia vs Cancun FC
@@ -531,6 +517,18 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912035
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-15/11: [JACKMAN] SC Paysandu Para vs Amazonas FC
 http://sharing.gotdns.ch:8091/socolive.php?id=542758
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-15/11: [NGOẠ LONG] Lanus vs Atl. Tucuman
+http://sharing.gotdns.ch:8091/socolive.php?id=538979
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-15/11: [BLV SÓI] Lanus vs Atl. Tucuman
+http://sharing.gotdns.ch:8091/socolive.php?id=427562
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-15/11: [BLV VODKA] Lanus vs Atl. Tucuman
+http://sharing.gotdns.ch:8091/socolive.php?id=500605
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-15/11: [BLV Hổ Lùn] Lanus vs Atl. Tucuman
+http://sharing.gotdns.ch:8091/socolive.php?id=308080
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h00-15/11: [BLV HENRY] New York Knicks vs Miami Heat
 http://sharing.gotdns.ch:8091/socolive.php?id=9912112
@@ -1098,8 +1096,6 @@ https://s6.kkphimplayer6.com/20250901/2RZvePPZ/3500kb/hls/index.m3u8
 https://s6.kkphimplayer6.com/20250918/48nrktLm/3500kb/hls/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Thám Tử Kiên: Kỳ Án Không Đầu
 https://s6.kkphimplayer6.com/20251010/86AEDncn/3500kb/hls/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 139
-https://live.fptplay53.net/fnxch1/thethao139_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
