@@ -109,6 +109,10 @@ https://s6.kkphimplayer6.com/20250918/48nrktLm/3500kb/hls/index.m3u8
 https://s6.kkphimplayer6.com/20251010/86AEDncn/3500kb/hls/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 124
 https://live.fptplay53.net/epzch1/thethao124_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 18
+https://live.fptplay53.net/fnxch1/thethao18_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 122
+https://live.fptplay53.net/epzch1/thethao122_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
@@ -371,8 +375,6 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1163801&extension=ts&play_token=Sb6MqPIhFx
 #EXTINF:-1 group-title="TruyenHinh_2",HBO Family
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1163794&extension=ts&play_token=MZv0ajs9zg
-#EXTINF:-1 group-title="TruyenHinh_2",HBO Signature HD
-http://filex.tv:8080//live/drzain/002808/302251.ts
 #EXTINF:-1 group-title="TruyenHinh_2",Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Cinemax HD

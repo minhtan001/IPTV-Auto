@@ -1,4 +1,19 @@
 #EXTM3U
+#EXTVLCOPT:http-referrer=https://hoadao.tv/thailand-u23-vs-india-u23-2351706?mode=sd
+#EXTINF:-1 group-title="Thailand U23 vs India U23" referer="https://hoadao.tv/thailand-u23-vs-india-u23-2351706?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-999bed109085d189f7a707ebc877511f.png",Thailand U23 vs India U23 [BLV CHIM NHỎ - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/thailand-u23-vs-india-u23-2351706?mode=hd
+#EXTINF:-1 group-title="Thailand U23 vs India U23" referer="https://hoadao.tv/thailand-u23-vs-india-u23-2351706?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-999bed109085d189f7a707ebc877511f.png",Thailand U23 vs India U23 [BLV CHIM NHỎ - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/thailand-u23-vs-india-u23-2351706?mode=flv
+#EXTINF:-1 group-title="Thailand U23 vs India U23" referer="https://hoadao.tv/thailand-u23-vs-india-u23-2351706?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-999bed109085d189f7a707ebc877511f.png",Thailand U23 vs India U23 [BLV CHIM NHỎ - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/thailand-u23-vs-india-u23-2351706?mode=flv2
+#EXTINF:-1 group-title="Thailand U23 vs India U23" referer="https://hoadao.tv/thailand-u23-vs-india-u23-2351706?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-999bed109085d189f7a707ebc877511f.png",Thailand U23 vs India U23 [BLV CHIM NHỎ - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/thailand-u23-vs-india-u23-2351706?mode=ndsd
+#EXTINF:-1 group-title="Thailand U23 vs India U23" referer="https://hoadao.tv/thailand-u23-vs-india-u23-2351706?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-999bed109085d189f7a707ebc877511f.png",Thailand U23 vs India U23 [BLV CHIM NHỎ - SD (ND)]
+https://live.alilicloud.com/live/01effee34c4f37299497f357581699e5/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/hradec-kralove-u19-vs-pardubice-u19-2349447?mode=ndsd
 #EXTINF:-1 group-title="Hradec Kralove U19 vs Pardubice U19" referer="https://hoadao.tv/hradec-kralove-u19-vs-pardubice-u19-2349447?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-69d0aadde9a291dcb691dcc93d5cf4f9.png",Hradec Kralove U19 vs Pardubice U19 [No BLV - SD (ND)]
 https://live.alilicloud.com/live/40114f094493f1b7bc2c5bfe763377a9/playlist.m3u8
@@ -20,15 +35,36 @@ https://live.alilicloud.com/live/f150a3470a1f891881da91c816f80f59/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/trinec-vs-hodonin-sardice-2350015?mode=ndsd
 #EXTINF:-1 group-title="Trinec vs Hodonin Sardice" referer="https://hoadao.tv/trinec-vs-hodonin-sardice-2350015?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-549e6c83d4e0cf3b88a43083552cbd6c.png",Trinec vs Hodonin Sardice [No BLV - SD (ND)]
 https://live.alilicloud.com/live/59b34b9653a4a5a7b608bbad14821c8b/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/suntory-sunbirds-osaka-sakai-2352151?mode=sd
-#EXTINF:-1 group-title="Suntory Sunbirds vs Osaka Sakai" referer="https://hoadao.tv/suntory-sunbirds-osaka-sakai-2352151?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-3d1e700a097b3f196df15c20c55f055a.png",Suntory Sunbirds vs Osaka Sakai [BLV CÁ CHÉP - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_cachep/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/suntory-sunbirds-osaka-sakai-2352151?mode=hd
-#EXTINF:-1 group-title="Suntory Sunbirds vs Osaka Sakai" referer="https://hoadao.tv/suntory-sunbirds-osaka-sakai-2352151?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-3d1e700a097b3f196df15c20c55f055a.png",Suntory Sunbirds vs Osaka Sakai [BLV CÁ CHÉP - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_cachep/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/suntory-sunbirds-osaka-sakai-2352151?mode=flv
-#EXTINF:-1 group-title="Suntory Sunbirds vs Osaka Sakai" referer="https://hoadao.tv/suntory-sunbirds-osaka-sakai-2352151?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-3d1e700a097b3f196df15c20c55f055a.png",Suntory Sunbirds vs Osaka Sakai [BLV CÁ CHÉP - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_cachep.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/suntory-sunbirds-osaka-sakai-2352151?mode=flv2
-#EXTINF:-1 group-title="Suntory Sunbirds vs Osaka Sakai" referer="https://hoadao.tv/suntory-sunbirds-osaka-sakai-2352151?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-3d1e700a097b3f196df15c20c55f055a.png",Suntory Sunbirds vs Osaka Sakai [BLV CÁ CHÉP - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_cachep.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/thailand-u23-vs-india-u23-2351706?mode=sd
+#EXTINF:-1 group-title="Thailand U23 vs India U23" referer="https://hoadao.tv/thailand-u23-vs-india-u23-2351706?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-999bed109085d189f7a707ebc877511f.png",Thailand U23 vs India U23 [No BLV - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/thailand-u23-vs-india-u23-2351706?mode=hd
+#EXTINF:-1 group-title="Thailand U23 vs India U23" referer="https://hoadao.tv/thailand-u23-vs-india-u23-2351706?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-999bed109085d189f7a707ebc877511f.png",Thailand U23 vs India U23 [No BLV - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/thailand-u23-vs-india-u23-2351706?mode=flv
+#EXTINF:-1 group-title="Thailand U23 vs India U23" referer="https://hoadao.tv/thailand-u23-vs-india-u23-2351706?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-999bed109085d189f7a707ebc877511f.png",Thailand U23 vs India U23 [No BLV - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/thailand-u23-vs-india-u23-2351706?mode=flv2
+#EXTINF:-1 group-title="Thailand U23 vs India U23" referer="https://hoadao.tv/thailand-u23-vs-india-u23-2351706?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-999bed109085d189f7a707ebc877511f.png",Thailand U23 vs India U23 [No BLV - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/thailand-u23-vs-india-u23-2351706?mode=ndsd
+#EXTINF:-1 group-title="Thailand U23 vs India U23" referer="https://hoadao.tv/thailand-u23-vs-india-u23-2351706?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-999bed109085d189f7a707ebc877511f.png",Thailand U23 vs India U23 [No BLV - SD (ND)]
+https://live.alilicloud.com/live/01effee34c4f37299497f357581699e5/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/fk-kraluv-dvur-vs-domazlice-2349433?mode=ndsd
+#EXTINF:-1 group-title="FK Kraluv Dvur vs Domazlice" referer="https://hoadao.tv/fk-kraluv-dvur-vs-domazlice-2349433?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-5402de81ad450c8387dee70277409cad.png",FK Kraluv Dvur vs Domazlice [No BLV - SD (ND)]
+https://live.alilicloud.com/live/1ce03176080c26f97262dd3dfdc5c2bc/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/teplice-b-vs-hradec-kralove-b-2349439?mode=ndsd
+#EXTINF:-1 group-title="Teplice B vs Hradec Kralove B" referer="https://hoadao.tv/teplice-b-vs-hradec-kralove-b-2349439?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-4999f37c6714d14039cd2a46cc1449de.png",Teplice B vs Hradec Kralove B [No BLV - SD (ND)]
+https://live.alilicloud.com/live/0858bfd2a1eeab2c3ba7a8f784e75f38/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/khatoco-khanh-hoa-vs-bac-ninh-2351282?mode=ndsd
+#EXTINF:-1 group-title="Khatoco Khanh Hoa vs Bac Ninh" referer="https://hoadao.tv/khatoco-khanh-hoa-vs-bac-ninh-2351282?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-ecf303f409b5528757cd900de1749406.png",Khatoco Khanh Hoa vs Bac Ninh [No BLV - SD (ND)]
+https://live.alilicloud.com/live/afb080d9a8454b2b24de1ee305def1bc/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/england-u19-vs-latvia-u19-2350018?mode=ndsd
+#EXTINF:-1 group-title="England U19 vs Latvia U19" referer="https://hoadao.tv/england-u19-vs-latvia-u19-2350018?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-698480efa062b30db3331a5240d5b4ef.png",England U19 vs Latvia U19 [No BLV - SD (ND)]
+https://live.alilicloud.com/live/8af615cea201829b35b20e7f93a51f88/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/czechia-republic-u19-vs-malta-u19-2350020?mode=ndsd
+#EXTINF:-1 group-title="Czechia Republic U19 vs Malta U19" referer="https://hoadao.tv/czechia-republic-u19-vs-malta-u19-2350020?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-d98ff7e5f1b4a82504af30598feecf40.png",Czechia Republic U19 vs Malta U19 [No BLV - SD (ND)]
+https://live.alilicloud.com/live/afa83a2edff7526169e05382bd87fd05/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/podillya-khmelnytskyi-vs-ucsa-2349774?mode=ndsd
+#EXTINF:-1 group-title="Podillya Khmelnytskyi vs UCSA" referer="https://hoadao.tv/podillya-khmelnytskyi-vs-ucsa-2349774?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-fed9e17cd1745115ab23bdaccf494614.png",Podillya Khmelnytskyi vs UCSA [No BLV - SD (ND)]
+https://live.alilicloud.com/live/8978affebda23851ad20fc80f545972b/playlist.m3u8
