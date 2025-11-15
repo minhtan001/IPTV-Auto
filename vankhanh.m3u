@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Kazakhstan vs Belgium" tvg-logo="https://hxcv.site/images/cache/match-0c2f0be321a2be1d9df1bd06c36060fa.png",Kazakhstan vs Belgium [BLV VĂN VỞ - HLS]
-https://hls.cdnvankhanh.com/live/VANVO/index.m3u8?expire=1826356200&sign=f92cd6005b35a94f2c93f28b3ffac506
-#EXTINF:-1 group-title="Kazakhstan vs Belgium" tvg-logo="https://hxcv.site/images/cache/match-0c2f0be321a2be1d9df1bd06c36060fa.png",Kazakhstan vs Belgium [BLV VĂN VỞ - FLV]
-https://flv.cdnvankhanh.com/live/VANVO.flv?expire=1826356200&sign=f92cd6005b35a94f2c93f28b3ffac506
-#EXTINF:-1 group-title="Kazakhstan vs Belgium" tvg-logo="https://hxcv.site/images/cache/match-0c2f0be321a2be1d9df1bd06c36060fa.png",Kazakhstan vs Belgium [BLV DOCTOR - HLS]
-https://hls.cdnvankhanh.com/live/DOCTOR/index.m3u8?expire=1890806880&sign=122b6adf5f25b6a125910438f775abb8
-#EXTINF:-1 group-title="Kazakhstan vs Belgium" tvg-logo="https://hxcv.site/images/cache/match-0c2f0be321a2be1d9df1bd06c36060fa.png",Kazakhstan vs Belgium [BLV DOCTOR - FLV]
-https://flv.cdnvankhanh.com/live/DOCTOR.flv?expire=1890806880&sign=122b6adf5f25b6a125910438f775abb8C
-#EXTINF:-1 group-title="Kazakhstan vs Belgium" tvg-logo="https://hxcv.site/images/cache/match-0c2f0be321a2be1d9df1bd06c36060fa.png",Kazakhstan vs Belgium [BLV VĂN GÔN - HLS]
-https://hls.cdnvankhanh.com/live/VANGON/index.m3u8?expire=1891583400&sign=db46845cd1edc815d5bba4a6538fd9ce
-#EXTINF:-1 group-title="Kazakhstan vs Belgium" tvg-logo="https://hxcv.site/images/cache/match-0c2f0be321a2be1d9df1bd06c36060fa.png",Kazakhstan vs Belgium [BLV VĂN GÔN - FLV]
-https://flv.cdnvankhanh.com/live/VANGON.flv?expire=1891583400&sign=db46845cd1edc815d5bba4a6538fd9ce
 #EXTINF:-1 group-title="Albacete vs Andorra FC" tvg-logo="https://hxcv.site/images/cache/match-55cab8a2582f555e07339647bcf238c4.png",Albacete vs Andorra FC [BLV VĂN REN - HLS]
 https://hls.cdnvankhanh.com/live/VANREN/index.m3u8?expire=1891583400&sign=f4cca58ffdf3217d4ca677039510da17
 #EXTINF:-1 group-title="Albacete vs Andorra FC" tvg-logo="https://hxcv.site/images/cache/match-55cab8a2582f555e07339647bcf238c4.png",Albacete vs Andorra FC [BLV VĂN REN - FLV]
@@ -31,11 +19,19 @@ https://flv.cdnvankhanh.com/live/VANTICH.flv?expire=1892707800&sign=150a2229b671
 https://hls.cdnvankhanh.com/live/VANBIA/index.m3u8?expire=1892730180&sign=ca1be0c0d408ba9ac0bf97ec02f5049e
 #EXTINF:-1 group-title="Croatia U17 vs Uzbekistan U17" tvg-logo="https://hxcv.site/images/cache/match-c4b67a3aa65564ec1757278bb9059117.png",Croatia U17 vs Uzbekistan U17 [BLV VĂN BIA - FLV]
 https://flv.cdnvankhanh.com/live/VANBIA.flv?expire=1892730180&sign=ca1be0c0d408ba9ac0bf97ec02f5049e
-#EXTINF:-1 group-title="Germany U17 vs Burkina Faso U17" tvg-logo="https://hxcv.site/images/cache/match-0518b47aae48b40f229200b7c3212568.png",Germany U17 vs Burkina Faso U17 [BLV VĂN MINH - HLS]
-https://hls.cdnvankhanh.com/live/VANMINH/index.m3u8?expire=1891172040&sign=f6acb0ca35d53b8fc8f43ca1c11efb5e
-#EXTINF:-1 group-title="Germany U17 vs Burkina Faso U17" tvg-logo="https://hxcv.site/images/cache/match-0518b47aae48b40f229200b7c3212568.png",Germany U17 vs Burkina Faso U17 [BLV VĂN MINH - FLV]
-https://flv.cdnvankhanh.com/live/VANMINH.flv?expire=1891172040&sign=f6acb0ca35d53b8fc8f43ca1c11efb5e
 #EXTINF:-1 group-title="Brazil vs Senegal" tvg-logo="https://hxcv.site/images/cache/match-13fb5ba5b300c39822a4a3ba57c6e46e.png",Brazil vs Senegal [BLV VĂN KHANG - HLS]
 https://hls.cdnvankhanh.com/live/VANKHANG/index.m3u8?expire=1862206680&sign=7ac84ad876b1ccbad9036fe76373e2c6
 #EXTINF:-1 group-title="Brazil vs Senegal" tvg-logo="https://hxcv.site/images/cache/match-13fb5ba5b300c39822a4a3ba57c6e46e.png",Brazil vs Senegal [BLV VĂN KHANG - FLV]
 https://flv.cdnvankhanh.com/live/VANKHANG.flv?expire=1862206680&sign=7ac84ad876b1ccbad9036fe76373e2c6
+#EXTINF:-1 group-title="Brazil vs Senegal" tvg-logo="https://hxcv.site/images/cache/match-13fb5ba5b300c39822a4a3ba57c6e46e.png",Brazil vs Senegal [BLV DOCTOR - HLS]
+https://hls.cdnvankhanh.com/live/DOCTOR/index.m3u8?expire=1890806880&sign=122b6adf5f25b6a125910438f775abb8
+#EXTINF:-1 group-title="Brazil vs Senegal" tvg-logo="https://hxcv.site/images/cache/match-13fb5ba5b300c39822a4a3ba57c6e46e.png",Brazil vs Senegal [BLV DOCTOR - FLV]
+https://flv.cdnvankhanh.com/live/DOCTOR.flv?expire=1890806880&sign=122b6adf5f25b6a125910438f775abb8C
+#EXTINF:-1 group-title="Brazil vs Senegal" tvg-logo="https://hxcv.site/images/cache/match-13fb5ba5b300c39822a4a3ba57c6e46e.png",Brazil vs Senegal [BLV VĂN VỞ - HLS]
+https://hls.cdnvankhanh.com/live/VANVO/index.m3u8?expire=1826356200&sign=f92cd6005b35a94f2c93f28b3ffac506
+#EXTINF:-1 group-title="Brazil vs Senegal" tvg-logo="https://hxcv.site/images/cache/match-13fb5ba5b300c39822a4a3ba57c6e46e.png",Brazil vs Senegal [BLV VĂN VỞ - FLV]
+https://flv.cdnvankhanh.com/live/VANVO.flv?expire=1826356200&sign=f92cd6005b35a94f2c93f28b3ffac506
+#EXTINF:-1 group-title="Germany U17 vs Burkina Faso U17" tvg-logo="https://hxcv.site/images/cache/match-0518b47aae48b40f229200b7c3212568.png",Germany U17 vs Burkina Faso U17 [BLV VĂN MINH - HLS]
+https://hls.cdnvankhanh.com/live/VANMINH/index.m3u8?expire=1891172040&sign=f6acb0ca35d53b8fc8f43ca1c11efb5e
+#EXTINF:-1 group-title="Germany U17 vs Burkina Faso U17" tvg-logo="https://hxcv.site/images/cache/match-0518b47aae48b40f229200b7c3212568.png",Germany U17 vs Burkina Faso U17 [BLV VĂN MINH - FLV]
+https://flv.cdnvankhanh.com/live/VANMINH.flv?expire=1891172040&sign=f6acb0ca35d53b8fc8f43ca1c11efb5e
