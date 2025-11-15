@@ -1,7 +1,13 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/venezuela-vs-australia-2349360?mode=ndsd
-#EXTINF:-1 group-title="Venezuela vs Australia" referer="https://hoadao.tv/venezuela-vs-australia-2349360?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-4c20fc25a856cd507a120d34c4153550.png",Venezuela vs Australia [No BLV - SD (ND)]
-https://live.alilicloud.com/live/f7208e67d278f943c0df98936c7100d0/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/auckland-fc-reserves-vs-wellington-olympic-2349366?mode=ndsd
-#EXTINF:-1 group-title="Auckland FC Reserves vs Wellington Olympic" referer="https://hoadao.tv/auckland-fc-reserves-vs-wellington-olympic-2349366?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-67b3c72c683fdb755c9f1e8e780506f2.png",Auckland FC Reserves vs Wellington Olympic [No BLV - SD (ND)]
-https://live.alilicloud.com/live/84dc0d52cb4831310a52d3f63f66dea7/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/aranmare-gunma-green-wings-2352150?mode=sd
+#EXTINF:-1 group-title="Aranmare vs Gunma Green Wings" referer="https://hoadao.tv/aranmare-gunma-green-wings-2352150?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-3a9cacb7538f9c3b091d71c2e0002e0c.png",Aranmare vs Gunma Green Wings [BLV BÚN CHẢ - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_buncha/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/aranmare-gunma-green-wings-2352150?mode=hd
+#EXTINF:-1 group-title="Aranmare vs Gunma Green Wings" referer="https://hoadao.tv/aranmare-gunma-green-wings-2352150?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-3a9cacb7538f9c3b091d71c2e0002e0c.png",Aranmare vs Gunma Green Wings [BLV BÚN CHẢ - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_buncha/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/aranmare-gunma-green-wings-2352150?mode=flv
+#EXTINF:-1 group-title="Aranmare vs Gunma Green Wings" referer="https://hoadao.tv/aranmare-gunma-green-wings-2352150?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-3a9cacb7538f9c3b091d71c2e0002e0c.png",Aranmare vs Gunma Green Wings [BLV BÚN CHẢ - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_buncha.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/aranmare-gunma-green-wings-2352150?mode=flv2
+#EXTINF:-1 group-title="Aranmare vs Gunma Green Wings" referer="https://hoadao.tv/aranmare-gunma-green-wings-2352150?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-3a9cacb7538f9c3b091d71c2e0002e0c.png",Aranmare vs Gunma Green Wings [BLV BÚN CHẢ - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_buncha.flv
