@@ -1,20 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-title="Taichung Blue Whale (W) vs Hualien (W)" tvg-logo="https://hxcv.site/images/cache/match-78717c8f8a8fe73b86fb8057b197e691.png",Taichung Blue Whale (W) vs Hualien (W) [BLV VĂN CHUN - HLS]
-https://hls.cdnvankhanh.com/live/VANCHUN/index.m3u8?expire=1898518320&sign=e855afc2f47c2589486b995f1194c0fc
-#EXTINF:-1 group-title="Taichung Blue Whale (W) vs Hualien (W)" tvg-logo="https://hxcv.site/images/cache/match-78717c8f8a8fe73b86fb8057b197e691.png",Taichung Blue Whale (W) vs Hualien (W) [BLV VĂN CHUN - FLV]
-https://flv.cdnvankhanh.com/live/VANCHUN.flv?expire=1898518320&sign=e855afc2f47c2589486b995f1194c0fc
-#EXTINF:-1 group-title="AC Taipei (W) vs Taipei Xiongzan (W)" tvg-logo="https://hxcv.site/images/cache/match-a4e8ff2eb63d959c8497d0a9463f1fff.png",AC Taipei (W) vs Taipei Xiongzan (W) [BLV VĂN VỸ - HLS]
-https://hls.cdnvankhanh.com/live/VANVY/index.m3u8?expire=1891070400&sign=642fee455822e2859b2b9f8dc5ed00d9
-#EXTINF:-1 group-title="AC Taipei (W) vs Taipei Xiongzan (W)" tvg-logo="https://hxcv.site/images/cache/match-a4e8ff2eb63d959c8497d0a9463f1fff.png",AC Taipei (W) vs Taipei Xiongzan (W) [BLV VĂN VỸ - FLV]
-https://flv.cdnvankhanh.com/live/VANVY.flv?expire=1891070400&sign=642fee455822e2859b2b9f8dc5ed00d9
-#EXTINF:-1 group-title="Suwon FMC (W) vs NTV Beleza (W)" tvg-logo="https://hxcv.site/images/cache/match-42fee6c5ea10c9f39a9d96a7ee34c55b.png",Suwon FMC (W) vs NTV Beleza (W) [BLV VĂN VỞ - HLS]
-https://hls.cdnvankhanh.com/live/VANVO/index.m3u8?expire=1826356200&sign=f92cd6005b35a94f2c93f28b3ffac506
-#EXTINF:-1 group-title="Suwon FMC (W) vs NTV Beleza (W)" tvg-logo="https://hxcv.site/images/cache/match-42fee6c5ea10c9f39a9d96a7ee34c55b.png",Suwon FMC (W) vs NTV Beleza (W) [BLV VĂN VỞ - FLV]
-https://flv.cdnvankhanh.com/live/VANVO.flv?expire=1826356200&sign=f92cd6005b35a94f2c93f28b3ffac506
 #EXTINF:-1 group-title="Suwon FMC (W) vs NTV Beleza (W)" tvg-logo="https://hxcv.site/images/cache/match-42fee6c5ea10c9f39a9d96a7ee34c55b.png",Suwon FMC (W) vs NTV Beleza (W) [BLV DOCTOR - HLS]
 https://hls.cdnvankhanh.com/live/DOCTOR/index.m3u8?expire=1890806880&sign=122b6adf5f25b6a125910438f775abb8
 #EXTINF:-1 group-title="Suwon FMC (W) vs NTV Beleza (W)" tvg-logo="https://hxcv.site/images/cache/match-42fee6c5ea10c9f39a9d96a7ee34c55b.png",Suwon FMC (W) vs NTV Beleza (W) [BLV DOCTOR - FLV]
 https://flv.cdnvankhanh.com/live/DOCTOR.flv?expire=1890806880&sign=122b6adf5f25b6a125910438f775abb8C
+#EXTINF:-1 group-title="Suwon FMC (W) vs NTV Beleza (W)" tvg-logo="https://hxcv.site/images/cache/match-42fee6c5ea10c9f39a9d96a7ee34c55b.png",Suwon FMC (W) vs NTV Beleza (W) [BLV VĂN VỞ - HLS]
+https://hls.cdnvankhanh.com/live/VANVO/index.m3u8?expire=1826356200&sign=f92cd6005b35a94f2c93f28b3ffac506
+#EXTINF:-1 group-title="Suwon FMC (W) vs NTV Beleza (W)" tvg-logo="https://hxcv.site/images/cache/match-42fee6c5ea10c9f39a9d96a7ee34c55b.png",Suwon FMC (W) vs NTV Beleza (W) [BLV VĂN VỞ - FLV]
+https://flv.cdnvankhanh.com/live/VANVO.flv?expire=1826356200&sign=f92cd6005b35a94f2c93f28b3ffac506
 #EXTINF:-1 group-title="Bahrain U23 vs Russia U21" tvg-logo="https://hxcv.site/images/cache/match-1b9abb2013b2419b103f8155938a23fc.png",Bahrain U23 vs Russia U21 [BLV VĂN LONG - HLS]
 https://hls.cdnvankhanh.com/live/VANLONG/index.m3u8?expire=1891070400&sign=8b0432bc178a10760ef797d47c1aabf7
 #EXTINF:-1 group-title="Bahrain U23 vs Russia U21" tvg-logo="https://hxcv.site/images/cache/match-1b9abb2013b2419b103f8155938a23fc.png",Bahrain U23 vs Russia U21 [BLV VĂN LONG - FLV]
@@ -23,3 +15,121 @@ https://flv.cdnvankhanh.com/live/VANLONG.flv?expire=1891070400&sign=8b0432bc178a
 https://hls.cdnvankhanh.com/live/luckytest/index.m3u8?expire=1883742060&sign=ed258748d4d2478c31073b1f8ac0af67
 #EXTINF:-1 group-title="Luxembourg vs Germany" tvg-logo="https://hxcv.site/images/cache/match-b0a26589a3d2e191f57df4fd5865c7ca.png",Luxembourg vs Germany [VĂN KHÁNH ESPORT - FLV]
 https://flv.cdnvankhanh.com/live/luckytest.flv?expire=1883742060&sign=ed258748d4d2478c31073b1f8ac0af67
+#EXTINF:-1 group-title="Guangdong (W) vs Shanghai (W)" tvg-logo="https://hxcv.site/images/cache/match-7d3fe0bc2d66fa030102276f96a168ce.png",Guangdong (W) vs Shanghai (W) [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYLrntj1dzG7zfJk/playlist.m3u8
+#EXTINF:-1 group-title="Hradec Kralove U19 vs Pardubice U19" tvg-logo="https://hxcv.site/images/cache/match-08e33daab3a05c83c91dffdd3960925f.png",Hradec Kralove U19 vs Pardubice U19 [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuSsKZdMvfgpQKCZS/playlist.m3u8
+#EXTINF:-1 group-title="Pardubice B vs Mlada Boleslav B" tvg-logo="https://hxcv.site/images/cache/match-e4f4aeae2a2af73ad295d01060b3dcdf.png",Pardubice B vs Mlada Boleslav B [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuSsD3cCre4nkgBCx/playlist.m3u8
+#EXTINF:-1 group-title="Frydek-Mistek vs TJ Start Brno" tvg-logo="https://hxcv.site/images/cache/match-4f5e88a18002f22fa145fdc393a9e693.png",Frydek-Mistek vs TJ Start Brno [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuSsD56WdLHaKY6x4/playlist.m3u8
+#EXTINF:-1 group-title="Spolana Neratovice vs Velke Hamry" tvg-logo="https://hxcv.site/images/cache/match-42aea1acd97ab347c1d3a8c9130599b9.png",Spolana Neratovice vs Velke Hamry [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuSsD3cCk3dBKCRkG/playlist.m3u8
+#EXTINF:-1 group-title="SK Petrin Plzen vs FK Pribram B" tvg-logo="https://hxcv.site/images/cache/match-48c8de09de32db0222469a21ca677488.png",SK Petrin Plzen vs FK Pribram B [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuSsD2tZ8ZABRP28U/playlist.m3u8
+#EXTINF:-1 group-title="Aritma Praha vs Sokol Hostoun" tvg-logo="https://hxcv.site/images/cache/match-40ccbd6320c9a9ca22068de6686eeaaa.png",Aritma Praha vs Sokol Hostoun [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuSsD2tYymEhW5MWt/playlist.m3u8
+#EXTINF:-1 group-title="Trinec vs Hodonin Sardice" tvg-logo="https://hxcv.site/images/cache/match-d95b17b356bd862e5431b2449a33917a.png",Trinec vs Hodonin Sardice [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuSsD56WAxX8Zd77J/playlist.m3u8
+#EXTINF:-1 group-title="FK Kraluv Dvur vs Domazlice" tvg-logo="https://hxcv.site/images/cache/match-2a6499656b6039a6352caa9cdf351631.png",FK Kraluv Dvur vs Domazlice [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuSsD2tZAke3uCwHN/playlist.m3u8
+#EXTINF:-1 group-title="England U19 vs Latvia U19" tvg-logo="https://hxcv.site/images/cache/match-4f1e9fd573fe6c39435516832f07642f.png",England U19 vs Latvia U19 [BLV VĂN MILAN - HLS]
+https://hls.cdnvankhanh.com/live/VANMILAN/index.m3u8?expire=1892616120&sign=a4103cfb6e6a1371923d317a9442db9b
+#EXTINF:-1 group-title="England U19 vs Latvia U19" tvg-logo="https://hxcv.site/images/cache/match-4f1e9fd573fe6c39435516832f07642f.png",England U19 vs Latvia U19 [BLV VĂN MILAN - FLV]
+https://flv.cdnvankhanh.com/live/VANMILAN.flv?expire=1892616120&sign=a4103cfb6e6a1371923d317a9442db9b
+#EXTINF:-1 group-title="England U19 vs Latvia U19" tvg-logo="https://hxcv.site/images/cache/match-4f1e9fd573fe6c39435516832f07642f.png",England U19 vs Latvia U19 [BLV VĂN KHANG - HLS]
+https://hls.cdnvankhanh.com/live/VANKHANG/index.m3u8?expire=1862206680&sign=7ac84ad876b1ccbad9036fe76373e2c6
+#EXTINF:-1 group-title="England U19 vs Latvia U19" tvg-logo="https://hxcv.site/images/cache/match-4f1e9fd573fe6c39435516832f07642f.png",England U19 vs Latvia U19 [BLV VĂN KHANG - FLV]
+https://flv.cdnvankhanh.com/live/VANKHANG.flv?expire=1862206680&sign=7ac84ad876b1ccbad9036fe76373e2c6
+#EXTINF:-1 group-title="Khatoco Khanh Hoa vs TDTT Bac Ninh" tvg-logo="https://hxcv.site/images/cache/match-c9f1064e4c747444edf787f9d6b9e39d.png",Khatoco Khanh Hoa vs TDTT Bac Ninh [BLV VĂN TÀI - HLS]
+https://hls.cdnvankhanh.com/live/VANTAI/index.m3u8?expire=1860501480&sign=48479b66b503225db4b2785147e6c4d1
+#EXTINF:-1 group-title="Khatoco Khanh Hoa vs TDTT Bac Ninh" tvg-logo="https://hxcv.site/images/cache/match-c9f1064e4c747444edf787f9d6b9e39d.png",Khatoco Khanh Hoa vs TDTT Bac Ninh [BLV VĂN TÀI - FLV]
+https://flv.cdnvankhanh.com/live/VANTAI.flv?expire=1860501480&sign=48479b66b503225db4b2785147e6c4d1
+#EXTINF:-1 group-title="Khatoco Khanh Hoa vs TDTT Bac Ninh" tvg-logo="https://hxcv.site/images/cache/match-c9f1064e4c747444edf787f9d6b9e39d.png",Khatoco Khanh Hoa vs TDTT Bac Ninh [BLV VĂN CHUN - HLS]
+https://hls.cdnvankhanh.com/live/VANCHUN/index.m3u8?expire=1898518320&sign=e855afc2f47c2589486b995f1194c0fc
+#EXTINF:-1 group-title="Khatoco Khanh Hoa vs TDTT Bac Ninh" tvg-logo="https://hxcv.site/images/cache/match-c9f1064e4c747444edf787f9d6b9e39d.png",Khatoco Khanh Hoa vs TDTT Bac Ninh [BLV VĂN CHUN - FLV]
+https://flv.cdnvankhanh.com/live/VANCHUN.flv?expire=1898518320&sign=e855afc2f47c2589486b995f1194c0fc
+#EXTINF:-1 group-title="Teplice B vs Hradec Kralove B" tvg-logo="https://hxcv.site/images/cache/match-c2cfc6beab1c5efc81942faf7dc9b19c.png",Teplice B vs Hradec Kralove B [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuSsD3cCpSavGrG44/playlist.m3u8
+#EXTINF:-1 group-title="Thailand U23 vs India U23" tvg-logo="https://hxcv.site/images/cache/match-886f2219abc30885046e1e8cb4d31a5c.png",Thailand U23 vs India U23 [BLV VĂN VỸ - HLS]
+https://hls.cdnvankhanh.com/live/VANVY/index.m3u8?expire=1891070400&sign=642fee455822e2859b2b9f8dc5ed00d9
+#EXTINF:-1 group-title="Thailand U23 vs India U23" tvg-logo="https://hxcv.site/images/cache/match-886f2219abc30885046e1e8cb4d31a5c.png",Thailand U23 vs India U23 [BLV VĂN VỸ - FLV]
+https://flv.cdnvankhanh.com/live/VANVY.flv?expire=1891070400&sign=642fee455822e2859b2b9f8dc5ed00d9
+#EXTINF:-1 group-title="Thailand U23 vs India U23" tvg-logo="https://hxcv.site/images/cache/match-886f2219abc30885046e1e8cb4d31a5c.png",Thailand U23 vs India U23 [BLV VĂN BIA - HLS]
+https://hls.cdnvankhanh.com/live/VANBIA/index.m3u8?expire=1892730180&sign=ca1be0c0d408ba9ac0bf97ec02f5049e
+#EXTINF:-1 group-title="Thailand U23 vs India U23" tvg-logo="https://hxcv.site/images/cache/match-886f2219abc30885046e1e8cb4d31a5c.png",Thailand U23 vs India U23 [BLV VĂN BIA - FLV]
+https://flv.cdnvankhanh.com/live/VANBIA.flv?expire=1892730180&sign=ca1be0c0d408ba9ac0bf97ec02f5049e
+#EXTINF:-1 group-title="Podillya Khmelnytskyi vs UCSA" tvg-logo="https://hxcv.site/images/cache/match-8eae8ae45f9297d911ecf2c79f06aedb.png",Podillya Khmelnytskyi vs UCSA [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuPtxQhsb3ziCdKsz/playlist.m3u8
+#EXTINF:-1 group-title="Saku Sporting (W) vs FC Flora Tallinn (W)" tvg-logo="https://hxcv.site/images/cache/match-cdba509a71d9964521511386293eef1c.png",Saku Sporting (W) vs FC Flora Tallinn (W) [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYbQoiLD2pz37pHS/playlist.m3u8
+#EXTINF:-1 group-title="PFC Oleksandria U21 vs FC KudrivkaU21" tvg-logo="https://hxcv.site/images/cache/match-602ceda15c4957cd52d5c4e29c9038d4.png",PFC Oleksandria U21 vs FC KudrivkaU21 [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuQ9LXAYEPj6rjGDr/playlist.m3u8
+#EXTINF:-1 group-title="FC Belshina Babruisk vs Osipovichy" tvg-logo="https://hxcv.site/images/cache/match-cf32ba15dd1306b77d516fd6012243fe.png",FC Belshina Babruisk vs Osipovichy [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuRsxcYtAZiGAgAtk/playlist.m3u8
+#EXTINF:-1 group-title="Ostrowitz vs Volna Pinsk" tvg-logo="https://hxcv.site/images/cache/match-fcc9b4ceb55b3059834555ba30e53c0d.png",Ostrowitz vs Volna Pinsk [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuRsxcYsrysJL4qfa/playlist.m3u8
+#EXTINF:-1 group-title="FK Minsk B vs FC Gomel B" tvg-logo="https://hxcv.site/images/cache/match-ed6ee9caa3ac2331dcca4419fb6a28a2.png",FK Minsk B vs FC Gomel B [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuRsxcYtMZ7cZokfE/playlist.m3u8
+#EXTINF:-1 group-title="Alhama CF (W) vs Madrid CFF (W)" tvg-logo="https://hxcv.site/images/cache/match-2084efb79bd47bc6b06d5463d9890216.png",Alhama CF (W) vs Madrid CFF (W) [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuTcFBTPMmPvEMEkc/playlist.m3u8
+#EXTINF:-1 group-title="Dinamo KyivU21 vs Veres Rivne U21" tvg-logo="https://hxcv.site/images/cache/match-c17f80656bd63d950eff13e5b1ee64e3.png",Dinamo KyivU21 vs Veres Rivne U21 [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuQ8iiSxmtCtL76Fe/playlist.m3u8
+#EXTINF:-1 group-title="FK Kuban Kholding vs FK Pobeda Junior" tvg-logo="https://hxcv.site/images/cache/match-9fa94c8f60f12fa8455b634ac08fd2e0.png",FK Kuban Kholding vs FK Pobeda Junior [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvXr9kZD5VN16xbZN/playlist.m3u8
+#EXTINF:-1 group-title="VfL Bochum vs VfL Osnabruck" tvg-logo="https://hxcv.site/images/cache/match-2349899250ccac895cc3703bd2cddffa.png",VfL Bochum vs VfL Osnabruck [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYLrqqzyqoFBbZoi/playlist.m3u8
+#EXTINF:-1 group-title="FC Bukovyna chernivtsi vs FC Inhulets Petrove" tvg-logo="https://hxcv.site/images/cache/match-1e7f374fae1b280b885937fdfa6c88a1.png",FC Bukovyna chernivtsi vs FC Inhulets Petrove [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuPtxQhsMs7VKfpxc/playlist.m3u8
+#EXTINF:-1 group-title="Sassuolo (W) vs Ternana W" tvg-logo="https://hxcv.site/images/cache/match-d5c4ae76dc997f41d4edc6f66252ef10.png",Sassuolo (W) vs Ternana W [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuQ9LdoRC9ZDpwaMz/playlist.m3u8
+#EXTINF:-1 group-title="Zhangjiajie Football Team vs Xiangtan Football Team" tvg-logo="https://hxcv.site/images/cache/match-66e07785079ba494be81276c5a7f6b99.png",Zhangjiajie Football Team vs Xiangtan Football Team [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvY6kyR7BHMU7RiGU/playlist.m3u8
+#EXTINF:-1 group-title="Hubei (W) vs Jiangsu (W)" tvg-logo="https://hxcv.site/images/cache/match-4ed0d48048ab17495849978c218f8d48.png",Hubei (W) vs Jiangsu (W) [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYLrntiX4jwtFkK6/playlist.m3u8
+#EXTINF:-1 group-title="MFK Karvina U19 vs Vysocina Jihlava U19" tvg-logo="https://hxcv.site/images/cache/match-0712eeb334513205145a96020a7f7897.png",MFK Karvina U19 vs Vysocina Jihlava U19 [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuSsKZdMtUCwvVHQY/playlist.m3u8
+#EXTINF:-1 group-title="Dafuji cloth MTE vs SOROKSAR" tvg-logo="https://hxcv.site/images/cache/match-d653e06f0bd4e1b45f73a903df0d8f72.png",Dafuji cloth MTE vs SOROKSAR [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuTcQuVBZztLcfPDv/playlist.m3u8
+#EXTINF:-1 group-title="Stara Lubovna vs MSK Zilina B" tvg-logo="https://hxcv.site/images/cache/match-e760d59ddebda9a3b92f29772f3b44af.png",Stara Lubovna vs MSK Zilina B [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuTcBr1t1zZM23FNk/playlist.m3u8
+#EXTINF:-1 group-title="Inter Bratislava vs Tatran LM" tvg-logo="https://hxcv.site/images/cache/match-bdcc28490d408905084f8f2c0569cfa7.png",Inter Bratislava vs Tatran LM [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuTcBr1tYmHXjc5XJ/playlist.m3u8
+#EXTINF:-1 group-title="Banik Lehota Pod Vtacnikom vs Povazska Bystrica" tvg-logo="https://hxcv.site/images/cache/match-72eed0985fde4b563bad9fe062e58a05.png",Banik Lehota Pod Vtacnikom vs Povazska Bystrica [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuTcBr1t4C3DVsAXe/playlist.m3u8
+#EXTINF:-1 group-title="FK Graficar Beograd vs Jedinstvo UB" tvg-logo="https://hxcv.site/images/cache/match-92c95e68b7881763e11cfe5026d2a50b.png",FK Graficar Beograd vs Jedinstvo UB [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuSs6bLJer4yMdN6G/playlist.m3u8
+#EXTINF:-1 group-title="Stavropolye-2009 vs FK Rostov-2" tvg-logo="https://hxcv.site/images/cache/match-e76d47131e96ec6f24bcb9e452b6c8ee.png",Stavropolye-2009 vs FK Rostov-2 [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvXr9kZD16QG9JmFa/playlist.m3u8
+#EXTINF:-1 group-title="Senegal U17 vs Uganda U17" tvg-logo="https://hxcv.site/images/cache/match-0ed4c36eb02bae085dca40876c9cc2a2.png",Senegal U17 vs Uganda U17 [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYLv8KisQyi5ZfM6/playlist.m3u8
+#EXTINF:-1 group-title="ETSV Weiche Flensburg vs Werder Bremen (Youth)" tvg-logo="https://hxcv.site/images/cache/match-f8dbb9f6fc37e238d5d5b20b148eb7ab.png",ETSV Weiche Flensburg vs Werder Bremen (Youth) [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuQ8mwwtpEF3be4ax/playlist.m3u8
+#EXTINF:-1 group-title="Naegohyang (W) vs Ispe FC (W)" tvg-logo="https://hxcv.site/images/cache/match-dd03babc06b327ae841c923b85113b7f.png",Naegohyang (W) vs Ispe FC (W) [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvY6kxgoHsZRfChjA/playlist.m3u8
+#EXTINF:-1 group-title="Rudes vs NK Jarun" tvg-logo="https://hxcv.site/images/cache/match-f59c96887901e21e331ce6f3dcf5b905.png",Rudes vs NK Jarun [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuSrz5LV1DA3rod7S/playlist.m3u8
+#EXTINF:-1 group-title="FC Sevastopol vs Nart Cherkessk" tvg-logo="https://hxcv.site/images/cache/match-589e56df9c5f4e34d9daa3b34af25f2e.png",FC Sevastopol vs Nart Cherkessk [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvXr9kZCxtvPfUr6g/playlist.m3u8
+#EXTINF:-1 group-title="VFB Lubeck vs SV Meppen" tvg-logo="https://hxcv.site/images/cache/match-d07678dd4065195319591abfe3281dd6.png",VFB Lubeck vs SV Meppen [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuQ8mwwuLzyEKCtjW/playlist.m3u8
+#EXTINF:-1 group-title="Kyrgyzstan U23 vs Iran U23" tvg-logo="https://hxcv.site/images/cache/match-127ce6af8f1f9d9cc67e1effa66ef47d.png",Kyrgyzstan U23 vs Iran U23 [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYLv94YARf8pspv8/playlist.m3u8
+#EXTINF:-1 group-title="FAR Rabat (W) vs 15 de Agosto (W)" tvg-logo="https://hxcv.site/images/cache/match-839e2bde02c0667f1a382af1891938bf.png",FAR Rabat (W) vs 15 de Agosto (W) [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYLyQ3cMBs1oRx2p/playlist.m3u8
+#EXTINF:-1 group-title="USFAS Bamako (W) vs FC Masar (W)" tvg-logo="https://hxcv.site/images/cache/match-4e0a488796996c83223bd91763656378.png",USFAS Bamako (W) vs FC Masar (W) [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYLyQ3cJzP9Kc2sv/playlist.m3u8
+#EXTINF:-1 group-title="Casarano vs Catania" tvg-logo="https://hxcv.site/images/cache/match-22a5424fe8a105eeddcafeac27f99f54.png",Casarano vs Catania [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuPtPm5pKYnA5XhZN/playlist.m3u8
+#EXTINF:-1 group-title="Latina vs Cosenza Calcio 1914" tvg-logo="https://hxcv.site/images/cache/match-5cb6c13dccff3bb04c808bcb2158d9f8.png",Latina vs Cosenza Calcio 1914 [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuPtPm4ymzEFWEk4t/playlist.m3u8
+#EXTINF:-1 group-title="AZ Picerno ASD vs US Siracusa" tvg-logo="https://hxcv.site/images/cache/match-d4fea2452faf3a59ba0e5802e928fd04.png",AZ Picerno ASD vs US Siracusa [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuPtPm5onn3yMxsQp/playlist.m3u8
+#EXTINF:-1 group-title="Crotone vs AS Sorrento Calcio" tvg-logo="https://hxcv.site/images/cache/match-cb57ef092b768dd2f17edbb3923bc266.png",Crotone vs AS Sorrento Calcio [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuPtPm5opyXqqnnZi/playlist.m3u8
+#EXTINF:-1 group-title="Asd Pineto Calcio vs Athletic Carpi" tvg-logo="https://hxcv.site/images/cache/match-d63d6a432fe426798ad14529898861fa.png",Asd Pineto Calcio vs Athletic Carpi [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuPtT254SAt4kXvrx/playlist.m3u8
+#EXTINF:-1 group-title="Dukla Praha U19 vs Slovan Liberec U19" tvg-logo="https://hxcv.site/images/cache/match-4883f0c81f0b3e975df8a4a776fc64a1.png",Dukla Praha U19 vs Slovan Liberec U19 [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuSsKZdNREw8e47Z6/playlist.m3u8
+#EXTINF:-1 group-title="Metalist Kharkiv vs Metalurh Zaporizhya" tvg-logo="https://hxcv.site/images/cache/match-793565c87e71c58e9a652124ddbfde4f.png",Metalist Kharkiv vs Metalurh Zaporizhya [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuPtxQhsWf2yEyVaC/playlist.m3u8
