@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="FC Eindhoven vs SC Cambuur" tvg-logo="https://hxcv.site/images/cache/match-ef07e0783cb368a37c64c4b97476bb98.png",FC Eindhoven vs SC Cambuur [BLV VĂN CÒ - HLS]
-https://hls.cdnvankhanh.com/live/VANCO/index.m3u8?expire=1826356200&sign=1cb184635e81263192025d4eedf6dec8
-#EXTINF:-1 group-title="FC Eindhoven vs SC Cambuur" tvg-logo="https://hxcv.site/images/cache/match-ef07e0783cb368a37c64c4b97476bb98.png",FC Eindhoven vs SC Cambuur [BLV VĂN CÒ - FLV]
-https://flv.cdnvankhanh.com/live/VANCO.flv?expire=1826356200&sign=1cb184635e81263192025d4eedf6dec8
 #EXTINF:-1 group-title="Bosnia and Herzegovina vs Romania" tvg-logo="https://hxcv.site/images/cache/match-060049fe2d9469bad703e1a02342f4b8.png",Bosnia and Herzegovina vs Romania [BLV VĂN LONG - HLS]
 https://hls.cdnvankhanh.com/live/VANLONG/index.m3u8?expire=1891070400&sign=8b0432bc178a10760ef797d47c1aabf7
 #EXTINF:-1 group-title="Bosnia and Herzegovina vs Romania" tvg-logo="https://hxcv.site/images/cache/match-060049fe2d9469bad703e1a02342f4b8.png",Bosnia and Herzegovina vs Romania [BLV VĂN LONG - FLV]
@@ -35,11 +31,11 @@ https://flv.cdnvankhanh.com/live/VANGON.flv?expire=1891583400&sign=db46845cd1edc
 https://hls.cdnvankhanh.com/live/VANMINH/index.m3u8?expire=1891172040&sign=f6acb0ca35d53b8fc8f43ca1c11efb5e
 #EXTINF:-1 group-title="Greece vs Scotland" tvg-logo="https://hxcv.site/images/cache/match-1daf50ef228d25b617529083a8435b75.png",Greece vs Scotland [BLV VĂN MINH - FLV]
 https://flv.cdnvankhanh.com/live/VANMINH.flv?expire=1891172040&sign=f6acb0ca35d53b8fc8f43ca1c11efb5e
-#EXTINF:-1 group-title="Denmark vs Belarus" tvg-logo="https://hxcv.site/images/cache/match-27741e8fcb255993155e3bdccc415974.png",Denmark vs Belarus [BLV VĂN BIA - HLS]
-https://hls.cdnvankhanh.com/live/VANBIA/index.m3u8?expire=1892730180&sign=ca1be0c0d408ba9ac0bf97ec02f5049e
-#EXTINF:-1 group-title="Denmark vs Belarus" tvg-logo="https://hxcv.site/images/cache/match-27741e8fcb255993155e3bdccc415974.png",Denmark vs Belarus [BLV VĂN BIA - FLV]
-https://flv.cdnvankhanh.com/live/VANBIA.flv?expire=1892730180&sign=ca1be0c0d408ba9ac0bf97ec02f5049e
 #EXTINF:-1 group-title="Denmark vs Belarus" tvg-logo="https://hxcv.site/images/cache/match-27741e8fcb255993155e3bdccc415974.png",Denmark vs Belarus [BLV VĂN VỸ - HLS]
 https://hls.cdnvankhanh.com/live/VANVY/index.m3u8?expire=1891070400&sign=642fee455822e2859b2b9f8dc5ed00d9
 #EXTINF:-1 group-title="Denmark vs Belarus" tvg-logo="https://hxcv.site/images/cache/match-27741e8fcb255993155e3bdccc415974.png",Denmark vs Belarus [BLV VĂN VỸ - FLV]
 https://flv.cdnvankhanh.com/live/VANVY.flv?expire=1891070400&sign=642fee455822e2859b2b9f8dc5ed00d9
+#EXTINF:-1 group-title="Denmark vs Belarus" tvg-logo="https://hxcv.site/images/cache/match-27741e8fcb255993155e3bdccc415974.png",Denmark vs Belarus [BLV VĂN BIA - HLS]
+https://hls.cdnvankhanh.com/live/VANBIA/index.m3u8?expire=1892730180&sign=ca1be0c0d408ba9ac0bf97ec02f5049e
+#EXTINF:-1 group-title="Denmark vs Belarus" tvg-logo="https://hxcv.site/images/cache/match-27741e8fcb255993155e3bdccc415974.png",Denmark vs Belarus [BLV VĂN BIA - FLV]
+https://flv.cdnvankhanh.com/live/VANBIA.flv?expire=1892730180&sign=ca1be0c0d408ba9ac0bf97ec02f5049e
