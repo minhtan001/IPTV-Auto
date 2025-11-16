@@ -1,4 +1,19 @@
 #EXTM3U
+#EXTVLCOPT:http-referrer=https://hoadao.tv/portugal-vs-armenia-2350538?mode=sd
+#EXTINF:-1 group-title="Portugal vs Armenia" referer="https://hoadao.tv/portugal-vs-armenia-2350538?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-a6cc77ec3b5aed871f96a13d0bce06ce.png",Portugal vs Armenia [BLV BÚN CHẢ - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_buncha/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/portugal-vs-armenia-2350538?mode=hd
+#EXTINF:-1 group-title="Portugal vs Armenia" referer="https://hoadao.tv/portugal-vs-armenia-2350538?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-a6cc77ec3b5aed871f96a13d0bce06ce.png",Portugal vs Armenia [BLV BÚN CHẢ - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_buncha/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/portugal-vs-armenia-2350538?mode=flv
+#EXTINF:-1 group-title="Portugal vs Armenia" referer="https://hoadao.tv/portugal-vs-armenia-2350538?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-a6cc77ec3b5aed871f96a13d0bce06ce.png",Portugal vs Armenia [BLV BÚN CHẢ - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_buncha.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/portugal-vs-armenia-2350538?mode=flv2
+#EXTINF:-1 group-title="Portugal vs Armenia" referer="https://hoadao.tv/portugal-vs-armenia-2350538?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-a6cc77ec3b5aed871f96a13d0bce06ce.png",Portugal vs Armenia [BLV BÚN CHẢ - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_buncha.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/portugal-vs-armenia-2350538?mode=ndsd
+#EXTINF:-1 group-title="Portugal vs Armenia" referer="https://hoadao.tv/portugal-vs-armenia-2350538?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-a6cc77ec3b5aed871f96a13d0bce06ce.png",Portugal vs Armenia [BLV BÚN CHẢ - SD (ND)]
+https://live.alilicloud.com/live/d16fdc9c40b3ef5c50d2a453005f8c59/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/hungary-vs-ireland-2350541?mode=sd
 #EXTINF:-1 group-title="Hungary vs Ireland" referer="https://hoadao.tv/hungary-vs-ireland-2350541?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-bd9e07522b56df84de569c8157411c47.png",Hungary vs Ireland [BLV PHÁO - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
@@ -11,9 +26,9 @@ https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/hungary-vs-ireland-2350541?mode=flv2
 #EXTINF:-1 group-title="Hungary vs Ireland" referer="https://hoadao.tv/hungary-vs-ireland-2350541?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-bd9e07522b56df84de569c8157411c47.png",Hungary vs Ireland [BLV PHÁO - FLV 2]
 https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/napoli-women-vs-inter-milan-women-2350566?mode=ndsd
-#EXTINF:-1 group-title="Napoli Women vs Inter Milan Women" referer="https://hoadao.tv/napoli-women-vs-inter-milan-women-2350566?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-6be893ac38367b5f2b3e37e38aec1ff7.png",Napoli Women vs Inter Milan Women [No BLV - SD (ND)]
-https://live.alilicloud.com/live/4099594b00ee6e15cb01e91952d70631/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/hungary-vs-ireland-2350541?mode=ndsd
+#EXTINF:-1 group-title="Hungary vs Ireland" referer="https://hoadao.tv/hungary-vs-ireland-2350541?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-bd9e07522b56df84de569c8157411c47.png",Hungary vs Ireland [BLV PHÁO - SD (ND)]
+https://live.alilicloud.com/live/e026db1b6e21c1b79143a4f022181614/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/fk-chelyabinsk-vs-kamaz-naberezhnye-chelny-2350456?mode=ndsd
 #EXTINF:-1 group-title="FK Chelyabinsk vs KAMAZ Naberezhnye Chelny" referer="https://hoadao.tv/fk-chelyabinsk-vs-kamaz-naberezhnye-chelny-2350456?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-ba0a3e0680c62f7188163c1b082f76c4.png",FK Chelyabinsk vs KAMAZ Naberezhnye Chelny [No BLV - SD (ND)]
 https://live.alilicloud.com/live/d997dcc8992cc8cb1b56ac2066549190/playlist.m3u8
@@ -47,27 +62,30 @@ https://live.alilicloud.com/live/afd2228c26802c0f6105c55582a4e1ab/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/polanka-vs-hlucin-2350517?mode=ndsd
 #EXTINF:-1 group-title="Polanka vs Hlucin" referer="https://hoadao.tv/polanka-vs-hlucin-2350517?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-8351973d5c21bfcd158cb96d4e0b25ee.png",Polanka vs Hlucin [No BLV - SD (ND)]
 https://live.alilicloud.com/live/f3f409461ad003478be29e70fef8ef2a/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/aik-solna-women-vs-ifk-norrkoping-dfk-women-2350544?mode=ndsd
+#EXTINF:-1 group-title="AIK Solna Women vs IFK Norrkoping DFK Women" referer="https://hoadao.tv/aik-solna-women-vs-ifk-norrkoping-dfk-women-2350544?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-63cee57008b3acb30b393ce444cdb0c1.png",AIK Solna Women vs IFK Norrkoping DFK Women [No BLV - SD (ND)]
+https://live.alilicloud.com/live/ea6ca0f8c7886e4e8d34bc9ac156211e/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/bk-hacken-women-vs-pitea-if-women-2350547?mode=ndsd
 #EXTINF:-1 group-title="BK Hacken Women vs Pitea IF Women" referer="https://hoadao.tv/bk-hacken-women-vs-pitea-if-women-2350547?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-d6d4b198e18215d50fb850ab1272ee23.png",BK Hacken Women vs Pitea IF Women [No BLV - SD (ND)]
 https://live.alilicloud.com/live/47b7771d652d32855eed690e0db08e15/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/kristianstads-dff-women-vs-alingsas-women-2350553?mode=ndsd
+#EXTINF:-1 group-title="Kristianstads DFF Women vs Alingsas Women" referer="https://hoadao.tv/kristianstads-dff-women-vs-alingsas-women-2350553?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-731a1576866606bef45f0bad9d989caa.png",Kristianstads DFF Women vs Alingsas Women [No BLV - SD (ND)]
+https://live.alilicloud.com/live/7e276bc04da50590d282b95c1a1ba0c4/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/malmo-women-vs-vittsjo-gik-women-2350556?mode=ndsd
 #EXTINF:-1 group-title="Malmo Women vs Vittsjo GIK Women" referer="https://hoadao.tv/malmo-women-vs-vittsjo-gik-women-2350556?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-d262e50193d2c6bbfa330b2fac00afab.png",Malmo Women vs Vittsjo GIK Women [No BLV - SD (ND)]
 https://live.alilicloud.com/live/2e6c1416fd174d03f2243b427d36b6cc/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/fc-rosengard-women-vs-linkopings-women-2350559?mode=ndsd
 #EXTINF:-1 group-title="FC Rosengard Women vs Linkopings Women" referer="https://hoadao.tv/fc-rosengard-women-vs-linkopings-women-2350559?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-88575f2a95ca3476c277bbceb2cfcb4f.png",FC Rosengard Women vs Linkopings Women [No BLV - SD (ND)]
 https://live.alilicloud.com/live/b86e3ebdc030349ce313f2f4c2a03238/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/vaxjo-women-vs-djurgardens-women-2350562?mode=ndsd
-#EXTINF:-1 group-title="Vaxjo Women vs Djurgardens Women" referer="https://hoadao.tv/vaxjo-women-vs-djurgardens-women-2350562?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-48610dbed64b8d198b72eeae2901bec6.png",Vaxjo Women vs Djurgardens Women [No BLV - SD (ND)]
-https://live.alilicloud.com/live/8024c3c6e77c2bc8bcf5aca0837f4bba/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/aydin-vakifbank-2352405?mode=sd
-#EXTINF:-1 group-title="Aydin vs Vakifbank" referer="https://hoadao.tv/aydin-vakifbank-2352405?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-40c7edaa3dab0eff04c5907dc6d71c91.png",Aydin vs Vakifbank [BLV CHIM NHỎ - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/aydin-vakifbank-2352405?mode=hd
-#EXTINF:-1 group-title="Aydin vs Vakifbank" referer="https://hoadao.tv/aydin-vakifbank-2352405?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-40c7edaa3dab0eff04c5907dc6d71c91.png",Aydin vs Vakifbank [BLV CHIM NHỎ - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/aydin-vakifbank-2352405?mode=flv
-#EXTINF:-1 group-title="Aydin vs Vakifbank" referer="https://hoadao.tv/aydin-vakifbank-2352405?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-40c7edaa3dab0eff04c5907dc6d71c91.png",Aydin vs Vakifbank [BLV CHIM NHỎ - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/aydin-vakifbank-2352405?mode=flv2
-#EXTINF:-1 group-title="Aydin vs Vakifbank" referer="https://hoadao.tv/aydin-vakifbank-2352405?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-40c7edaa3dab0eff04c5907dc6d71c91.png",Aydin vs Vakifbank [BLV CHIM NHỎ - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/livorno-vs-ravenna-2350774?mode=ndsd
+#EXTINF:-1 group-title="Livorno vs Ravenna" referer="https://hoadao.tv/livorno-vs-ravenna-2350774?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-21d24916d1025aef16d20c454c0db8b4.png",Livorno vs Ravenna [No BLV - SD (ND)]
+https://live.alilicloud.com/live/9ce71dfc9300e899e36599f48ed8c729/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/giugliano-vs-audace-cerignola-2350777?mode=ndsd
+#EXTINF:-1 group-title="Giugliano vs Audace Cerignola" referer="https://hoadao.tv/giugliano-vs-audace-cerignola-2350777?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-95cc1bc8ab7de03f3c9bed04afbd4b56.png",Giugliano vs Audace Cerignola [No BLV - SD (ND)]
+https://live.alilicloud.com/live/3fc2a21f6572f5be558dab7fbf51e1d9/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/potenza-vs-trapani-2350778?mode=ndsd
+#EXTINF:-1 group-title="Potenza vs Trapani" referer="https://hoadao.tv/potenza-vs-trapani-2350778?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-b32869b653d078c77279e3718d47a96e.png",Potenza vs Trapani [No BLV - SD (ND)]
+https://live.alilicloud.com/live/d01a8e53c81f638343874122203477cb/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/altamura-vs-salernitana-2350779?mode=ndsd
+#EXTINF:-1 group-title="Altamura vs Salernitana" referer="https://hoadao.tv/altamura-vs-salernitana-2350779?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-74cf2dd20f5f9bb5d776028ac043fe2e.png",Altamura vs Salernitana [No BLV - SD (ND)]
+https://live.alilicloud.com/live/8bd01dddca0a1b9a9350f172a8e04e46/playlist.m3u8
