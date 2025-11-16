@@ -1,16 +1,19 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/sao-paulo-youth-vs-santos-youth-2351197?mode=ndsd
-#EXTINF:-1 group-title="Sao Paulo Youth vs Santos Youth" referer="https://hoadao.tv/sao-paulo-youth-vs-santos-youth-2351197?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-5a6ebcfc8c9ebc169ee26390797a982d.png",Sao Paulo Youth vs Santos Youth [No BLV - SD (ND)]
-https://live.alilicloud.com/live/d4de86e0b405cf3e7cf132f75fc3f175/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/leixoes-vs-gd-chaves-2351481?mode=ndsd
-#EXTINF:-1 group-title="Leixoes vs GD Chaves" referer="https://hoadao.tv/leixoes-vs-gd-chaves-2351481?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-1a868853556122d3aa108df9dd245b57.png",Leixoes vs GD Chaves [No BLV - SD (ND)]
-https://live.alilicloud.com/live/4c941a11f5f2595c0acb98c3d401561b/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/italy-vs-norway-2350998?mode=sd
+#EXTINF:-1 group-title="Italy vs Norway" referer="https://hoadao.tv/italy-vs-norway-2350998?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-98571bcd57e76ff30257b33760b0a085.png",Italy vs Norway [BLV CÁ CHÉP - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_cachep/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/italy-vs-norway-2350998?mode=hd
+#EXTINF:-1 group-title="Italy vs Norway" referer="https://hoadao.tv/italy-vs-norway-2350998?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-98571bcd57e76ff30257b33760b0a085.png",Italy vs Norway [BLV CÁ CHÉP - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_cachep/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/italy-vs-norway-2350998?mode=flv
+#EXTINF:-1 group-title="Italy vs Norway" referer="https://hoadao.tv/italy-vs-norway-2350998?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-98571bcd57e76ff30257b33760b0a085.png",Italy vs Norway [BLV CÁ CHÉP - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_cachep.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/italy-vs-norway-2350998?mode=flv2
+#EXTINF:-1 group-title="Italy vs Norway" referer="https://hoadao.tv/italy-vs-norway-2350998?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-98571bcd57e76ff30257b33760b0a085.png",Italy vs Norway [BLV CÁ CHÉP - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_cachep.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/resovia-rzeszow-vs-warta-poznan-2350239?mode=ndsd
 #EXTINF:-1 group-title="Resovia Rzeszow vs Warta Poznan" referer="https://hoadao.tv/resovia-rzeszow-vs-warta-poznan-2350239?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-ce3906db5b0387582e79a5fe0111e88e.png",Resovia Rzeszow vs Warta Poznan [No BLV - SD (ND)]
 https://live.alilicloud.com/live/14579a006a1bd44c3e85165cede4a298/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/nigeria-vs-democratic-republic-of-the-congo-2351972?mode=ndsd
-#EXTINF:-1 group-title="Nigeria vs Democratic Republic of the Congo" referer="https://hoadao.tv/nigeria-vs-democratic-republic-of-the-congo-2351972?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-98574fa5c407c81e1596608b8043e977.png",Nigeria vs Democratic Republic of the Congo [No BLV - SD (ND)]
-https://live.alilicloud.com/live/790e0aa7c0b12972f807ec17c6d67f86/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/ad-grecia-vs-ad-sarchi-2351013?mode=ndsd
 #EXTINF:-1 group-title="AD Grecia vs AD Sarchi" referer="https://hoadao.tv/ad-grecia-vs-ad-sarchi-2351013?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-fd087dc82c432130b45e8cc2816d530c.png",AD Grecia vs AD Sarchi [No BLV - SD (ND)]
 https://live.alilicloud.com/live/1acabe9a5748bfbd8a950d473e31ed9c/playlist.m3u8
@@ -20,3 +23,15 @@ https://live.alilicloud.com/live/4e6d4bdeb265be4bbdefccf3f6dd6ad2/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/blooming-vs-universitario-de-vinto-2351079?mode=ndsd
 #EXTINF:-1 group-title="Blooming vs Universitario De Vinto" referer="https://hoadao.tv/blooming-vs-universitario-de-vinto-2351079?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-aa1ff5dbc9d97bae83577b049d94ccf6.png",Blooming vs Universitario De Vinto [No BLV - SD (ND)]
 https://live.alilicloud.com/live/296c08a7ce443efc7caa23a132040c66/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/criciuma-vs-botafogo-sp-2350370?mode=ndsd
+#EXTINF:-1 group-title="Criciuma vs Botafogo SP" referer="https://hoadao.tv/criciuma-vs-botafogo-sp-2350370?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-02830633670b6d89b9fe5f60d24f2941.png",Criciuma vs Botafogo SP [No BLV - SD (ND)]
+https://live.alilicloud.com/live/08b45930cf1e2bad532eda07b6b672f2/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/goias-ec-vs-gremio-novorizontino-2350371?mode=ndsd
+#EXTINF:-1 group-title="Goiás EC vs Gremio Novorizontino" referer="https://hoadao.tv/goias-ec-vs-gremio-novorizontino-2350371?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-b0baacd7c367915b7a8147fa804794d1.png",Goiás EC vs Gremio Novorizontino [No BLV - SD (ND)]
+https://live.alilicloud.com/live/13b4926a99f19e3d90b52650c6fa7b54/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/ferroviaria-sp-vs-athletico-paranaense-2350376?mode=ndsd
+#EXTINF:-1 group-title="Ferroviaria SP vs Athletico Paranaense" referer="https://hoadao.tv/ferroviaria-sp-vs-athletico-paranaense-2350376?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-b31c128b83eaf5a520e2f41c7ed1f8ac.png",Ferroviaria SP vs Athletico Paranaense [No BLV - SD (ND)]
+https://live.alilicloud.com/live/ba5f30f4670990b5160f075d277895ae/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/america-mg-vs-cuiaba-2350377?mode=ndsd
+#EXTINF:-1 group-title="America MG vs Cuiaba" referer="https://hoadao.tv/america-mg-vs-cuiaba-2350377?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-ce7c4a345878384e91a3cb978231034c.png",America MG vs Cuiaba [No BLV - SD (ND)]
+https://live.alilicloud.com/live/925a2b6dafcfe19eff509809db60c5bb/playlist.m3u8
