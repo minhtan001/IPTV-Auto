@@ -1,4 +1,19 @@
 #EXTM3U
+#EXTVLCOPT:http-referrer=https://hoadao.tv/ukraine-vs-iceland-2350969?mode=sd
+#EXTINF:-1 group-title="Ukraine vs Iceland" referer="https://hoadao.tv/ukraine-vs-iceland-2350969?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-72ee6b79e6685bed2061eb0b1d76b9b5.png",Ukraine vs Iceland [BLV CÁ CHÉP - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_cachep/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/ukraine-vs-iceland-2350969?mode=hd
+#EXTINF:-1 group-title="Ukraine vs Iceland" referer="https://hoadao.tv/ukraine-vs-iceland-2350969?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-72ee6b79e6685bed2061eb0b1d76b9b5.png",Ukraine vs Iceland [BLV CÁ CHÉP - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_cachep/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/ukraine-vs-iceland-2350969?mode=flv
+#EXTINF:-1 group-title="Ukraine vs Iceland" referer="https://hoadao.tv/ukraine-vs-iceland-2350969?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-72ee6b79e6685bed2061eb0b1d76b9b5.png",Ukraine vs Iceland [BLV CÁ CHÉP - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_cachep.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/ukraine-vs-iceland-2350969?mode=flv2
+#EXTINF:-1 group-title="Ukraine vs Iceland" referer="https://hoadao.tv/ukraine-vs-iceland-2350969?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-72ee6b79e6685bed2061eb0b1d76b9b5.png",Ukraine vs Iceland [BLV CÁ CHÉP - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_cachep.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/ukraine-vs-iceland-2350969?mode=ndsd
+#EXTINF:-1 group-title="Ukraine vs Iceland" referer="https://hoadao.tv/ukraine-vs-iceland-2350969?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-72ee6b79e6685bed2061eb0b1d76b9b5.png",Ukraine vs Iceland [BLV CÁ CHÉP - SD (ND)]
+https://live.alilicloud.com/live/bb238e820a5d39b466a62999cb324f45/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/azerbaijan-vs-france-2350971?mode=sd
 #EXTINF:-1 group-title="Azerbaijan vs France" referer="https://hoadao.tv/azerbaijan-vs-france-2350971?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-2d003e8327ed3bd4b790d0e61972f434.png",Azerbaijan vs France [BLV CHIM NHỎ - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
@@ -29,30 +44,6 @@ https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/albania-vs-england-2350982?mode=ndsd
 #EXTINF:-1 group-title="Albania vs England" referer="https://hoadao.tv/albania-vs-england-2350982?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-d6c7c0c2e440c55ee8b164fc72a6b8ca.png",Albania vs England [BLV PHÁO - SD (ND)]
 https://live.alilicloud.com/live/d9f2a0650907149f0b6e6e560d734ef2/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/fola-esch-vs-koeppchen-wormeldange-2352697?mode=ndsd
-#EXTINF:-1 group-title="Fola Esch vs Koeppchen Wormeldange" referer="https://hoadao.tv/fola-esch-vs-koeppchen-wormeldange-2352697?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-3ed88523931dd825b4ccd7dd1c3cb305.png",Fola Esch vs Koeppchen Wormeldange [No BLV - SD (ND)]
-https://live.alilicloud.com/live/c9759e51715d8d1ad088634b4abed886/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/us-feulen-vs-luxembourg-city-2352699?mode=ndsd
-#EXTINF:-1 group-title="US Feulen vs Luxembourg City" referer="https://hoadao.tv/us-feulen-vs-luxembourg-city-2352699?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-f1f4b6a6a764c99d80cb52fee1ad8293.png",US Feulen vs Luxembourg City [No BLV - SD (ND)]
-https://live.alilicloud.com/live/34211e90d7cf1fce59a5bf572b6727ec/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/fc-wiltz-71-vs-fc-lorentzweiler-2352700?mode=ndsd
-#EXTINF:-1 group-title="FC Wiltz 71 vs FC Lorentzweiler" referer="https://hoadao.tv/fc-wiltz-71-vs-fc-lorentzweiler-2352700?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-c2465c46c8c60410b4fa845ccf017aa2.png",FC Wiltz 71 vs FC Lorentzweiler [No BLV - SD (ND)]
-https://live.alilicloud.com/live/abfe76de9c58dafd1fc0b0437b959842/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/bettembourg-vs-fc-alisontia-steinsel-2352701?mode=ndsd
-#EXTINF:-1 group-title="Bettembourg vs FC Alisontia Steinsel" referer="https://hoadao.tv/bettembourg-vs-fc-alisontia-steinsel-2352701?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-5fbe220cde32c3554a1b860f954f5a40.png",Bettembourg vs FC Alisontia Steinsel [No BLV - SD (ND)]
-https://live.alilicloud.com/live/6d15fd1e846c8907b5cb5f8054d50d28/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/unia-skierniewice-vs-kp-calisia-kalisz-2350245?mode=ndsd
-#EXTINF:-1 group-title="Unia Skierniewice vs KP Calisia Kalisz" referer="https://hoadao.tv/unia-skierniewice-vs-kp-calisia-kalisz-2350245?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-83bc632b6873f3dcdda4a3dfe299091b.png",Unia Skierniewice vs KP Calisia Kalisz [No BLV - SD (ND)]
-https://live.alilicloud.com/live/be95a16cc292e2cd13a10d0b4fe13434/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/almeria-vs-cadiz-2350683?mode=ndsd
-#EXTINF:-1 group-title="Almeria vs Cadiz" referer="https://hoadao.tv/almeria-vs-cadiz-2350683?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-34c5c267df0a5c48bd5b7d0fb6bd65e1.png",Almeria vs Cadiz [No BLV - SD (ND)]
-https://live.alilicloud.com/live/6fd21b1147dff593b4883e4cbedf3257/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/sporting-gijon-vs-eibar-2350684?mode=ndsd
-#EXTINF:-1 group-title="Sporting Gijon vs Eibar" referer="https://hoadao.tv/sporting-gijon-vs-eibar-2350684?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-ce1bdb456e796b0fdd85d1e7fc43a33f.png",Sporting Gijon vs Eibar [No BLV - SD (ND)]
-https://live.alilicloud.com/live/064f9ed0e1659abdc20d7fcbc78f5b44/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/al-jazirauae-vs-al-wasl-sc-2349824?mode=ndsd
-#EXTINF:-1 group-title="Al-Jazira(UAE) vs Al-Wasl SC" referer="https://hoadao.tv/al-jazirauae-vs-al-wasl-sc-2349824?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-32db8b965489fba951b53d6bb5ad72c0.png",Al-Jazira(UAE) vs Al-Wasl SC [No BLV - SD (ND)]
-https://live.alilicloud.com/live/60ff094948f43a36948a8288142b678d/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/sc-heerenveen-women-vs-zwolle-women-2350688?mode=ndsd
 #EXTINF:-1 group-title="SC Heerenveen Women vs Zwolle Women" referer="https://hoadao.tv/sc-heerenveen-women-vs-zwolle-women-2350688?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-a3d029d3eceae031bac0c0cafa6340af.png",SC Heerenveen Women vs Zwolle Women [No BLV - SD (ND)]
 https://live.alilicloud.com/live/017695b5bf1472997dd8bc88f07278bb/playlist.m3u8
@@ -77,18 +68,57 @@ https://live.alilicloud.com/live/6d3ba2d12249cdab633f8c338a274699/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/lecco-vs-pro-patria-2350962?mode=ndsd
 #EXTINF:-1 group-title="Lecco vs Pro Patria" referer="https://hoadao.tv/lecco-vs-pro-patria-2350962?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-32086fab0bdcdf5a203aa8e257487550.png",Lecco vs Pro Patria [No BLV - SD (ND)]
 https://live.alilicloud.com/live/e0d2678b8303b2ac33eab6fa0c92ea2e/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/coneliagno-scandicci-2352406?mode=sd
-#EXTINF:-1 group-title="Coneliagno vs Scandicci" referer="https://hoadao.tv/coneliagno-scandicci-2352406?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-7b733b9b903d606cb7b56a099b65a36a.png",Coneliagno vs Scandicci [BLV CỤ RÙA - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/coneliagno-scandicci-2352406?mode=hd
-#EXTINF:-1 group-title="Coneliagno vs Scandicci" referer="https://hoadao.tv/coneliagno-scandicci-2352406?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-7b733b9b903d606cb7b56a099b65a36a.png",Coneliagno vs Scandicci [BLV CỤ RÙA - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/coneliagno-scandicci-2352406?mode=flv
-#EXTINF:-1 group-title="Coneliagno vs Scandicci" referer="https://hoadao.tv/coneliagno-scandicci-2352406?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-7b733b9b903d606cb7b56a099b65a36a.png",Coneliagno vs Scandicci [BLV CỤ RÙA - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/coneliagno-scandicci-2352406?mode=flv2
-#EXTINF:-1 group-title="Coneliagno vs Scandicci" referer="https://hoadao.tv/coneliagno-scandicci-2352406?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-7b733b9b903d606cb7b56a099b65a36a.png",Coneliagno vs Scandicci [BLV CỤ RÙA - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/serbia-vs-latvia-2350967?mode=ndsd
+#EXTINF:-1 group-title="Serbia vs Latvia" referer="https://hoadao.tv/serbia-vs-latvia-2350967?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-19774fbcca89ab0670439640be05c0c0.png",Serbia vs Latvia [No BLV - SD (ND)]
+https://live.alilicloud.com/live/69febb3f686a5ee408baaaf85dca7561/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/ukraine-vs-iceland-2350969?mode=sd
+#EXTINF:-1 group-title="Ukraine vs Iceland" referer="https://hoadao.tv/ukraine-vs-iceland-2350969?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-72ee6b79e6685bed2061eb0b1d76b9b5.png",Ukraine vs Iceland [No BLV - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_cachep/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/ukraine-vs-iceland-2350969?mode=hd
+#EXTINF:-1 group-title="Ukraine vs Iceland" referer="https://hoadao.tv/ukraine-vs-iceland-2350969?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-72ee6b79e6685bed2061eb0b1d76b9b5.png",Ukraine vs Iceland [No BLV - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_cachep/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/ukraine-vs-iceland-2350969?mode=flv
+#EXTINF:-1 group-title="Ukraine vs Iceland" referer="https://hoadao.tv/ukraine-vs-iceland-2350969?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-72ee6b79e6685bed2061eb0b1d76b9b5.png",Ukraine vs Iceland [No BLV - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_cachep.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/ukraine-vs-iceland-2350969?mode=flv2
+#EXTINF:-1 group-title="Ukraine vs Iceland" referer="https://hoadao.tv/ukraine-vs-iceland-2350969?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-72ee6b79e6685bed2061eb0b1d76b9b5.png",Ukraine vs Iceland [No BLV - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_cachep.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/ukraine-vs-iceland-2350969?mode=ndsd
+#EXTINF:-1 group-title="Ukraine vs Iceland" referer="https://hoadao.tv/ukraine-vs-iceland-2350969?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-72ee6b79e6685bed2061eb0b1d76b9b5.png",Ukraine vs Iceland [No BLV - SD (ND)]
+https://live.alilicloud.com/live/bb238e820a5d39b466a62999cb324f45/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/azerbaijan-vs-france-2350971?mode=sd
+#EXTINF:-1 group-title="Azerbaijan vs France" referer="https://hoadao.tv/azerbaijan-vs-france-2350971?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-2d003e8327ed3bd4b790d0e61972f434.png",Azerbaijan vs France [No BLV - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/azerbaijan-vs-france-2350971?mode=hd
+#EXTINF:-1 group-title="Azerbaijan vs France" referer="https://hoadao.tv/azerbaijan-vs-france-2350971?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-2d003e8327ed3bd4b790d0e61972f434.png",Azerbaijan vs France [No BLV - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/azerbaijan-vs-france-2350971?mode=flv
+#EXTINF:-1 group-title="Azerbaijan vs France" referer="https://hoadao.tv/azerbaijan-vs-france-2350971?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-2d003e8327ed3bd4b790d0e61972f434.png",Azerbaijan vs France [No BLV - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/azerbaijan-vs-france-2350971?mode=flv2
+#EXTINF:-1 group-title="Azerbaijan vs France" referer="https://hoadao.tv/azerbaijan-vs-france-2350971?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-2d003e8327ed3bd4b790d0e61972f434.png",Azerbaijan vs France [No BLV - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/azerbaijan-vs-france-2350971?mode=ndsd
+#EXTINF:-1 group-title="Azerbaijan vs France" referer="https://hoadao.tv/azerbaijan-vs-france-2350971?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-2d003e8327ed3bd4b790d0e61972f434.png",Azerbaijan vs France [No BLV - SD (ND)]
+https://live.alilicloud.com/live/760307aaa2f8ac79dcc0725703c0ac26/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/albania-vs-england-2350982?mode=sd
+#EXTINF:-1 group-title="Albania vs England" referer="https://hoadao.tv/albania-vs-england-2350982?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-d6c7c0c2e440c55ee8b164fc72a6b8ca.png",Albania vs England [No BLV - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/albania-vs-england-2350982?mode=hd
+#EXTINF:-1 group-title="Albania vs England" referer="https://hoadao.tv/albania-vs-england-2350982?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-d6c7c0c2e440c55ee8b164fc72a6b8ca.png",Albania vs England [No BLV - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/albania-vs-england-2350982?mode=flv
+#EXTINF:-1 group-title="Albania vs England" referer="https://hoadao.tv/albania-vs-england-2350982?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-d6c7c0c2e440c55ee8b164fc72a6b8ca.png",Albania vs England [No BLV - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/albania-vs-england-2350982?mode=flv2
+#EXTINF:-1 group-title="Albania vs England" referer="https://hoadao.tv/albania-vs-england-2350982?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-d6c7c0c2e440c55ee8b164fc72a6b8ca.png",Albania vs England [No BLV - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/albania-vs-england-2350982?mode=ndsd
+#EXTINF:-1 group-title="Albania vs England" referer="https://hoadao.tv/albania-vs-england-2350982?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-d6c7c0c2e440c55ee8b164fc72a6b8ca.png",Albania vs England [No BLV - SD (ND)]
+https://live.alilicloud.com/live/d9f2a0650907149f0b6e6e560d734ef2/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/juventus-women-vs-genoa-women-2350563?mode=ndsd
+#EXTINF:-1 group-title="Juventus Women vs Genoa Women" referer="https://hoadao.tv/juventus-women-vs-genoa-women-2350563?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-bfb46155f00a9df61f538edb17b64e09.png",Juventus Women vs Genoa Women [No BLV - SD (ND)]
+https://live.alilicloud.com/live/9d6219d0f7fd5c90bbb8f95bb8a8bf32/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/eczacibasi-fenerbahce-2352407?mode=sd
 #EXTINF:-1 group-title="Eczacibasi vs Fenerbahce" referer="https://hoadao.tv/eczacibasi-fenerbahce-2352407?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-868b69f54c61f071f57fddd880a964c8.png",Eczacibasi vs Fenerbahce [BLV MÈO BÉO - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
