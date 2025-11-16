@@ -1,10 +1,25 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/canberra-fc-vs-spirit-fc-2350432?mode=ndsd
-#EXTINF:-1 group-title="Canberra FC vs Spirit FC" referer="https://hoadao.tv/canberra-fc-vs-spirit-fc-2350432?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-4c9334ec9a593630fa5b58b9878a3346.png",Canberra FC vs Spirit FC [No BLV - SD (ND)]
-https://live.alilicloud.com/live/5ce8ef8acf159e70e469ef71f80cd798/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/apia-leichhardt-tigers-vs-bayswater-city-2350433?mode=ndsd
-#EXTINF:-1 group-title="APIA Leichhardt Tigers vs Bayswater City" referer="https://hoadao.tv/apia-leichhardt-tigers-vs-bayswater-city-2350433?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-4f5dcb2a2ad4d30a987f7a96def19d2d.png",APIA Leichhardt Tigers vs Bayswater City [No BLV - SD (ND)]
-https://live.alilicloud.com/live/26d2e7e2c5915ba3c86c2522fe035d8f/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/vissel-kobe-vs-sanfrecce-hiroshima-2350434?mode=ndsd
-#EXTINF:-1 group-title="Vissel Kobe vs Sanfrecce Hiroshima" referer="https://hoadao.tv/vissel-kobe-vs-sanfrecce-hiroshima-2350434?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-8f617f85b94019f3a34e862974f937f4.png",Vissel Kobe vs Sanfrecce Hiroshima [No BLV - SD (ND)]
-https://live.alilicloud.com/live/187c4f1ffa33a0c8f18d0e9120247d26/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/luzhou-team-vs-yibin-team-2350437?mode=ndsd
+#EXTINF:-1 group-title="Luzhou Team vs YIbin Team" referer="https://hoadao.tv/luzhou-team-vs-yibin-team-2350437?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-951bc919fec4d1deec3740d5a8642bb0.png",Luzhou Team vs YIbin Team [No BLV - SD (ND)]
+https://live.alilicloud.com/live/fdcad004864d7b13ccaf824febcdf60a/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/ziyang-team-vs-zigong-team-2350438?mode=ndsd
+#EXTINF:-1 group-title="Ziyang Team vs Zigong Team" referer="https://hoadao.tv/ziyang-team-vs-zigong-team-2350438?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-7368c18f629b360cea563d693cd01ead.png",Ziyang Team vs Zigong Team [No BLV - SD (ND)]
+https://live.alilicloud.com/live/d55b6e200fc8e3e99dc6cc2fcb1e1514/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/guangyuan-team-vs-ganzi-team-2350440?mode=ndsd
+#EXTINF:-1 group-title="Guangyuan Team vs Ganzi Team" referer="https://hoadao.tv/guangyuan-team-vs-ganzi-team-2350440?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-bf0625c50442641dd44a5e38bf972d22.png",Guangyuan Team vs Ganzi Team [No BLV - SD (ND)]
+https://live.alilicloud.com/live/df506283ab2a591188f9e1ca5ef44c1f/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/dalian-hanyu-vs-dalian-kewei-2350191?mode=ndsd
+#EXTINF:-1 group-title="Dalian Hanyu vs Dalian Kewei" referer="https://hoadao.tv/dalian-hanyu-vs-dalian-kewei-2350191?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-c61f6bbd18578fd41386b64185139a97.png",Dalian Hanyu vs Dalian Kewei [No BLV - SD (ND)]
+https://live.alilicloud.com/live/7e918086c152f115cae67439ea7a6f42/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/hungkuk-daejeon-2352404?mode=sd
+#EXTINF:-1 group-title="Hungkuk vs Daejeon" referer="https://hoadao.tv/hungkuk-daejeon-2352404?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-ef8b9521267317c3d5b169bb09ca4ec0.png",Hungkuk vs Daejeon [BLV CÁ CHÉP - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_cachep/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/hungkuk-daejeon-2352404?mode=hd
+#EXTINF:-1 group-title="Hungkuk vs Daejeon" referer="https://hoadao.tv/hungkuk-daejeon-2352404?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-ef8b9521267317c3d5b169bb09ca4ec0.png",Hungkuk vs Daejeon [BLV CÁ CHÉP - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_cachep/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/hungkuk-daejeon-2352404?mode=flv
+#EXTINF:-1 group-title="Hungkuk vs Daejeon" referer="https://hoadao.tv/hungkuk-daejeon-2352404?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-ef8b9521267317c3d5b169bb09ca4ec0.png",Hungkuk vs Daejeon [BLV CÁ CHÉP - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_cachep.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/hungkuk-daejeon-2352404?mode=flv2
+#EXTINF:-1 group-title="Hungkuk vs Daejeon" referer="https://hoadao.tv/hungkuk-daejeon-2352404?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-ef8b9521267317c3d5b169bb09ca4ec0.png",Hungkuk vs Daejeon [BLV CÁ CHÉP - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_cachep.flv
