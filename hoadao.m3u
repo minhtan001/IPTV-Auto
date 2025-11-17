@@ -1,7 +1,28 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/dinamo-2-minsk-vs-niva-dolbizno-2349645?mode=ndsd
-#EXTINF:-1 group-title="Dinamo-2 Minsk vs Niva Dolbizno" referer="https://hoadao.tv/dinamo-2-minsk-vs-niva-dolbizno-2349645?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-4ac14c1e92960bea4903f3f59e8f0728.png",Dinamo-2 Minsk vs Niva Dolbizno [No BLV - SD (ND)]
-https://live.alilicloud.com/live/3e0cab699f5548670c73e456a558deea/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/germany-u20-vs-italy-u20-2351047?mode=ndsd
-#EXTINF:-1 group-title="Germany U20 vs Italy U20" referer="https://hoadao.tv/germany-u20-vs-italy-u20-2351047?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-df238f6561bf6dcea0870b257b8b6073.png",Germany U20 vs Italy U20 [No BLV - SD (ND)]
-https://live.alilicloud.com/live/ba248804a236e37f506380e4694b7814/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/turkiye-u17-vs-serbia-u17-2351050?mode=sd
+#EXTINF:-1 group-title="Turkiye U17 vs Serbia U17" referer="https://hoadao.tv/turkiye-u17-vs-serbia-u17-2351050?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-3a019e715325cf23da0a4fd9e7d99302.png",Turkiye U17 vs Serbia U17 [BLV MÈO BÉO - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/turkiye-u17-vs-serbia-u17-2351050?mode=hd
+#EXTINF:-1 group-title="Turkiye U17 vs Serbia U17" referer="https://hoadao.tv/turkiye-u17-vs-serbia-u17-2351050?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-3a019e715325cf23da0a4fd9e7d99302.png",Turkiye U17 vs Serbia U17 [BLV MÈO BÉO - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/turkiye-u17-vs-serbia-u17-2351050?mode=flv
+#EXTINF:-1 group-title="Turkiye U17 vs Serbia U17" referer="https://hoadao.tv/turkiye-u17-vs-serbia-u17-2351050?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-3a019e715325cf23da0a4fd9e7d99302.png",Turkiye U17 vs Serbia U17 [BLV MÈO BÉO - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/turkiye-u17-vs-serbia-u17-2351050?mode=flv2
+#EXTINF:-1 group-title="Turkiye U17 vs Serbia U17" referer="https://hoadao.tv/turkiye-u17-vs-serbia-u17-2351050?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-3a019e715325cf23da0a4fd9e7d99302.png",Turkiye U17 vs Serbia U17 [BLV MÈO BÉO - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/turkiye-u17-vs-serbia-u17-2351050?mode=ndsd
+#EXTINF:-1 group-title="Turkiye U17 vs Serbia U17" referer="https://hoadao.tv/turkiye-u17-vs-serbia-u17-2351050?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-3a019e715325cf23da0a4fd9e7d99302.png",Turkiye U17 vs Serbia U17 [BLV MÈO BÉO - SD (ND)]
+https://live.alilicloud.com/live/3de725c27c77729478e4ea3d8ccf51a5/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/kuzey-boru-ilbank-2354768?mode=sd
+#EXTINF:-1 group-title="Kuzey Boru vs Ilbank" referer="https://hoadao.tv/kuzey-boru-ilbank-2354768?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-88d4a0b6e18fd99c27cbb5874ddd52f4.png",Kuzey Boru vs Ilbank [BLV CỤ RÙA - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/kuzey-boru-ilbank-2354768?mode=hd
+#EXTINF:-1 group-title="Kuzey Boru vs Ilbank" referer="https://hoadao.tv/kuzey-boru-ilbank-2354768?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-88d4a0b6e18fd99c27cbb5874ddd52f4.png",Kuzey Boru vs Ilbank [BLV CỤ RÙA - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/kuzey-boru-ilbank-2354768?mode=flv
+#EXTINF:-1 group-title="Kuzey Boru vs Ilbank" referer="https://hoadao.tv/kuzey-boru-ilbank-2354768?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-88d4a0b6e18fd99c27cbb5874ddd52f4.png",Kuzey Boru vs Ilbank [BLV CỤ RÙA - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/kuzey-boru-ilbank-2354768?mode=flv2
+#EXTINF:-1 group-title="Kuzey Boru vs Ilbank" referer="https://hoadao.tv/kuzey-boru-ilbank-2354768?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-88d4a0b6e18fd99c27cbb5874ddd52f4.png",Kuzey Boru vs Ilbank [BLV CỤ RÙA - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
