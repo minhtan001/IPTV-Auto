@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/turkiye-u17-vs-serbia-u17-2351050?mode=sd
-#EXTINF:-1 group-title="Turkiye U17 vs Serbia U17" referer="https://hoadao.tv/turkiye-u17-vs-serbia-u17-2351050?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-3a019e715325cf23da0a4fd9e7d99302.png",Turkiye U17 vs Serbia U17 [BLV MÈO BÉO - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/turkiye-u17-vs-serbia-u17-2351050?mode=hd
-#EXTINF:-1 group-title="Turkiye U17 vs Serbia U17" referer="https://hoadao.tv/turkiye-u17-vs-serbia-u17-2351050?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-3a019e715325cf23da0a4fd9e7d99302.png",Turkiye U17 vs Serbia U17 [BLV MÈO BÉO - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/turkiye-u17-vs-serbia-u17-2351050?mode=flv
-#EXTINF:-1 group-title="Turkiye U17 vs Serbia U17" referer="https://hoadao.tv/turkiye-u17-vs-serbia-u17-2351050?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-3a019e715325cf23da0a4fd9e7d99302.png",Turkiye U17 vs Serbia U17 [BLV MÈO BÉO - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/turkiye-u17-vs-serbia-u17-2351050?mode=flv2
-#EXTINF:-1 group-title="Turkiye U17 vs Serbia U17" referer="https://hoadao.tv/turkiye-u17-vs-serbia-u17-2351050?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-3a019e715325cf23da0a4fd9e7d99302.png",Turkiye U17 vs Serbia U17 [BLV MÈO BÉO - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/turkiye-u17-vs-serbia-u17-2351050?mode=ndsd
-#EXTINF:-1 group-title="Turkiye U17 vs Serbia U17" referer="https://hoadao.tv/turkiye-u17-vs-serbia-u17-2351050?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-3a019e715325cf23da0a4fd9e7d99302.png",Turkiye U17 vs Serbia U17 [BLV MÈO BÉO - SD (ND)]
-https://live.alilicloud.com/live/3de725c27c77729478e4ea3d8ccf51a5/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/spartak-kostroma-vs-rodina-moscow-2351332?mode=sd
 #EXTINF:-1 group-title="Spartak Kostroma vs Rodina Moscow" referer="https://hoadao.tv/spartak-kostroma-vs-rodina-moscow-2351332?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-a7dd0063fa25a7fdb737578893355f5c.png",Spartak Kostroma vs Rodina Moscow [BLV PHÁO - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
@@ -29,24 +14,21 @@ https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/spartak-kostroma-vs-rodina-moscow-2351332?mode=ndsd
 #EXTINF:-1 group-title="Spartak Kostroma vs Rodina Moscow" referer="https://hoadao.tv/spartak-kostroma-vs-rodina-moscow-2351332?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-a7dd0063fa25a7fdb737578893355f5c.png",Spartak Kostroma vs Rodina Moscow [BLV PHÁO - SD (ND)]
 https://live.alilicloud.com/live/0dcfaffc8f2fe679b84255d6345d1a61/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/qatar-vs-zimbabwe-2354741?mode=ndsd
-#EXTINF:-1 group-title="Qatar vs Zimbabwe" referer="https://hoadao.tv/qatar-vs-zimbabwe-2354741?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-911d1ad26f06cb9c45ce6d0627e2413e.png",Qatar vs Zimbabwe [No BLV - SD (ND)]
-https://live.alilicloud.com/live/82f00a0755e9dcfbc5dcc164fe88a0e4/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/spartak-kostroma-vs-rodina-moscow-2351332?mode=sd
-#EXTINF:-1 group-title="Spartak Kostroma vs Rodina Moscow" referer="https://hoadao.tv/spartak-kostroma-vs-rodina-moscow-2351332?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-a7dd0063fa25a7fdb737578893355f5c.png",Spartak Kostroma vs Rodina Moscow [No BLV - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/spartak-kostroma-vs-rodina-moscow-2351332?mode=hd
-#EXTINF:-1 group-title="Spartak Kostroma vs Rodina Moscow" referer="https://hoadao.tv/spartak-kostroma-vs-rodina-moscow-2351332?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-a7dd0063fa25a7fdb737578893355f5c.png",Spartak Kostroma vs Rodina Moscow [No BLV - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/spartak-kostroma-vs-rodina-moscow-2351332?mode=flv
-#EXTINF:-1 group-title="Spartak Kostroma vs Rodina Moscow" referer="https://hoadao.tv/spartak-kostroma-vs-rodina-moscow-2351332?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-a7dd0063fa25a7fdb737578893355f5c.png",Spartak Kostroma vs Rodina Moscow [No BLV - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/spartak-kostroma-vs-rodina-moscow-2351332?mode=flv2
-#EXTINF:-1 group-title="Spartak Kostroma vs Rodina Moscow" referer="https://hoadao.tv/spartak-kostroma-vs-rodina-moscow-2351332?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-a7dd0063fa25a7fdb737578893355f5c.png",Spartak Kostroma vs Rodina Moscow [No BLV - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/spartak-kostroma-vs-rodina-moscow-2351332?mode=ndsd
-#EXTINF:-1 group-title="Spartak Kostroma vs Rodina Moscow" referer="https://hoadao.tv/spartak-kostroma-vs-rodina-moscow-2351332?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-a7dd0063fa25a7fdb737578893355f5c.png",Spartak Kostroma vs Rodina Moscow [No BLV - SD (ND)]
-https://live.alilicloud.com/live/0dcfaffc8f2fe679b84255d6345d1a61/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/finland-vs-andorra-2351333?mode=sd
+#EXTINF:-1 group-title="Finland vs Andorra" referer="https://hoadao.tv/finland-vs-andorra-2351333?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-9b78cb2e41781116b911a16fd3c6faf9.png",Finland vs Andorra [BLV MÈO BÉO - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/finland-vs-andorra-2351333?mode=hd
+#EXTINF:-1 group-title="Finland vs Andorra" referer="https://hoadao.tv/finland-vs-andorra-2351333?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-9b78cb2e41781116b911a16fd3c6faf9.png",Finland vs Andorra [BLV MÈO BÉO - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/finland-vs-andorra-2351333?mode=flv
+#EXTINF:-1 group-title="Finland vs Andorra" referer="https://hoadao.tv/finland-vs-andorra-2351333?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-9b78cb2e41781116b911a16fd3c6faf9.png",Finland vs Andorra [BLV MÈO BÉO - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/finland-vs-andorra-2351333?mode=flv2
+#EXTINF:-1 group-title="Finland vs Andorra" referer="https://hoadao.tv/finland-vs-andorra-2351333?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-9b78cb2e41781116b911a16fd3c6faf9.png",Finland vs Andorra [BLV MÈO BÉO - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/finland-vs-andorra-2351333?mode=ndsd
+#EXTINF:-1 group-title="Finland vs Andorra" referer="https://hoadao.tv/finland-vs-andorra-2351333?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-9b78cb2e41781116b911a16fd3c6faf9.png",Finland vs Andorra [BLV MÈO BÉO - SD (ND)]
+https://live.alilicloud.com/live/bd92b9320a3186cf37c09f8634038d15/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/kuzey-boru-ilbank-2354768?mode=sd
 #EXTINF:-1 group-title="Kuzey Boru vs Ilbank" referer="https://hoadao.tv/kuzey-boru-ilbank-2354768?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-88d4a0b6e18fd99c27cbb5874ddd52f4.png",Kuzey Boru vs Ilbank [BLV CỤ RÙA - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
