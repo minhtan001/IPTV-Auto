@@ -703,6 +703,20 @@ https://pull.niues.live/live/stream-532999_lsd.m3u8?auth_key=1763356076-0-0-2359
 https://pull06.scstream.net/live/stream-532999_lhd.flv?auth_key=1763356076-0-0-9a98e1e0dc2a5887d8fc4cdfa8e61e62
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0e836f487bcff4dc587d37c7ad47dbd8.png",Club Sport Emelec vs Liga Dep Universitaria Quito [BLV KINH TẾ - FLV]
 https://pull06.scstream.net/live/stream-532999_lsd.flv?auth_key=1763356076-0-0-050c8ea48648bcaceda732e4567d0a13
+#EXTVLCOPT:http-referrer=https://hoadao.tv/bam-khatoon-women-vs-east-bengal-fc-women-2351042?mode=sd
+#EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/bam-khatoon-women-vs-east-bengal-fc-women-2351042?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-aa5df6baf3e4b2e3e85d43645e67df49.png",Bam Khatoon Women vs East Bengal FC Women [BLV CỤ RÙA - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/bam-khatoon-women-vs-east-bengal-fc-women-2351042?mode=hd
+#EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/bam-khatoon-women-vs-east-bengal-fc-women-2351042?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-aa5df6baf3e4b2e3e85d43645e67df49.png",Bam Khatoon Women vs East Bengal FC Women [BLV CỤ RÙA - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/bam-khatoon-women-vs-east-bengal-fc-women-2351042?mode=flv
+#EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/bam-khatoon-women-vs-east-bengal-fc-women-2351042?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-aa5df6baf3e4b2e3e85d43645e67df49.png",Bam Khatoon Women vs East Bengal FC Women [BLV CỤ RÙA - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/bam-khatoon-women-vs-east-bengal-fc-women-2351042?mode=flv2
+#EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/bam-khatoon-women-vs-east-bengal-fc-women-2351042?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-aa5df6baf3e4b2e3e85d43645e67df49.png",Bam Khatoon Women vs East Bengal FC Women [BLV CỤ RÙA - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
+#EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-b49b00e61a1b3e93b7c99de8ebc9f5b4.png",Royal Banga Lu Lu vs Kickstart FC [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYMFdKk5A3qBTKgx/playlist.m3u8
 #EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-ec5a84a3d0dec4e15901bae050515f96.png",Boditi Ketema vs Addis Ketema [NHÀ ĐÀI - HLS]
 https://auto.cdnvankhanh.com/live/sd-6MvYMFdLvMqxBiAk6Y/playlist.m3u8
 #EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-b092354753b47f6d2e4ed2f131ca1b71.png",Gamo Chencha vs Nib FC [NHÀ ĐÀI - HLS]
@@ -713,6 +727,8 @@ https://auto.cdnvankhanh.com/live/sd-6MuPtxPzZBv9yYfZ2k/playlist.m3u8
 https://hls.cdnok9.com/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
 #EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-55d2d49afc3490aad9d02a9be6faa415.png",MC vs LIVERPOOL [BLV KAKA REPLAY - FLV]
 https://flv.cdnok9.com/live/TO3A.flv?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
+#EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-e92be8111e0c76ee73dbe689cbe8a5be.png",Royal Banga Lu Lu vs Kickstart FC [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYMFdKk5A3qBTKgx/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-f5a13da5694eecb77e9415b471c42208.png",Boditi Ketema vs Addis Ketema [NHÀ ĐÀI - HLS]
 https://auto.cdnvankhanh.com/live/sd-6MvYMFdLvMqxBiAk6Y/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-0eef26d1da256aa1076ed619bc13908b.png",Gamo Chencha vs Nib FC [NHÀ ĐÀI - HLS]
