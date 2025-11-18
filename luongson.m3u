@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Pakistan vs Syria" tvg-logo="https://hxcv.site/images/cache/match-b5653235ff03df28aba6309705c20e32.png",Pakistan vs Syria [BLV LƯU BỊ - HLS]
-https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:-1 group-title="Pakistan vs Syria" tvg-logo="https://hxcv.site/images/cache/match-b5653235ff03df28aba6309705c20e32.png",Pakistan vs Syria [BLV LƯU BỊ - FLV]
-https://flv.cdnok9.com/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:-1 group-title="Pakistan vs Syria" tvg-logo="https://hxcv.site/images/cache/match-b5653235ff03df28aba6309705c20e32.png",Pakistan vs Syria [BLV KHỔNG MINH - HLS]
-https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:-1 group-title="Pakistan vs Syria" tvg-logo="https://hxcv.site/images/cache/match-b5653235ff03df28aba6309705c20e32.png",Pakistan vs Syria [BLV KHỔNG MINH - FLV]
-https://flv.cdnok9.com/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
 #EXTINF:-1 group-title="Pakistan vs Syria" tvg-logo="https://hxcv.site/images/cache/match-b5653235ff03df28aba6309705c20e32.png",Pakistan vs Syria [BLV VÕ TÒNG - HLS]
  https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:-1 group-title="Pakistan vs Syria" tvg-logo="https://hxcv.site/images/cache/match-b5653235ff03df28aba6309705c20e32.png",Pakistan vs Syria [BLV VÕ TÒNG - FLV]
@@ -15,6 +7,14 @@ https://flv.cdnok9.com/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf4
 https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTINF:-1 group-title="Pakistan vs Syria" tvg-logo="https://hxcv.site/images/cache/match-b5653235ff03df28aba6309705c20e32.png",Pakistan vs Syria [BLV KEVILL - FLV]
 https://flv.cdnok9.com/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTINF:-1 group-title="Pakistan vs Syria" tvg-logo="https://hxcv.site/images/cache/match-b5653235ff03df28aba6309705c20e32.png",Pakistan vs Syria [BLV LƯU BỊ - HLS]
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 group-title="Pakistan vs Syria" tvg-logo="https://hxcv.site/images/cache/match-b5653235ff03df28aba6309705c20e32.png",Pakistan vs Syria [BLV LƯU BỊ - FLV]
+https://flv.cdnok9.com/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 group-title="Pakistan vs Syria" tvg-logo="https://hxcv.site/images/cache/match-b5653235ff03df28aba6309705c20e32.png",Pakistan vs Syria [BLV KHỔNG MINH - HLS]
+https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:-1 group-title="Pakistan vs Syria" tvg-logo="https://hxcv.site/images/cache/match-b5653235ff03df28aba6309705c20e32.png",Pakistan vs Syria [BLV KHỔNG MINH - FLV]
+https://flv.cdnok9.com/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
 #EXTINF:-1 group-title="FC Bekasi City vs Adhyaksa Farmel FC" tvg-logo="https://hxcv.site/images/cache/match-b6799652d25ee29387fc91d3922e1c7a.png",FC Bekasi City vs Adhyaksa Farmel FC [BLV TÂY MÔN KHÁNH - HLS]
 https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 #EXTINF:-1 group-title="FC Bekasi City vs Adhyaksa Farmel FC" tvg-logo="https://hxcv.site/images/cache/match-b6799652d25ee29387fc91d3922e1c7a.png",FC Bekasi City vs Adhyaksa Farmel FC [BLV TÂY MÔN KHÁNH - FLV]
@@ -29,12 +29,32 @@ https://hls.cdnok9.com/live/TO2A/index.m3u8?expire=1891408380&sign=b4fcc4558b296
 https://flv.cdnok9.com/live/TO2A.flv?expire=1891408380&sign=b4fcc4558b2967d54c04070f325ecb14
 #EXTINF:-1 group-title="Iran U23 vs Bahrain U23" tvg-logo="https://hxcv.site/images/cache/match-4dd59c0d19348b28d99ad62eb7b6fecd.png",Iran U23 vs Bahrain U23 [NHÀ ĐÀI - HLS]
 https://auto.cdnvankhanh.com/live/sd-6MvYLrnsDdBuFnuMbJ/playlist.m3u8
+#EXTINF:-1 group-title="Azerbaijan U19 vs Malta U19" tvg-logo="https://hxcv.site/images/cache/match-1c41400deea07a9912a0cc73bcaaefd4.png",Azerbaijan U19 vs Malta U19 [TRỢ LÝ ĐIÊU THUYỀN - HLS]
+https://hls.cdnok9.com/live/DIEUTHUYEN/index.m3u8?expire=1788427256&sign=8cebea5448db2f74ea04021d9362ba87
+#EXTINF:-1 group-title="Azerbaijan U19 vs Malta U19" tvg-logo="https://hxcv.site/images/cache/match-1c41400deea07a9912a0cc73bcaaefd4.png",Azerbaijan U19 vs Malta U19 [TRỢ LÝ ĐIÊU THUYỀN - FLV]
+https://flv.cdnok9.com/live/DIEUTHUYEN.flv?expire=1788427256&sign=8cebea5448db2f74ea04021d9362ba87
 #EXTINF:-1 group-title="Azerbaijan U19 vs Malta U19" tvg-logo="https://hxcv.site/images/cache/match-1c41400deea07a9912a0cc73bcaaefd4.png",Azerbaijan U19 vs Malta U19 [BLV KENCHU - HLS]
 https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
 #EXTINF:-1 group-title="Azerbaijan U19 vs Malta U19" tvg-logo="https://hxcv.site/images/cache/match-1c41400deea07a9912a0cc73bcaaefd4.png",Azerbaijan U19 vs Malta U19 [BLV KENCHU - FLV]
 https://flv.cdnok9.com/live/KENCHU.flv?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
+#EXTINF:-1 group-title="Azerbaijan U19 vs Malta U19" tvg-logo="https://hxcv.site/images/cache/match-1c41400deea07a9912a0cc73bcaaefd4.png",Azerbaijan U19 vs Malta U19 [BLV CHU ĐỒNG - HLS]
+https://hls.cdnok9.com/live/CHUDONG/index.m3u8?expire=1788427256&sign=b7df620ef99aaa1798bda4e698168a46
+#EXTINF:-1 group-title="Azerbaijan U19 vs Malta U19" tvg-logo="https://hxcv.site/images/cache/match-1c41400deea07a9912a0cc73bcaaefd4.png",Azerbaijan U19 vs Malta U19 [BLV CHU ĐỒNG - FLV]
+https://flv.cdnok9.com/live/CHUDONG.flv?expire=1788427256&sign=b7df620ef99aaa1798bda4e698168a46
 #EXTINF:-1 group-title="Scotland U19 vs England U19" tvg-logo="https://hxcv.site/images/cache/match-ff4fbc3b6f1e8efb4e83f91eee879b93.png",Scotland U19 vs England U19 [NHÀ ĐÀI - HLS]
 https://auto.cdnvankhanh.com/live/sd-6MvXreybhZYLsDvFWt/playlist.m3u8
+#EXTINF:-1 group-title="Sri Lanka vs Thailand" tvg-logo="https://hxcv.site/images/cache/match-679045d5a78a0b0f8f990c1ade14b3e6.png",Sri Lanka vs Thailand [BLV URA - HLS]
+https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:-1 group-title="Sri Lanka vs Thailand" tvg-logo="https://hxcv.site/images/cache/match-679045d5a78a0b0f8f990c1ade14b3e6.png",Sri Lanka vs Thailand [BLV URA - FLV]
+https://flv.cdnok9.com/live/URA.flv?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:-1 group-title="Sri Lanka vs Thailand" tvg-logo="https://hxcv.site/images/cache/match-679045d5a78a0b0f8f990c1ade14b3e6.png",Sri Lanka vs Thailand [BLV DƯƠNG QUÁ - HLS]
+https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:-1 group-title="Sri Lanka vs Thailand" tvg-logo="https://hxcv.site/images/cache/match-679045d5a78a0b0f8f990c1ade14b3e6.png",Sri Lanka vs Thailand [BLV DƯƠNG QUÁ - FLV]
+https://flv.cdnok9.com/live/DUONGQUA.flv?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:-1 group-title="Sri Lanka vs Thailand" tvg-logo="https://hxcv.site/images/cache/match-679045d5a78a0b0f8f990c1ade14b3e6.png",Sri Lanka vs Thailand [BLV TÔN LẬP - HLS]
+https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 group-title="Sri Lanka vs Thailand" tvg-logo="https://hxcv.site/images/cache/match-679045d5a78a0b0f8f990c1ade14b3e6.png",Sri Lanka vs Thailand [BLV TÔN LẬP - FLV]
+https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 #EXTINF:-1 group-title="Wales U19 vs Germany U19" tvg-logo="https://hxcv.site/images/cache/match-c4c146689c9b138d3f276a3e8589d927.png",Wales U19 vs Germany U19 [NHÀ ĐÀI - HLS]
 https://auto.cdnvankhanh.com/live/sd-6MvYLrnsDjnLsEP73z/playlist.m3u8
 #EXTINF:-1 group-title="MSK Puchov vs Tatran Presov" tvg-logo="https://hxcv.site/images/cache/match-40761ee423ffa22c4014e25e12d4b753.png",MSK Puchov vs Tatran Presov [NHÀ ĐÀI - HLS]

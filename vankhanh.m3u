@@ -1,10 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="Germany vs Slovakia" tvg-logo="https://hxcv.site/images/cache/match-5dda32a6dc613f097cc95514104f5701.png",Germany vs Slovakia [BLV VĂN CHUN - HLS]
+https://hls.cdnvankhanh.com/live/TO3C/index.m3u8?expire=1875681300&sign=015129bcbd63368bf36946e12b5950c6
 #EXTINF:-1 group-title="Germany vs Slovakia" tvg-logo="https://hxcv.site/images/cache/match-5dda32a6dc613f097cc95514104f5701.png",Germany vs Slovakia [BLV VĂN VỞ - HLS]
 https://hls.cdnvankhanh.com/live/LIVEIDOL/index.m3u8?expire=1892268480&sign=ad89f5d0e54a928eedab933028b7035d
 #EXTINF:-1 group-title="Germany vs Slovakia" tvg-logo="https://hxcv.site/images/cache/match-5dda32a6dc613f097cc95514104f5701.png",Germany vs Slovakia [BLV VĂN VỞ - FLV]
 https://flv.cdnvankhanh.com/live/LIVEIDOL.flv?expire=1892268480&sign=ad89f5d0e54a928eedab933028b7035d
-#EXTINF:-1 group-title="Germany vs Slovakia" tvg-logo="https://hxcv.site/images/cache/match-5dda32a6dc613f097cc95514104f5701.png",Germany vs Slovakia [BLV VĂN CHUN - HLS]
-https://hls.cdnvankhanh.com/live/TO3C/index.m3u8?expire=1875681300&sign=015129bcbd63368bf36946e12b5950c6
 #EXTINF:-1 group-title="Celta Vigo vs FC Barcelona" tvg-logo="https://hxcv.site/images/cache/match-14c85275bbbe9fe042a7202e4333d0d2.png",Celta Vigo vs FC Barcelona [VĂN KHÁNH ESPORT - HLS]
 https://hls.cdnvankhanh.com/live/luckytest/index.m3u8?expire=1883742060&sign=ed258748d4d2478c31073b1f8ac0af67
 #EXTINF:-1 group-title="Celta Vigo vs FC Barcelona" tvg-logo="https://hxcv.site/images/cache/match-14c85275bbbe9fe042a7202e4333d0d2.png",Celta Vigo vs FC Barcelona [VĂN KHÁNH ESPORT - FLV]
@@ -17,8 +17,16 @@ https://auto.cdnvankhanh.com/live/sd-6MvYLrsKUSAMM482yi/playlist.m3u8
 https://auto.cdnvankhanh.com/live/sd-6MuSsKYt3ZqSqgM8Lk/playlist.m3u8
 #EXTINF:-1 group-title="Iran U23 vs Bahrain U23" tvg-logo="https://hxcv.site/images/cache/match-df6dc0e0ffdf3a45d2531f16c40f11e0.png",Iran U23 vs Bahrain U23 [NHÀ ĐÀI - HLS]
 https://auto.cdnvankhanh.com/live/sd-6MvYLrnsDdBuFnuMbJ/playlist.m3u8
+#EXTINF:-1 group-title="Pakistan vs Syria" tvg-logo="https://hxcv.site/images/cache/match-0592ba20f7706aed34d4cf2f85f1e173.png",Pakistan vs Syria [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MtMP7J5yt6u93uEy2/playlist.m3u8
 #EXTINF:-1 group-title="Scotland U19 vs England U19" tvg-logo="https://hxcv.site/images/cache/match-6860fbe189e6bf1378fdea3d6cecef51.png",Scotland U19 vs England U19 [NHÀ ĐÀI - HLS]
-https://auto.cdnvankhanh.com/live/sd-6MvXreybhZYLsDvFWt/playlist.m3u8
+https://hls.cdnvankhanh.com/live/GIAOSUXOAY/index.m3u8?expire=1892730180&sign=c561b814d05f14cf153b87d973755453
+#EXTINF:-1 group-title="Scotland U19 vs England U19" tvg-logo="https://hxcv.site/images/cache/match-6860fbe189e6bf1378fdea3d6cecef51.png",Scotland U19 vs England U19 [NHÀ ĐÀI - FLV]
+ https://flv.cdnvankhanh.com/live/GIAOSUXOAY.flv?expire=1892730180&sign=c561b814d05f14cf153b87d973755453  
+#EXTINF:-1 group-title="Japan vs Bolivia" tvg-logo="https://hxcv.site/images/cache/match-9133ce27b060c67048afa9c3c8ec98cf.png",Japan vs Bolivia [BLV TIỂU LINH - HLS]
+https://hls.cdnvankhanh.com/live/TIEULINH/index.m3u8?expire=1891779900&sign=5353000df59fd7da4b1d1f4a66da8495
+#EXTINF:-1 group-title="Japan vs Bolivia" tvg-logo="https://hxcv.site/images/cache/match-9133ce27b060c67048afa9c3c8ec98cf.png",Japan vs Bolivia [BLV TIỂU LINH - FLV]
+https://flv.cdnvankhanh.com/live/TIEULINH.flv?expire=1891779900&sign=5353000df59fd7da4b1d1f4a66da8495
 #EXTINF:-1 group-title="Wales U19 vs Germany U19" tvg-logo="https://hxcv.site/images/cache/match-d588aa0fff3784c7bf294ede3ea651a4.png",Wales U19 vs Germany U19 [NHÀ ĐÀI - HLS]
 https://auto.cdnvankhanh.com/live/sd-6MvYLrnsDjnLsEP73z/playlist.m3u8
 #EXTINF:-1 group-title="Armenia U21 vs Sweden U21" tvg-logo="https://hxcv.site/images/cache/match-7b60919d93b620ccec7d2daac133d7d0.png",Armenia U21 vs Sweden U21 [NHÀ ĐÀI - HLS]
