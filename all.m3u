@@ -1,16 +1,670 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
-#EXTINF:-1 group-title="Chuoichien" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-1fa3d32a2b04eac910eca59917ecb290.png",Denver Nuggets vs Chicago Bulls [Nhà Đài - HD1 - Nhà Đài - HD1]
-https://gckc0525.edgemaxcdn.org/live/m5x6/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
-#EXTINF:-1 group-title="Chuoichien" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-1fa3d32a2b04eac910eca59917ecb290.png",Denver Nuggets vs Chicago Bulls [Nhà Đài - HD1 - Nhà Đài - HD2]
-https://gckc0525.edgemaxcdn.org/live/m5x6.flv
-#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
-#EXTINF:-1 group-title="Chuoichien" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-1fa3d32a2b04eac910eca59917ecb290.png",Denver Nuggets vs Chicago Bulls [Nhà Đài - HD2 - Nhà Đài - HD1]
-https://gckc0525.edgemaxcdn.org/live/m5x6/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
-#EXTINF:-1 group-title="Chuoichien" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-1fa3d32a2b04eac910eca59917ecb290.png",Denver Nuggets vs Chicago Bulls [Nhà Đài - HD2 - Nhà Đài - HD2]
-https://gckc0525.edgemaxcdn.org/live/m5x6.flv
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-fe4adb259b0c021a595ea46d0fd77347.png",Timor Leste vs Tajikistan [BLV TAP - HD M3U8]
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=e77fd18ff24f44bf16c988c3bbb67dca&txTime=691b8061
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-fe4adb259b0c021a595ea46d0fd77347.png",Timor Leste vs Tajikistan [BLV TAP - M3U8]
+https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=d93b9fa1c1f5fd4ceed7b8654106d074&txTime=691b8061
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-fe4adb259b0c021a595ea46d0fd77347.png",Timor Leste vs Tajikistan [BLV TAP - HD FLV]
+https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=e77fd18ff24f44bf16c988c3bbb67dca&txTime=691b8061
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-fe4adb259b0c021a595ea46d0fd77347.png",Timor Leste vs Tajikistan [BLV TAP - FLV]
+https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=d93b9fa1c1f5fd4ceed7b8654106d074&txTime=691b8061
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-fe4adb259b0c021a595ea46d0fd77347.png",Timor Leste vs Tajikistan [BLV DECO - HD M3U8]
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1763373919-0-0-7aa71e6aed543d0a82ed291bc631670b
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-fe4adb259b0c021a595ea46d0fd77347.png",Timor Leste vs Tajikistan [BLV DECO - M3U8]
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1763373919-0-0-b1eba59214f7bd8df222e71e948ea78f
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-fe4adb259b0c021a595ea46d0fd77347.png",Timor Leste vs Tajikistan [BLV DECO - HD FLV]
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1763373919-0-0-7ab9df8d3806167bf446a08fe05295f1
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-fe4adb259b0c021a595ea46d0fd77347.png",Timor Leste vs Tajikistan [BLV DECO - FLV]
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1763373919-0-0-84e55e912bc5bccd1c0fe77466382616
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-fe4adb259b0c021a595ea46d0fd77347.png",Timor Leste vs Tajikistan [BLV ĐỐM - HD M3U8]
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1763388213-0-0-9d6f9479c061ce4b07cd2bf6693aabc3
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-fe4adb259b0c021a595ea46d0fd77347.png",Timor Leste vs Tajikistan [BLV ĐỐM - M3U8]
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1763388213-0-0-18488cee8a19830646462a56ffb28bc0
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-fe4adb259b0c021a595ea46d0fd77347.png",Timor Leste vs Tajikistan [BLV ĐỐM - HD FLV]
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1763388213-0-0-d4b105b9578a054e6169179556b6169c
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-fe4adb259b0c021a595ea46d0fd77347.png",Timor Leste vs Tajikistan [BLV ĐỐM - FLV]
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1763388213-0-0-2943ace57d02d05808e7c8ee92b2717e
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-fe4adb259b0c021a595ea46d0fd77347.png",Timor Leste vs Tajikistan [BLV COCA - HD M3U8]
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1763409753-0-0-778ab5a97ec6933122f17885752db974
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-fe4adb259b0c021a595ea46d0fd77347.png",Timor Leste vs Tajikistan [BLV COCA - M3U8]
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1763409753-0-0-4d16765596adc39354475544fb72da3f
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-fe4adb259b0c021a595ea46d0fd77347.png",Timor Leste vs Tajikistan [BLV COCA - HD FLV]
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1763409753-0-0-4a78f5229c4014f1a909872572fa051d
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-fe4adb259b0c021a595ea46d0fd77347.png",Timor Leste vs Tajikistan [BLV COCA - FLV]
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1763409753-0-0-8c7e35cf016d772194da8c6605c4c36d
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-fe4adb259b0c021a595ea46d0fd77347.png",Timor Leste vs Tajikistan [TẠ BIÊN GIỚI - HD M3U8]
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1763388262-0-0-6960b3ae87e8dc07fdd74ac039db79ad
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-fe4adb259b0c021a595ea46d0fd77347.png",Timor Leste vs Tajikistan [TẠ BIÊN GIỚI - M3U8]
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1763388262-0-0-f16da9846779fe11829f2c52e6c7f531
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-fe4adb259b0c021a595ea46d0fd77347.png",Timor Leste vs Tajikistan [TẠ BIÊN GIỚI - HD FLV]
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1763388262-0-0-ff999d29bbe6ed3a1f1db16bdd5ab74f
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-fe4adb259b0c021a595ea46d0fd77347.png",Timor Leste vs Tajikistan [TẠ BIÊN GIỚI - FLV]
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1763388262-0-0-3ee013a277cfe2cbc51dad31bf328d96
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-fe4adb259b0c021a595ea46d0fd77347.png",Timor Leste vs Tajikistan [TAM MAO - HD M3U8]
+https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=c0005c29a52cc547b2d4700589725b9c&txTime=691b8029
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-fe4adb259b0c021a595ea46d0fd77347.png",Timor Leste vs Tajikistan [TAM MAO - M3U8]
+https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=58ce012330baaa84b28ee5e9546f06b6&txTime=691b8029
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-fe4adb259b0c021a595ea46d0fd77347.png",Timor Leste vs Tajikistan [TAM MAO - HD FLV]
+https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=c0005c29a52cc547b2d4700589725b9c&txTime=691b8029
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-fe4adb259b0c021a595ea46d0fd77347.png",Timor Leste vs Tajikistan [TAM MAO - FLV]
+https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=58ce012330baaa84b28ee5e9546f06b6&txTime=691b8029
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-a73c7ecae73dde44cf35c2951d0d3d9f.png",Adelaide Lightning W vs Bendigo W [BLV HENRY - HD M3U8]
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1763437189-0-0-9b02ea43e506826b51472d5e26b0f516
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-a73c7ecae73dde44cf35c2951d0d3d9f.png",Adelaide Lightning W vs Bendigo W [BLV HENRY - M3U8]
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1763437189-0-0-3a31d19c750c25a407bca9e20a10755b
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-a73c7ecae73dde44cf35c2951d0d3d9f.png",Adelaide Lightning W vs Bendigo W [BLV HENRY - HD FLV]
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1763437189-0-0-2ad8192ef96a76649b46ec176c5f6d52
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-a73c7ecae73dde44cf35c2951d0d3d9f.png",Adelaide Lightning W vs Bendigo W [BLV HENRY - FLV]
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1763437189-0-0-9c0ac51017e8e87e0b1f11397e749472
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-a73c7ecae73dde44cf35c2951d0d3d9f.png",Adelaide Lightning W vs Bendigo W [CHAN SENA - HD M3U8]
+https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1763439205-0-0-53f1cfead253e9842eafb1ccb35731a0
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-a73c7ecae73dde44cf35c2951d0d3d9f.png",Adelaide Lightning W vs Bendigo W [CHAN SENA - M3U8]
+https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1763439205-0-0-252cf2df99fa65c90c782f614d1c6a37
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-a73c7ecae73dde44cf35c2951d0d3d9f.png",Adelaide Lightning W vs Bendigo W [CHAN SENA - HD FLV]
+https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1763439205-0-0-4e4c6c1d36bc7a95da8873a733df2e86
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-a73c7ecae73dde44cf35c2951d0d3d9f.png",Adelaide Lightning W vs Bendigo W [CHAN SENA - FLV]
+https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1763439205-0-0-d0eafab5db10305936eac432ff3378af
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-c736526e8d5d793ae3d03fdd4c7e8a52.png",FC Bekasi City vs Adhyaksa Farmel FC [BLV QUAN VŨ - HD M3U8]
+https://pull.niues.live/live/stream-239275_lhd.m3u8?auth_key=1763407228-0-0-2728925d72d15b744a42047844b089ca
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-c736526e8d5d793ae3d03fdd4c7e8a52.png",FC Bekasi City vs Adhyaksa Farmel FC [BLV QUAN VŨ - M3U8]
+https://pull.niues.live/live/stream-239275_lsd.m3u8?auth_key=1763407228-0-0-85e11d5804276cbdb0e303b624bb34d0
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-c736526e8d5d793ae3d03fdd4c7e8a52.png",FC Bekasi City vs Adhyaksa Farmel FC [BLV QUAN VŨ - HD FLV]
+https://pull06.scstream.net/live/stream-239275_lhd.flv?auth_key=1763407228-0-0-c3d8c5aa5086e6267f8df3c6385274d7
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-c736526e8d5d793ae3d03fdd4c7e8a52.png",FC Bekasi City vs Adhyaksa Farmel FC [BLV QUAN VŨ - FLV]
+https://pull06.scstream.net/live/stream-239275_lsd.flv?auth_key=1763407228-0-0-82f7617df57e1661114785d10b11985a
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-c736526e8d5d793ae3d03fdd4c7e8a52.png",FC Bekasi City vs Adhyaksa Farmel FC [BLV FANTA - HD M3U8]
+https://pull.niues.live/live/stream-9912104_lhd.m3u8?auth_key=1763388159-0-0-7c83fae1ac85e16a43ee42cc038ecd5e
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-c736526e8d5d793ae3d03fdd4c7e8a52.png",FC Bekasi City vs Adhyaksa Farmel FC [BLV FANTA - M3U8]
+https://pull.niues.live/live/stream-9912104_lsd.m3u8?auth_key=1763388159-0-0-f42600bb1d8c2b49d827324fb6d3b8c9
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-c736526e8d5d793ae3d03fdd4c7e8a52.png",FC Bekasi City vs Adhyaksa Farmel FC [BLV FANTA - HD FLV]
+https://pull06.scstream.net/live/stream-9912104_lhd.flv?auth_key=1763388159-0-0-e41ed86243d07324cb5d64ddd7425d31
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-c736526e8d5d793ae3d03fdd4c7e8a52.png",FC Bekasi City vs Adhyaksa Farmel FC [BLV FANTA - FLV]
+https://pull06.scstream.net/live/stream-9912104_lsd.flv?auth_key=1763388159-0-0-c772477dcea4cbde5691ccbab22655c4
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-554356ccdc917d092d67db5b40022c34.png",Pakistan vs Syria [A CHÈ - HD M3U8]
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1763345691-0-0-9cdf0bd718778d666e6e1152aa44ac2f
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-554356ccdc917d092d67db5b40022c34.png",Pakistan vs Syria [A CHÈ - M3U8]
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1763345691-0-0-f50ff5fcb537125eba1417ec44d4bb6c
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-554356ccdc917d092d67db5b40022c34.png",Pakistan vs Syria [A CHÈ - HD FLV]
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1763345691-0-0-0ecf39d83b3151d49fd3276304cca049
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-554356ccdc917d092d67db5b40022c34.png",Pakistan vs Syria [A CHÈ - FLV]
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1763345691-0-0-0939ac90f084367d9730f6615097aa9d
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-554356ccdc917d092d67db5b40022c34.png",Pakistan vs Syria [BLV ĐỐM - HD M3U8]
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1763388213-0-0-9d6f9479c061ce4b07cd2bf6693aabc3
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-554356ccdc917d092d67db5b40022c34.png",Pakistan vs Syria [BLV ĐỐM - M3U8]
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1763388213-0-0-18488cee8a19830646462a56ffb28bc0
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-554356ccdc917d092d67db5b40022c34.png",Pakistan vs Syria [BLV ĐỐM - HD FLV]
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1763388213-0-0-d4b105b9578a054e6169179556b6169c
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-554356ccdc917d092d67db5b40022c34.png",Pakistan vs Syria [BLV ĐỐM - FLV]
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1763388213-0-0-2943ace57d02d05808e7c8ee92b2717e
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-554356ccdc917d092d67db5b40022c34.png",Pakistan vs Syria [BLV Củ Cải - HD M3U8]
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1763407023-0-0-6c35e43db63335dff40492d15b69e011
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-554356ccdc917d092d67db5b40022c34.png",Pakistan vs Syria [BLV Củ Cải - M3U8]
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1763407023-0-0-09a2c517db0aae1f2464e397d030dea7
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-554356ccdc917d092d67db5b40022c34.png",Pakistan vs Syria [BLV Củ Cải - HD FLV]
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1763407023-0-0-0df6759d7c5da13c95abf1d7f54bf527
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-554356ccdc917d092d67db5b40022c34.png",Pakistan vs Syria [BLV Củ Cải - FLV]
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1763407023-0-0-fbb5436d74f83b8daf027ec8d4ffe5ee
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-554356ccdc917d092d67db5b40022c34.png",Pakistan vs Syria [TẠ BIÊN GIỚI - HD M3U8]
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1763388262-0-0-6960b3ae87e8dc07fdd74ac039db79ad
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-554356ccdc917d092d67db5b40022c34.png",Pakistan vs Syria [TẠ BIÊN GIỚI - M3U8]
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1763388262-0-0-f16da9846779fe11829f2c52e6c7f531
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-554356ccdc917d092d67db5b40022c34.png",Pakistan vs Syria [TẠ BIÊN GIỚI - HD FLV]
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1763388262-0-0-ff999d29bbe6ed3a1f1db16bdd5ab74f
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-554356ccdc917d092d67db5b40022c34.png",Pakistan vs Syria [TẠ BIÊN GIỚI - FLV]
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1763388262-0-0-3ee013a277cfe2cbc51dad31bf328d96
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-554356ccdc917d092d67db5b40022c34.png",Pakistan vs Syria [THẠCH TÚ - HD M3U8]
+https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=a46842b102aef27ae6bcbf924aba9c29&txTime=691bc455
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-554356ccdc917d092d67db5b40022c34.png",Pakistan vs Syria [THẠCH TÚ - M3U8]
+https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=d90106c7b23c40734f5bfd81c514b859&txTime=691bc455
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-554356ccdc917d092d67db5b40022c34.png",Pakistan vs Syria [THẠCH TÚ - HD FLV]
+https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=a46842b102aef27ae6bcbf924aba9c29&txTime=691bc455
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-554356ccdc917d092d67db5b40022c34.png",Pakistan vs Syria [THẠCH TÚ - FLV]
+https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=d90106c7b23c40734f5bfd81c514b859&txTime=691bc455
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-554356ccdc917d092d67db5b40022c34.png",Pakistan vs Syria [BLV SÚP LƠ - HD M3U8]
+https://pull.niues.live/live/stream-9912113_lhd.m3u8?auth_key=1763429057-0-0-0cbc35fe36288998b762536d889122ac
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-554356ccdc917d092d67db5b40022c34.png",Pakistan vs Syria [BLV SÚP LƠ - M3U8]
+https://pull.niues.live/live/stream-9912113_lsd.m3u8?auth_key=1763429057-0-0-eeda11f95da949efdfd40af0ff9ccf75
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-554356ccdc917d092d67db5b40022c34.png",Pakistan vs Syria [BLV SÚP LƠ - HD FLV]
+https://pull06.scstream.net/live/stream-9912113_lhd.flv?auth_key=1763429057-0-0-5eb48bf0fe19a31242627e59ccb447ea
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-554356ccdc917d092d67db5b40022c34.png",Pakistan vs Syria [BLV SÚP LƠ - FLV]
+https://pull06.scstream.net/live/stream-9912113_lsd.flv?auth_key=1763429057-0-0-ef0bc4f02819490af8807aecde93ced0
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-813731dd68a9b824cfcadba72933b4c3.png",Afghanistan vs Myanmar [BLV SHIN - HD M3U8]
+https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=2d6ef44d75f5585741c7b3a4a3dfe13d&txTime=69199a49
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-813731dd68a9b824cfcadba72933b4c3.png",Afghanistan vs Myanmar [BLV SHIN - M3U8]
+https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=c908f7e17822744b7e5a4608e8fb0f7a&txTime=69199a49
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-813731dd68a9b824cfcadba72933b4c3.png",Afghanistan vs Myanmar [BLV SHIN - HD FLV]
+https://pull.niur.live/live/stream-522086_lhd.flv?txSecret=2d6ef44d75f5585741c7b3a4a3dfe13d&txTime=69199a49
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-813731dd68a9b824cfcadba72933b4c3.png",Afghanistan vs Myanmar [BLV SHIN - FLV]
+https://pull.niur.live/live/stream-522086_lsd.flv?txSecret=c908f7e17822744b7e5a4608e8fb0f7a&txTime=69199a49
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-813731dd68a9b824cfcadba72933b4c3.png",Afghanistan vs Myanmar [BLV XO - HD M3U8]
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1763388219-0-0-df7f41ce3d85290fe61f280b0a0867f2
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-813731dd68a9b824cfcadba72933b4c3.png",Afghanistan vs Myanmar [BLV XO - M3U8]
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1763388219-0-0-4370659adaa665a612c17b66f8d7089e
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-813731dd68a9b824cfcadba72933b4c3.png",Afghanistan vs Myanmar [BLV XO - HD FLV]
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1763388219-0-0-334e6b3ada9a97278e516b2599af6522
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-813731dd68a9b824cfcadba72933b4c3.png",Afghanistan vs Myanmar [BLV XO - FLV]
+https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1763388219-0-0-f72fee45c3b6c1d801a5f087fdcf7126
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-813731dd68a9b824cfcadba72933b4c3.png",Afghanistan vs Myanmar [BLV KAI - HD M3U8]
+https://pull.niues.live/live/stream-313971_lhd.m3u8?auth_key=1763398428-0-0-99d31b41e65e8fa68b4a1d6925d3a176
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-813731dd68a9b824cfcadba72933b4c3.png",Afghanistan vs Myanmar [BLV KAI - M3U8]
+https://pull.niues.live/live/stream-313971_lsd.m3u8?auth_key=1763398428-0-0-b796b0fc4113c3774c246dea96faa9e4
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-813731dd68a9b824cfcadba72933b4c3.png",Afghanistan vs Myanmar [BLV KAI - HD FLV]
+https://pull06.scstream.net/live/stream-313971_lhd.flv?auth_key=1763398428-0-0-1820b6d24da442665da4a456b99a77b7
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-813731dd68a9b824cfcadba72933b4c3.png",Afghanistan vs Myanmar [BLV KAI - FLV]
+https://pull06.scstream.net/live/stream-313971_lsd.flv?auth_key=1763398428-0-0-5332e89d851539ce358f944249477674
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-813731dd68a9b824cfcadba72933b4c3.png",Afghanistan vs Myanmar [BLV ADAM - HD M3U8]
+https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=1c7be9f1446a4f6a2775435c10a774f2&txTime=691bebfc
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-813731dd68a9b824cfcadba72933b4c3.png",Afghanistan vs Myanmar [BLV ADAM - M3U8]
+https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=aec2f50e87760d4f1c79f0d49ed7a037&txTime=691bebfc
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-813731dd68a9b824cfcadba72933b4c3.png",Afghanistan vs Myanmar [BLV ADAM - HD FLV]
+https://pull.niur.live/live/stream-336303_lhd.flv?txSecret=1c7be9f1446a4f6a2775435c10a774f2&txTime=691bebfc
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-813731dd68a9b824cfcadba72933b4c3.png",Afghanistan vs Myanmar [BLV ADAM - FLV]
+https://pull.niur.live/live/stream-336303_lsd.flv?txSecret=aec2f50e87760d4f1c79f0d49ed7a037&txTime=691bebfc
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-813731dd68a9b824cfcadba72933b4c3.png",Afghanistan vs Myanmar [BLV KAN - HD M3U8]
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=8aabdb7fe02eac7232a05312aa2cd1f4&txTime=691bc461
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-813731dd68a9b824cfcadba72933b4c3.png",Afghanistan vs Myanmar [BLV KAN - M3U8]
+https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=2b4cc03044682d51f8037c07c01b6f84&txTime=691bc461
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-813731dd68a9b824cfcadba72933b4c3.png",Afghanistan vs Myanmar [BLV KAN - HD FLV]
+https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=8aabdb7fe02eac7232a05312aa2cd1f4&txTime=691bc461
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-813731dd68a9b824cfcadba72933b4c3.png",Afghanistan vs Myanmar [BLV KAN - FLV]
+https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=2b4cc03044682d51f8037c07c01b6f84&txTime=691bc461
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-813731dd68a9b824cfcadba72933b4c3.png",Afghanistan vs Myanmar [SÙNG A MÚP - HD M3U8]
+https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1763375774-0-0-2799ebd475db4b859fa30be412b9e85d
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-813731dd68a9b824cfcadba72933b4c3.png",Afghanistan vs Myanmar [SÙNG A MÚP - M3U8]
+https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1763375774-0-0-244026ae1c002a78c46fdcea1886a032
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-813731dd68a9b824cfcadba72933b4c3.png",Afghanistan vs Myanmar [SÙNG A MÚP - HD FLV]
+https://pull06.scstream.net/live/stream-9912097_lhd.flv?auth_key=1763375774-0-0-075132a447cde09e33ff2b93cdc02632
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-813731dd68a9b824cfcadba72933b4c3.png",Afghanistan vs Myanmar [SÙNG A MÚP - FLV]
+https://pull06.scstream.net/live/stream-9912097_lsd.flv?auth_key=1763375774-0-0-60baa6828defc0f67b9dfda46da6587a
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-4ac555cb4f1457826609e7b055e008e5.png",KoGas vs KCC Egis [BRIAN - HD M3U8]
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1763438810-0-0-b1840edfce1bbd0bc8a02b27fff3aad3
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-4ac555cb4f1457826609e7b055e008e5.png",KoGas vs KCC Egis [BRIAN - M3U8]
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1763438810-0-0-4704a2ccedd09c45c537946949ffd4c7
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-4ac555cb4f1457826609e7b055e008e5.png",KoGas vs KCC Egis [BRIAN - HD FLV]
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1763438810-0-0-72bc6d2e56d45e746d8313825588649c
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-4ac555cb4f1457826609e7b055e008e5.png",KoGas vs KCC Egis [BRIAN - FLV]
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1763438810-0-0-f969add1a495fc923f03448b896527f7
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-5b030a7ba712ca30fafd837d46bbf49d.png",Wonju DB vs Goyang Sono [BLV DUSTIN - HD M3U8]
+https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=3df84918a75b2dd0919de434a1b719e0&txTime=691c4a72
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-5b030a7ba712ca30fafd837d46bbf49d.png",Wonju DB vs Goyang Sono [BLV DUSTIN - M3U8]
+https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=da54ec2ff2b637c5ada3f08cf08411bc&txTime=691c4a72
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-5b030a7ba712ca30fafd837d46bbf49d.png",Wonju DB vs Goyang Sono [BLV DUSTIN - HD FLV]
+https://pull.niur.live/live/stream-289098_lhd.flv?txSecret=3df84918a75b2dd0919de434a1b719e0&txTime=691c4a72
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-5b030a7ba712ca30fafd837d46bbf49d.png",Wonju DB vs Goyang Sono [BLV DUSTIN - FLV]
+https://pull.niur.live/live/stream-289098_lsd.flv?txSecret=da54ec2ff2b637c5ada3f08cf08411bc&txTime=691c4a72
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0e91842db631347c7c6445c36136c3a6.png",Japan vs Bolivia [BLV KEM - HD M3U8]
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1763420177-0-0-44548129b23fb13cb7db51de58507efa
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0e91842db631347c7c6445c36136c3a6.png",Japan vs Bolivia [BLV KEM - M3U8]
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1763420177-0-0-7b31a87bda242f4abda76e982b6bbb71
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0e91842db631347c7c6445c36136c3a6.png",Japan vs Bolivia [BLV KEM - HD FLV]
+https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1763420177-0-0-f86bce43d0819f63e27be1a968fad7f2
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0e91842db631347c7c6445c36136c3a6.png",Japan vs Bolivia [BLV KEM - FLV]
+https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1763420177-0-0-8593d0b2fde6dbcd57e2a20d2127a50d
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0e91842db631347c7c6445c36136c3a6.png",Japan vs Bolivia [BLV KINH TẾ - HD M3U8]
+https://pull.niues.live/live/stream-532999_lhd.m3u8?auth_key=1763435262-0-0-dffd14bc8145aad05ced20eaf40a4442
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0e91842db631347c7c6445c36136c3a6.png",Japan vs Bolivia [BLV KINH TẾ - M3U8]
+https://pull.niues.live/live/stream-532999_lsd.m3u8?auth_key=1763435262-0-0-9f8d90d6314fd53a830e861cccc1cbcb
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0e91842db631347c7c6445c36136c3a6.png",Japan vs Bolivia [BLV KINH TẾ - HD FLV]
+https://pull06.scstream.net/live/stream-532999_lhd.flv?auth_key=1763435262-0-0-0ab5e2cc3e5a1b3c2930789bbfb9d1a6
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0e91842db631347c7c6445c36136c3a6.png",Japan vs Bolivia [BLV KINH TẾ - FLV]
+https://pull06.scstream.net/live/stream-532999_lsd.flv?auth_key=1763435262-0-0-7a11e80a3d39022a626bf4ccebfd17af
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0e91842db631347c7c6445c36136c3a6.png",Japan vs Bolivia [BLV TOMMY - HD M3U8]
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1763419440-0-0-e642f2adffa1548fbf116f41624767e7
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0e91842db631347c7c6445c36136c3a6.png",Japan vs Bolivia [BLV TOMMY - M3U8]
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1763419440-0-0-0ddab4f385dcd7986d116011f520e112
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0e91842db631347c7c6445c36136c3a6.png",Japan vs Bolivia [BLV TOMMY - HD FLV]
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1763419440-0-0-8ea43bbd7b7fce316395ea75f1f55c7f
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0e91842db631347c7c6445c36136c3a6.png",Japan vs Bolivia [BLV TOMMY - FLV]
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1763419440-0-0-6c2523854aa2538e529f4da68a24164f
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0e91842db631347c7c6445c36136c3a6.png",Japan vs Bolivia [BLV TAP - HD M3U8]
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=e77fd18ff24f44bf16c988c3bbb67dca&txTime=691b8061
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0e91842db631347c7c6445c36136c3a6.png",Japan vs Bolivia [BLV TAP - M3U8]
+https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=d93b9fa1c1f5fd4ceed7b8654106d074&txTime=691b8061
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0e91842db631347c7c6445c36136c3a6.png",Japan vs Bolivia [BLV TAP - HD FLV]
+https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=e77fd18ff24f44bf16c988c3bbb67dca&txTime=691b8061
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0e91842db631347c7c6445c36136c3a6.png",Japan vs Bolivia [BLV TAP - FLV]
+https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=d93b9fa1c1f5fd4ceed7b8654106d074&txTime=691b8061
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0e91842db631347c7c6445c36136c3a6.png",Japan vs Bolivia [BLV DECO - HD M3U8]
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1763373919-0-0-7aa71e6aed543d0a82ed291bc631670b
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0e91842db631347c7c6445c36136c3a6.png",Japan vs Bolivia [BLV DECO - M3U8]
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1763373919-0-0-b1eba59214f7bd8df222e71e948ea78f
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0e91842db631347c7c6445c36136c3a6.png",Japan vs Bolivia [BLV DECO - HD FLV]
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1763373919-0-0-7ab9df8d3806167bf446a08fe05295f1
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0e91842db631347c7c6445c36136c3a6.png",Japan vs Bolivia [BLV DECO - FLV]
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1763373919-0-0-84e55e912bc5bccd1c0fe77466382616
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0e91842db631347c7c6445c36136c3a6.png",Japan vs Bolivia [BLV CRIS - HD M3U8]
+https://pull.niur.live/live/stream-9912103_lhd.m3u8?txSecret=67e9bb907a08b3086393ddbd0e0d61cb&txTime=691c2920
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0e91842db631347c7c6445c36136c3a6.png",Japan vs Bolivia [BLV CRIS - M3U8]
+https://pull.niur.live/live/stream-9912103_lsd.m3u8?txSecret=125d8e6099cbe6f4755499cc7629ca43&txTime=691c2920
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0e91842db631347c7c6445c36136c3a6.png",Japan vs Bolivia [BLV CRIS - HD FLV]
+https://pull.niur.live/live/stream-9912103_lhd.flv?txSecret=67e9bb907a08b3086393ddbd0e0d61cb&txTime=691c2920
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0e91842db631347c7c6445c36136c3a6.png",Japan vs Bolivia [BLV CRIS - FLV]
+https://pull.niur.live/live/stream-9912103_lsd.flv?txSecret=125d8e6099cbe6f4755499cc7629ca43&txTime=691c2920
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-9fc676582e3a4b9a30688c6165716242.png",Sri Lanka vs Thailand [BLV LONG - HD M3U8]
+https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=d5d34003ff3d0c059387c19331a002ce&txTime=691b807c
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-9fc676582e3a4b9a30688c6165716242.png",Sri Lanka vs Thailand [BLV LONG - M3U8]
+https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=d6119febf377fa58efa8cd6b3d028801&txTime=691b807c
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-9fc676582e3a4b9a30688c6165716242.png",Sri Lanka vs Thailand [BLV LONG - HD FLV]
+https://pull.niur.live/live/stream-9912050_lhd.flv?txSecret=d5d34003ff3d0c059387c19331a002ce&txTime=691b807c
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-9fc676582e3a4b9a30688c6165716242.png",Sri Lanka vs Thailand [BLV LONG - FLV]
+https://pull.niur.live/live/stream-9912050_lsd.flv?txSecret=d6119febf377fa58efa8cd6b3d028801&txTime=691b807c
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-9fc676582e3a4b9a30688c6165716242.png",Sri Lanka vs Thailand [BLV SINGER - HD M3U8]
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=4b45febff5549e348267110abcf4d013&txTime=691b460f
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-9fc676582e3a4b9a30688c6165716242.png",Sri Lanka vs Thailand [BLV SINGER - M3U8]
+https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=f89e4485c40cca7bc1efbe8b0c8fa8ea&txTime=691b460f
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-9fc676582e3a4b9a30688c6165716242.png",Sri Lanka vs Thailand [BLV SINGER - HD FLV]
+https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=4b45febff5549e348267110abcf4d013&txTime=691b460f
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-9fc676582e3a4b9a30688c6165716242.png",Sri Lanka vs Thailand [BLV SINGER - FLV]
+https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=f89e4485c40cca7bc1efbe8b0c8fa8ea&txTime=691b460f
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-9fc676582e3a4b9a30688c6165716242.png",Sri Lanka vs Thailand [CR Bưởi - HD M3U8]
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1763419288-0-0-8b243fa09ee775729a4ed1fbcfe665ee
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-9fc676582e3a4b9a30688c6165716242.png",Sri Lanka vs Thailand [CR Bưởi - M3U8]
+https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1763419288-0-0-7f1a757088b131b672e1bec5fccb8fbc
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-9fc676582e3a4b9a30688c6165716242.png",Sri Lanka vs Thailand [CR Bưởi - HD FLV]
+https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1763419288-0-0-280f37b609042156b85dd3c8f62e2e68
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-9fc676582e3a4b9a30688c6165716242.png",Sri Lanka vs Thailand [CR Bưởi - FLV]
+https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1763419288-0-0-13e207a064156d99eecceaefbdcf6179
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-9fc676582e3a4b9a30688c6165716242.png",Sri Lanka vs Thailand [BLV MESSI - HD M3U8]
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1763332873-0-0-ee601cb94f3624c2894ba6bf5247ece4
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-9fc676582e3a4b9a30688c6165716242.png",Sri Lanka vs Thailand [BLV MESSI - M3U8]
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1763332873-0-0-11b6d393947b671edd7940d4bdf96dc7
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-9fc676582e3a4b9a30688c6165716242.png",Sri Lanka vs Thailand [BLV MESSI - HD FLV]
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1763332873-0-0-b5a44080a4c7b77d98e29d77d97448db
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-9fc676582e3a4b9a30688c6165716242.png",Sri Lanka vs Thailand [BLV MESSI - FLV]
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1763332873-0-0-4927d34ca2a08539e5df15019136c3e6
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-9fc676582e3a4b9a30688c6165716242.png",Sri Lanka vs Thailand [RICKHANTER - HD M3U8]
+https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=212aee01133240acbf490b2bcd78d207&txTime=691bec93
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-9fc676582e3a4b9a30688c6165716242.png",Sri Lanka vs Thailand [RICKHANTER - M3U8]
+https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=5a31a29d24067ca33e5eb9776c3bfba0&txTime=691bec93
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-9fc676582e3a4b9a30688c6165716242.png",Sri Lanka vs Thailand [RICKHANTER - HD FLV]
+https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=212aee01133240acbf490b2bcd78d207&txTime=691bec93
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-9fc676582e3a4b9a30688c6165716242.png",Sri Lanka vs Thailand [RICKHANTER - FLV]
+https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=5a31a29d24067ca33e5eb9776c3bfba0&txTime=691bec93
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-9fc676582e3a4b9a30688c6165716242.png",Sri Lanka vs Thailand [BLV TOMIA - HD M3U8]
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1763419256-0-0-cd2da0c594f515e9575afb800791186c
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-9fc676582e3a4b9a30688c6165716242.png",Sri Lanka vs Thailand [BLV TOMIA - M3U8]
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1763419256-0-0-833b963389caa3106eb3af2ab049fab4
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-9fc676582e3a4b9a30688c6165716242.png",Sri Lanka vs Thailand [BLV TOMIA - HD FLV]
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1763419256-0-0-07a745825b9e4cfec77bb34cbfd663cf
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-9fc676582e3a4b9a30688c6165716242.png",Sri Lanka vs Thailand [BLV TOMIA - FLV]
+https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1763419256-0-0-bc1c02c9659a10e3794348bea051f901
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-56d81837df7aaf7a7ac050ac29208634.png",Maldives vs Philippines [BLV QUAN VŨ - HD M3U8]
+https://pull.niues.live/live/stream-239275_lhd.m3u8?auth_key=1763407228-0-0-2728925d72d15b744a42047844b089ca
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-56d81837df7aaf7a7ac050ac29208634.png",Maldives vs Philippines [BLV QUAN VŨ - M3U8]
+https://pull.niues.live/live/stream-239275_lsd.m3u8?auth_key=1763407228-0-0-85e11d5804276cbdb0e303b624bb34d0
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-56d81837df7aaf7a7ac050ac29208634.png",Maldives vs Philippines [BLV QUAN VŨ - HD FLV]
+https://pull06.scstream.net/live/stream-239275_lhd.flv?auth_key=1763407228-0-0-c3d8c5aa5086e6267f8df3c6385274d7
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-56d81837df7aaf7a7ac050ac29208634.png",Maldives vs Philippines [BLV QUAN VŨ - FLV]
+https://pull06.scstream.net/live/stream-239275_lsd.flv?auth_key=1763407228-0-0-82f7617df57e1661114785d10b11985a
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-56d81837df7aaf7a7ac050ac29208634.png",Maldives vs Philippines [BLV PEWPEW - HD M3U8]
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1763332841-0-0-067612326bcd9acb281922fb9960ac27
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-56d81837df7aaf7a7ac050ac29208634.png",Maldives vs Philippines [BLV PEWPEW - M3U8]
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1763332841-0-0-b7461351ffd143fa89e59cbf7ab3829c
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-56d81837df7aaf7a7ac050ac29208634.png",Maldives vs Philippines [BLV PEWPEW - HD FLV]
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1763332841-0-0-4ed9c42ad2b79663739a7fb17c8679e0
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-56d81837df7aaf7a7ac050ac29208634.png",Maldives vs Philippines [BLV PEWPEW - FLV]
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1763332841-0-0-1769d5f600f06f9575805722142afab3
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-56d81837df7aaf7a7ac050ac29208634.png",Maldives vs Philippines [BLV ANH TÀI - HD M3U8]
+https://stream-flv.dfsfe.top/lives/406865-720p.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-56d81837df7aaf7a7ac050ac29208634.png",Maldives vs Philippines [BLV ANH TÀI - M3U8]
+https://stream-flv.dfsfe.top/lives/406865-480p.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-56d81837df7aaf7a7ac050ac29208634.png",Maldives vs Philippines [BLV ANH TÀI - HD FLV]
+https://stream-flv.dfsfe.top/lives/406865-720p.flv
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-56d81837df7aaf7a7ac050ac29208634.png",Maldives vs Philippines [BLV ANH TÀI - FLV]
+https://stream-flv.dfsfe.top/lives/406865-480p.flv
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-56d81837df7aaf7a7ac050ac29208634.png",Maldives vs Philippines [BLV VIP - HD M3U8]
+https://pull.niues.live/live/stream-491873_lhd.m3u8?auth_key=1763391258-0-0-7e8ac9d9b97037dbd8a0dfdb30157f24
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-56d81837df7aaf7a7ac050ac29208634.png",Maldives vs Philippines [BLV VIP - M3U8]
+https://pull.niues.live/live/stream-491873_lsd.m3u8?auth_key=1763391258-0-0-2ac3e8d051d78a478d133352b0a49430
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-56d81837df7aaf7a7ac050ac29208634.png",Maldives vs Philippines [BLV VIP - HD FLV]
+https://pull06.scstream.net/live/stream-491873_lhd.flv?auth_key=1763391258-0-0-52d1f89334d1de47ae062a989f9621de
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-56d81837df7aaf7a7ac050ac29208634.png",Maldives vs Philippines [BLV VIP - FLV]
+https://pull06.scstream.net/live/stream-491873_lsd.flv?auth_key=1763391258-0-0-d23cf27fafad83fef69ab59e2d8066df
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-56d81837df7aaf7a7ac050ac29208634.png",Maldives vs Philippines [BLV CHIVAS - HD M3U8]
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=6a71c425b6678a476d0fdf39b84d4902&txTime=691bc57f
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-56d81837df7aaf7a7ac050ac29208634.png",Maldives vs Philippines [BLV CHIVAS - M3U8]
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=b3f5610e5fd9530a59acbfc299619af5&txTime=691bc57f
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-56d81837df7aaf7a7ac050ac29208634.png",Maldives vs Philippines [BLV CHIVAS - HD FLV]
+https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=6a71c425b6678a476d0fdf39b84d4902&txTime=691bc57f
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-56d81837df7aaf7a7ac050ac29208634.png",Maldives vs Philippines [BLV CHIVAS - FLV]
+https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=b3f5610e5fd9530a59acbfc299619af5&txTime=691bc57f
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-56d81837df7aaf7a7ac050ac29208634.png",Maldives vs Philippines [QUANG VINH - HD M3U8]
+https://pull.niues.live/live/stream-9912109_lhd.m3u8?auth_key=1763282153-0-0-e4c39a0dd1af5681d498cdebdc3c6a5e
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-56d81837df7aaf7a7ac050ac29208634.png",Maldives vs Philippines [QUANG VINH - M3U8]
+https://pull.niues.live/live/stream-9912109_lsd.m3u8?auth_key=1763282153-0-0-1a77f0134007ffcecec18befee4f91c7
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-56d81837df7aaf7a7ac050ac29208634.png",Maldives vs Philippines [QUANG VINH - HD FLV]
+https://pull06.scstream.net/live/stream-9912109_lhd.flv?auth_key=1763282153-0-0-f324b68e4f04708a97a2ef1f75107cb3
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-56d81837df7aaf7a7ac050ac29208634.png",Maldives vs Philippines [QUANG VINH - FLV]
+https://pull06.scstream.net/live/stream-9912109_lsd.flv?auth_key=1763282153-0-0-6c301256baa6d3a2ea87b094ce6639f8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-03ccb49247b03a05361c3bcf81b3f688.png",South Korea vs Ghana [BLV XAVI - HD M3U8]
+https://pull.niur.live/live/stream-525090_lhd.m3u8?txSecret=5a3bc1122aec455649006d84dd5ce973&txTime=691c295d
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-03ccb49247b03a05361c3bcf81b3f688.png",South Korea vs Ghana [BLV XAVI - M3U8]
+https://pull.niur.live/live/stream-525090_lsd.m3u8?txSecret=9bb9e13c218a15263f273679ef1ebcb2&txTime=691c295d
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-03ccb49247b03a05361c3bcf81b3f688.png",South Korea vs Ghana [BLV XAVI - HD FLV]
+https://pull.niur.live/live/stream-525090_lhd.flv?txSecret=5a3bc1122aec455649006d84dd5ce973&txTime=691c295d
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-03ccb49247b03a05361c3bcf81b3f688.png",South Korea vs Ghana [BLV XAVI - FLV]
+https://pull.niur.live/live/stream-525090_lsd.flv?txSecret=9bb9e13c218a15263f273679ef1ebcb2&txTime=691c295d
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-03ccb49247b03a05361c3bcf81b3f688.png",South Korea vs Ghana [CÔNG CHẤT - HD M3U8]
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1763409662-0-0-dd7023f83552a4c765b1d4adaf035a8b
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-03ccb49247b03a05361c3bcf81b3f688.png",South Korea vs Ghana [CÔNG CHẤT - M3U8]
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1763409662-0-0-0707f554a9c0de4e46de562734777179
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-03ccb49247b03a05361c3bcf81b3f688.png",South Korea vs Ghana [CÔNG CHẤT - HD FLV]
+https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1763409662-0-0-8f846f5f74f14cfd3b5a0d1c06e51514
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-03ccb49247b03a05361c3bcf81b3f688.png",South Korea vs Ghana [CÔNG CHẤT - FLV]
+https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1763409662-0-0-bbede4e23740aa56487f1c59223b07a5
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-03ccb49247b03a05361c3bcf81b3f688.png",South Korea vs Ghana [BLV A BỆU - HD M3U8]
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1763438487-0-0-51f93d188223e9d311402437f2ba9eee
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-03ccb49247b03a05361c3bcf81b3f688.png",South Korea vs Ghana [BLV A BỆU - M3U8]
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1763438487-0-0-de5f9a0f9c6e1511d77002d1c67cb9cb
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-03ccb49247b03a05361c3bcf81b3f688.png",South Korea vs Ghana [BLV A BỆU - HD FLV]
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1763438487-0-0-4605c5fa0f1c20609fe7691e4d76d00e
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-03ccb49247b03a05361c3bcf81b3f688.png",South Korea vs Ghana [BLV A BỆU - FLV]
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1763438487-0-0-af909ab66cc1039d5e2b6890e55798c8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-03ccb49247b03a05361c3bcf81b3f688.png",South Korea vs Ghana [BLV BÉO - HD M3U8]
+https://pull.niues.live/live/stream-459401_lhd.m3u8?auth_key=1763400434-0-0-1e982934d01ae83ee93e698d120e2a07
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-03ccb49247b03a05361c3bcf81b3f688.png",South Korea vs Ghana [BLV BÉO - M3U8]
+https://pull.niues.live/live/stream-459401_lsd.m3u8?auth_key=1763400434-0-0-2500d98f6f94849b0354a56293c762f1
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-03ccb49247b03a05361c3bcf81b3f688.png",South Korea vs Ghana [BLV BÉO - HD FLV]
+https://pull06.scstream.net/live/stream-459401_lhd.flv?auth_key=1763400434-0-0-8b34b1b1dc63f8445279f9fe71cd0970
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-03ccb49247b03a05361c3bcf81b3f688.png",South Korea vs Ghana [BLV BÉO - FLV]
+https://pull06.scstream.net/live/stream-459401_lsd.flv?auth_key=1763400434-0-0-5a9c2ac767b1b655b27e73cd73457c22
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-03ccb49247b03a05361c3bcf81b3f688.png",South Korea vs Ghana [BLV VITAMIN - HD M3U8]
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1763419760-0-0-6dbdb7e30300753f8e106ca0d633f81f
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-03ccb49247b03a05361c3bcf81b3f688.png",South Korea vs Ghana [BLV VITAMIN - M3U8]
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1763419760-0-0-86e666c109ec0a24618ad290b248bfcf
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-03ccb49247b03a05361c3bcf81b3f688.png",South Korea vs Ghana [BLV VITAMIN - HD FLV]
+https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1763419760-0-0-816119c1b3de0d17bc88045e4e83487d
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-03ccb49247b03a05361c3bcf81b3f688.png",South Korea vs Ghana [BLV VITAMIN - FLV]
+https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1763419760-0-0-558190e3def0cc6c98bc92d05b5e850b
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-03ccb49247b03a05361c3bcf81b3f688.png",South Korea vs Ghana [VỊT BẠC - HD M3U8]
+https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1763355519-0-0-261d3399a173a77be3d4e1546cecb69e
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-03ccb49247b03a05361c3bcf81b3f688.png",South Korea vs Ghana [VỊT BẠC - M3U8]
+https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1763355519-0-0-8e91a2222cf8111c0af7071f6c895ba7
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-03ccb49247b03a05361c3bcf81b3f688.png",South Korea vs Ghana [VỊT BẠC - HD FLV]
+https://pull06.scstream.net/live/stream-474421_lhd.flv?auth_key=1763355519-0-0-0614d44d1ca3ddbe2bea1f81592beb49
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-03ccb49247b03a05361c3bcf81b3f688.png",South Korea vs Ghana [VỊT BẠC - FLV]
+https://pull06.scstream.net/live/stream-474421_lsd.flv?auth_key=1763355519-0-0-0710c35a5c70073a026786bd1365cf23
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-c2ed091a1b477d355b3591a3a4face06.png",China U22 vs Uzbekistan U22 [BLV GẤU - HD M3U8]
+https://pull.niues.live/live/stream-9912107_lhd.m3u8?auth_key=1763429388-0-0-606036c3824012f70786f85ca137da18
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-c2ed091a1b477d355b3591a3a4face06.png",China U22 vs Uzbekistan U22 [BLV GẤU - M3U8]
+https://pull.niues.live/live/stream-9912107_lsd.m3u8?auth_key=1763429388-0-0-4267e9b0045056c8b5f0f5bc0d4318f8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-c2ed091a1b477d355b3591a3a4face06.png",China U22 vs Uzbekistan U22 [BLV GẤU - HD FLV]
+https://pull06.scstream.net/live/stream-9912107_lhd.flv?auth_key=1763429388-0-0-531e824f57013d38eb6fd543ff058cfa
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-c2ed091a1b477d355b3591a3a4face06.png",China U22 vs Uzbekistan U22 [BLV GẤU - FLV]
+https://pull06.scstream.net/live/stream-9912107_lsd.flv?auth_key=1763429388-0-0-aab4d7aa31ba2c2f6b08ae57a553b6dc
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-c2ed091a1b477d355b3591a3a4face06.png",China U22 vs Uzbekistan U22 [BLV NOKA - HD M3U8]
+https://pull.niues.live/live/stream-537460_lhd.m3u8?auth_key=1763429162-0-0-6dcaefbbbfdf74c70913f2fabdebdc25
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-c2ed091a1b477d355b3591a3a4face06.png",China U22 vs Uzbekistan U22 [BLV NOKA - M3U8]
+https://pull.niues.live/live/stream-537460_lsd.m3u8?auth_key=1763429162-0-0-33f9da321df0698a5d96bcca33dcea09
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-c2ed091a1b477d355b3591a3a4face06.png",China U22 vs Uzbekistan U22 [BLV NOKA - HD FLV]
+https://pull06.scstream.net/live/stream-537460_lhd.flv?auth_key=1763429162-0-0-b1db0f80bbac1ec260b03995b7d8a135
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-c2ed091a1b477d355b3591a3a4face06.png",China U22 vs Uzbekistan U22 [BLV NOKA - FLV]
+https://pull06.scstream.net/live/stream-537460_lsd.flv?auth_key=1763429162-0-0-794f26f63a0e89f3de2723e3c8747b2c
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-54b71c0de3f08df2820a6549a1a9f0e5.png",Hong Kong vs Singapore [BLV PIRLO - HD M3U8]
+https://pull.niur.live/live/stream-351530_lhd.m3u8?txSecret=974400448dba63ac0966eb7f89b9773b&txTime=691beac5
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-54b71c0de3f08df2820a6549a1a9f0e5.png",Hong Kong vs Singapore [BLV PIRLO - M3U8]
+https://pull.niur.live/live/stream-351530_lsd.m3u8?txSecret=e68e3bfc81ea63ac639fe18cf6d69f26&txTime=691beac5
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-54b71c0de3f08df2820a6549a1a9f0e5.png",Hong Kong vs Singapore [BLV PIRLO - HD FLV]
+https://pull.niur.live/live/stream-351530_lhd.flv?txSecret=974400448dba63ac0966eb7f89b9773b&txTime=691beac5
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-54b71c0de3f08df2820a6549a1a9f0e5.png",Hong Kong vs Singapore [BLV PIRLO - FLV]
+https://pull.niur.live/live/stream-351530_lsd.flv?txSecret=e68e3bfc81ea63ac639fe18cf6d69f26&txTime=691beac5
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-54b71c0de3f08df2820a6549a1a9f0e5.png",Hong Kong vs Singapore [BLV  TYPN - HD M3U8]
+https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1763375832-0-0-0a4e76476343bd16b924794091330b00
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-54b71c0de3f08df2820a6549a1a9f0e5.png",Hong Kong vs Singapore [BLV  TYPN - M3U8]
+https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1763375832-0-0-2ab23cb58f4c29909c6b24dc771602e4
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-54b71c0de3f08df2820a6549a1a9f0e5.png",Hong Kong vs Singapore [BLV  TYPN - HD FLV]
+https://pull06.scstream.net/live/stream-9912009_lhd.flv?auth_key=1763375832-0-0-19b0c2f41981215913c8c5d74eef0a9c
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-54b71c0de3f08df2820a6549a1a9f0e5.png",Hong Kong vs Singapore [BLV  TYPN - FLV]
+https://pull06.scstream.net/live/stream-9912009_lsd.flv?auth_key=1763375832-0-0-d969929ec42c4465029dc3bac0b9efad
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-54b71c0de3f08df2820a6549a1a9f0e5.png",Hong Kong vs Singapore [BLV Củ Cải - HD M3U8]
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1763407023-0-0-6c35e43db63335dff40492d15b69e011
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-54b71c0de3f08df2820a6549a1a9f0e5.png",Hong Kong vs Singapore [BLV Củ Cải - M3U8]
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1763407023-0-0-09a2c517db0aae1f2464e397d030dea7
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-54b71c0de3f08df2820a6549a1a9f0e5.png",Hong Kong vs Singapore [BLV Củ Cải - HD FLV]
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1763407023-0-0-0df6759d7c5da13c95abf1d7f54bf527
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-54b71c0de3f08df2820a6549a1a9f0e5.png",Hong Kong vs Singapore [BLV Củ Cải - FLV]
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1763407023-0-0-fbb5436d74f83b8daf027ec8d4ffe5ee
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-54b71c0de3f08df2820a6549a1a9f0e5.png",Hong Kong vs Singapore [BLV ENZO - HD M3U8]
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1763409418-0-0-ddf5c87ab92dd950235f532c33eb3077
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-54b71c0de3f08df2820a6549a1a9f0e5.png",Hong Kong vs Singapore [BLV ENZO - M3U8]
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1763409418-0-0-db0bf9ba7ce581d87365099c8138707b
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-54b71c0de3f08df2820a6549a1a9f0e5.png",Hong Kong vs Singapore [BLV ENZO - HD FLV]
+https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1763409418-0-0-a6c706a34c395ed11fbe0af01ac10909
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-54b71c0de3f08df2820a6549a1a9f0e5.png",Hong Kong vs Singapore [BLV ENZO - FLV]
+https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1763409418-0-0-ebed8316f8471aba215802d4a184068d
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-54b71c0de3f08df2820a6549a1a9f0e5.png",Hong Kong vs Singapore [TAM MAO - HD M3U8]
+https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=c0005c29a52cc547b2d4700589725b9c&txTime=691b8029
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-54b71c0de3f08df2820a6549a1a9f0e5.png",Hong Kong vs Singapore [TAM MAO - M3U8]
+https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=58ce012330baaa84b28ee5e9546f06b6&txTime=691b8029
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-54b71c0de3f08df2820a6549a1a9f0e5.png",Hong Kong vs Singapore [TAM MAO - HD FLV]
+https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=c0005c29a52cc547b2d4700589725b9c&txTime=691b8029
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-54b71c0de3f08df2820a6549a1a9f0e5.png",Hong Kong vs Singapore [TAM MAO - FLV]
+https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=58ce012330baaa84b28ee5e9546f06b6&txTime=691b8029
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-54b71c0de3f08df2820a6549a1a9f0e5.png",Hong Kong vs Singapore [BLV FANTA - HD M3U8]
+https://pull.niues.live/live/stream-9912104_lhd.m3u8?auth_key=1763388159-0-0-7c83fae1ac85e16a43ee42cc038ecd5e
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-54b71c0de3f08df2820a6549a1a9f0e5.png",Hong Kong vs Singapore [BLV FANTA - M3U8]
+https://pull.niues.live/live/stream-9912104_lsd.m3u8?auth_key=1763388159-0-0-f42600bb1d8c2b49d827324fb6d3b8c9
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-54b71c0de3f08df2820a6549a1a9f0e5.png",Hong Kong vs Singapore [BLV FANTA - HD FLV]
+https://pull06.scstream.net/live/stream-9912104_lhd.flv?auth_key=1763388159-0-0-e41ed86243d07324cb5d64ddd7425d31
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-54b71c0de3f08df2820a6549a1a9f0e5.png",Hong Kong vs Singapore [BLV FANTA - FLV]
+https://pull06.scstream.net/live/stream-9912104_lsd.flv?auth_key=1763388159-0-0-c772477dcea4cbde5691ccbab22655c4
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-1819bde5356443d42331045e99b5806f.png",Brunei Darussalam vs Lebanon [BLV COZY - HD M3U8]
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1763407556-0-0-9233fad92ab2658bfc2104827797bed3
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-1819bde5356443d42331045e99b5806f.png",Brunei Darussalam vs Lebanon [BLV COZY - M3U8]
+https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1763407556-0-0-509217cefe7bde4592cf7864502b8c3b
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-1819bde5356443d42331045e99b5806f.png",Brunei Darussalam vs Lebanon [BLV COZY - HD FLV]
+https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1763407556-0-0-64af80a16f52ea881e573b1f5db61c3e
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-1819bde5356443d42331045e99b5806f.png",Brunei Darussalam vs Lebanon [BLV COZY - FLV]
+https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1763407556-0-0-b6ecb775dd6ab11b2642614e33740106
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-1819bde5356443d42331045e99b5806f.png",Brunei Darussalam vs Lebanon [BLV XO - HD M3U8]
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1763388219-0-0-df7f41ce3d85290fe61f280b0a0867f2
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-1819bde5356443d42331045e99b5806f.png",Brunei Darussalam vs Lebanon [BLV XO - M3U8]
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1763388219-0-0-4370659adaa665a612c17b66f8d7089e
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-1819bde5356443d42331045e99b5806f.png",Brunei Darussalam vs Lebanon [BLV XO - HD FLV]
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1763388219-0-0-334e6b3ada9a97278e516b2599af6522
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-1819bde5356443d42331045e99b5806f.png",Brunei Darussalam vs Lebanon [BLV XO - FLV]
+https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1763388219-0-0-f72fee45c3b6c1d801a5f087fdcf7126
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-1819bde5356443d42331045e99b5806f.png",Brunei Darussalam vs Lebanon [JACKMAN - HD M3U8]
+https://pull.niues.live/live/stream-542758_lhd.m3u8?auth_key=1763373967-0-0-249df7bdc1f9c9b58aedb71a401cbf10
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-1819bde5356443d42331045e99b5806f.png",Brunei Darussalam vs Lebanon [JACKMAN - M3U8]
+https://pull.niues.live/live/stream-542758_lsd.m3u8?auth_key=1763373967-0-0-47797a795e505147cdd3779a6d62d621
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-1819bde5356443d42331045e99b5806f.png",Brunei Darussalam vs Lebanon [JACKMAN - HD FLV]
+https://pull06.scstream.net/live/stream-542758_lhd.flv?auth_key=1763373967-0-0-a5fb3b9b641d287aea26ecaf019ec61a
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-1819bde5356443d42331045e99b5806f.png",Brunei Darussalam vs Lebanon [JACKMAN - FLV]
+https://pull06.scstream.net/live/stream-542758_lsd.flv?auth_key=1763373967-0-0-227a2fb05e83900bb6285be979331298
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-1819bde5356443d42331045e99b5806f.png",Brunei Darussalam vs Lebanon [BLV FIREMAN - HD M3U8]
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1763350725-0-0-16f29a88d0e48202dcf9fc4d67ddb873
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-1819bde5356443d42331045e99b5806f.png",Brunei Darussalam vs Lebanon [BLV FIREMAN - M3U8]
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1763350725-0-0-0e1815f17e77b3a3dfd81ce492acaf58
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-1819bde5356443d42331045e99b5806f.png",Brunei Darussalam vs Lebanon [BLV FIREMAN - HD FLV]
+https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1763350725-0-0-d7d60b1fc8e2da51a261e6948be87668
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-1819bde5356443d42331045e99b5806f.png",Brunei Darussalam vs Lebanon [BLV FIREMAN - FLV]
+https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1763350725-0-0-2420bf7eaf37ef946590f13f4b92bd00
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-1819bde5356443d42331045e99b5806f.png",Brunei Darussalam vs Lebanon [LOGAN - HD M3U8]
+https://stream-flv.dfsfe.top/lives/552832-720p.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-1819bde5356443d42331045e99b5806f.png",Brunei Darussalam vs Lebanon [LOGAN - M3U8]
+https://stream-flv.dfsfe.top/lives/552832-480p.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-1819bde5356443d42331045e99b5806f.png",Brunei Darussalam vs Lebanon [LOGAN - HD FLV]
+https://stream-flv.dfsfe.top/lives/552832-720p.flv
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-1819bde5356443d42331045e99b5806f.png",Brunei Darussalam vs Lebanon [LOGAN - FLV]
+https://stream-flv.dfsfe.top/lives/552832-480p.flv
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-1819bde5356443d42331045e99b5806f.png",Brunei Darussalam vs Lebanon [BLV SÓI - HD M3U8]
+https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1763429473-0-0-d31a8ae30e4ada5ce1497accf7c100b0
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-1819bde5356443d42331045e99b5806f.png",Brunei Darussalam vs Lebanon [BLV SÓI - M3U8]
+https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1763429473-0-0-512f2e3c2ce915991828e902dbbeb09a
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-1819bde5356443d42331045e99b5806f.png",Brunei Darussalam vs Lebanon [BLV SÓI - HD FLV]
+https://pull06.scstream.net/live/stream-427562_lhd.flv?auth_key=1763429473-0-0-210583f8de67683ac2f33468f2dc961b
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-1819bde5356443d42331045e99b5806f.png",Brunei Darussalam vs Lebanon [BLV SÓI - FLV]
+https://pull06.scstream.net/live/stream-427562_lsd.flv?auth_key=1763429473-0-0-19a82d59d6576968861ccfc2e99e419b
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-f11ead356dcdb0bc2e5cfb8be6bd1688.png",Uganda U17 vs Burkina Faso U17 [BLV NIBO - HD M3U8]
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1763435472-0-0-059f1a556fe51f57044ce4e2bc0f6549
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-f11ead356dcdb0bc2e5cfb8be6bd1688.png",Uganda U17 vs Burkina Faso U17 [BLV NIBO - M3U8]
+https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1763435472-0-0-b6039ee016bbb857e11a9840e563c69e
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-f11ead356dcdb0bc2e5cfb8be6bd1688.png",Uganda U17 vs Burkina Faso U17 [BLV NIBO - HD FLV]
+https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1763435472-0-0-aeccf24e13a790ec58c9bb9c60244e6b
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-f11ead356dcdb0bc2e5cfb8be6bd1688.png",Uganda U17 vs Burkina Faso U17 [BLV NIBO - FLV]
+https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1763435472-0-0-1a8ac7140cdba8c46a0f9780d94b420f
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-f11ead356dcdb0bc2e5cfb8be6bd1688.png",Uganda U17 vs Burkina Faso U17 [BLV ALEX - HD M3U8]
+https://pull.niur.live/live/stream-532081_lhd.m3u8?txSecret=f251616ce5fd80fddd3e536126510cb0&txTime=691beac0
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-f11ead356dcdb0bc2e5cfb8be6bd1688.png",Uganda U17 vs Burkina Faso U17 [BLV ALEX - M3U8]
+https://pull.niur.live/live/stream-532081_lsd.m3u8?txSecret=411882bdb16bad2ee3af100ebd9d9c84&txTime=691beac0
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-f11ead356dcdb0bc2e5cfb8be6bd1688.png",Uganda U17 vs Burkina Faso U17 [BLV ALEX - HD FLV]
+https://pull.niur.live/live/stream-532081_lhd.flv?txSecret=f251616ce5fd80fddd3e536126510cb0&txTime=691beac0
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-f11ead356dcdb0bc2e5cfb8be6bd1688.png",Uganda U17 vs Burkina Faso U17 [BLV ALEX - FLV]
+https://pull.niur.live/live/stream-532081_lsd.flv?txSecret=411882bdb16bad2ee3af100ebd9d9c84&txTime=691beac0
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-8bc77f0fab5dbec2cfae2becc02fe07b.png",Italy U17 vs Uzbekistan U17 [CÔNG LÝ - HD M3U8]
+https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1763436098-0-0-9376c4b026cf7cbd7ab66b2f39cc7cdf
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-8bc77f0fab5dbec2cfae2becc02fe07b.png",Italy U17 vs Uzbekistan U17 [CÔNG LÝ - M3U8]
+https://pull.niues.live/live/stream-9912035_lsd.m3u8?auth_key=1763436098-0-0-b0c02f7e59b82bd5d571003739b96e37
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-8bc77f0fab5dbec2cfae2becc02fe07b.png",Italy U17 vs Uzbekistan U17 [CÔNG LÝ - HD FLV]
+https://pull06.scstream.net/live/stream-9912035_lhd.flv?auth_key=1763436098-0-0-1dcce1088371400debfdb7f9794b9751
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-8bc77f0fab5dbec2cfae2becc02fe07b.png",Italy U17 vs Uzbekistan U17 [CÔNG LÝ - FLV]
+https://pull06.scstream.net/live/stream-9912035_lsd.flv?auth_key=1763436098-0-0-8667b59351f59a5b81afeec1e4be2644
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-8bc77f0fab5dbec2cfae2becc02fe07b.png",Italy U17 vs Uzbekistan U17 [BLV KAI - HD M3U8]
+https://pull.niues.live/live/stream-313971_lhd.m3u8?auth_key=1763398428-0-0-99d31b41e65e8fa68b4a1d6925d3a176
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-8bc77f0fab5dbec2cfae2becc02fe07b.png",Italy U17 vs Uzbekistan U17 [BLV KAI - M3U8]
+https://pull.niues.live/live/stream-313971_lsd.m3u8?auth_key=1763398428-0-0-b796b0fc4113c3774c246dea96faa9e4
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-8bc77f0fab5dbec2cfae2becc02fe07b.png",Italy U17 vs Uzbekistan U17 [BLV KAI - HD FLV]
+https://pull06.scstream.net/live/stream-313971_lhd.flv?auth_key=1763398428-0-0-1820b6d24da442665da4a456b99a77b7
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-8bc77f0fab5dbec2cfae2becc02fe07b.png",Italy U17 vs Uzbekistan U17 [BLV KAI - FLV]
+https://pull06.scstream.net/live/stream-313971_lsd.flv?auth_key=1763398428-0-0-5332e89d851539ce358f944249477674
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-8bc77f0fab5dbec2cfae2becc02fe07b.png",Italy U17 vs Uzbekistan U17 [BLV MIXI - HD M3U8]
+https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1763322816-0-0-3a566575a2b01ee5a90a23882943a3b3
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-8bc77f0fab5dbec2cfae2becc02fe07b.png",Italy U17 vs Uzbekistan U17 [BLV MIXI - M3U8]
+https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1763322816-0-0-9e6336773e7e15b8301237911a1238d5
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-8bc77f0fab5dbec2cfae2becc02fe07b.png",Italy U17 vs Uzbekistan U17 [BLV MIXI - HD FLV]
+https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1763322816-0-0-ee9fefefa537a6ff102a06abcb173ff0
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-8bc77f0fab5dbec2cfae2becc02fe07b.png",Italy U17 vs Uzbekistan U17 [BLV MIXI - FLV]
+https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1763322816-0-0-ca10c15180c88f266195f13b8381749b
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-8bc77f0fab5dbec2cfae2becc02fe07b.png",Italy U17 vs Uzbekistan U17 [BLV GÔN - HD M3U8]
+https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=5287a0e9d987a262c923ee849600c7a3&txTime=691b40c4
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-8bc77f0fab5dbec2cfae2becc02fe07b.png",Italy U17 vs Uzbekistan U17 [BLV GÔN - M3U8]
+https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=c42c7ab78330bb25eb8c358f00371173&txTime=691b40c4
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-8bc77f0fab5dbec2cfae2becc02fe07b.png",Italy U17 vs Uzbekistan U17 [BLV GÔN - HD FLV]
+https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=5287a0e9d987a262c923ee849600c7a3&txTime=691b40c4
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-8bc77f0fab5dbec2cfae2becc02fe07b.png",Italy U17 vs Uzbekistan U17 [BLV GÔN - FLV]
+https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=c42c7ab78330bb25eb8c358f00371173&txTime=691b40c4
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0a6650baa2423f167455bb89be0bcc86.png",Nepal vs Malaysia [BLV TOMIA - HD M3U8]
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1763419256-0-0-cd2da0c594f515e9575afb800791186c
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0a6650baa2423f167455bb89be0bcc86.png",Nepal vs Malaysia [BLV TOMIA - M3U8]
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1763419256-0-0-833b963389caa3106eb3af2ab049fab4
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0a6650baa2423f167455bb89be0bcc86.png",Nepal vs Malaysia [BLV TOMIA - HD FLV]
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1763419256-0-0-07a745825b9e4cfec77bb34cbfd663cf
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0a6650baa2423f167455bb89be0bcc86.png",Nepal vs Malaysia [BLV TOMIA - FLV]
+https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1763419256-0-0-bc1c02c9659a10e3794348bea051f901
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0a6650baa2423f167455bb89be0bcc86.png",Nepal vs Malaysia [BLV KINH TẾ - HD M3U8]
+https://pull.niues.live/live/stream-532999_lhd.m3u8?auth_key=1763435262-0-0-dffd14bc8145aad05ced20eaf40a4442
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0a6650baa2423f167455bb89be0bcc86.png",Nepal vs Malaysia [BLV KINH TẾ - M3U8]
+https://pull.niues.live/live/stream-532999_lsd.m3u8?auth_key=1763435262-0-0-9f8d90d6314fd53a830e861cccc1cbcb
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0a6650baa2423f167455bb89be0bcc86.png",Nepal vs Malaysia [BLV KINH TẾ - HD FLV]
+https://pull06.scstream.net/live/stream-532999_lhd.flv?auth_key=1763435262-0-0-0ab5e2cc3e5a1b3c2930789bbfb9d1a6
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0a6650baa2423f167455bb89be0bcc86.png",Nepal vs Malaysia [BLV KINH TẾ - FLV]
+https://pull06.scstream.net/live/stream-532999_lsd.flv?auth_key=1763435262-0-0-7a11e80a3d39022a626bf4ccebfd17af
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0a6650baa2423f167455bb89be0bcc86.png",Nepal vs Malaysia [BLV TOMMY - HD M3U8]
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1763419440-0-0-e642f2adffa1548fbf116f41624767e7
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0a6650baa2423f167455bb89be0bcc86.png",Nepal vs Malaysia [BLV TOMMY - M3U8]
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1763419440-0-0-0ddab4f385dcd7986d116011f520e112
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0a6650baa2423f167455bb89be0bcc86.png",Nepal vs Malaysia [BLV TOMMY - HD FLV]
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1763419440-0-0-8ea43bbd7b7fce316395ea75f1f55c7f
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0a6650baa2423f167455bb89be0bcc86.png",Nepal vs Malaysia [BLV TOMMY - FLV]
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1763419440-0-0-6c2523854aa2538e529f4da68a24164f
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0a6650baa2423f167455bb89be0bcc86.png",Nepal vs Malaysia [BLV TAP - HD M3U8]
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=e77fd18ff24f44bf16c988c3bbb67dca&txTime=691b8061
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0a6650baa2423f167455bb89be0bcc86.png",Nepal vs Malaysia [BLV TAP - M3U8]
+https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=d93b9fa1c1f5fd4ceed7b8654106d074&txTime=691b8061
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0a6650baa2423f167455bb89be0bcc86.png",Nepal vs Malaysia [BLV TAP - HD FLV]
+https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=e77fd18ff24f44bf16c988c3bbb67dca&txTime=691b8061
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0a6650baa2423f167455bb89be0bcc86.png",Nepal vs Malaysia [BLV TAP - FLV]
+https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=d93b9fa1c1f5fd4ceed7b8654106d074&txTime=691b8061
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0a6650baa2423f167455bb89be0bcc86.png",Nepal vs Malaysia [BLV MESSI - HD M3U8]
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1763332873-0-0-ee601cb94f3624c2894ba6bf5247ece4
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0a6650baa2423f167455bb89be0bcc86.png",Nepal vs Malaysia [BLV MESSI - M3U8]
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1763332873-0-0-11b6d393947b671edd7940d4bdf96dc7
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0a6650baa2423f167455bb89be0bcc86.png",Nepal vs Malaysia [BLV MESSI - HD FLV]
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1763332873-0-0-b5a44080a4c7b77d98e29d77d97448db
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0a6650baa2423f167455bb89be0bcc86.png",Nepal vs Malaysia [BLV MESSI - FLV]
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1763332873-0-0-4927d34ca2a08539e5df15019136c3e6
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0a6650baa2423f167455bb89be0bcc86.png",Nepal vs Malaysia [BLV CRIS - HD M3U8]
+https://pull.niur.live/live/stream-9912103_lhd.m3u8?txSecret=67e9bb907a08b3086393ddbd0e0d61cb&txTime=691c2920
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0a6650baa2423f167455bb89be0bcc86.png",Nepal vs Malaysia [BLV CRIS - M3U8]
+https://pull.niur.live/live/stream-9912103_lsd.m3u8?txSecret=125d8e6099cbe6f4755499cc7629ca43&txTime=691c2920
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0a6650baa2423f167455bb89be0bcc86.png",Nepal vs Malaysia [BLV CRIS - HD FLV]
+https://pull.niur.live/live/stream-9912103_lhd.flv?txSecret=67e9bb907a08b3086393ddbd0e0d61cb&txTime=691c2920
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-0a6650baa2423f167455bb89be0bcc86.png",Nepal vs Malaysia [BLV CRIS - FLV]
+https://pull.niur.live/live/stream-9912103_lsd.flv?txSecret=125d8e6099cbe6f4755499cc7629ca43&txTime=691c2920
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-51fd673608c9453adc10a7797a1646b3.png",Albania U19 vs Montenegro U19 [BLV THỎ - HD M3U8]
+https://pull.niues.live/live/stream-548260_lhd.m3u8?auth_key=1763317676-0-0-dd7b3567a848ec407acffe64fddfdadf
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-51fd673608c9453adc10a7797a1646b3.png",Albania U19 vs Montenegro U19 [BLV THỎ - M3U8]
+https://pull.niues.live/live/stream-548260_lsd.m3u8?auth_key=1763317676-0-0-322e4f54357bd857206a8809e5b702de
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-51fd673608c9453adc10a7797a1646b3.png",Albania U19 vs Montenegro U19 [BLV THỎ - HD FLV]
+https://pull06.scstream.net/live/stream-548260_lhd.flv?auth_key=1763317676-0-0-a6aeae3a6aad245374ac61878b3eb736
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-51fd673608c9453adc10a7797a1646b3.png",Albania U19 vs Montenegro U19 [BLV THỎ - FLV]
+https://pull06.scstream.net/live/stream-548260_lsd.flv?auth_key=1763317676-0-0-d86b08b83de25da85afcfcb2541f37cd
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-51fd673608c9453adc10a7797a1646b3.png",Albania U19 vs Montenegro U19 [BLV 7UP - HD M3U8]
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1763333929-0-0-4014e498d590bac6fb3735711b654696
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-51fd673608c9453adc10a7797a1646b3.png",Albania U19 vs Montenegro U19 [BLV 7UP - M3U8]
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1763333929-0-0-af840f0f384fd3209e28e3a23bbe6680
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-51fd673608c9453adc10a7797a1646b3.png",Albania U19 vs Montenegro U19 [BLV 7UP - HD FLV]
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1763333929-0-0-ada5abeb4b73e00bc81dd20b9b69d05a
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-51fd673608c9453adc10a7797a1646b3.png",Albania U19 vs Montenegro U19 [BLV 7UP - FLV]
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1763333929-0-0-c030862509ac6ceb559e396dccb681da
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-e433d13617fc41b557e94d2060203ca8.png",Mexico U17 vs Portugal U17 [BLV ĐỐM - HD M3U8]
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1763388213-0-0-9d6f9479c061ce4b07cd2bf6693aabc3
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-e433d13617fc41b557e94d2060203ca8.png",Mexico U17 vs Portugal U17 [BLV ĐỐM - M3U8]
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1763388213-0-0-18488cee8a19830646462a56ffb28bc0
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-e433d13617fc41b557e94d2060203ca8.png",Mexico U17 vs Portugal U17 [BLV ĐỐM - HD FLV]
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1763388213-0-0-d4b105b9578a054e6169179556b6169c
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-e433d13617fc41b557e94d2060203ca8.png",Mexico U17 vs Portugal U17 [BLV ĐỐM - FLV]
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1763388213-0-0-2943ace57d02d05808e7c8ee92b2717e
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-e433d13617fc41b557e94d2060203ca8.png",Mexico U17 vs Portugal U17 [RED BULL - HD M3U8]
+https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1763420276-0-0-f4ae55087be4ff6a3256b94a9e4d85ac
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-e433d13617fc41b557e94d2060203ca8.png",Mexico U17 vs Portugal U17 [RED BULL - M3U8]
+https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1763420276-0-0-628fd24e774a1b277f191e10d40342e1
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-e433d13617fc41b557e94d2060203ca8.png",Mexico U17 vs Portugal U17 [RED BULL - HD FLV]
+https://pull06.scstream.net/live/stream-547345_lhd.flv?auth_key=1763420276-0-0-b1f55ac71bf4560cd9af167f8b0f8cd6
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-e433d13617fc41b557e94d2060203ca8.png",Mexico U17 vs Portugal U17 [RED BULL - FLV]
+https://pull06.scstream.net/live/stream-547345_lsd.flv?auth_key=1763420276-0-0-3fa06e418eaa27160a2c2f93f9c565a2
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-e433d13617fc41b557e94d2060203ca8.png",Mexico U17 vs Portugal U17 [NGOẠ LONG - HD M3U8]
+https://pull.niues.live/live/stream-538979_lhd.m3u8?auth_key=1763398538-0-0-130a67df8842d2c073d8a6113673a689
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-e433d13617fc41b557e94d2060203ca8.png",Mexico U17 vs Portugal U17 [NGOẠ LONG - M3U8]
+https://pull.niues.live/live/stream-538979_lsd.m3u8?auth_key=1763398538-0-0-4a1fc67cb64241319b03e14cd9a4ac43
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-e433d13617fc41b557e94d2060203ca8.png",Mexico U17 vs Portugal U17 [NGOẠ LONG - HD FLV]
+https://pull06.scstream.net/live/stream-538979_lhd.flv?auth_key=1763398538-0-0-908662f49113337265843fa9ba755530
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-e433d13617fc41b557e94d2060203ca8.png",Mexico U17 vs Portugal U17 [NGOẠ LONG - FLV]
+https://pull06.scstream.net/live/stream-538979_lsd.flv?auth_key=1763398538-0-0-53a48ebfb5d503cd668dfb585aa9a9ee
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-e433d13617fc41b557e94d2060203ca8.png",Mexico U17 vs Portugal U17 [LÃO LÂM - HD M3U8]
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1763419278-0-0-099369c7ecc5fdcc65da8ab7526c3f1a
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-e433d13617fc41b557e94d2060203ca8.png",Mexico U17 vs Portugal U17 [LÃO LÂM - M3U8]
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1763419278-0-0-968b2de8c1ee010bccb7a52e78d4bb7f
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-e433d13617fc41b557e94d2060203ca8.png",Mexico U17 vs Portugal U17 [LÃO LÂM - HD FLV]
+https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1763419278-0-0-cbc6965fe91c7bdc3434f81af4224c18
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-e433d13617fc41b557e94d2060203ca8.png",Mexico U17 vs Portugal U17 [LÃO LÂM - FLV]
+https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1763419278-0-0-6f4475b4d3c7f123376837118a43cc69
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-1445e4e6bc76de7df29201a3ac49779b.png",Indonesia U23 vs Mali U23 [A CHÈ - HD M3U8]
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1763345691-0-0-9cdf0bd718778d666e6e1152aa44ac2f
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-1445e4e6bc76de7df29201a3ac49779b.png",Indonesia U23 vs Mali U23 [A CHÈ - M3U8]
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1763345691-0-0-f50ff5fcb537125eba1417ec44d4bb6c
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-1445e4e6bc76de7df29201a3ac49779b.png",Indonesia U23 vs Mali U23 [A CHÈ - HD FLV]
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1763345691-0-0-0ecf39d83b3151d49fd3276304cca049
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-1445e4e6bc76de7df29201a3ac49779b.png",Indonesia U23 vs Mali U23 [A CHÈ - FLV]
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1763345691-0-0-0939ac90f084367d9730f6615097aa9d
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-1445e4e6bc76de7df29201a3ac49779b.png",Indonesia U23 vs Mali U23 [BLV SHIN - HD M3U8]
+https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=2d6ef44d75f5585741c7b3a4a3dfe13d&txTime=69199a49
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-1445e4e6bc76de7df29201a3ac49779b.png",Indonesia U23 vs Mali U23 [BLV SHIN - M3U8]
+https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=c908f7e17822744b7e5a4608e8fb0f7a&txTime=69199a49
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-1445e4e6bc76de7df29201a3ac49779b.png",Indonesia U23 vs Mali U23 [BLV SHIN - HD FLV]
+https://pull.niur.live/live/stream-522086_lhd.flv?txSecret=2d6ef44d75f5585741c7b3a4a3dfe13d&txTime=69199a49
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-1445e4e6bc76de7df29201a3ac49779b.png",Indonesia U23 vs Mali U23 [BLV SHIN - FLV]
+https://pull.niur.live/live/stream-522086_lsd.flv?txSecret=c908f7e17822744b7e5a4608e8fb0f7a&txTime=69199a49
+#EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-4360b3bae60fdd9e7527c42e627b0f34.png",Akaki Kality vs Bench Maji Buna FC [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYMFh31arxj3Fu1e/playlist.m3u8
+#EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-293427d3f55ddcf4d60a5fb457ae030c.png",Parikrma FC vs Rebels FC [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYMFh2BcGcsfMgpc/playlist.m3u8
+#EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-eb79f0e683e8a173382895cf8235fd2d.png",FC Bekasi City vs Adhyaksa Farmel FC [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYLrsKUSAMM482yi/playlist.m3u8
+#EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-df6dc0e0ffdf3a45d2531f16c40f11e0.png",Iran U23 vs Bahrain U23 [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYLrnsDdBuFnuMbJ/playlist.m3u8
+#EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-6860fbe189e6bf1378fdea3d6cecef51.png",Scotland U19 vs England U19 [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvXreybhZYLsDvFWt/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-55d2d49afc3490aad9d02a9be6faa415.png",MC vs LIVERPOOL [BLV KAKA REPLAY - HLS]
 https://hls.cdnok9.com/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
 #EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-55d2d49afc3490aad9d02a9be6faa415.png",MC vs LIVERPOOL [BLV KAKA REPLAY - FLV]
@@ -119,10 +773,6 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTINF:-1 group-title="Socolive_2",09h35: [KING] Denver Nuggets vs Chicago Bulls
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",09h35: [BLV DUSTIN] Denver Nuggets vs Chicago Bulls
-http://sharing.gotdns.ch:8091/socolive.php?id=289098
 #EXTINF:-1 group-title="Socolive_2",13h30: [BLV TAP] Timor Leste vs Tajikistan
 http://sharing.gotdns.ch:8091/socolive.php?id=9912041
 #EXTINF:-1 group-title="Socolive_2",13h30: [BLV DECO] Timor Leste vs Tajikistan
