@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTVLCOPT:http-referrer=https://hoadao.tv/brazil-vs-tunisia-2351593?mode=sd
+#EXTINF:-1 group-title="Brazil vs Tunisia" referer="https://hoadao.tv/brazil-vs-tunisia-2351593?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-baeab2101497320fe9846bae6c600804.png",Brazil vs Tunisia [BLV PHÁO - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/brazil-vs-tunisia-2351593?mode=hd
+#EXTINF:-1 group-title="Brazil vs Tunisia" referer="https://hoadao.tv/brazil-vs-tunisia-2351593?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-baeab2101497320fe9846bae6c600804.png",Brazil vs Tunisia [BLV PHÁO - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/brazil-vs-tunisia-2351593?mode=flv
+#EXTINF:-1 group-title="Brazil vs Tunisia" referer="https://hoadao.tv/brazil-vs-tunisia-2351593?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-baeab2101497320fe9846bae6c600804.png",Brazil vs Tunisia [BLV PHÁO - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/brazil-vs-tunisia-2351593?mode=flv2
+#EXTINF:-1 group-title="Brazil vs Tunisia" referer="https://hoadao.tv/brazil-vs-tunisia-2351593?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-baeab2101497320fe9846bae6c600804.png",Brazil vs Tunisia [BLV PHÁO - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/belgium-vs-liechtenstein-2351595?mode=sd
 #EXTINF:-1 group-title="Belgium vs Liechtenstein" referer="https://hoadao.tv/belgium-vs-liechtenstein-2351595?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-7fd01c9b59d91545a49872dfac9fe7c9.png",Belgium vs Liechtenstein [BLV CỤ RÙA - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
@@ -23,27 +35,6 @@ https://pjoo0925.edgemaxcdn.org/live/blv_hattieu.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/wales-vs-north-macedonia-2351604?mode=flv2
 #EXTINF:-1 group-title="Wales vs North Macedonia" referer="https://hoadao.tv/wales-vs-north-macedonia-2351604?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-2b347b85c7213f8fe02a303e42577431.png",Wales vs North Macedonia [Thí Sinh - FLV 2]
 https://pjoo0925.edgemaxcdn.org/live/blv_hattieu.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/san-marino-u21-vs-cyprus-u21-2351575?mode=ndsd
-#EXTINF:-1 group-title="San Marino U21 vs Cyprus U21" referer="https://hoadao.tv/san-marino-u21-vs-cyprus-u21-2351575?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-5b03cfd88e5854d16efda98b209773fc.png",San Marino U21 vs Cyprus U21 [No BLV - SD (ND)]
-https://live.alilicloud.com/live/f9699cd18d7c518b5fe58eaf1772305e/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/catalonia-vs-palestine-2352440?mode=ndsd
-#EXTINF:-1 group-title="Catalonia vs Palestine" referer="https://hoadao.tv/catalonia-vs-palestine-2352440?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-d5b1ae35682a2e8a784b294e57439b0b.png",Catalonia vs Palestine [No BLV - SD (ND)]
-https://live.alilicloud.com/live/4737f53ecb7fbc38e74b484614888208/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/scotland-u21-vs-bulgaria-u21-2351577?mode=ndsd
-#EXTINF:-1 group-title="Scotland U21 vs Bulgaria U21" referer="https://hoadao.tv/scotland-u21-vs-bulgaria-u21-2351577?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-74ec4e1983de42a355346d9339bdfbe8.png",Scotland U21 vs Bulgaria U21 [No BLV - SD (ND)]
-https://live.alilicloud.com/live/ee0de7177c118e2b85dd7be58b4366b1/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/montenegro-u21-vs-italy-u21-2351578?mode=ndsd
-#EXTINF:-1 group-title="Montenegro U21 vs Italy U21" referer="https://hoadao.tv/montenegro-u21-vs-italy-u21-2351578?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-ceab63b85fb1b7baf8907bc7f8b0ec1c.png",Montenegro U21 vs Italy U21 [No BLV - SD (ND)]
-https://live.alilicloud.com/live/5b0b8b8ef3a83e6031ad5ded0b89329f/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/gibraltar-u21-vs-azerbaijan-u21-2351580?mode=ndsd
-#EXTINF:-1 group-title="Gibraltar U21 vs Azerbaijan U21" referer="https://hoadao.tv/gibraltar-u21-vs-azerbaijan-u21-2351580?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-57bd14542ec1188daa943aac6aebcd51.png",Gibraltar U21 vs Azerbaijan U21 [No BLV - SD (ND)]
-https://live.alilicloud.com/live/04409f65aa085f022ecfa305ac2d1666/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/malta-u21-vs-latvia-u21-2351581?mode=ndsd
-#EXTINF:-1 group-title="Malta U21 vs Latvia U21" referer="https://hoadao.tv/malta-u21-vs-latvia-u21-2351581?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-e6697f044929882b96e57fd1c4f72a5b.png",Malta U21 vs Latvia U21 [No BLV - SD (ND)]
-https://live.alilicloud.com/live/9ebee5811f785e7650c2cf15389f5a76/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/netherlands-u19-vs-republic-of-ireland-u19-2351582?mode=ndsd
-#EXTINF:-1 group-title="Netherlands U19 vs Republic of Ireland U19" referer="https://hoadao.tv/netherlands-u19-vs-republic-of-ireland-u19-2351582?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-947f22bf61f52252d3a39b6e89b7dc25.png",Netherlands U19 vs Republic of Ireland U19 [No BLV - SD (ND)]
-https://live.alilicloud.com/live/949bf4865e41644078f549328fe4fa09/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/jordan-vs-mali-2351351?mode=ndsd
 #EXTINF:-1 group-title="Jordan vs Mali" referer="https://hoadao.tv/jordan-vs-mali-2351351?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-e75e4862802348cb56e8b5dbb429382c.png",Jordan vs Mali [No BLV - SD (ND)]
 https://live.alilicloud.com/live/758ccff94bcd7ee1600208abe74fd4c7/playlist.m3u8
@@ -56,3 +47,6 @@ https://live.alilicloud.com/live/b618fe71db6dea3eda3bef4587bf9686/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/luxembourg-u21-vs-switzerland-u21-2351586?mode=ndsd
 #EXTINF:-1 group-title="Luxembourg U21 vs Switzerland U21" referer="https://hoadao.tv/luxembourg-u21-vs-switzerland-u21-2351586?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-cb9a7f1aa92586c7a87391cfa0bd7e41.png",Luxembourg U21 vs Switzerland U21 [No BLV - SD (ND)]
 https://live.alilicloud.com/live/bccb71786df999c6cf9c1c6f2b547bc9/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/hungary-u21-vs-croatia-u21-2351588?mode=ndsd
+#EXTINF:-1 group-title="Hungary U21 vs Croatia U21" referer="https://hoadao.tv/hungary-u21-vs-croatia-u21-2351588?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-ea5070fb6ba528cdad12185dfce4778d.png",Hungary U21 vs Croatia U21 [No BLV - SD (ND)]
+https://live.alilicloud.com/live/53c8e05e75332c57bcacab14b6242b26/playlist.m3u8
