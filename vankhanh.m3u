@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="Germany vs Slovakia" tvg-logo="https://hxcv.site/images/cache/match-5dda32a6dc613f097cc95514104f5701.png",Germany vs Slovakia [BLV VĂN CHUN - HLS]
-https://hls.cdnvankhanh.com/live/TO3C/index.m3u8?expire=1875681300&sign=015129bcbd63368bf36946e12b5950c6
 #EXTINF:-1 group-title="Germany vs Slovakia" tvg-logo="https://hxcv.site/images/cache/match-5dda32a6dc613f097cc95514104f5701.png",Germany vs Slovakia [BLV VĂN VỞ - HLS]
 https://hls.cdnvankhanh.com/live/LIVEIDOL/index.m3u8?expire=1892268480&sign=ad89f5d0e54a928eedab933028b7035d
 #EXTINF:-1 group-title="Germany vs Slovakia" tvg-logo="https://hxcv.site/images/cache/match-5dda32a6dc613f097cc95514104f5701.png",Germany vs Slovakia [BLV VĂN VỞ - FLV]
 https://flv.cdnvankhanh.com/live/LIVEIDOL.flv?expire=1892268480&sign=ad89f5d0e54a928eedab933028b7035d
+#EXTINF:-1 group-title="Germany vs Slovakia" tvg-logo="https://hxcv.site/images/cache/match-5dda32a6dc613f097cc95514104f5701.png",Germany vs Slovakia [BLV VĂN CHUN - HLS]
+https://hls.cdnvankhanh.com/live/TO3C/index.m3u8?expire=1875681300&sign=015129bcbd63368bf36946e12b5950c6
 #EXTINF:-1 group-title="Celta Vigo vs FC Barcelona" tvg-logo="https://hxcv.site/images/cache/match-14c85275bbbe9fe042a7202e4333d0d2.png",Celta Vigo vs FC Barcelona [VĂN KHÁNH ESPORT - HLS]
 https://hls.cdnvankhanh.com/live/luckytest/index.m3u8?expire=1883742060&sign=ed258748d4d2478c31073b1f8ac0af67
 #EXTINF:-1 group-title="Celta Vigo vs FC Barcelona" tvg-logo="https://hxcv.site/images/cache/match-14c85275bbbe9fe042a7202e4333d0d2.png",Celta Vigo vs FC Barcelona [VĂN KHÁNH ESPORT - FLV]
@@ -13,9 +13,65 @@ https://flv.cdnvankhanh.com/live/luckytest.flv?expire=1883742060&sign=ed258748d4
 https://auto.cdnvankhanh.com/live/sd-6MvYMFh2BcGcsfMgpc/playlist.m3u8
 #EXTINF:-1 group-title="FC Bekasi City vs Adhyaksa Farmel FC" tvg-logo="https://hxcv.site/images/cache/match-eb79f0e683e8a173382895cf8235fd2d.png",FC Bekasi City vs Adhyaksa Farmel FC [NHÀ ĐÀI - HLS]
 https://auto.cdnvankhanh.com/live/sd-6MvYLrsKUSAMM482yi/playlist.m3u8
-#EXTINF:-1 group-title="Iran U23 vs Bahrain U23" tvg-logo="https://hxcv.site/images/cache/match-df6dc0e0ffdf3a45d2531f16c40f11e0.png",Iran U23 vs Bahrain U23 [NHÀ ĐÀI - HLS]
-https://auto.cdnvankhanh.com/live/sd-6MvYLrnsDdBuFnuMbJ/playlist.m3u8
 #EXTINF:-1 group-title="Banik Ostrava U19 vs Viktoria Plzen U19" tvg-logo="https://hxcv.site/images/cache/match-d269f38081e95ccbebb6a88bef10d01a.png",Banik Ostrava U19 vs Viktoria Plzen U19 [NHÀ ĐÀI - HLS]
 https://auto.cdnvankhanh.com/live/sd-6MuSsKYt3ZqSqgM8Lk/playlist.m3u8
+#EXTINF:-1 group-title="Iran U23 vs Bahrain U23" tvg-logo="https://hxcv.site/images/cache/match-df6dc0e0ffdf3a45d2531f16c40f11e0.png",Iran U23 vs Bahrain U23 [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYLrnsDdBuFnuMbJ/playlist.m3u8
 #EXTINF:-1 group-title="Scotland U19 vs England U19" tvg-logo="https://hxcv.site/images/cache/match-6860fbe189e6bf1378fdea3d6cecef51.png",Scotland U19 vs England U19 [NHÀ ĐÀI - HLS]
 https://auto.cdnvankhanh.com/live/sd-6MvXreybhZYLsDvFWt/playlist.m3u8
+#EXTINF:-1 group-title="Wales U19 vs Germany U19" tvg-logo="https://hxcv.site/images/cache/match-d588aa0fff3784c7bf294ede3ea651a4.png",Wales U19 vs Germany U19 [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYLrnsDjnLsEP73z/playlist.m3u8
+#EXTINF:-1 group-title="Armenia U21 vs Sweden U21" tvg-logo="https://hxcv.site/images/cache/match-7b60919d93b620ccec7d2daac133d7d0.png",Armenia U21 vs Sweden U21 [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuSNSioy8MuJK9v4c/playlist.m3u8
+#EXTINF:-1 group-title="China U22 vs Uzbekistan U22" tvg-logo="https://hxcv.site/images/cache/match-00b735c2ad8f9c89b3f2e887b4520eb6.png",China U22 vs Uzbekistan U22 [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYbabSDsUDAdUcbE/playlist.m3u8
+#EXTINF:-1 group-title="MSK Puchov vs Tatran Presov" tvg-logo="https://hxcv.site/images/cache/match-291ee5e6f27553500f90a5f7524fad27.png",MSK Puchov vs Tatran Presov [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYbU3yFQuAMJbHuW/playlist.m3u8
+#EXTINF:-1 group-title="Flamurtari vs Tomori berat" tvg-logo="https://hxcv.site/images/cache/match-93bd0889d716e4981475049dd8b2d5c9.png",Flamurtari vs Tomori berat [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYM2abSgyK42FNS8/playlist.m3u8
+#EXTINF:-1 group-title="Mexico U17 vs Portugal U17" tvg-logo="https://hxcv.site/images/cache/match-3ac6e3d436735125aae2c2e592f569e0.png",Mexico U17 vs Portugal U17 [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYMFbrSxsgLHU3Pi/playlist.m3u8
+#EXTINF:-1 group-title="CRB Adrar vs WA Tlemcen" tvg-logo="https://hxcv.site/images/cache/match-7299fa8c578aefe3a3b3d1f35ad5158a.png",CRB Adrar vs WA Tlemcen [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYLrodNia6VVHy4x/playlist.m3u8
+#EXTINF:-1 group-title="RC Kouba vs NA Hussein Dey" tvg-logo="https://hxcv.site/images/cache/match-a1e0ddc3581d3f7f42e337e35aa0ab28.png",RC Kouba vs NA Hussein Dey [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYLrodNsN1yQbdgY/playlist.m3u8
+#EXTINF:-1 group-title="GC Mascara vs ASM Oran" tvg-logo="https://hxcv.site/images/cache/match-9bf3a9ddd3f1e04c96dc749e857eabdd.png",GC Mascara vs ASM Oran [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYLrodNny4ESwoNk/playlist.m3u8
+#EXTINF:-1 group-title="MC Saida vs JSM Tiaret" tvg-logo="https://hxcv.site/images/cache/match-8b408831f07ae37953f4fe94dae85781.png",MC Saida vs JSM Tiaret [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYLrodNqAY6vmiXe/playlist.m3u8
+#EXTINF:-1 group-title="JS Jijel vs Beni Oulbane" tvg-logo="https://hxcv.site/images/cache/match-eb887b8cd749319a3f4762abce459837.png",JS Jijel vs Beni Oulbane [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYLrodYa32nE6Ex4/playlist.m3u8
+#EXTINF:-1 group-title="USM EL HARRACH vs RC Arba" tvg-logo="https://hxcv.site/images/cache/match-cb783df31944a6db524dff515af5145c.png",USM EL HARRACH vs RC Arba [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYLrodNkmaMy7tDr/playlist.m3u8
+#EXTINF:-1 group-title="WA Mostaganem vs JS Tixeraine" tvg-logo="https://hxcv.site/images/cache/match-57a11d55a2b74fc1b272d842c6d62a9f.png",WA Mostaganem vs JS Tixeraine [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYLrodNJPovDCtP6/playlist.m3u8
+#EXTINF:-1 group-title="MO Bejaia vs NRB Teleghma" tvg-logo="https://hxcv.site/images/cache/match-75f5a0c2318084f843ae337580fd1e43.png",MO Bejaia vs NRB Teleghma [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYLrodNeB8kXe8mA/playlist.m3u8
+#EXTINF:-1 group-title="CR Beni Thour vs US Chaouia" tvg-logo="https://hxcv.site/images/cache/match-ca7f1cef75d36eec9990fb6e7c931ad2.png",CR Beni Thour vs US Chaouia [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYLrodNbyet3pDcG/playlist.m3u8
+#EXTINF:-1 group-title="US Bechar Djedid vs ESM Kolea" tvg-logo="https://hxcv.site/images/cache/match-6ef4978f6f63c1e4e1602cc1614d3c87.png",US Bechar Djedid vs ESM Kolea [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYLrodNgNcd1U3v4/playlist.m3u8
+#EXTINF:-1 group-title="CRB Temouchent vs JS El Biar" tvg-logo="https://hxcv.site/images/cache/match-11285c93ed6afc34d75630c2e46cbfb5.png",CRB Temouchent vs JS El Biar [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYLrodNLbHnh2oXz/playlist.m3u8
+#EXTINF:-1 group-title="MO Constantine vs JS Bordj Menaiel" tvg-logo="https://hxcv.site/images/cache/match-6d8fbf98397e9e90c190372cca4e43aa.png",MO Constantine vs JS Bordj Menaiel [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYLrodYXqYukGKoA/playlist.m3u8
+#EXTINF:-1 group-title="Saudi Arabia U23 vs Qatar U23" tvg-logo="https://hxcv.site/images/cache/match-db8f66ba70bf4a0d5dfa786d24fd2bd6.png",Saudi Arabia U23 vs Qatar U23 [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYLrodstz6euRdBJ/playlist.m3u8
+#EXTINF:-1 group-title="Indonesia U22 vs Mali U23" tvg-logo="https://hxcv.site/images/cache/match-8e437d595fe607ee98ff2556d9216cb6.png",Indonesia U22 vs Mali U23 [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYLrq6gHEES9CFCx/playlist.m3u8
+#EXTINF:-1 group-title="Kyrgyzstan U23 vs Russia U21" tvg-logo="https://hxcv.site/images/cache/match-d1622507f8ff7244680e274477b3d65f.png",Kyrgyzstan U23 vs Russia U21 [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYLrodsnPf3Twsic/playlist.m3u8
+#EXTINF:-1 group-title="FAR Rabat (W) vs TP Mazembe (W)" tvg-logo="https://hxcv.site/images/cache/match-0f390c0beb0abd475d5677fcc4b489b5.png",FAR Rabat (W) vs TP Mazembe (W) [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYMFh31xqmRqX4Yc/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh vs India" tvg-logo="https://hxcv.site/images/cache/match-27e0fd88ded353365398d299c305e480.png",Bangladesh vs India [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MtMP7J69YaS5PZw5e/playlist.m3u8
+#EXTINF:-1 group-title="Iceland U19 vs Romania U19" tvg-logo="https://hxcv.site/images/cache/match-b513a3257a0ee8799371b9fe65b0e52d.png",Iceland U19 vs Romania U19 [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvXreycYDhLPEgxU4/playlist.m3u8
+#EXTINF:-1 group-title="Andorra U19 vs Finland U19" tvg-logo="https://hxcv.site/images/cache/match-9bbe97227087561c06dd1684c9359a57.png",Andorra U19 vs Finland U19 [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvXreycXj864zx3UQ/playlist.m3u8
+#EXTINF:-1 group-title="Lesotho vs Malawi" tvg-logo="https://hxcv.site/images/cache/match-a385feaca2312a62993a7fd03d4da0d1.png",Lesotho vs Malawi [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYLyHPk3x14xG4pC/playlist.m3u8
+#EXTINF:-1 group-title="Greece U21 vs Northern Ireland U21" tvg-logo="https://hxcv.site/images/cache/match-b6b3da43672f4a40b0958c3d3039b601.png",Greece U21 vs Northern Ireland U21 [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuSNSipJE85x7XoNU/playlist.m3u8
+#EXTINF:-1 group-title="Belarus U21 vs Denmark U21" tvg-logo="https://hxcv.site/images/cache/match-e435e65e9fb77de624130cf853fe9fe1.png",Belarus U21 vs Denmark U21 [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuSNSjYxW2QEgDrS8/playlist.m3u8
