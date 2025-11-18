@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 group-title="Chile vs Peru" tvg-logo="https://hxcv.site/images/cache/match-ae4ad9d10bcb69618719952f276a0b55.png",Chile vs Peru [BLV YẾN THANH - HLS]
+ https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="Chile vs Peru" tvg-logo="https://hxcv.site/images/cache/match-ae4ad9d10bcb69618719952f276a0b55.png",Chile vs Peru [BLV YẾN THANH - FLV]
+https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="Czech Republic U21 vs Portugal U21" tvg-logo="https://hxcv.site/images/cache/match-1ec98a7e11d87a814f2b663b1418f7d8.png",Czech Republic U21 vs Portugal U21 [BLV LÝ ỨNG - HLS]
+https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 group-title="Czech Republic U21 vs Portugal U21" tvg-logo="https://hxcv.site/images/cache/match-1ec98a7e11d87a814f2b663b1418f7d8.png",Czech Republic U21 vs Portugal U21 [BLV LÝ ỨNG - FLV]
+https://flv.cdnok9.com/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 group-title="Czech Republic U21 vs Portugal U21" tvg-logo="https://hxcv.site/images/cache/match-1ec98a7e11d87a814f2b663b1418f7d8.png",Czech Republic U21 vs Portugal U21 [BLV KENCHU - HLS]
+https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
+#EXTINF:-1 group-title="Czech Republic U21 vs Portugal U21" tvg-logo="https://hxcv.site/images/cache/match-1ec98a7e11d87a814f2b663b1418f7d8.png",Czech Republic U21 vs Portugal U21 [BLV KENCHU - FLV]
+https://flv.cdnok9.com/live/KENCHU.flv?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
 #EXTINF:-1 group-title="Morocco U17 vs Mali U17" tvg-logo="https://hxcv.site/images/cache/match-1c22f18f2f744a3783c5a42cc667cd63.png",Morocco U17 vs Mali U17 [BLV LÝ QUỲ - HLS]
 https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTINF:-1 group-title="Morocco U17 vs Mali U17" tvg-logo="https://hxcv.site/images/cache/match-1c22f18f2f744a3783c5a42cc667cd63.png",Morocco U17 vs Mali U17 [BLV LÝ QUỲ - FLV]
@@ -7,6 +19,10 @@ https://flv.cdnok9.com/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207
 https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
 #EXTINF:-1 group-title="Morocco U17 vs Mali U17" tvg-logo="https://hxcv.site/images/cache/match-1c22f18f2f744a3783c5a42cc667cd63.png",Morocco U17 vs Mali U17 [BLV URA - FLV]
 https://flv.cdnok9.com/live/URA.flv?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:-1 group-title="Lithuania U21 vs Turkey U21" tvg-logo="https://hxcv.site/images/cache/match-ce4f5922aa2f3f400acc61456133331a.png",Lithuania U21 vs Turkey U21 [BLV THỜI THIÊN - HLS]
+https://hls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
+#EXTINF:-1 group-title="Lithuania U21 vs Turkey U21" tvg-logo="https://hxcv.site/images/cache/match-ce4f5922aa2f3f400acc61456133331a.png",Lithuania U21 vs Turkey U21 [BLV THỜI THIÊN - FLV]
+https://flv.cdnok9.com/live/THOITHIEN.flv?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
 #EXTINF:-1 group-title="Romania U21 vs Spain U21" tvg-logo="https://hxcv.site/images/cache/match-e3d5384460af82dd889778fa68edb288.png",Romania U21 vs Spain U21 [BLV TRƯƠNG THANH - HLS]
 https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
 #EXTINF:-1 group-title="Romania U21 vs Spain U21" tvg-logo="https://hxcv.site/images/cache/match-e3d5384460af82dd889778fa68edb288.png",Romania U21 vs Spain U21 [BLV TRƯƠNG THANH - FLV]
@@ -15,34 +31,10 @@ https://flv.cdnok9.com/live/TRUONGTHANH.flv?expire=1788427256&sign=e2fd813cd4d5e
  https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 #EXTINF:-1 group-title="Romania U21 vs Spain U21" tvg-logo="https://hxcv.site/images/cache/match-e3d5384460af82dd889778fa68edb288.png",Romania U21 vs Spain U21 [BLV QUAN VŨ - FLV]
 https://flv.cdnok9.com/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
-#EXTINF:-1 group-title="Lithuania U21 vs Turkey U21" tvg-logo="https://hxcv.site/images/cache/match-ce4f5922aa2f3f400acc61456133331a.png",Lithuania U21 vs Turkey U21 [BLV THỜI THIÊN - HLS]
-https://hls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
-#EXTINF:-1 group-title="Lithuania U21 vs Turkey U21" tvg-logo="https://hxcv.site/images/cache/match-ce4f5922aa2f3f400acc61456133331a.png",Lithuania U21 vs Turkey U21 [BLV THỜI THIÊN - FLV]
-https://flv.cdnok9.com/live/THOITHIEN.flv?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
-#EXTINF:-1 group-title="Georgia U21 vs Germany U21" tvg-logo="https://hxcv.site/images/cache/match-07b5f6b0d238bed5f65a7afa424c6dc6.png",Georgia U21 vs Germany U21 [BLV NGŨ CA - HLS]
-https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 group-title="Georgia U21 vs Germany U21" tvg-logo="https://hxcv.site/images/cache/match-07b5f6b0d238bed5f65a7afa424c6dc6.png",Georgia U21 vs Germany U21 [BLV NGŨ CA - FLV]
-https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 group-title="North Korea U17 vs Japan U17" tvg-logo="https://hxcv.site/images/cache/match-b41db110279d05854159190f18bb4bcd.png",North Korea U17 vs Japan U17 [BLV LƯU BỊ - HLS]
-https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:-1 group-title="North Korea U17 vs Japan U17" tvg-logo="https://hxcv.site/images/cache/match-b41db110279d05854159190f18bb4bcd.png",North Korea U17 vs Japan U17 [BLV LƯU BỊ - FLV]
-https://flv.cdnok9.com/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:-1 group-title="North Korea U17 vs Japan U17" tvg-logo="https://hxcv.site/images/cache/match-b41db110279d05854159190f18bb4bcd.png",North Korea U17 vs Japan U17 [BLV PHONG VÂN - HLS]
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTINF:-1 group-title="North Korea U17 vs Japan U17" tvg-logo="https://hxcv.site/images/cache/match-b41db110279d05854159190f18bb4bcd.png",North Korea U17 vs Japan U17 [BLV PHONG VÂN - FLV]
-https://flv.cdnok9.com/live/PHONGVAN.flv?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTINF:-1 group-title="North Korea U17 vs Japan U17" tvg-logo="https://hxcv.site/images/cache/match-b41db110279d05854159190f18bb4bcd.png",North Korea U17 vs Japan U17 [BLV TRIỆU TỬ LONG - HLS]
-https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:-1 group-title="North Korea U17 vs Japan U17" tvg-logo="https://hxcv.site/images/cache/match-b41db110279d05854159190f18bb4bcd.png",North Korea U17 vs Japan U17 [BLV TRIỆU TỬ LONG - FLV]
-https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:-1 group-title="Austria U17 vs England U17" tvg-logo="https://hxcv.site/images/cache/match-15974f29768e27aa4ef6d2df53a9044f.png",Austria U17 vs England U17 [BLV HOA VINH - HLS]
-https://hls.cdnok9.com/live/LOELOE6380K/index.m3u8?expire=1788427256&sign=86b4dafe54d1b6da2bffad6653671edb
-#EXTINF:-1 group-title="Austria U17 vs England U17" tvg-logo="https://hxcv.site/images/cache/match-15974f29768e27aa4ef6d2df53a9044f.png",Austria U17 vs England U17 [BLV HOA VINH - FLV]
-https://flv.cdnok9.com/live/LOELOE6380K.flv?expire=1788427256&sign=86b4dafe54d1b6da2bffad6653671edb
-#EXTINF:-1 group-title="Austria U17 vs England U17" tvg-logo="https://hxcv.site/images/cache/match-15974f29768e27aa4ef6d2df53a9044f.png",Austria U17 vs England U17 [BLV DƯƠNG QUÁ - HLS]
-https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
-#EXTINF:-1 group-title="Austria U17 vs England U17" tvg-logo="https://hxcv.site/images/cache/match-15974f29768e27aa4ef6d2df53a9044f.png",Austria U17 vs England U17 [BLV DƯƠNG QUÁ - FLV]
-https://flv.cdnok9.com/live/DUONGQUA.flv?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:-1 group-title="Slovakia U21 vs England U21" tvg-logo="https://hxcv.site/images/cache/match-72cf65d387e036395d9c013858a99362.png",Slovakia U21 vs England U21 [BLV ODIN - HLS]
+https://hls.cdnok9.com/live/ODIN/index.m3u8?expire=1788427256&sign=dbabf306532cc0f9b44f028e60fcd7e5
+#EXTINF:-1 group-title="Slovakia U21 vs England U21" tvg-logo="https://hxcv.site/images/cache/match-72cf65d387e036395d9c013858a99362.png",Slovakia U21 vs England U21 [BLV ODIN - FLV]
+https://flv.cdnok9.com/live/ODIN.flv?expire=1788427256&sign=dbabf306532cc0f9b44f028e60fcd7e5
 #EXTINF:-1 group-title="Uzbekistan vs Iran" tvg-logo="https://hxcv.site/images/cache/match-10db0de191309093cbbffacf4b86d70e.png",Uzbekistan vs Iran [BLV LỮ BỐ - HLS]
 https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
 #EXTINF:-1 group-title="Uzbekistan vs Iran" tvg-logo="https://hxcv.site/images/cache/match-10db0de191309093cbbffacf4b86d70e.png",Uzbekistan vs Iran [BLV LỮ BỐ - FLV]
@@ -51,14 +43,6 @@ https://flv.cdnok9.com/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc4
 https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 #EXTINF:-1 group-title="Uzbekistan vs Iran" tvg-logo="https://hxcv.site/images/cache/match-10db0de191309093cbbffacf4b86d70e.png",Uzbekistan vs Iran [BLV KAKA - FLV]
 https://flv.cdnok9.com/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTINF:-1 group-title="Saudi Arabia vs Algeria" tvg-logo="https://hxcv.site/images/cache/match-0557e90bae8398f781fe001d6c2985b7.png",Saudi Arabia vs Algeria [BLV MÃ LÂN - HLS]
-https://hls.cdnok9.com/live/MALAN/index.m3u8?expire=1788427256&sign=2c2690c1b536f3d099b63f3ff8165385
-#EXTINF:-1 group-title="Saudi Arabia vs Algeria" tvg-logo="https://hxcv.site/images/cache/match-0557e90bae8398f781fe001d6c2985b7.png",Saudi Arabia vs Algeria [BLV MÃ LÂN - FLV]
-https://flv.cdnok9.com/live/MALAN.flv?expire=1788427256&sign=2c2690c1b536f3d099b63f3ff8165385
-#EXTINF:-1 group-title="Saudi Arabia vs Algeria" tvg-logo="https://hxcv.site/images/cache/match-0557e90bae8398f781fe001d6c2985b7.png",Saudi Arabia vs Algeria [BLV VƯƠNG LUÂN - HLS]
-https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
-#EXTINF:-1 group-title="Saudi Arabia vs Algeria" tvg-logo="https://hxcv.site/images/cache/match-0557e90bae8398f781fe001d6c2985b7.png",Saudi Arabia vs Algeria [BLV VƯƠNG LUÂN - FLV]
-https://flv.cdnok9.com/live/VUONGLUAN.flv?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
 #EXTINF:-1 group-title="Saudi Arabia vs Algeria" tvg-logo="https://hxcv.site/images/cache/match-0557e90bae8398f781fe001d6c2985b7.png",Saudi Arabia vs Algeria [BLV LA THÀNH - HLS]
 https://hls.cdnok9.com/live/LATHANH/index.m3u8?expire=1788427256&sign=7b02684cf8b57cee675a2501454277cf
 #EXTINF:-1 group-title="Saudi Arabia vs Algeria" tvg-logo="https://hxcv.site/images/cache/match-0557e90bae8398f781fe001d6c2985b7.png",Saudi Arabia vs Algeria [BLV LA THÀNH - FLV]
@@ -67,74 +51,86 @@ https://flv.cdnok9.com/live/LATHANH.flv?expire=1788427256&sign=7b02684cf8b57cee6
 https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 #EXTINF:-1 group-title="Saudi Arabia vs Algeria" tvg-logo="https://hxcv.site/images/cache/match-0557e90bae8398f781fe001d6c2985b7.png",Saudi Arabia vs Algeria [BLV MÃ SIÊU - FLV]
 https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:-1 group-title="Iraq vs United Arab Emirates" tvg-logo="https://hxcv.site/images/cache/match-9f410ddbc168ca63a46235944859188b.png",Iraq vs United Arab Emirates [BLV ZORO - HLS]
-https://hls.cdnok9.com/live/ZORO/index.m3u8?expire=1788427256&sign=8e04682553e334be697e3ef428fa6031
-#EXTINF:-1 group-title="Iraq vs United Arab Emirates" tvg-logo="https://hxcv.site/images/cache/match-9f410ddbc168ca63a46235944859188b.png",Iraq vs United Arab Emirates [BLV ZORO - FLV]
-https://flv.cdnok9.com/live/ZORO.flv?expire=1788427256&sign=8e04682553e334be697e3ef428fa6031
-#EXTINF:-1 group-title="Iraq vs United Arab Emirates" tvg-logo="https://hxcv.site/images/cache/match-9f410ddbc168ca63a46235944859188b.png",Iraq vs United Arab Emirates [BLV KHỔNG MINH - HLS]
-https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:-1 group-title="Iraq vs United Arab Emirates" tvg-logo="https://hxcv.site/images/cache/match-9f410ddbc168ca63a46235944859188b.png",Iraq vs United Arab Emirates [BLV KHỔNG MINH - FLV]
-https://flv.cdnok9.com/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:-1 group-title="Iraq vs United Arab Emirates" tvg-logo="https://hxcv.site/images/cache/match-9f410ddbc168ca63a46235944859188b.png",Iraq vs United Arab Emirates [BLV PEP - HLS]
-https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
-#EXTINF:-1 group-title="Iraq vs United Arab Emirates" tvg-logo="https://hxcv.site/images/cache/match-9f410ddbc168ca63a46235944859188b.png",Iraq vs United Arab Emirates [BLV PEP - FLV]
-https://flv.cdnok9.com/live/PEP.flv?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
-#EXTINF:-1 group-title="Iraq vs United Arab Emirates" tvg-logo="https://hxcv.site/images/cache/match-9f410ddbc168ca63a46235944859188b.png",Iraq vs United Arab Emirates [BLV TÔN LẬP - HLS]
-https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:-1 group-title="Iraq vs United Arab Emirates" tvg-logo="https://hxcv.site/images/cache/match-9f410ddbc168ca63a46235944859188b.png",Iraq vs United Arab Emirates [BLV TÔN LẬP - FLV]
-https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:-1 group-title="Iraq vs United Arab Emirates" tvg-logo="https://hxcv.site/images/cache/match-9f410ddbc168ca63a46235944859188b.png",Iraq vs United Arab Emirates [BLV NHỊ KA - HLS]
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTINF:-1 group-title="Iraq vs United Arab Emirates" tvg-logo="https://hxcv.site/images/cache/match-9f410ddbc168ca63a46235944859188b.png",Iraq vs United Arab Emirates [BLV NHỊ KA - FLV]
-https://flv.cdnok9.com/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:-1 group-title="Saudi Arabia vs Algeria" tvg-logo="https://hxcv.site/images/cache/match-0557e90bae8398f781fe001d6c2985b7.png",Saudi Arabia vs Algeria [BLV VƯƠNG LUÂN - HLS]
+https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
+#EXTINF:-1 group-title="Saudi Arabia vs Algeria" tvg-logo="https://hxcv.site/images/cache/match-0557e90bae8398f781fe001d6c2985b7.png",Saudi Arabia vs Algeria [BLV VƯƠNG LUÂN - FLV]
+https://flv.cdnok9.com/live/VUONGLUAN.flv?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
+#EXTINF:-1 group-title="Saudi Arabia vs Algeria" tvg-logo="https://hxcv.site/images/cache/match-0557e90bae8398f781fe001d6c2985b7.png",Saudi Arabia vs Algeria [BLV MÃ LÂN - HLS]
+https://hls.cdnok9.com/live/MALAN/index.m3u8?expire=1788427256&sign=2c2690c1b536f3d099b63f3ff8165385
+#EXTINF:-1 group-title="Saudi Arabia vs Algeria" tvg-logo="https://hxcv.site/images/cache/match-0557e90bae8398f781fe001d6c2985b7.png",Saudi Arabia vs Algeria [BLV MÃ LÂN - FLV]
+https://flv.cdnok9.com/live/MALAN.flv?expire=1788427256&sign=2c2690c1b536f3d099b63f3ff8165385
 #EXTINF:-1 group-title="Iraq vs United Arab Emirates" tvg-logo="https://hxcv.site/images/cache/match-9f410ddbc168ca63a46235944859188b.png",Iraq vs United Arab Emirates [BLV VÕ TÒNG - HLS]
  https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:-1 group-title="Iraq vs United Arab Emirates" tvg-logo="https://hxcv.site/images/cache/match-9f410ddbc168ca63a46235944859188b.png",Iraq vs United Arab Emirates [BLV VÕ TÒNG - FLV]
  https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 group-title="Czech Republic U21 vs Portugal U21" tvg-logo="https://hxcv.site/images/cache/match-1ec98a7e11d87a814f2b663b1418f7d8.png",Czech Republic U21 vs Portugal U21 [BLV KENCHU - HLS]
-https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
-#EXTINF:-1 group-title="Czech Republic U21 vs Portugal U21" tvg-logo="https://hxcv.site/images/cache/match-1ec98a7e11d87a814f2b663b1418f7d8.png",Czech Republic U21 vs Portugal U21 [BLV KENCHU - FLV]
-https://flv.cdnok9.com/live/KENCHU.flv?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
-#EXTINF:-1 group-title="Czech Republic U21 vs Portugal U21" tvg-logo="https://hxcv.site/images/cache/match-1ec98a7e11d87a814f2b663b1418f7d8.png",Czech Republic U21 vs Portugal U21 [BLV LÝ ỨNG - HLS]
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:-1 group-title="Czech Republic U21 vs Portugal U21" tvg-logo="https://hxcv.site/images/cache/match-1ec98a7e11d87a814f2b663b1418f7d8.png",Czech Republic U21 vs Portugal U21 [BLV LÝ ỨNG - FLV]
-https://flv.cdnok9.com/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:-1 group-title="Chile vs Peru" tvg-logo="https://hxcv.site/images/cache/match-ae4ad9d10bcb69618719952f276a0b55.png",Chile vs Peru [BLV YẾN THANH - HLS]
- https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:-1 group-title="Chile vs Peru" tvg-logo="https://hxcv.site/images/cache/match-ae4ad9d10bcb69618719952f276a0b55.png",Chile vs Peru [BLV YẾN THANH - FLV]
-https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:-1 group-title="Slovakia U21 vs England U21" tvg-logo="https://hxcv.site/images/cache/match-72cf65d387e036395d9c013858a99362.png",Slovakia U21 vs England U21 [BLV ODIN - HLS]
-https://hls.cdnok9.com/live/ODIN/index.m3u8?expire=1788427256&sign=dbabf306532cc0f9b44f028e60fcd7e5
-#EXTINF:-1 group-title="Slovakia U21 vs England U21" tvg-logo="https://hxcv.site/images/cache/match-72cf65d387e036395d9c013858a99362.png",Slovakia U21 vs England U21 [BLV ODIN - FLV]
-https://flv.cdnok9.com/live/ODIN.flv?expire=1788427256&sign=dbabf306532cc0f9b44f028e60fcd7e5
-#EXTINF:-1 group-title="North Macedonia U21 vs Poland U21" tvg-logo="https://hxcv.site/images/cache/match-c2e476a33a2126c04bfc98c87180c86d.png",North Macedonia U21 vs Poland U21 [NHÀ ĐÀI - HLS]
-https://auto.cdnvankhanh.com/live/sd-6MuSNSioyCks3GokNQ/playlist.m3u8
-#EXTINF:-1 group-title="FK Dubocica vs FK Vozdovac Beograd" tvg-logo="https://hxcv.site/images/cache/match-59d0a57449e4a32967e69bb10dbb2953.png",FK Dubocica vs FK Vozdovac Beograd [NHÀ ĐÀI - HLS]
-https://auto.cdnvankhanh.com/live/sd-6MuSs6bLKBcoA5CCEp/playlist.m3u8
-#EXTINF:-1 group-title="NK Aluminij vs Velika Polana" tvg-logo="https://hxcv.site/images/cache/match-f255078b5d97c4a653600e6f6bd4ee1c.png",NK Aluminij vs Velika Polana [NHÀ ĐÀI - HLS]
-https://auto.cdnvankhanh.com/live/sd-6MvYLyHQjmQqbdUoRe/playlist.m3u8
-#EXTINF:-1 group-title="Finland U21 vs Kosovo U21" tvg-logo="https://hxcv.site/images/cache/match-a667f3a488633517e28c9186d2aa3b80.png",Finland U21 vs Kosovo U21 [NHÀ ĐÀI - HLS]
-https://auto.cdnvankhanh.com/live/sd-6MuSNSi6KDHbLajBDe/playlist.m3u8
-#EXTINF:-1 group-title="Cyprus vs Estonia" tvg-logo="https://hxcv.site/images/cache/match-c2267d0867104e555e5925ad1553b8c1.png",Cyprus vs Estonia [NHÀ ĐÀI - HLS]
-https://auto.cdnvankhanh.com/live/sd-6MvYLyHPk1kXCUS9fJ/playlist.m3u8
-#EXTINF:-1 group-title="Bosnia and Herzegovina U21 vs Norway U21" tvg-logo="https://hxcv.site/images/cache/match-e49fcbe3ed06684fc2c7178f9b5a5693.png",Bosnia and Herzegovina U21 vs Norway U21 [NHÀ ĐÀI - HLS]
-https://auto.cdnvankhanh.com/live/sd-6MuSNSjZdJiTTxCHWC/playlist.m3u8
-#EXTINF:-1 group-title="Serbia U21 vs USA U21" tvg-logo="https://hxcv.site/images/cache/match-1604b8606652bca7c817566e71468940.png",Serbia U21 vs USA U21 [NHÀ ĐÀI - HLS]
-https://auto.cdnvankhanh.com/live/sd-6MvYLrq6qgKQH85XFJ/playlist.m3u8
-#EXTINF:-1 group-title="Faroe Islands vs Kazakhstan" tvg-logo="https://hxcv.site/images/cache/match-e9c584031a6dd5e3a3fec252bf9e5cdc.png",Faroe Islands vs Kazakhstan [NHÀ ĐÀI - HLS]
-https://auto.cdnvankhanh.com/live/sd-6MvYLyHPjuA5b2xQCc/playlist.m3u8
-#EXTINF:-1 group-title="San Marino U21 vs Cyprus U21" tvg-logo="https://hxcv.site/images/cache/match-e6ee6d692e83bc38dc0da671da72db72.png",San Marino U21 vs Cyprus U21 [NHÀ ĐÀI - HLS]
-https://auto.cdnvankhanh.com/live/sd-6MuSNSi6KB67U6uG4k/playlist.m3u8
-#EXTINF:-1 group-title="Catalonia vs Palestine" tvg-logo="https://hxcv.site/images/cache/match-42cc025b875016b57c67e135adb3b61f.png",Catalonia vs Palestine [NHÀ ĐÀI - HLS]
-https://auto.cdnvankhanh.com/live/sd-6MvYLrq6qe7vQeFc6Q/playlist.m3u8
+#EXTINF:-1 group-title="Iraq vs United Arab Emirates" tvg-logo="https://hxcv.site/images/cache/match-9f410ddbc168ca63a46235944859188b.png",Iraq vs United Arab Emirates [BLV ZORO - HLS]
+https://hls.cdnok9.com/live/ZORO/index.m3u8?expire=1788427256&sign=8e04682553e334be697e3ef428fa6031
+#EXTINF:-1 group-title="Iraq vs United Arab Emirates" tvg-logo="https://hxcv.site/images/cache/match-9f410ddbc168ca63a46235944859188b.png",Iraq vs United Arab Emirates [BLV ZORO - FLV]
+https://flv.cdnok9.com/live/ZORO.flv?expire=1788427256&sign=8e04682553e334be697e3ef428fa6031
+#EXTINF:-1 group-title="Iraq vs United Arab Emirates" tvg-logo="https://hxcv.site/images/cache/match-9f410ddbc168ca63a46235944859188b.png",Iraq vs United Arab Emirates [BLV TÔN LẬP - HLS]
+https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 group-title="Iraq vs United Arab Emirates" tvg-logo="https://hxcv.site/images/cache/match-9f410ddbc168ca63a46235944859188b.png",Iraq vs United Arab Emirates [BLV TÔN LẬP - FLV]
+https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 group-title="Iraq vs United Arab Emirates" tvg-logo="https://hxcv.site/images/cache/match-9f410ddbc168ca63a46235944859188b.png",Iraq vs United Arab Emirates [BLV PEP - HLS]
+https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
+#EXTINF:-1 group-title="Iraq vs United Arab Emirates" tvg-logo="https://hxcv.site/images/cache/match-9f410ddbc168ca63a46235944859188b.png",Iraq vs United Arab Emirates [BLV PEP - FLV]
+https://flv.cdnok9.com/live/PEP.flv?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
+#EXTINF:-1 group-title="Iraq vs United Arab Emirates" tvg-logo="https://hxcv.site/images/cache/match-9f410ddbc168ca63a46235944859188b.png",Iraq vs United Arab Emirates [BLV KHỔNG MINH - HLS]
+https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:-1 group-title="Iraq vs United Arab Emirates" tvg-logo="https://hxcv.site/images/cache/match-9f410ddbc168ca63a46235944859188b.png",Iraq vs United Arab Emirates [BLV KHỔNG MINH - FLV]
+https://flv.cdnok9.com/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:-1 group-title="Iraq vs United Arab Emirates" tvg-logo="https://hxcv.site/images/cache/match-9f410ddbc168ca63a46235944859188b.png",Iraq vs United Arab Emirates [BLV NHỊ KA - HLS]
+https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:-1 group-title="Iraq vs United Arab Emirates" tvg-logo="https://hxcv.site/images/cache/match-9f410ddbc168ca63a46235944859188b.png",Iraq vs United Arab Emirates [BLV NHỊ KA - FLV]
+https://flv.cdnok9.com/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
 #EXTINF:-1 group-title="Montenegro U21 vs Italy U21" tvg-logo="https://hxcv.site/images/cache/match-da476dc90d632e014636fe1cda933ef7.png",Montenegro U21 vs Italy U21 [BLV PHONG VÂN - HLS]
 https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
 #EXTINF:-1 group-title="Montenegro U21 vs Italy U21" tvg-logo="https://hxcv.site/images/cache/match-da476dc90d632e014636fe1cda933ef7.png",Montenegro U21 vs Italy U21 [BLV PHONG VÂN - FLV]
 https://flv.cdnok9.com/live/PHONGVAN.flv?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:-1 group-title="Georgia U21 vs Germany U21" tvg-logo="https://hxcv.site/images/cache/match-07b5f6b0d238bed5f65a7afa424c6dc6.png",Georgia U21 vs Germany U21 [BLV NGŨ CA - HLS]
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:-1 group-title="Georgia U21 vs Germany U21" tvg-logo="https://hxcv.site/images/cache/match-07b5f6b0d238bed5f65a7afa424c6dc6.png",Georgia U21 vs Germany U21 [BLV NGŨ CA - FLV]
+https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:-1 group-title="NK Aluminij vs Velika Polana" tvg-logo="https://hxcv.site/images/cache/match-f255078b5d97c4a653600e6f6bd4ee1c.png",NK Aluminij vs Velika Polana [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYLyHQjmQqbdUoRe/playlist.m3u8
+#EXTINF:-1 group-title="North Macedonia U21 vs Poland U21" tvg-logo="https://hxcv.site/images/cache/match-c2e476a33a2126c04bfc98c87180c86d.png",North Macedonia U21 vs Poland U21 [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuSNSioyCks3GokNQ/playlist.m3u8
+#EXTINF:-1 group-title="FK Dubocica vs FK Vozdovac Beograd" tvg-logo="https://hxcv.site/images/cache/match-59d0a57449e4a32967e69bb10dbb2953.png",FK Dubocica vs FK Vozdovac Beograd [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuSs6bLKBcoA5CCEp/playlist.m3u8
+#EXTINF:-1 group-title="Finland U21 vs Kosovo U21" tvg-logo="https://hxcv.site/images/cache/match-a667f3a488633517e28c9186d2aa3b80.png",Finland U21 vs Kosovo U21 [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuSNSi6KDHbLajBDe/playlist.m3u8
+#EXTINF:-1 group-title="Cyprus vs Estonia" tvg-logo="https://hxcv.site/images/cache/match-c2267d0867104e555e5925ad1553b8c1.png",Cyprus vs Estonia [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYLyHPk1kXCUS9fJ/playlist.m3u8
+#EXTINF:-1 group-title="Serbia U21 vs USA U21" tvg-logo="https://hxcv.site/images/cache/match-1604b8606652bca7c817566e71468940.png",Serbia U21 vs USA U21 [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYLrq6qgKQH85XFJ/playlist.m3u8
+#EXTINF:-1 group-title="Faroe Islands vs Kazakhstan" tvg-logo="https://hxcv.site/images/cache/match-e9c584031a6dd5e3a3fec252bf9e5cdc.png",Faroe Islands vs Kazakhstan [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYLyHPjuA5b2xQCc/playlist.m3u8
+#EXTINF:-1 group-title="Bosnia and Herzegovina U21 vs Norway U21" tvg-logo="https://hxcv.site/images/cache/match-e49fcbe3ed06684fc2c7178f9b5a5693.png",Bosnia and Herzegovina U21 vs Norway U21 [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuSNSjZdJiTTxCHWC/playlist.m3u8
+#EXTINF:-1 group-title="San Marino U21 vs Cyprus U21" tvg-logo="https://hxcv.site/images/cache/match-e6ee6d692e83bc38dc0da671da72db72.png",San Marino U21 vs Cyprus U21 [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuSNSi6KB67U6uG4k/playlist.m3u8
+#EXTINF:-1 group-title="Catalonia vs Palestine" tvg-logo="https://hxcv.site/images/cache/match-42cc025b875016b57c67e135adb3b61f.png",Catalonia vs Palestine [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYLrq6qe7vQeFc6Q/playlist.m3u8
 #EXTINF:-1 group-title="Scotland U21 vs Bulgaria U21" tvg-logo="https://hxcv.site/images/cache/match-df2fcb750ab2a754d6c0f08687657848.png",Scotland U21 vs Bulgaria U21 [NHÀ ĐÀI - HLS]
 https://auto.cdnvankhanh.com/live/sd-6MuSNSi5efyuCfYADr/playlist.m3u8
+#EXTINF:-1 group-title="Malta U21 vs Latvia U21" tvg-logo="https://hxcv.site/images/cache/match-15a19bfc14c04eaa353e5cbc3aa33353.png",Malta U21 vs Latvia U21 [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuSNSipJBvc5dhtDa/playlist.m3u8
+#EXTINF:-1 group-title="Gibraltar U21 vs Azerbaijan U21" tvg-logo="https://hxcv.site/images/cache/match-81740fd3111aa9527e4836f8148eaab6.png",Gibraltar U21 vs Azerbaijan U21 [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuSNSi59GP1pNT1C8/playlist.m3u8
+#EXTINF:-1 group-title="Jordan vs Mali" tvg-logo="https://hxcv.site/images/cache/match-febd154a9f5f5c86f0390de36150f528.png",Jordan vs Mali [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYLyHQF3NbsyG9A4/playlist.m3u8
 #EXTINF:-1 group-title="Netherlands U19 vs Republic of Ireland U19" tvg-logo="https://hxcv.site/images/cache/match-bcd29520a5f9c1a5cd4650c24258d98c.png",Netherlands U19 vs Republic of Ireland U19 [NHÀ ĐÀI - HLS]
 https://auto.cdnvankhanh.com/live/sd-6MvXreycNNEQ6Vtgax/playlist.m3u8
+#EXTINF:-1 group-title="Luxembourg U21 vs Switzerland U21" tvg-logo="https://hxcv.site/images/cache/match-bcac28d0a76ae18faba1aa1691528c55.png",Luxembourg U21 vs Switzerland U21 [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuSNSi4UmGoYw5uME/playlist.m3u8
+#EXTINF:-1 group-title="Israel U21 vs Netherlands U21" tvg-logo="https://hxcv.site/images/cache/match-060845d51ae1970af50d14192799d174.png",Israel U21 vs Netherlands U21 [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuSNSjZdC81rWiY3W/playlist.m3u8
+#EXTINF:-1 group-title="Andorra U21 vs Ireland U21" tvg-logo="https://hxcv.site/images/cache/match-29c4671bd95f41ba9fc8b9c051793b51.png",Andorra U21 vs Ireland U21 [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuSNSiq934zx3cAwE/playlist.m3u8
+#EXTINF:-1 group-title="Hungary U21 vs Croatia U21" tvg-logo="https://hxcv.site/images/cache/match-1dafbfd5eddcae172d7c66d22db6d94a.png",Hungary U21 vs Croatia U21 [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuSNSjZxi4V5bBW3E/playlist.m3u8
+#EXTINF:-1 group-title="Tunisia vs Brazil" tvg-logo="https://hxcv.site/images/cache/match-d84708e3fa9a0abc15ce1fd87ee4a672.png",Tunisia vs Brazil [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/hd-en-6MvYbrozCRZ87uHkzG/playlist.m3u8
 #EXTINF:-1 group-title="Scotland vs Denmark" tvg-logo="https://hxcv.site/images/cache/match-ac42deb23b269d687325e253efcdcdc1.png",Scotland vs Denmark [BLV MÃ LÂN - HLS]
 https://hls.cdnok9.com/live/MALAN/index.m3u8?expire=1788427256&sign=2c2690c1b536f3d099b63f3ff8165385
 #EXTINF:-1 group-title="Scotland vs Denmark" tvg-logo="https://hxcv.site/images/cache/match-ac42deb23b269d687325e253efcdcdc1.png",Scotland vs Denmark [BLV MÃ LÂN - FLV]
