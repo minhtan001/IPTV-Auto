@@ -1,13 +1,28 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/raw-raw-2353570?mode=sd
-#EXTINF:-1 group-title="RAW vs RAW" referer="https://hoadao.tv/raw-raw-2353570?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-2af88fb8f8a3e3bb8eb97ac41e015f26.png",RAW vs RAW [BLV BÚN CHẢ - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_buncha/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/raw-raw-2353570?mode=hd
-#EXTINF:-1 group-title="RAW vs RAW" referer="https://hoadao.tv/raw-raw-2353570?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-2af88fb8f8a3e3bb8eb97ac41e015f26.png",RAW vs RAW [BLV BÚN CHẢ - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_buncha/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/raw-raw-2353570?mode=flv
-#EXTINF:-1 group-title="RAW vs RAW" referer="https://hoadao.tv/raw-raw-2353570?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-2af88fb8f8a3e3bb8eb97ac41e015f26.png",RAW vs RAW [BLV BÚN CHẢ - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_buncha.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/raw-raw-2353570?mode=flv2
-#EXTINF:-1 group-title="RAW vs RAW" referer="https://hoadao.tv/raw-raw-2353570?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-2af88fb8f8a3e3bb8eb97ac41e015f26.png",RAW vs RAW [BLV BÚN CHẢ - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_buncha.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/japan-vs-bolivia-2351352?mode=sd
+#EXTINF:-1 group-title="Japan vs Bolivia" referer="https://hoadao.tv/japan-vs-bolivia-2351352?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-67e89520010421d50f6b23578495c76a.png",Japan vs Bolivia [BLV CHIM NHỎ - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/japan-vs-bolivia-2351352?mode=hd
+#EXTINF:-1 group-title="Japan vs Bolivia" referer="https://hoadao.tv/japan-vs-bolivia-2351352?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-67e89520010421d50f6b23578495c76a.png",Japan vs Bolivia [BLV CHIM NHỎ - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/japan-vs-bolivia-2351352?mode=flv
+#EXTINF:-1 group-title="Japan vs Bolivia" referer="https://hoadao.tv/japan-vs-bolivia-2351352?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-67e89520010421d50f6b23578495c76a.png",Japan vs Bolivia [BLV CHIM NHỎ - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/japan-vs-bolivia-2351352?mode=flv2
+#EXTINF:-1 group-title="Japan vs Bolivia" referer="https://hoadao.tv/japan-vs-bolivia-2351352?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-67e89520010421d50f6b23578495c76a.png",Japan vs Bolivia [BLV CHIM NHỎ - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/japan-vs-bolivia-2351352?mode=ndsd
+#EXTINF:-1 group-title="Japan vs Bolivia" referer="https://hoadao.tv/japan-vs-bolivia-2351352?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-67e89520010421d50f6b23578495c76a.png",Japan vs Bolivia [BLV CHIM NHỎ - SD (ND)]
+https://live.alilicloud.com/live/d13d609e73eb413c87af4d23feac2f28/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/pepper-hyundai-2354742?mode=sd
+#EXTINF:-1 group-title="Pepper vs Hyundai" referer="https://hoadao.tv/pepper-hyundai-2354742?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-ffc2388a0403690eda5d3486e426a303.png",Pepper vs Hyundai [BLV MÈO BÉO - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/pepper-hyundai-2354742?mode=hd
+#EXTINF:-1 group-title="Pepper vs Hyundai" referer="https://hoadao.tv/pepper-hyundai-2354742?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-ffc2388a0403690eda5d3486e426a303.png",Pepper vs Hyundai [BLV MÈO BÉO - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/pepper-hyundai-2354742?mode=flv
+#EXTINF:-1 group-title="Pepper vs Hyundai" referer="https://hoadao.tv/pepper-hyundai-2354742?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-ffc2388a0403690eda5d3486e426a303.png",Pepper vs Hyundai [BLV MÈO BÉO - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/pepper-hyundai-2354742?mode=flv2
+#EXTINF:-1 group-title="Pepper vs Hyundai" referer="https://hoadao.tv/pepper-hyundai-2354742?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-ffc2388a0403690eda5d3486e426a303.png",Pepper vs Hyundai [BLV MÈO BÉO - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
