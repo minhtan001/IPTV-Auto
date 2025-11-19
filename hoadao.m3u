@@ -1,25 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/usa-vs-uruguay-2351636?mode=sd
-#EXTINF:-1 group-title="USA vs Uruguay" referer="https://hoadao.tv/usa-vs-uruguay-2351636?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-d2478cfcc4ce0e45519bdef50eff9448.png",USA vs Uruguay [BLV CỤ RÙA - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/usa-vs-uruguay-2351636?mode=hd
-#EXTINF:-1 group-title="USA vs Uruguay" referer="https://hoadao.tv/usa-vs-uruguay-2351636?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-d2478cfcc4ce0e45519bdef50eff9448.png",USA vs Uruguay [BLV CỤ RÙA - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/usa-vs-uruguay-2351636?mode=flv
-#EXTINF:-1 group-title="USA vs Uruguay" referer="https://hoadao.tv/usa-vs-uruguay-2351636?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-d2478cfcc4ce0e45519bdef50eff9448.png",USA vs Uruguay [BLV CỤ RÙA - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/usa-vs-uruguay-2351636?mode=flv2
-#EXTINF:-1 group-title="USA vs Uruguay" referer="https://hoadao.tv/usa-vs-uruguay-2351636?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-d2478cfcc4ce0e45519bdef50eff9448.png",USA vs Uruguay [BLV CỤ RÙA - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/usa-vs-uruguay-2351636?mode=ndsd
-#EXTINF:-1 group-title="USA vs Uruguay" referer="https://hoadao.tv/usa-vs-uruguay-2351636?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-d2478cfcc4ce0e45519bdef50eff9448.png",USA vs Uruguay [BLV CỤ RÙA - SD (ND)]
-https://live.alilicloud.com/live/857d5998759525112e02848acff73ad1/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/costa-rica-vs-honduras-2351642?mode=ndsd
-#EXTINF:-1 group-title="Costa Rica vs Honduras" referer="https://hoadao.tv/costa-rica-vs-honduras-2351642?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-7da68f2771d38c2b9d16f92c09efc27b.png",Costa Rica vs Honduras [No BLV - SD (ND)]
-https://live.alilicloud.com/live/93641a2a737ef6e1eb4a1466122bfb4d/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/haiti-vs-nicaragua-2351643?mode=ndsd
-#EXTINF:-1 group-title="Haiti vs Nicaragua" referer="https://hoadao.tv/haiti-vs-nicaragua-2351643?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-203d98763f60459cbe799a24305f04da.png",Haiti vs Nicaragua [No BLV - SD (ND)]
-https://live.alilicloud.com/live/1604aa42b5855f829201ff046072f68f/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/nxt-nxt-2355217?mode=sd
 #EXTINF:-1 group-title="NXT vs NXT" referer="https://hoadao.tv/nxt-nxt-2355217?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-ce223bc6eb9f44b9ca2115c792f1133e.png",NXT vs NXT [BLV PHÁO - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
