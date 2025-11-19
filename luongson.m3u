@@ -1,20 +1,14 @@
 #EXTM3U
-#EXTINF:-1 group-title="Jamaica vs Curacao" tvg-logo="https://hxcv.site/images/cache/match-6676efa4be4f573bc538bfee44feb29e.png",Jamaica vs Curacao [BLV VÕ TÒNG - HLS]
- https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 group-title="Jamaica vs Curacao" tvg-logo="https://hxcv.site/images/cache/match-6676efa4be4f573bc538bfee44feb29e.png",Jamaica vs Curacao [BLV VÕ TÒNG - FLV]
- https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 group-title="Colombia vs Australia" tvg-logo="https://hxcv.site/images/cache/match-7f192699be7639b7c927d96dcd1732cd.png",Colombia vs Australia [BLV TỐNG GIANG - HLS]
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:-1 group-title="Colombia vs Australia" tvg-logo="https://hxcv.site/images/cache/match-7f192699be7639b7c927d96dcd1732cd.png",Colombia vs Australia [BLV TỐNG GIANG - FLV]
-https://flv.cdnok9.com/live/TONGGIANG.flv?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:-1 group-title="Mexico vs Paraguay" tvg-logo="https://hxcv.site/images/cache/match-95a1cf8b8c1bc63da10214bc5e2fb60e.png",Mexico vs Paraguay [BLV NHỊ KA - HLS]
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTINF:-1 group-title="Mexico vs Paraguay" tvg-logo="https://hxcv.site/images/cache/match-95a1cf8b8c1bc63da10214bc5e2fb60e.png",Mexico vs Paraguay [BLV NHỊ KA - FLV]
-https://flv.cdnok9.com/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTINF:-1 group-title="Costa Rica vs Honduras" tvg-logo="https://hxcv.site/images/cache/match-876b9f8549f5e4e7ef37de4325d690f6.png",Costa Rica vs Honduras [TRỢ LÝ ĐIÊU THUYỀN - HLS]
-https://hls.cdnok9.com/live/DIEUTHUYEN/index.m3u8?expire=1788427256&sign=8cebea5448db2f74ea04021d9362ba87
-#EXTINF:-1 group-title="Costa Rica vs Honduras" tvg-logo="https://hxcv.site/images/cache/match-876b9f8549f5e4e7ef37de4325d690f6.png",Costa Rica vs Honduras [TRỢ LÝ ĐIÊU THUYỀN - FLV]
-https://flv.cdnok9.com/live/DIEUTHUYEN.flv?expire=1788427256&sign=8cebea5448db2f74ea04021d9362ba87
+#EXTINF:-1 group-title="Sichuan (W) U16 vs Guangdong (W) U16" tvg-logo="https://hxcv.site/images/cache/match-0b6e96d3327183d15cafa24eda2a75e9.png",Sichuan (W) U16 vs Guangdong (W) U16 [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYLv7Z4bcnJy3Pm6/playlist.m3u8
+#EXTINF:-1 group-title="Pingxiang U16 W vs Shanghai (W) U16" tvg-logo="https://hxcv.site/images/cache/match-a2076006ed1495cd5bc1735fb5429b6a.png",Pingxiang U16 W vs Shanghai (W) U16 [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYLv7Z4dpGBSsJuz/playlist.m3u8
+#EXTINF:-1 group-title="Jiangsu U16 W vs Shenzhen 2028 U16 W" tvg-logo="https://hxcv.site/images/cache/match-464198a353cfd1174ab88327ae437a21.png",Jiangsu U16 W vs Shenzhen 2028 U16 W [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYLv7Z4XDpa1PZTJ/playlist.m3u8
+#EXTINF:-1 group-title="Beijing U16 W vs Yancheng U16 W" tvg-logo="https://hxcv.site/images/cache/match-3c464d385a937e93722bd3f63b5b07c0.png",Beijing U16 W vs Yancheng U16 W [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYLv7Z4ZRJSVDUcC/playlist.m3u8
+#EXTINF:-1 group-title="Tangzhong U16 W vs Dalian Football School U16 W" tvg-logo="https://hxcv.site/images/cache/match-febf8d87b94b2aac697feca7c153e5b6.png",Tangzhong U16 W vs Dalian Football School U16 W [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYLv7Z4Sprq3jj9W/playlist.m3u8
 #EXTINF:-1 group-title="PSMS Medan vs PSPS Pekanbaru" tvg-logo="https://hxcv.site/images/cache/match-af43fa92d98a194b2741857e7995fa80.png",PSMS Medan vs PSPS Pekanbaru [BLV KENCHU - HLS]
 https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
 #EXTINF:-1 group-title="PSMS Medan vs PSPS Pekanbaru" tvg-logo="https://hxcv.site/images/cache/match-af43fa92d98a194b2741857e7995fa80.png",PSMS Medan vs PSPS Pekanbaru [BLV KENCHU - FLV]
