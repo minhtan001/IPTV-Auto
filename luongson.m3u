@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Farense U23 vs Estrela FC U23" tvg-logo="https://hxcv.site/images/cache/match-1ed597ec1014dacafb6d0811e407e7dc.png",Farense U23 vs Estrela FC U23 [BLV QUAN VŨ - HLS]
- https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
-#EXTINF:-1 group-title="Farense U23 vs Estrela FC U23" tvg-logo="https://hxcv.site/images/cache/match-1ed597ec1014dacafb6d0811e407e7dc.png",Farense U23 vs Estrela FC U23 [BLV QUAN VŨ - FLV]
-https://flv.cdnok9.com/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 #EXTINF:-1 group-title="Farense U23 vs Estrela FC U23" tvg-logo="https://hxcv.site/images/cache/match-1ed597ec1014dacafb6d0811e407e7dc.png",Farense U23 vs Estrela FC U23 [BLV PEP - HLS]
 https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
 #EXTINF:-1 group-title="Farense U23 vs Estrela FC U23" tvg-logo="https://hxcv.site/images/cache/match-1ed597ec1014dacafb6d0811e407e7dc.png",Farense U23 vs Estrela FC U23 [BLV PEP - FLV]
@@ -11,29 +7,37 @@ https://flv.cdnok9.com/live/PEP.flv?expire=1788427256&sign=045fe0fdaccb38fbf0e27
 https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
 #EXTINF:-1 group-title="Farense U23 vs Estrela FC U23" tvg-logo="https://hxcv.site/images/cache/match-1ed597ec1014dacafb6d0811e407e7dc.png",Farense U23 vs Estrela FC U23 [BLV KENCHU - FLV]
 https://flv.cdnok9.com/live/KENCHU.flv?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
-#EXTINF:-1 group-title="Manchester City vs Liverpool" tvg-logo="https://hxcv.site/images/cache/match-900239ae72d4e5e3974b461f45d80b0d.png",Manchester City vs Liverpool [BLV LƯU BỊ REPLAY - HLS]
-https://hls.cdnok9.com/live/TO2A/index.m3u8?expire=1891408380&sign=b4fcc4558b2967d54c04070f325ecb14
-#EXTINF:-1 group-title="Manchester City vs Liverpool" tvg-logo="https://hxcv.site/images/cache/match-900239ae72d4e5e3974b461f45d80b0d.png",Manchester City vs Liverpool [BLV LƯU BỊ REPLAY - FLV]
-https://flv.cdnok9.com/live/TO2A.flv?expire=1891408380&sign=b4fcc4558b2967d54c04070f325ecb14
+#EXTINF:-1 group-title="Farense U23 vs Estrela FC U23" tvg-logo="https://hxcv.site/images/cache/match-1ed597ec1014dacafb6d0811e407e7dc.png",Farense U23 vs Estrela FC U23 [BLV QUAN VŨ - HLS]
+ https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:-1 group-title="Farense U23 vs Estrela FC U23" tvg-logo="https://hxcv.site/images/cache/match-1ed597ec1014dacafb6d0811e407e7dc.png",Farense U23 vs Estrela FC U23 [BLV QUAN VŨ - FLV]
+https://flv.cdnok9.com/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 #EXTINF:-1 group-title="GKS Katowice (W) vs Pogon Tczew (W)" tvg-logo="https://hxcv.site/images/cache/match-6ccc0cb12e837a92174ea91940bc9b5c.png",GKS Katowice (W) vs Pogon Tczew (W) [BLV TRƯƠNG THANH - HLS]
 https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
 #EXTINF:-1 group-title="GKS Katowice (W) vs Pogon Tczew (W)" tvg-logo="https://hxcv.site/images/cache/match-6ccc0cb12e837a92174ea91940bc9b5c.png",GKS Katowice (W) vs Pogon Tczew (W) [BLV TRƯƠNG THANH - FLV]
 https://flv.cdnok9.com/live/TRUONGTHANH.flv?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
-#EXTINF:-1 group-title="GKS Katowice (W) vs Pogon Tczew (W)" tvg-logo="https://hxcv.site/images/cache/match-6ccc0cb12e837a92174ea91940bc9b5c.png",GKS Katowice (W) vs Pogon Tczew (W) [BLV VƯƠNG LUÂN - HLS]
-https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
-#EXTINF:-1 group-title="GKS Katowice (W) vs Pogon Tczew (W)" tvg-logo="https://hxcv.site/images/cache/match-6ccc0cb12e837a92174ea91940bc9b5c.png",GKS Katowice (W) vs Pogon Tczew (W) [BLV VƯƠNG LUÂN - FLV]
-https://flv.cdnok9.com/live/VUONGLUAN.flv?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
 #EXTINF:-1 group-title="GKS Katowice (W) vs Pogon Tczew (W)" tvg-logo="https://hxcv.site/images/cache/match-6ccc0cb12e837a92174ea91940bc9b5c.png",GKS Katowice (W) vs Pogon Tczew (W) [BLV ODIN - HLS]
 https://hls.cdnok9.com/live/ODIN/index.m3u8?expire=1788427256&sign=dbabf306532cc0f9b44f028e60fcd7e5
 #EXTINF:-1 group-title="GKS Katowice (W) vs Pogon Tczew (W)" tvg-logo="https://hxcv.site/images/cache/match-6ccc0cb12e837a92174ea91940bc9b5c.png",GKS Katowice (W) vs Pogon Tczew (W) [BLV ODIN - FLV]
 https://flv.cdnok9.com/live/ODIN.flv?expire=1788427256&sign=dbabf306532cc0f9b44f028e60fcd7e5
-#EXTINF:-1 group-title="Mighty Tigers vs Kamuzu Barracks" tvg-logo="https://hxcv.site/images/cache/match-d02ad8a6a81fe658956bfabd074af5de.png",Mighty Tigers vs Kamuzu Barracks [NHÀ ĐÀI - HLS]
-https://auto.cdnvankhanh.com/live/sd-6MuS81GBeGwuSB96Jx/playlist.m3u8
-#EXTINF:-1 group-title="IB Khemis El Khechna vs AS Khroub" tvg-logo="https://hxcv.site/images/cache/match-f6af2d5f5165182024c8ae786764ec0f.png",IB Khemis El Khechna vs AS Khroub [NHÀ ĐÀI - HLS]
-https://auto.cdnvankhanh.com/live/sd-6MvYLrodshzhJWJ3Qp/playlist.m3u8
+#EXTINF:-1 group-title="GKS Katowice (W) vs Pogon Tczew (W)" tvg-logo="https://hxcv.site/images/cache/match-6ccc0cb12e837a92174ea91940bc9b5c.png",GKS Katowice (W) vs Pogon Tczew (W) [BLV VƯƠNG LUÂN - HLS]
+https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
+#EXTINF:-1 group-title="GKS Katowice (W) vs Pogon Tczew (W)" tvg-logo="https://hxcv.site/images/cache/match-6ccc0cb12e837a92174ea91940bc9b5c.png",GKS Katowice (W) vs Pogon Tczew (W) [BLV VƯƠNG LUÂN - FLV]
+https://flv.cdnok9.com/live/VUONGLUAN.flv?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
+#EXTINF:-1 group-title="Manchester City vs Liverpool" tvg-logo="https://hxcv.site/images/cache/match-900239ae72d4e5e3974b461f45d80b0d.png",Manchester City vs Liverpool [BLV LƯU BỊ REPLAY - HLS]
+https://hls.cdnok9.com/live/TO2A/index.m3u8?expire=1891408380&sign=b4fcc4558b2967d54c04070f325ecb14
+#EXTINF:-1 group-title="Manchester City vs Liverpool" tvg-logo="https://hxcv.site/images/cache/match-900239ae72d4e5e3974b461f45d80b0d.png",Manchester City vs Liverpool [BLV LƯU BỊ REPLAY - FLV]
+https://flv.cdnok9.com/live/TO2A.flv?expire=1891408380&sign=b4fcc4558b2967d54c04070f325ecb14
 #EXTINF:-1 group-title="Karlovac vs Dinamo Zagreb" tvg-logo="https://hxcv.site/images/cache/match-9e02aea040835e324bb91fbbc3692ca9.png",Karlovac vs Dinamo Zagreb [BLV YẾN THANH - HLS]
  https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:-1 group-title="Karlovac vs Dinamo Zagreb" tvg-logo="https://hxcv.site/images/cache/match-9e02aea040835e324bb91fbbc3692ca9.png",Karlovac vs Dinamo Zagreb [BLV YẾN THANH - FLV]
 https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:-1 group-title="Chemal FC vs ASC Gendrim" tvg-logo="https://hxcv.site/images/cache/match-c627dd0b37ecda170457bf80282f2b6f.png",Chemal FC vs ASC Gendrim [NHÀ ĐÀI - HLS]
 https://auto.cdnvankhanh.com/live/sd-6MvYMCKNDdW8ccasfi/playlist.m3u8
+#EXTINF:-1 group-title="Young Boys (W) vs Sparta Praha (W)" tvg-logo="https://hxcv.site/images/cache/match-d7219027c13e38450be5a135798001f7.png",Young Boys (W) vs Sparta Praha (W) [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYM2Zsczq2YWgC1r/playlist.m3u8
+#EXTINF:-1 group-title="Inter Milan (W) vs BK Hacken (W)" tvg-logo="https://hxcv.site/images/cache/match-3718694576b3b4b880874af9a22e8368.png",Inter Milan (W) vs BK Hacken (W) [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYM2ZsdXbkjEF2AQ/playlist.m3u8
+#EXTINF:-1 group-title="Austria Wien (W) vs Anderlecht (W)" tvg-logo="https://hxcv.site/images/cache/match-8cd7825c38f585461a382e3d1f7c6c65.png",Austria Wien (W) vs Anderlecht (W) [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYM2ZsTbjrhXnuyW/playlist.m3u8
+#EXTINF:-1 group-title="Blooming vs Real Oruro" tvg-logo="https://hxcv.site/images/cache/match-c981ef9001814567d9e243dc47ab6c2b.png",Blooming vs Real Oruro [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYMFeoj3fvvnYhMN/playlist.m3u8
