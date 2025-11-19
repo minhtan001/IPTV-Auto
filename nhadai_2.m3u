@@ -9,6 +9,8 @@ http://live.qphim.xyz/hls_nonkey/ninochannel1/index.m3u8
 http://live.qphim.xyz/hls_nonkey/ninochannel2/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SGEvents
 https://akaviettel.sgchill.io.vn/v1/stream/twitch/channel/sgevents.smil/playlist.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Melbourne City vs Thành Phố Hồ Chí Minh
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phantom/playlist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sky Sports News
 http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/300415.ts
 #EXTINF:-1 group-title="TruyenHinh_2",Sky Sport F1
@@ -113,8 +115,8 @@ https://vip.opstream90.com/20251118/17952_7bf57028/3000k/hls/mixed.m3u8
 https://live.fptplay53.net/epzch1/thethao04_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 137
 https://live.fptplay53.net/fnxch1/thethao137_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 261
-https://live.fptplay53.net/fnxch1/thethao261_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 109
+https://event.fptplay53.net/channel/thethao109/master_mx.m3u8?sign=1763554245-sign-0-32faab84b271cc83da513bd868211469
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
