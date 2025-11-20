@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTVLCOPT:http-referrer=https://hoadao.tv/termez-surkhon-vs-fc-okmk-olmaliq-2352028?mode=ndsd
+#EXTINF:-1 group-title="Termez Surkhon vs FC OKMK Olmaliq" referer="https://hoadao.tv/termez-surkhon-vs-fc-okmk-olmaliq-2352028?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-f138e0707f9e9a5bd417fc139238add5.png",Termez Surkhon vs FC OKMK Olmaliq [No BLV - SD (ND)]
+https://live.alilicloud.com/live/3e3e0571d7d1ac1b289bb2644e4e19ca/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/hungkuk-gs-caltex-2355264?mode=sd
 #EXTINF:-1 group-title="Hungkuk vs GS Caltex" referer="https://hoadao.tv/hungkuk-gs-caltex-2355264?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-9c9b309c4b2e442d21d051d0143a2fd9.png",Hungkuk vs GS Caltex [BLV MÈO BÉO - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
@@ -11,3 +14,15 @@ https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/hungkuk-gs-caltex-2355264?mode=flv2
 #EXTINF:-1 group-title="Hungkuk vs GS Caltex" referer="https://hoadao.tv/hungkuk-gs-caltex-2355264?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-9c9b309c4b2e442d21d051d0143a2fd9.png",Hungkuk vs GS Caltex [BLV MÈO BÉO - FLV 2]
 https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/vakifbank-kuzey-boru-2355265?mode=sd
+#EXTINF:-1 group-title="Vakifbank vs Kuzey Boru" referer="https://hoadao.tv/vakifbank-kuzey-boru-2355265?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-79557325ff70198de6e9f02b02dbc860.png",Vakifbank vs Kuzey Boru [BLV CHIM NHỎ - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/vakifbank-kuzey-boru-2355265?mode=hd
+#EXTINF:-1 group-title="Vakifbank vs Kuzey Boru" referer="https://hoadao.tv/vakifbank-kuzey-boru-2355265?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-79557325ff70198de6e9f02b02dbc860.png",Vakifbank vs Kuzey Boru [BLV CHIM NHỎ - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/vakifbank-kuzey-boru-2355265?mode=flv
+#EXTINF:-1 group-title="Vakifbank vs Kuzey Boru" referer="https://hoadao.tv/vakifbank-kuzey-boru-2355265?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-79557325ff70198de6e9f02b02dbc860.png",Vakifbank vs Kuzey Boru [BLV CHIM NHỎ - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/vakifbank-kuzey-boru-2355265?mode=flv2
+#EXTINF:-1 group-title="Vakifbank vs Kuzey Boru" referer="https://hoadao.tv/vakifbank-kuzey-boru-2355265?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-79557325ff70198de6e9f02b02dbc860.png",Vakifbank vs Kuzey Boru [BLV CHIM NHỎ - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
