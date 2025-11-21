@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Adelaide United vs Melbourne City" tvg-logo="https://hxcv.site/images/cache/match-7dfeb21efc770bcdebfcb91405b8731e.png",Adelaide United vs Melbourne City [BLV VĂN VỞ - HLS]
-https://hls.cdnvankhanh.com/live/VANVO/index.m3u8?expire=1826356200&sign=f92cd6005b35a94f2c93f28b3ffac506
-#EXTINF:-1 group-title="Adelaide United vs Melbourne City" tvg-logo="https://hxcv.site/images/cache/match-7dfeb21efc770bcdebfcb91405b8731e.png",Adelaide United vs Melbourne City [BLV VĂN VỞ - FLV]
-https://flv.cdnvankhanh.com/live/VANVO.flv?expire=1826356200&sign=f92cd6005b35a94f2c93f28b3ffac506
-#EXTINF:-1 group-title="PSM Makassar vs PSBS Biak" tvg-logo="https://hxcv.site/images/cache/match-2793a91f65e30e5d7e1e0a649fb1c778.png",PSM Makassar vs PSBS Biak [BLV VĂN VẺ - HLS]
-https://hls.cdnvankhanh.com/live/VEVAN/index.m3u8?expire=1848307620&sign=5779030852f8cafeab86dae9130be2f5
-#EXTINF:-1 group-title="PSM Makassar vs PSBS Biak" tvg-logo="https://hxcv.site/images/cache/match-2793a91f65e30e5d7e1e0a649fb1c778.png",PSM Makassar vs PSBS Biak [BLV VĂN VẺ - FLV]
-https://flv.cdnvankhanh.com/live/VEVAN.flv?expire=1848307620&sign=5779030852f8cafeab86dae9130be2f5
 #EXTINF:-1 group-title="A.P.I.A. Leichhardt Tigers vs Marconi Stallions" tvg-logo="https://hxcv.site/images/cache/match-eda235d892a527ce5c26041a880db683.png",A.P.I.A. Leichhardt Tigers vs Marconi Stallions [BLV TIỂU LINH - HLS]
 https://hls.cdnvankhanh.com/live/TIEULINH/index.m3u8?expire=1891779900&sign=5353000df59fd7da4b1d1f4a66da8495
 #EXTINF:-1 group-title="A.P.I.A. Leichhardt Tigers vs Marconi Stallions" tvg-logo="https://hxcv.site/images/cache/match-eda235d892a527ce5c26041a880db683.png",A.P.I.A. Leichhardt Tigers vs Marconi Stallions [BLV TIỂU LINH - FLV]
@@ -27,5 +19,13 @@ https://auto.cdnvankhanh.com/live/sd-6MuPtcoongNJ2Q1bp8/playlist.m3u8
 https://auto.cdnvankhanh.com/live/sd-6MuS8AzDmmvyrkxhrc/playlist.m3u8
 #EXTINF:-1 group-title="Baku Sporting vs Sabail" tvg-logo="https://hxcv.site/images/cache/match-3aedcc041b9cdeb2e0df75364b5d98cb.png",Baku Sporting vs Sabail [NHÀ ĐÀI - HLS]
 https://auto.cdnvankhanh.com/live/sd-6MvYLrq6gMdCB6r5Wk/playlist.m3u8
+#EXTINF:-1 group-title="Belshina (W) vs Dinamo Brest (W)" tvg-logo="https://hxcv.site/images/cache/match-8ee112074daa43339689082a830c2b84.png",Belshina (W) vs Dinamo Brest (W) [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MuRsnsnmMAJGDSby6/playlist.m3u8
+#EXTINF:-1 group-title="Mashal Muborak vs Navbahor Namangan" tvg-logo="https://hxcv.site/images/cache/match-c7ef32846d3ec001c6cbbdd341900dc8.png",Mashal Muborak vs Navbahor Namangan [BLV VĂN CONAN - HLS]
+https://hls.cdnvankhanh.com/live/VANCONA/index.m3u8?expire=1892707800&sign=4579e25a0f1074c0ba42757f6b09cfb9
+#EXTINF:-1 group-title="Mashal Muborak vs Navbahor Namangan" tvg-logo="https://hxcv.site/images/cache/match-c7ef32846d3ec001c6cbbdd341900dc8.png",Mashal Muborak vs Navbahor Namangan [BLV VĂN CONAN - FLV]
+https://flv.cdnvankhanh.com/live/VANCONA.flv?expire=1892707800&sign=4579e25a0f1074c0ba42757f6b09cfb9
+#EXTINF:-1 group-title="King Nouakchott vs ASC Tevragh Zeine" tvg-logo="https://hxcv.site/images/cache/match-ddd06d0625da475ed13c694466038dce.png",King Nouakchott vs ASC Tevragh Zeine [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvYMCMc1mHT9ZWp8C/playlist.m3u8
 #EXTINF:-1 group-title="River Plate Reserves vs Huracan Reserves" tvg-logo="https://hxcv.site/images/cache/match-4c89b914a3c187d67a2a2884c388a86f.png",River Plate Reserves vs Huracan Reserves [NHÀ ĐÀI - HLS]
 https://auto.cdnvankhanh.com/live/sd-6MvYMFaP9Hd6nC61o2/playlist.m3u8
