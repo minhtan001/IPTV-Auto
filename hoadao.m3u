@@ -1,22 +1,37 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/dinamo-samarqand-vs-fk-kokand-1912-2352516?mode=ndsd
-#EXTINF:-1 group-title="Dinamo Samarqand vs FK Kokand 1912" referer="https://hoadao.tv/dinamo-samarqand-vs-fk-kokand-1912-2352516?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-09323cb0c29766241a9112762836aa4a.png",Dinamo Samarqand vs FK Kokand 1912 [No BLV - SD (ND)]
-https://live.alilicloud.com/live/7c11c5fee912dc5f3fdb6ca3e8127e72/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/italy-u17-vs-burkina-faso-u17-2355635?mode=ndsd
-#EXTINF:-1 group-title="Italy U17 vs Burkina Faso U17" referer="https://hoadao.tv/italy-u17-vs-burkina-faso-u17-2355635?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-7e4685e322a13c868a21589c3cf69458.png",Italy U17 vs Burkina Faso U17 [No BLV - SD (ND)]
-https://live.alilicloud.com/live/14a2f2ee63c6085ac561a2aafde82253/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/sc-poltava-vs-lnz-cherkasy-2352351?mode=ndsd
-#EXTINF:-1 group-title="SC Poltava vs LNZ Cherkasy" referer="https://hoadao.tv/sc-poltava-vs-lnz-cherkasy-2352351?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-29fc61c810e2b834a5a6caf0050dfeea.png",SC Poltava vs LNZ Cherkasy [No BLV - SD (ND)]
-https://live.alilicloud.com/live/b36b839640ba7ed0fd178456c4ac6c3c/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/volga-ulyanovsk-vs-torpedo-moscow-2352458?mode=ndsd
-#EXTINF:-1 group-title="Volga Ulyanovsk vs Torpedo Moscow" referer="https://hoadao.tv/volga-ulyanovsk-vs-torpedo-moscow-2352458?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-8e4edaf2f5b6043ab08645481424b668.png",Volga Ulyanovsk vs Torpedo Moscow [No BLV - SD (ND)]
-https://live.alilicloud.com/live/d601dc511c9b8aea41ef70dd7b851cd3/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/radnik-surdulica-vs-vojvodina-novi-sad-2353818?mode=ndsd
-#EXTINF:-1 group-title="Radnik Surdulica vs Vojvodina Novi Sad" referer="https://hoadao.tv/radnik-surdulica-vs-vojvodina-novi-sad-2353818?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-53eaade5304c4f10761a295629d086fa.png",Radnik Surdulica vs Vojvodina Novi Sad [No BLV - SD (ND)]
-https://live.alilicloud.com/live/78196ef99091135ed62220b3e7075e15/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/al-ittihad-club-vs-al-riyadh-2352352?mode=sd
+#EXTINF:-1 group-title="Al Ittihad Club vs Al Riyadh" referer="https://hoadao.tv/al-ittihad-club-vs-al-riyadh-2352352?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-b33a2677efe557b727cde44d73fdc3e7.png",Al Ittihad Club vs Al Riyadh [BLV MÈO BÉO - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/al-ittihad-club-vs-al-riyadh-2352352?mode=hd
+#EXTINF:-1 group-title="Al Ittihad Club vs Al Riyadh" referer="https://hoadao.tv/al-ittihad-club-vs-al-riyadh-2352352?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-b33a2677efe557b727cde44d73fdc3e7.png",Al Ittihad Club vs Al Riyadh [BLV MÈO BÉO - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/al-ittihad-club-vs-al-riyadh-2352352?mode=flv
+#EXTINF:-1 group-title="Al Ittihad Club vs Al Riyadh" referer="https://hoadao.tv/al-ittihad-club-vs-al-riyadh-2352352?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-b33a2677efe557b727cde44d73fdc3e7.png",Al Ittihad Club vs Al Riyadh [BLV MÈO BÉO - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/al-ittihad-club-vs-al-riyadh-2352352?mode=flv2
+#EXTINF:-1 group-title="Al Ittihad Club vs Al Riyadh" referer="https://hoadao.tv/al-ittihad-club-vs-al-riyadh-2352352?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-b33a2677efe557b727cde44d73fdc3e7.png",Al Ittihad Club vs Al Riyadh [BLV MÈO BÉO - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/al-ramtha-sc-vs-al-ahly-2352354?mode=ndsd
 #EXTINF:-1 group-title="Al-Ramtha SC vs Al-Ahly" referer="https://hoadao.tv/al-ramtha-sc-vs-al-ahly-2352354?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-27a31235ed2c649f821c89a969fd415e.png",Al-Ramtha SC vs Al-Ahly [No BLV - SD (ND)]
 https://live.alilicloud.com/live/a30c4dce8de080268f99b52e9dda93a8/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/al-duhail-vs-al-ahli-doha-2352521?mode=ndsd
 #EXTINF:-1 group-title="Al Duhail vs Al-Ahli Doha" referer="https://hoadao.tv/al-duhail-vs-al-ahli-doha-2352521?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-ded7617b2bf3f8fe1c81deb9e38ffb01.png",Al Duhail vs Al-Ahli Doha [No BLV - SD (ND)]
 https://live.alilicloud.com/live/5995e393ab52642228b739ac9078b073/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/portugal-u17-vs-switzerland-u17-2355636?mode=ndsd
+#EXTINF:-1 group-title="Portugal U17 vs Switzerland U17" referer="https://hoadao.tv/portugal-u17-vs-switzerland-u17-2355636?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-d4c498dfc394f1dbd319326bb606a79e.png",Portugal U17 vs Switzerland U17 [No BLV - SD (ND)]
+https://live.alilicloud.com/live/b5c9d2c1d8ea4ac50c6aa98d32304b99/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/al-kholood-vs-al-hazem-2352360?mode=ndsd
+#EXTINF:-1 group-title="Al Kholood vs Al Hazem" referer="https://hoadao.tv/al-kholood-vs-al-hazem-2352360?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-bea50033e36eca256a7a7d1c573fa2e7.png",Al Kholood vs Al Hazem [No BLV - SD (ND)]
+https://live.alilicloud.com/live/9ed89e9de9057cf85ff3d1fce6f788ea/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/dinamo-tbilisi-vs-gagra-fc-2352522?mode=ndsd
+#EXTINF:-1 group-title="Dinamo Tbilisi vs Gagra FC" referer="https://hoadao.tv/dinamo-tbilisi-vs-gagra-fc-2352522?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-565e641f24f31ba4cb5fdccebafaea41.png",Dinamo Tbilisi vs Gagra FC [No BLV - SD (ND)]
+https://live.alilicloud.com/live/eb4bb90c63e6398dfb99940f77727239/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/gareji-sagarejo-vs-fc-telavi-2352523?mode=ndsd
+#EXTINF:-1 group-title="Gareji Sagarejo vs FC Telavi" referer="https://hoadao.tv/gareji-sagarejo-vs-fc-telavi-2352523?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-63643a931bbca87a00da20b2098c513f.png",Gareji Sagarejo vs FC Telavi [No BLV - SD (ND)]
+https://live.alilicloud.com/live/6c4a5f023bd6b10ecad85be3c1314af8/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/standard-sumgayit-vs-qarabag-2352524?mode=ndsd
+#EXTINF:-1 group-title="Standard Sumgayit vs Qarabag" referer="https://hoadao.tv/standard-sumgayit-vs-qarabag-2352524?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-104ac465ded8878b8e1a244fff8186e4.png",Standard Sumgayit vs Qarabag [No BLV - SD (ND)]
+https://live.alilicloud.com/live/bc34c3673abf1515e011827373728a58/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/urartu-vs-fc-pyunik-2352364?mode=ndsd
+#EXTINF:-1 group-title="Urartu vs FC Pyunik" referer="https://hoadao.tv/urartu-vs-fc-pyunik-2352364?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-50c165a0b034d0d5b34f9511842d27fe.png",Urartu vs FC Pyunik [No BLV - SD (ND)]
+https://live.alilicloud.com/live/d13342ada4b0a3470992483165272815/playlist.m3u8
