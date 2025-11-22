@@ -9,16 +9,14 @@ http://live.qphim.xyz/hls_nonkey/ninochannel1/index.m3u8
 http://live.qphim.xyz/hls_nonkey/ninochannel2/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SGEvents
 https://akaviettel.sgchill.io.vn/v1/stream/twitch/channel/sgevents.smil/playlist.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sky Sports News
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157765.ts
 #EXTINF:-1 group-title="TruyenHinh_2",Sky Sport F1
 http://cmc.best-ott.me:80/play/live.php?mac=00:1A:79:B5:F9:D6&stream=588065&extension=ts&play_token=xBXM5E3VAZ
+#EXTINF:-1 group-title="TruyenHinh_2",Sky Sport Premier League
+https://7pal.short.gy/ssportspl
 #EXTINF:-1 group-title="TruyenHinh_2",Sky Sport Mix
 http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/145813.ts
 #EXTINF:-1 group-title="TruyenHinh_2",Sky Sport Tennis
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157768.ts
-#EXTINF:-1 group-title="TruyenHinh_2",Sportdigital
-http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/145467.ts
 #EXTINF:-1 group-title="TruyenHinh_2",Canal+ Sport
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1184930&extension=ts&play_token=fHBckk00nW
 #EXTINF:-1 group-title="TruyenHinh_2",TNT Sports 1 4Mbps for 4G
