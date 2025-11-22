@@ -1,22 +1,16 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/chengdu-team-vs-nanchong-team-2352943?mode=ndsd
-#EXTINF:-1 group-title="Chengdu Team vs Nanchong Team" referer="https://hoadao.tv/chengdu-team-vs-nanchong-team-2352943?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-ccd5d09531793d938a29b8deeded8158.png",Chengdu Team vs Nanchong Team [No BLV - SD (ND)]
-https://live.alilicloud.com/live/ed72c6a2f2a7d4d9665a5cc65ccc04c6/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/suining-team-vs-dazhou-team-2352944?mode=ndsd
-#EXTINF:-1 group-title="Suining Team vs Dazhou Team" referer="https://hoadao.tv/suining-team-vs-dazhou-team-2352944?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-f421d265742a93b42e1a5c54036b4129.png",Suining Team vs Dazhou Team [No BLV - SD (ND)]
-https://live.alilicloud.com/live/414e11a9f46e8f527819bae0b70a2f59/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/panzhihua-team-vs-meishan-team-2352945?mode=ndsd
-#EXTINF:-1 group-title="Panzhihua Team vs Meishan Team" referer="https://hoadao.tv/panzhihua-team-vs-meishan-team-2352945?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-757bf889614fd4252131da0c8d15e280.png",Panzhihua Team vs Meishan Team [No BLV - SD (ND)]
-https://live.alilicloud.com/live/960b332c2ad69bdc98eedd979763bc44/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/yaan-team-vs-liangshan-team-2352946?mode=ndsd
-#EXTINF:-1 group-title="Yaan Team vs Liangshan Team" referer="https://hoadao.tv/yaan-team-vs-liangshan-team-2352946?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-a48900e7be8b70d758b760c735818aa7.png",Yaan Team vs Liangshan Team [No BLV - SD (ND)]
-https://live.alilicloud.com/live/a3103126c7e5244242a1e71d82516187/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/kunming-city-star-u21-vs-lanzhou-longyuan-athletics-u21-2354859?mode=ndsd
-#EXTINF:-1 group-title="Kunming City Star U21 vs Lanzhou Longyuan Athletics U21" referer="https://hoadao.tv/kunming-city-star-u21-vs-lanzhou-longyuan-athletics-u21-2354859?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-6ed9b88bf9bdf6f18d863595037b0038.png",Kunming City Star U21 vs Lanzhou Longyuan Athletics U21 [No BLV - SD (ND)]
-https://live.alilicloud.com/live/3197b7a1dc27aa6ff3764c189462d479/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/qingdao-west-coast-u21-vs-qingdao-hainiu-u21-2354860?mode=ndsd
-#EXTINF:-1 group-title="Qingdao West Coast U21 vs Qingdao Hainiu U21" referer="https://hoadao.tv/qingdao-west-coast-u21-vs-qingdao-hainiu-u21-2354860?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-bdc0f1826c4f0f83a0e6c401bbd89246.png",Qingdao West Coast U21 vs Qingdao Hainiu U21 [No BLV - SD (ND)]
-https://live.alilicloud.com/live/de43c6f9c52e6aa30030e40b30f56c94/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/sydney-fc-vs-melbourne-victory-2352960?mode=sd
+#EXTINF:-1 group-title="Sydney FC vs Melbourne Victory" referer="https://hoadao.tv/sydney-fc-vs-melbourne-victory-2352960?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-ca77c4e24a9530f30f9f5abe9b4d5080.png",Sydney FC vs Melbourne Victory [BLV PHÁO - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/sydney-fc-vs-melbourne-victory-2352960?mode=hd
+#EXTINF:-1 group-title="Sydney FC vs Melbourne Victory" referer="https://hoadao.tv/sydney-fc-vs-melbourne-victory-2352960?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-ca77c4e24a9530f30f9f5abe9b4d5080.png",Sydney FC vs Melbourne Victory [BLV PHÁO - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/sydney-fc-vs-melbourne-victory-2352960?mode=flv
+#EXTINF:-1 group-title="Sydney FC vs Melbourne Victory" referer="https://hoadao.tv/sydney-fc-vs-melbourne-victory-2352960?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-ca77c4e24a9530f30f9f5abe9b4d5080.png",Sydney FC vs Melbourne Victory [BLV PHÁO - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/sydney-fc-vs-melbourne-victory-2352960?mode=flv2
+#EXTINF:-1 group-title="Sydney FC vs Melbourne Victory" referer="https://hoadao.tv/sydney-fc-vs-melbourne-victory-2352960?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-ca77c4e24a9530f30f9f5abe9b4d5080.png",Sydney FC vs Melbourne Victory [BLV PHÁO - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/guangxi-pingguo-haliao-u21-vs-beijing-guoan-u21-2354861?mode=ndsd
 #EXTINF:-1 group-title="Guangxi Pingguo Haliao U21 vs Beijing Guoan U21" referer="https://hoadao.tv/guangxi-pingguo-haliao-u21-vs-beijing-guoan-u21-2354861?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-1c54aca3a0b2bf1f7ed72361c797b77b.png",Guangxi Pingguo Haliao U21 vs Beijing Guoan U21 [No BLV - SD (ND)]
 https://live.alilicloud.com/live/7190fb1758bf47e43f0033d2d9bd5751/playlist.m3u8
@@ -35,18 +29,15 @@ https://live.alilicloud.com/live/0d3de3f4a7ebc77936fe27f8ccdf4639/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/henan-fc-vs-yunnan-yukun-2352951?mode=ndsd
 #EXTINF:-1 group-title="Henan FC vs Yunnan Yukun" referer="https://hoadao.tv/henan-fc-vs-yunnan-yukun-2352951?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-df079538eebb00eb74f1518a01bb4f2a.png",Henan FC vs Yunnan Yukun [No BLV - SD (ND)]
 https://live.alilicloud.com/live/d7647992a86b4375119f612d065aeb4c/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/qingdao-west-coast-fc-vs-changchun-yatai-fc-2352952?mode=ndsd
-#EXTINF:-1 group-title="Qingdao West Coast FC vs Changchun Yatai FC" referer="https://hoadao.tv/qingdao-west-coast-fc-vs-changchun-yatai-fc-2352952?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-e9bfdd6976d7275d9adbd0d68d9a6d98.png",Qingdao West Coast FC vs Changchun Yatai FC [No BLV - SD (ND)]
-https://live.alilicloud.com/live/4311f7af1bce8d186c09a7d583ca64d9/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/wuhan-three-towns-fc-vs-shandong-taishan-fc-2352953?mode=ndsd
 #EXTINF:-1 group-title="Wuhan Three Towns FC vs Shandong Taishan FC" referer="https://hoadao.tv/wuhan-three-towns-fc-vs-shandong-taishan-fc-2352953?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-6f41fc9a6e3b1b3afa96a784155c7a5d.png",Wuhan Three Towns FC vs Shandong Taishan FC [No BLV - SD (ND)]
 https://live.alilicloud.com/live/e146625042fb71a7cb4fda72bb6eb361/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/shenzhen-peng-city-fc-vs-chengdu-rongcheng-fc-2352954?mode=ndsd
-#EXTINF:-1 group-title="Shenzhen Peng City FC vs Chengdu Rongcheng FC" referer="https://hoadao.tv/shenzhen-peng-city-fc-vs-chengdu-rongcheng-fc-2352954?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-80c6b8844286f6906694757d8e0d2821.png",Shenzhen Peng City FC vs Chengdu Rongcheng FC [No BLV - SD (ND)]
-https://live.alilicloud.com/live/4c041f47da56bfac02872dc10abdeb4d/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/dalian-yingbo-fc-vs-shanghai-port-fc-2352955?mode=ndsd
 #EXTINF:-1 group-title="Dalian Yingbo FC vs Shanghai Port FC" referer="https://hoadao.tv/dalian-yingbo-fc-vs-shanghai-port-fc-2352955?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-cb5fcc2aebb77bd5145864f32c9630db.png",Dalian Yingbo FC vs Shanghai Port FC [No BLV - SD (ND)]
 https://live.alilicloud.com/live/79932e85a50e705828b92c66cbb4b385/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/gwangju-football-club-vs-ulsan-hd-fc-2352956?mode=ndsd
+#EXTINF:-1 group-title="Gwangju Football Club vs Ulsan HD FC" referer="https://hoadao.tv/gwangju-football-club-vs-ulsan-hd-fc-2352956?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-2d7e5bad5c403db4e4bde291c802dae2.png",Gwangju Football Club vs Ulsan HD FC [No BLV - SD (ND)]
+https://live.alilicloud.com/live/512f48c79777bc3fdd94f152363afe4e/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/nec-red-rockets-kurobe-2355920?mode=sd
 #EXTINF:-1 group-title="NEC Red Rockets vs Queenseis" referer="https://hoadao.tv/nec-red-rockets-kurobe-2355920?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-f957d92bccbcd046ec8ef2d3eff51823.png",NEC Red Rockets vs Queenseis [BLV CỤ RÙA - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
