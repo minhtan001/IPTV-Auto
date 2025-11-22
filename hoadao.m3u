@@ -1,16 +1,13 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/meizhou-hakka-u21-vs-jiangxi-lushan-u21-2354858?mode=ndsd
-#EXTINF:-1 group-title="Meizhou Hakka U21 vs Jiangxi Lushan U21" referer="https://hoadao.tv/meizhou-hakka-u21-vs-jiangxi-lushan-u21-2354858?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-76e323006e0cc4c8da63d2a27928e2bd.png",Meizhou Hakka U21 vs Jiangxi Lushan U21 [No BLV - SD (ND)]
-https://live.alilicloud.com/live/998506870b652645d2816caedad96688/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/smackdown-smackdown-2355263?mode=sd
-#EXTINF:-1 group-title="SmackDown vs SmackDown" referer="https://hoadao.tv/smackdown-smackdown-2355263?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-2fd330979c620147b716b4184115bc68.png",SmackDown vs SmackDown [BLV BÚN CHẢ - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_buncha/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/smackdown-smackdown-2355263?mode=hd
-#EXTINF:-1 group-title="SmackDown vs SmackDown" referer="https://hoadao.tv/smackdown-smackdown-2355263?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-2fd330979c620147b716b4184115bc68.png",SmackDown vs SmackDown [BLV BÚN CHẢ - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_buncha/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/smackdown-smackdown-2355263?mode=flv
-#EXTINF:-1 group-title="SmackDown vs SmackDown" referer="https://hoadao.tv/smackdown-smackdown-2355263?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-2fd330979c620147b716b4184115bc68.png",SmackDown vs SmackDown [BLV BÚN CHẢ - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_buncha.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/smackdown-smackdown-2355263?mode=flv2
-#EXTINF:-1 group-title="SmackDown vs SmackDown" referer="https://hoadao.tv/smackdown-smackdown-2355263?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-2fd330979c620147b716b4184115bc68.png",SmackDown vs SmackDown [BLV BÚN CHẢ - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_buncha.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/nec-red-rockets-kurobe-2355920?mode=sd
+#EXTINF:-1 group-title="NEC Red Rockets vs Kurobe" referer="https://hoadao.tv/nec-red-rockets-kurobe-2355920?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-5f7acd6d377c7a16d87e49522705b1e8.png",NEC Red Rockets vs Kurobe [BLV CỤ RÙA - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/nec-red-rockets-kurobe-2355920?mode=hd
+#EXTINF:-1 group-title="NEC Red Rockets vs Kurobe" referer="https://hoadao.tv/nec-red-rockets-kurobe-2355920?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-5f7acd6d377c7a16d87e49522705b1e8.png",NEC Red Rockets vs Kurobe [BLV CỤ RÙA - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/nec-red-rockets-kurobe-2355920?mode=flv
+#EXTINF:-1 group-title="NEC Red Rockets vs Kurobe" referer="https://hoadao.tv/nec-red-rockets-kurobe-2355920?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-5f7acd6d377c7a16d87e49522705b1e8.png",NEC Red Rockets vs Kurobe [BLV CỤ RÙA - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/nec-red-rockets-kurobe-2355920?mode=flv2
+#EXTINF:-1 group-title="NEC Red Rockets vs Kurobe" referer="https://hoadao.tv/nec-red-rockets-kurobe-2355920?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-5f7acd6d377c7a16d87e49522705b1e8.png",NEC Red Rockets vs Kurobe [BLV CỤ RÙA - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
