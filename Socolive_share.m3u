@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Socolive_2",16h00: [BRIAN] South East Melbourne vs Adelaide
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",16h00: [CHAN SENA] South East Melbourne vs Adelaide
-http://sharing.gotdns.ch:8091/socolive.php?id=515530
 #EXTINF:-1 group-title="Socolive_2",17h00: [BLV SÓI] Arda vs CSKA 1948 Sofia
 http://sharing.gotdns.ch:8091/socolive.php?id=427562
 #EXTINF:-1 group-title="Socolive_2",17h00: [BLV LUCAS] Arda vs CSKA 1948 Sofia
@@ -398,6 +394,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=534055
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",06h00-23/11: [BLV GÔN] Velez Sarsfield vs Argentinos Juniors
 http://sharing.gotdns.ch:8091/socolive.php?id=445260
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2",06h00-23/11: [BLV VOI] Velez Sarsfield vs Argentinos Juniors
+http://sharing.gotdns.ch:8091/socolive.php?id=9912114
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",06h30-23/11: [BLV LUCAS] Univ Catolica vs Palestino
 http://sharing.gotdns.ch:8091/socolive.php?id=304148
