@@ -1770,6 +1770,8 @@ https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
 https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_4",TV6
 https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_4",RTM Sports HD
+https://tzh911.qzz.io/play-smt.php?id=Rtmsport
 #EXTINF:-1 group-title="TruyenHinh_4",DidikTv KPM
 https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_4",8TV
@@ -1804,65 +1806,131 @@ http://php.jdshipin.com/smt.php?id=AEC
 http://php.jdshipin.com/smt.php?id=Quanjia
 #EXTINF:-1 group-title="TruyenHinh_4",Astro欢喜台
 http://php.jdshipin.com/smt.php?id=Huahee
+#EXTINF:-1 group-title="TruyenHinh_4",Arena
+https://tzh911.qzz.io/play-smt.php?id=Arena
+#EXTINF:-1 group-title="TruyenHinh_4",Arena 2
+https://tzh911.qzz.io/play-smt.php?id=Arena2
+#EXTINF:-1 group-title="TruyenHinh_4",BolaArena 1
+https://tzh911.qzz.io/play-smt.php?id=Bolaarena1
+#EXTINF:-1 group-title="TruyenHinh_4",BolaArena 2
+https://tzh911.qzz.io/play-smt.php?id=Bolaarena2
+#EXTINF:-1 group-title="TruyenHinh_4",Astro LOL
+https://tzh911.qzz.io/play-smt.php?id=Astro_lol
+#EXTINF:-1 group-title="TruyenHinh_4",Astro Rusi
+https://tzh911.qzz.io/play-smt.php?id=Rusi
+#EXTINF:-1 group-title="TruyenHinh_4",Astro Premier League 1
+https://tzh911.qzz.io/play-smt.php?id=go_assp1
+#EXTINF:-1 group-title="TruyenHinh_4",Astro EPL 1 backup
+https://tzh911.qzz.io/play-smt.php?id=go_assp1x
+#EXTINF:-1 group-title="TruyenHinh_4",Astro Premier League 2
+https://tzh911.qzz.io/play-smt.php?id=go_assp2
+#EXTINF:-1 group-title="TruyenHinh_4",Astro Grandstand
+https://tzh911.qzz.io/play-smt.php?id=go_assp3
+#EXTINF:-1 group-title="TruyenHinh_4",Astro Football
+https://tzh911.qzz.io/play-smt.php?id=go_assp4
+#EXTINF:-1 group-title="TruyenHinh_4",Astro Sports Plus
+https://tzh911.qzz.io/play-smt.php?id=go_sportsplus
+#EXTINF:-1 group-title="TruyenHinh_4",Astro Badminton 1
+https://tzh911.qzz.io/play-smt.php?id=go_badminton1
+#EXTINF:-1 group-title="TruyenHinh_4",Astro Badminton 2
+https://tzh911.qzz.io/play-smt.php?id=go_badminton2
+#EXTINF:-1 group-title="TruyenHinh_4",Astro W-Sports
+https://tzh911.qzz.io/play-smt.php?id=go_assp5
 #EXTINF:-1 group-title="TruyenHinh_4",RTB Sukmaindera
 https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b4096000_slENG.m3u8
 #EXTINF:-1 group-title="TruyenHinh_4",RTB Aneka
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b4096000_slENG.m3u8
-#EXTINF:-1 group-title="TruyenHinh_4",Kapamilya Channel
-http://143.44.136.110:6910/001/2/ch00000090990000001286/manifest.mpd?virtualDomain=001.live_hls.zte.com
-#EXTINF:-1 group-title="TruyenHinh_4",PTV
-https://qp-pldt-live-grp-2-prod.akamaized.net/out/u/cg_ptv4_sd.mpd
 #EXTINF:-1 group-title="TruyenHinh_4",GMA 7
-http://143.44.136.110:6910/001/2/ch00000090990000001093/manifest.mpd?virtualDomain=001.live_hls.zte.com
-#EXTINF:-1 group-title="TruyenHinh_4",TV5
-https://qp-pldt-live-grp-2-prod.akamaized.net/out/u/tv5_hd.mpd
+https://converse.nathcreqtives.com/1093/manifest.mpd
+#EXTINF:-1 group-title="TruyenHinh_4",KAPAMILYA HD
+https://converse.nathcreqtives.com/1286/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_4",GTV
-http://143.44.136.110:6910/001/2/ch00000090990000001143/manifest.mpd?virtualDomain=001.live_hls.zte.com
+https://converse.nathcreqtives.com/1143/manifest.mpd
+#EXTINF:-1 group-title="TruyenHinh_4",ALL TV
+https://converse.nathcreqtives.com/1179/manifest.mpd
+#EXTINF:-1 group-title="TruyenHinh_4",TV5
+https://converse.nathcreqtives.com/1088/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_4",RPTV
-https://qp-pldt-live-grp-3-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
+https://converse.nathcreqtives.com/1094/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_4",A2Z
-https://qp-pldt-live-grp-2-prod.akamaized.net/out/u/cg_a2z.mpd
-#EXTINF:-1 group-title="TruyenHinh_4",ONE PH
-http://143.44.136.110:6910/001/2/ch00000090990000001198/manifest.mpd?virtualDomain=001.live_hls.zte.com
-#EXTINF:-1 group-title="TruyenHinh_4",TAP TV
-https://qp-pldt-live-grp-6-prod.akamaized.net/out/u/cg_taptv_sd.mpd
-#EXTINF:-1 group-title="TruyenHinh_4",Tap Edge
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_tapedge.mpd
-#EXTINF:-1 group-title="TruyenHinh_4",Tap Sports
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
-#EXTINF:-1 group-title="TruyenHinh_4",Tap Movies
-https://qp-pldt-live-grp-6-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
-#EXTINF:-1 group-title="TruyenHinh_4",Tap Action Flix
-https://qp-pldt-live-grp-6-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
-#EXTINF:-1 group-title="TruyenHinh_4",TVRI Nasional
-https://atemecdnbalancer-voe.sysln.id/live/eds/TVRINasional/mpd/TVRINasional.mpd
-#EXTINF:-1 group-title="TruyenHinh_4",TVRI World
-https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
-#EXTINF:-1 group-title="TruyenHinh_4",SCTV
-https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
-#EXTINF:-1 group-title="TruyenHinh_4",Indosiar
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
-#EXTINF:-1 group-title="TruyenHinh_4",MOJI
-https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
+https://converse.nathcreqtives.com/1087/manifest.mpd
+#EXTINF:-1 group-title="TruyenHinh_4",IBC 13
+https://converse.nathcreqtives.com/1089/manifest.mpd
+#EXTINF:-1 group-title="TruyenHinh_4",PTV
+https://converse.nathcreqtives.com/1086/manifest.mpd
+#EXTINF:-1 group-title="TruyenHinh_4",SOLAR SPORTS
+https://converse.nathcreqtives.com/1081/manifest.mpd
+#EXTINF:-1 group-title="TruyenHinh_4",SOLAR FLIX
+https://converse.nathcreqtives.com/1243/manifest.mpd
+#EXTINF:-1 group-title="TruyenHinh_4",ALIW TV
+https://converse.nathcreqtives.com/1109/manifest.mpd
+#EXTINF:-1 group-title="TruyenHinh_4",NET 25
+https://converse.nathcreqtives.com/1090/manifest.mpd
+#EXTINF:-1 group-title="TruyenHinh_4",DZRH
+https://converse.nathcreqtives.com/1174/manifest.mpd
+#EXTINF:-1 group-title="TruyenHinh_4",RJTV 29
+https://converse.nathcreqtives.com/1159/manifest.mpd
+#EXTINF:-1 group-title="TruyenHinh_4",BILYONARYO NEWS HD
+https://converse.nathcreqtives.com/1124/manifest.mpd
+#EXTINF:-1 group-title="TruyenHinh_4",KNOWLEDGE CHANNEL
+https://converse.nathcreqtives.com/1340/manifest.mpd
+#EXTINF:-1 group-title="TruyenHinh_4",CLTV36
+https://converse.nathcreqtives.com/1314/manifest.mpd
+#EXTINF:-1 group-title="TruyenHinh_4",UNTV
+https://converse.nathcreqtives.com/1091/manifest.mpd
+#EXTINF:-1 group-title="TruyenHinh_4",ONE SPORTS
+https://converse.nathcreqtives.com/1083/manifest.mpd
+#EXTINF:-1 group-title="TruyenHinh_4",GNN tv44
+https://converse.nathcreqtives.com/1234/manifest.mpd
+#EXTINF:-1 group-title="TruyenHinh_4",DZMM TELERADYO
+https://converse.nathcreqtives.com/1249/manifest.mpd
+#EXTINF:-1 group-title="TruyenHinh_4",INC TV
+https://converse.nathcreqtives.com/1092/manifest.mpd
+#EXTINF:-1 group-title="TruyenHinh_4",ANC HD
+https://converse.nathcreqtives.com/1216/manifest.mpd
+#EXTINF:-1 group-title="TruyenHinh_4",TVRI National
+https://tzh911.qzz.io/play-smt.php?id=TVRI
+#EXTINF:-1 group-title="TruyenHinh_4",RCTI
+https://tzh911.qzz.io/play-smt.php?id=Rcti
+#EXTINF:-1 group-title="TruyenHinh_4",Kompass TV
+https://tzh911.qzz.io/play-smt.php?id=Kompass
+#EXTINF:-1 group-title="TruyenHinh_4",Berita Satu
+https://tzh911.qzz.io/play-smt.php?id=BeritaSatu_eko
+#EXTINF:-1 group-title="TruyenHinh_4",Indosiar HD
+https://tzh911.qzz.io/play-smt.php?id=Indosiar
+#EXTINF:-1 group-title="TruyenHinh_4",AnTV
+https://tzh911.qzz.io/play-smt.php?id=Antv
+#EXTINF:-1 group-title="TruyenHinh_4",MNC TV
+https://tzh911.qzz.io/play-smt.php?id=Mnctv
 #EXTINF:-1 group-title="TruyenHinh_4",Trans 7
-https://atemeshield1-voe.sysln.id/live/eds/Trans7HD/mpd/Trans7HD.mpd
-#EXTINF:-1 group-title="TruyenHinh_4",ANTV
-https://atemeshield1-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
+https://tzh911.qzz.io/play-smt.php?id=Trans7_eko
+#EXTINF:-1 group-title="TruyenHinh_4",Transtv
+https://tzh911.qzz.io/play-smt.php?id=Transtv
+#EXTINF:-1 group-title="TruyenHinh_4",JTV
+https://tzh911.qzz.io/play-smt.php?id=JTV_eko
 #EXTINF:-1 group-title="TruyenHinh_4",Metro TV
-https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
-#EXTINF:-1 group-title="TruyenHinh_4",TVOne
-https://atemeshield1-voe.sysln.id/live/eds/TvOne/mpd/TvOne.mpd
-#EXTINF:-1 group-title="TruyenHinh_4",Kompas TV
-https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
-#EXTINF:-1 group-title="TruyenHinh_4",DAAI TV
-https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mpd/DAAITV.mpd
-#EXTINF:-1 group-title="TruyenHinh_4",JakTV
-https://atemeshield1-voe.sysln.id/live/eds/JAKTV/mpd/JAKTV.mpd
-#EXTINF:-1 group-title="TruyenHinh_4",JTV
-https://atemeshield1-voe.sysln.id/live/eds/JTV/mpd/JTV.mpd
-#EXTINF:-1 group-title="TruyenHinh_4",JTV
-https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mpd/JTV.mpd
-#EXTINF:-1 group-title="TruyenHinh_4",JTV
+https://tzh911.qzz.io/play-smt.php?id=metrotv_eko
+#EXTINF:-1 group-title="TruyenHinh_4",Cinemax
+https://tzh911.qzz.io/play-smt.php?id=Cinemax
+#EXTINF:-1 group-title="TruyenHinh_4",SCTV
+https://tzh911.qzz.io/play-smt.php?id=SCTV
+#EXTINF:-1 group-title="TruyenHinh_4",Tvone
+https://tzh911.qzz.io/play-smt.php?id=Tvone
+#EXTINF:-1 group-title="TruyenHinh_4",TVMU
+https://tzh911.qzz.io/play-smt.php?id=TVMU_eko
+#EXTINF:-1 group-title="TruyenHinh_4",GTV
+https://tzh911.qzz.io/play-smt.php?id=Gtv
+#EXTINF:-1 group-title="TruyenHinh_4",RTV
+https://tzh911.qzz.io/play-smt.php?id=Rtv
+#EXTINF:-1 group-title="TruyenHinh_4",Jak TV
+https://tzh911.qzz.io/play-smt.php?id=JakTV
+#EXTINF:-1 group-title="TruyenHinh_4",iNews TV
+https://tzh911.qzz.io/play-smt.php?id=Inewstv
+#EXTINF:-1 group-title="TruyenHinh_4",Daai TV
+https://tzh911.qzz.io/play-smt.php?id=DaaiTV
+#EXTINF:-1 group-title="TruyenHinh_4",Net TV
+https://tzh911.qzz.io/play-smt.php?id=NetTV
+#EXTINF:-1 group-title="TruyenHinh_4",Net TV
 --------------------------------------------------------------------------------
 #EXTINF:-1 group-title="TruyenHinh_4",HanoiTV2 4K
 https://xem.hoiquan.Click/NguonOnliveTV/hanoi2/ToChaThangVThanh
