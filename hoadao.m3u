@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/macarthur-fc-vs-tai-po-2356061?mode=sd
-#EXTINF:-1 group-title="Macarthur FC vs Tai Po" referer="https://hoadao.tv/macarthur-fc-vs-tai-po-2356061?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-4f664ddd084a37c09203bd709606d174.png",Macarthur FC vs Tai Po [BLV MÈO BÉO - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/macarthur-fc-vs-tai-po-2356061?mode=hd
-#EXTINF:-1 group-title="Macarthur FC vs Tai Po" referer="https://hoadao.tv/macarthur-fc-vs-tai-po-2356061?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-4f664ddd084a37c09203bd709606d174.png",Macarthur FC vs Tai Po [BLV MÈO BÉO - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/macarthur-fc-vs-tai-po-2356061?mode=flv
-#EXTINF:-1 group-title="Macarthur FC vs Tai Po" referer="https://hoadao.tv/macarthur-fc-vs-tai-po-2356061?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-4f664ddd084a37c09203bd709606d174.png",Macarthur FC vs Tai Po [BLV MÈO BÉO - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/macarthur-fc-vs-tai-po-2356061?mode=flv2
-#EXTINF:-1 group-title="Macarthur FC vs Tai Po" referer="https://hoadao.tv/macarthur-fc-vs-tai-po-2356061?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-4f664ddd084a37c09203bd709606d174.png",Macarthur FC vs Tai Po [BLV MÈO BÉO - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/macarthur-fc-vs-tai-po-2356061?mode=ndsd
-#EXTINF:-1 group-title="Macarthur FC vs Tai Po" referer="https://hoadao.tv/macarthur-fc-vs-tai-po-2356061?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-4f664ddd084a37c09203bd709606d174.png",Macarthur FC vs Tai Po [BLV MÈO BÉO - SD (ND)]
-https://live.alilicloud.com/live/1686b00707cfc67509c58af6d02fbb65/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/ratchaburi-fc-vs-thep-xanh-nam-dinh-fc-2356066?mode=sd
 #EXTINF:-1 group-title="Ratchaburi FC vs Thep Xanh Nam Dinh FC" referer="https://hoadao.tv/ratchaburi-fc-vs-thep-xanh-nam-dinh-fc-2356066?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-79887951a18721b56c7ff79dda88345f.png",Ratchaburi FC vs Thep Xanh Nam Dinh FC [BLV PHÁO - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
@@ -26,3 +11,18 @@ https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/ratchaburi-fc-vs-thep-xanh-nam-dinh-fc-2356066?mode=flv2
 #EXTINF:-1 group-title="Ratchaburi FC vs Thep Xanh Nam Dinh FC" referer="https://hoadao.tv/ratchaburi-fc-vs-thep-xanh-nam-dinh-fc-2356066?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-79887951a18721b56c7ff79dda88345f.png",Ratchaburi FC vs Thep Xanh Nam Dinh FC [BLV PHÁO - FLV 2]
 https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/ratchaburi-fc-vs-thep-xanh-nam-dinh-fc-2356066?mode=ndsd
+#EXTINF:-1 group-title="Ratchaburi FC vs Thep Xanh Nam Dinh FC" referer="https://hoadao.tv/ratchaburi-fc-vs-thep-xanh-nam-dinh-fc-2356066?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-79887951a18721b56c7ff79dda88345f.png",Ratchaburi FC vs Thep Xanh Nam Dinh FC [BLV PHÁO - SD (ND)]
+https://live.alilicloud.com/live/3c0464443a4d90d379aa9941a9be1f28/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/expressway-pepper-2359091?mode=sd
+#EXTINF:-1 group-title="Expressway vs Pepper" referer="https://hoadao.tv/expressway-pepper-2359091?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-c96f3a2c061fc70bc9762874daaf30ad.png",Expressway vs Pepper [BLV CỤ RÙA - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/expressway-pepper-2359091?mode=hd
+#EXTINF:-1 group-title="Expressway vs Pepper" referer="https://hoadao.tv/expressway-pepper-2359091?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-c96f3a2c061fc70bc9762874daaf30ad.png",Expressway vs Pepper [BLV CỤ RÙA - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/expressway-pepper-2359091?mode=flv
+#EXTINF:-1 group-title="Expressway vs Pepper" referer="https://hoadao.tv/expressway-pepper-2359091?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-c96f3a2c061fc70bc9762874daaf30ad.png",Expressway vs Pepper [BLV CỤ RÙA - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/expressway-pepper-2359091?mode=flv2
+#EXTINF:-1 group-title="Expressway vs Pepper" referer="https://hoadao.tv/expressway-pepper-2359091?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-c96f3a2c061fc70bc9762874daaf30ad.png",Expressway vs Pepper [BLV CỤ RÙA - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
