@@ -9,8 +9,6 @@ http://live.qphim.xyz/hls_nonkey/ninochannel1/index.m3u8
 http://live.qphim.xyz/hls_nonkey/ninochannel2/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SGEvents
 https://akaviettel.sgchill.io.vn/v1/stream/twitch/channel/sgevents.smil/playlist.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Công An Hà Nội vs Bắc Kinh Quốc An
-https://rblive.starxcdn.xyz/live/689c7d152eeb894ab75a5340_965mkyhkz0wpr1g_football_fhd.flv
 #EXTINF:-1 group-title="TruyenHinh_2",Sky Sport F1
 http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/218103.ts
 #EXTINF:-1 group-title="TruyenHinh_2",Sky Sport Mix
@@ -425,6 +423,8 @@ https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=213&token=BLj
 https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Al Jazeera English
 https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",TRT World
+https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Animal Planet
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=71986&extension=ts&play_token=bxZiCrEqA4
 #EXTINF:-1 group-title="TruyenHinh_2",Discovery
