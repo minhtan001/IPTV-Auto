@@ -1,19 +1,10 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",16h00-28/11 Cambodia U17 Vs Guam Island U17 BLV LÝ ỨNG
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",16h00-28/11 Malaysia U17 Vs Singapore U17 BLV CHU ĐỒNG
-https://hls.cdnok9.com/live/CHUDONG/index.m3u8?expire=1788427256&sign=b7df620ef99aaa1798bda4e698168a46
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",16h00-28/11 Pakistan U17 Vs Yemen U17 BLV NHỊ KA
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:-1 group-title="LuongSon_2",16h30-28/11 Myanmar U17 Vs Oman U17 BLV NGŨ CA
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",18h00-28/11 PalestineU17 Vs Iran U17 BLV LÝ QUỲ
 https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",16h30-28/11 Myanmar U17 Vs Oman U17 BLV NGŨ CA
-https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",12h20-28/11 Arsenal Vs Bayern Munich BLV THỜI THIÊN REPLAY
 https://hls.cdnok9.com/live/TO6A/index.m3u8?expire=1891408380&sign=df6b95775ca8cf6b58a17d54271d96e3
@@ -21,17 +12,14 @@ https://hls.cdnok9.com/live/TO6A/index.m3u8?expire=1891408380&sign=df6b95775ca8c
 #EXTINF:-1 group-title="LuongSon_2",12h25-28/11 MU Vs EVERTON BLV KAKA REPLAY
 https://hls.cdnok9.com/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
 #EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",17h00-28/11 FK Kapaz Ganca Vs Zira FK NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvY6UexurwxwUSUVA/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",17h00-28/11 Marila Pribram Vs Slavia Prague B NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvYM5sp9GeLneQuat/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls39.live/
+#EXTINF:-1 group-title="LuongSon_2",17h00-28/11 FK Kapaz Ganca Vs Zira FK NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MvY6UexurwxwUSUVA/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",18h00-28/11 Scotland (W) Vs Ukraine (W) NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvYMCS373XcHtYQAx/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",18h00-28/11 Polissya Zhytomyr U21 Vs Zorya U21 NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MuQ8iiSTkG8CqH6kt/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",18h00-28/11 Veres Rivne U21 Vs Karpaty U21 NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuQ8iiSTpf5wnvw4g/playlist.m3u8
@@ -39,23 +27,29 @@ https://auto.cdnvankhanh.com/live/sd-6MuQ8iiSTpf5wnvw4g/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon_2",18h00-28/11 Gandzasar Kapan Vs BKMA NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvYboYzdDAqZRueNp/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls39.live/
+#EXTINF:-1 group-title="LuongSon_2",18h35-28/11 Sri Lanka U17 Vs China U17 BLV PHONG VÂN
+https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",19h00-28/11 Turkey (W) Vs Albania (W) NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvYMCS2GPNcmsmhDn/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",19h00-28/11 FK Usce Novi Beograd Vs FK Vozdovac Beograd NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuQ9HHemm5aeTP5rk/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",19h30-28/11 Besa Kavaje Vs KS Korabi Peshkopi NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvXcL5wV2aQ4o2dqn/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",19h05-28/11 Al Anwar SA Vs Al-Zlfe BLV NGŨ CA
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",19h30-28/11 LNZ Cherkasy U21 Vs FC KudrivkaU21 NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuQ9LXAYaB3wBAWbv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls39.live/
+#EXTINF:-1 group-title="LuongSon_2",19h30-28/11 Turkmenistan U17 Vs Thailand U17 BLV MÃ LÂN
+https://hls.cdnok9.com/live/MALAN/index.m3u8?expire=1788427256&sign=2c2690c1b536f3d099b63f3ff8165385
+#EXTVLCOPT:http-referrer=https://ls39.live/
+#EXTINF:-1 group-title="LuongSon_2",19h30-28/11 Besa Kavaje Vs KS Korabi Peshkopi NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MvXcL5wV2aQ4o2dqn/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",19h45-28/11 Kelantan WTS FC Vs Kelantan Red Warrior NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvYMCS2GRa6eMbcNg/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",20h00-28/11 Maccabi Petah Tikva FC Vs Kiryat Yam SC NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvXMSXt3audoKFtPE/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",20h00-28/11 Hapoel Acre FC Vs Hapoel Rishon Lezion NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvXMSXt43HQF5AtDz/playlist.m3u8
@@ -63,11 +57,17 @@ https://auto.cdnvankhanh.com/live/sd-6MvXMSXt43HQF5AtDz/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon_2",20h00-28/11 Hapoel Ramat Gan Vs Ironi Modiin NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvXMSXt47gMz2piXn/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls39.live/
+#EXTINF:-1 group-title="LuongSon_2",20h00-28/11 Maccabi Petah Tikva FC Vs Kiryat Yam SC NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MvXMSXt3audoKFtPE/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",20h00-28/11 Kafr Qasim Vs Hapoel Kfar Saba NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvXMSXt3Yi9vqRyEL/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",20h00-28/11 ZESCO United Ndola Vs Al Masry NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvYMFfYsSSo1LEkEG/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls39.live/
+#EXTINF:-1 group-title="LuongSon_2",20h00-28/11 Laos U17 Vs Kyrgyzstan U17 BLV KENCHU
+https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",21h00-28/11 Al-Baq's Vs Sama Al Sarhan NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvXMcMpEbqwSCfytQ/playlist.m3u8
@@ -105,6 +105,9 @@ https://auto.cdnvankhanh.com/live/sd-6MuSsD6bKPT7AuQ732/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon_2",23h45-28/11 Poland (W) Vs Slovenia (W) NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvYMCS2GVy4PKFSgU/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls39.live/
+#EXTINF:-1 group-title="LuongSon_2",00h00-29/11 Kapfenberg Vs Austria Wien (Youth) NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MuSs9rJiJJaiQzUDA/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",00h00-29/11 HNK Vukovar 91 Vs ZNK Osijek NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuSs9p7vndWiCwUZz/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls39.live/
@@ -122,9 +125,6 @@ https://auto.cdnvankhanh.com/live/sd-6MuT7sbBcsC7eAZaTE/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",00h00-29/11 Al Faisaly Amman Vs Al-Ahly NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvXMcMpEZeTZir4jW/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",00h00-29/11 Kapfenberg Vs Austria Wien (Youth) NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MuSs9rJiJJaiQzUDA/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",00h00-29/11 FC Liefering Vs SK Austria Klagenfurt NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuSs9rJYwQtjuw7Ki/playlist.m3u8
@@ -165,8 +165,8 @@ https://auto.cdnvankhanh.com/live/sd-6MuT7bFzmYLmvKfhgY/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon_2",02h00-29/11 Den Bosch Vs Willem II NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuT7vqRib3MUHsksv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",02h00-29/11 VVV Venlo Vs ADO Den Haag NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MuT7vqRiAs4u1ngC4/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",02h00-29/11 SC Cambuur Vs Helmond Sport NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MuT7vqRidEqLmhg2p/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",02h00-29/11 Dordrecht Vs FC Utrecht (Youth) NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuT7vqRihdo5jMWLc/playlist.m3u8
@@ -174,8 +174,8 @@ https://auto.cdnvankhanh.com/live/sd-6MuT7vqRihdo5jMWLc/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon_2",02h00-29/11 Emmen Vs AZ Alkmaar (Youth) NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuT7vqRifSKDFXbBi/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",02h00-29/11 SC Cambuur Vs Helmond Sport NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MuT7vqRidEqLmhg2p/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",02h00-29/11 VVV Venlo Vs ADO Den Haag NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MuT7vqRiAs4u1ngC4/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",02h00-29/11 MC Alger Vs Mamelodi Sundowns NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvYLrqqLKwfVpvoME/playlist.m3u8
@@ -197,6 +197,9 @@ https://auto.cdnvankhanh.com/live/sd-6MuPtjLWRd81G6KHqe/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",02h30-29/11 Miedz Legnica Vs GKS Tychy NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuSrz7XwPyF2JUt8U/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls39.live/
+#EXTINF:-1 group-title="LuongSon_2",02h45-29/11 Metz Vs Rennes BLV MÃ LÂN
+https://hls.cdnok9.com/live/MALAN/index.m3u8?expire=1788427256&sign=2c2690c1b536f3d099b63f3ff8165385
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",02h45-29/11 Mechelen Vs Standard Liege NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuT7XyViJmr6EYA5J/playlist.m3u8
