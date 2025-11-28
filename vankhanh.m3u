@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Al Kholood vs Al-Khaleej" tvg-logo="https://hxcv.site/images/cache/match-93a7c2406fc8672b9e2aaa41a68ca73b.png",Al Kholood vs Al-Khaleej [BLV VĂN GÔN - HLS]
-https://hls.cdnvankhanh.com/live/VANGON/index.m3u8?expire=1891583400&sign=db46845cd1edc815d5bba4a6538fd9ce
-#EXTINF:-1 group-title="Al Kholood vs Al-Khaleej" tvg-logo="https://hxcv.site/images/cache/match-93a7c2406fc8672b9e2aaa41a68ca73b.png",Al Kholood vs Al-Khaleej [BLV VĂN GÔN - FLV]
-https://flv.cdnvankhanh.com/live/VANGON.flv?expire=1891583400&sign=db46845cd1edc815d5bba4a6538fd9ce
 #EXTINF:-1 group-title="Obolon Kiev vs Kolos Kovalyovka" tvg-logo="https://hxcv.site/images/cache/match-a219247509482f0d9fd9dcdbbaa8c477.png",Obolon Kiev vs Kolos Kovalyovka [BLV VĂN LONG - HLS]
 https://hls.cdnvankhanh.com/live/VANLONG/index.m3u8?expire=1891070400&sign=8b0432bc178a10760ef797d47c1aabf7
 #EXTINF:-1 group-title="Obolon Kiev vs Kolos Kovalyovka" tvg-logo="https://hxcv.site/images/cache/match-a219247509482f0d9fd9dcdbbaa8c477.png",Obolon Kiev vs Kolos Kovalyovka [BLV VĂN LONG - FLV]
@@ -15,3 +11,11 @@ https://hls.cdnvankhanh.com/live/GIAOSUXOAY/index.m3u8?expire=1892730180&sign=c5
 https://hls.cdnvankhanh.com/live/VEVAN/index.m3u8?expire=1848307620&sign=5779030852f8cafeab86dae9130be2f5
 #EXTINF:-1 group-title="IraqU17 vs Bhutan U17" tvg-logo="https://hxcv.site/images/cache/match-bd62400ffc8cdd6779620d6c68c43818.png",IraqU17 vs Bhutan U17 [BLV VĂN VẺ - FLV]
 https://flv.cdnvankhanh.com/live/VEVAN.flv?expire=1848307620&sign=5779030852f8cafeab86dae9130be2f5
+#EXTINF:-1 group-title="Kocaelispor vs Genclerbirligi" tvg-logo="https://hxcv.site/images/cache/match-25799131594eadcf067ccdcc37e642ef.png",Kocaelispor vs Genclerbirligi [BLV VĂN MINH - HLS]
+https://hls.cdnvankhanh.com/live/VANMINH/index.m3u8?expire=1891172040&sign=f6acb0ca35d53b8fc8f43ca1c11efb5e
+#EXTINF:-1 group-title="Kocaelispor vs Genclerbirligi" tvg-logo="https://hxcv.site/images/cache/match-25799131594eadcf067ccdcc37e642ef.png",Kocaelispor vs Genclerbirligi [BLV VĂN MINH - FLV]
+https://flv.cdnvankhanh.com/live/VANMINH.flv?expire=1891172040&sign=f6acb0ca35d53b8fc8f43ca1c11efb5e
+#EXTINF:-1 group-title="Piast Gliwice vs Widzew lodz" tvg-logo="https://hxcv.site/images/cache/match-510eb311e1ee6b14cdccf0d24ec4827d.png",Piast Gliwice vs Widzew lodz [BLV VĂN VỞ - HLS]
+https://hls.cdnvankhanh.com/live/VANVO/index.m3u8?expire=1826356200&sign=f92cd6005b35a94f2c93f28b3ffac506
+#EXTINF:-1 group-title="Piast Gliwice vs Widzew lodz" tvg-logo="https://hxcv.site/images/cache/match-510eb311e1ee6b14cdccf0d24ec4827d.png",Piast Gliwice vs Widzew lodz [BLV VĂN VỞ - FLV]
+https://flv.cdnvankhanh.com/live/VANVO.flv?expire=1826356200&sign=f92cd6005b35a94f2c93f28b3ffac506
