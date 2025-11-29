@@ -1,8 +1,5 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",12h00-29/11 Tokushima Vortis Vs V-Varen Nagasaki TRỢ LÝ ĐIÊU THUYỀN
-https://hls.cdnok9.com/live/DIEUTHUYEN/index.m3u8?expire=1788427256&sign=8cebea5448db2f74ea04021d9362ba87
-#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",12h10-29/11 Arsenal Vs Bayern Munich BLV THỜI THIÊN REPLAY
 https://hls.cdnok9.com/live/TO6A/index.m3u8?expire=1891408380&sign=df6b95775ca8cf6b58a17d54271d96e3
 #EXTVLCOPT:http-referrer=https://ls39.live/
@@ -12,8 +9,8 @@ https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b
 #EXTINF:-1 group-title="LuongSon_2",11h00-29/11 Wellington Phoenix Vs Adelaide United BLV KAKA
 https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 #EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",10h40-29/11 Wellington Phoenix Reserve Vs Birkenhead United NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvYM97Lvfkhd5R9U8/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2",12h00-29/11 Tokushima Vortis Vs V-Varen Nagasaki TRỢ LÝ ĐIÊU THUYỀN
+https://hls.cdnok9.com/live/DIEUTHUYEN/index.m3u8?expire=1788427256&sign=8cebea5448db2f74ea04021d9362ba87
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",11h35-29/11 South Melbourne Vs Heidelberg United NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvYM5sppXiATgJLVi/playlist.m3u8
@@ -44,6 +41,9 @@ https://auto.cdnvankhanh.com/live/sd-6MtMPDkPhrM35TiqBz/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",12h00-29/11 Roasso Kumamoto Vs Ventforet Kofu NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MtMPDm9CkCs1ZMg3v/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls39.live/
+#EXTINF:-1 group-title="LuongSon_2",13h00-29/11 Central Coast Mariners Vs Melbourne City BLV KEVILL
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",13h00-29/11 FC Gifu Vs Osaka FC NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MtMPDoLzGvcWHEjXi/playlist.m3u8
