@@ -96,41 +96,11 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls39.live/",08h10-30/11 Toluca Vs FC Juarez TRỢ LÝ ĐIÊU THUYỀN
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls39.live/",10h10-30/11 Tigres UANL Vs Club Tijuana TRỢ LÝ ĐIÊU THUYỀN
 https://hls.cdnok9.com/live/DIEUTHUYEN/index.m3u8?expire=1788427256&sign=8cebea5448db2f74ea04021d9362ba87
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls39.live/",09h00-30/11 Auckland FC Vs Newcastle Jets BLV TÂY MÔN KHÁNH
 https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTINF:-1 group-title="Socolive_2",07h00: [NGOẠ LONG] Ceara vs Cruzeiro Esporte Clube
-http://sharing.gotdns.ch:8091/socolive.php?id=538979
-#EXTINF:-1 group-title="Socolive_2",07h00: [BLV Hổ Lùn] Ceara vs Cruzeiro Esporte Clube
-http://sharing.gotdns.ch:8091/socolive.php?id=308080
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV SÓI] Fortaleza F.C vs Atletico Bucaramanga
-http://sharing.gotdns.ch:8091/socolive.php?id=427562
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV SHIN] Fortaleza F.C vs Atletico Bucaramanga
-http://sharing.gotdns.ch:8091/socolive.php?id=522086
-#EXTINF:-1 group-title="Socolive_2",08h00: [QUANG MINH] Club Deportivo Irapuato vs Club Jaiba Brava
-http://sharing.gotdns.ch:8091/socolive.php?id=557139
-#EXTINF:-1 group-title="Socolive_2",08h00: [CÔNG CHẤT] Toluca vs FC Juarez
-http://sharing.gotdns.ch:8091/socolive.php?id=291277
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV ĐỐM] Toluca vs FC Juarez
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV XO] Toluca vs FC Juarez
-http://sharing.gotdns.ch:8091/socolive.php?id=472241
-#EXTINF:-1 group-title="Socolive_2",08h00: [JACKMAN] Toluca vs FC Juarez
-http://sharing.gotdns.ch:8091/socolive.php?id=542758
-#EXTINF:-1 group-title="Socolive_2",08h00: [RED BULL] Toluca vs FC Juarez
-http://sharing.gotdns.ch:8091/socolive.php?id=547345
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV XAVI] Toluca vs FC Juarez
-http://sharing.gotdns.ch:8091/socolive.php?id=525090
-#EXTINF:-1 group-title="Socolive_2",08h05: [HUNTER] Indiana Pacers vs Chicago Bulls
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",08h05: [KING] Indiana Pacers vs Chicago Bulls
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",08h05: [BRIAN] Indiana Pacers vs Chicago Bulls
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",08h30: [BLV HENRY] Golden State Warriors vs New Orleans Pelicans
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
 #EXTINF:-1 group-title="Socolive_2",09h00: [BLV  TYPN] San Diego FC vs Vancouver Whitecaps
 http://sharing.gotdns.ch:8091/socolive.php?id=9912009
 #EXTINF:-1 group-title="Socolive_2",09h00: [CÔNG LÝ] San Diego FC vs Vancouver Whitecaps
@@ -157,7 +127,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912060
 http://sharing.gotdns.ch:8091/socolive.php?id=9912103
 #EXTINF:-1 group-title="Socolive_2",09h00: [BLV NOKA] CS Herediano vs AD San Carlos
 http://sharing.gotdns.ch:8091/socolive.php?id=537460
-#EXTINF:-1 group-title="Socolive_2",09h00: [CHAN SENA] Phoenix Suns vs Denver Nuggets
+#EXTINF:-1 group-title="Socolive_2",09h05: [BLV HENRY] Golden State Warriors vs New Orleans Pelicans
+http://sharing.gotdns.ch:8091/socolive.php?id=9912112
+#EXTINF:-1 group-title="Socolive_2",09h35: [CHAN SENA] Phoenix Suns vs Denver Nuggets
 http://sharing.gotdns.ch:8091/socolive.php?id=515530
 #EXTINF:-1 group-title="Socolive_2",10h00: [BLV LONG] Tigres UANL vs Club Tijuana
 http://sharing.gotdns.ch:8091/socolive.php?id=9912050
@@ -171,11 +143,11 @@ http://sharing.gotdns.ch:8091/socolive.php?id=351530
 http://sharing.gotdns.ch:8091/socolive.php?id=9912110
 #EXTINF:-1 group-title="Socolive_2",10h00: [BLV KEM] Tigres UANL vs Club Tijuana
 http://sharing.gotdns.ch:8091/socolive.php?id=513394
-#EXTINF:-1 group-title="Socolive_2",10h00: [HUNTER] Los Angeles Clippers vs Dallas Mavericks
+#EXTINF:-1 group-title="Socolive_2",10h35: [HUNTER] Los Angeles Clippers vs Dallas Mavericks
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",10h00: [KING] Los Angeles Clippers vs Dallas Mavericks
+#EXTINF:-1 group-title="Socolive_2",10h35: [KING] Los Angeles Clippers vs Dallas Mavericks
 http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",10h00: [BRIAN] Los Angeles Clippers vs Dallas Mavericks
+#EXTINF:-1 group-title="Socolive_2",10h35: [BRIAN] Los Angeles Clippers vs Dallas Mavericks
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTINF:-1 group-title="Socolive_2",12h00: [BLV Hổ Lùn] Albirex Niigata vs Kashiwa Reysol
 http://sharing.gotdns.ch:8091/socolive.php?id=308080
