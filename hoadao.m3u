@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/sc-freiburg-vs-1-fsv-mainz-05-2358717?mode=sd
-#EXTINF:-1 group-title="SC Freiburg vs 1. FSV Mainz 05" referer="https://hoadao.tv/sc-freiburg-vs-1-fsv-mainz-05-2358717?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-5d6bbfbe7b93b4c211f2d2a4084f5e8c.png",SC Freiburg vs 1. FSV Mainz 05 [BLV MÈO BÉO - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/sc-freiburg-vs-1-fsv-mainz-05-2358717?mode=hd
-#EXTINF:-1 group-title="SC Freiburg vs 1. FSV Mainz 05" referer="https://hoadao.tv/sc-freiburg-vs-1-fsv-mainz-05-2358717?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-5d6bbfbe7b93b4c211f2d2a4084f5e8c.png",SC Freiburg vs 1. FSV Mainz 05 [BLV MÈO BÉO - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/sc-freiburg-vs-1-fsv-mainz-05-2358717?mode=flv
-#EXTINF:-1 group-title="SC Freiburg vs 1. FSV Mainz 05" referer="https://hoadao.tv/sc-freiburg-vs-1-fsv-mainz-05-2358717?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-5d6bbfbe7b93b4c211f2d2a4084f5e8c.png",SC Freiburg vs 1. FSV Mainz 05 [BLV MÈO BÉO - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/sc-freiburg-vs-1-fsv-mainz-05-2358717?mode=flv2
-#EXTINF:-1 group-title="SC Freiburg vs 1. FSV Mainz 05" referer="https://hoadao.tv/sc-freiburg-vs-1-fsv-mainz-05-2358717?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-5d6bbfbe7b93b4c211f2d2a4084f5e8c.png",SC Freiburg vs 1. FSV Mainz 05 [BLV MÈO BÉO - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/as-roma-vs-napoli-2358727?mode=sd
 #EXTINF:-1 group-title="AS Roma vs Napoli" referer="https://hoadao.tv/as-roma-vs-napoli-2358727?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-5d557c5a5cd529b4b3d5fb2ce4e01a91.png",AS Roma vs Napoli [BLV CHIM NHỎ - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
@@ -56,27 +44,6 @@ https://pjoo0925.edgemaxcdn.org/live/blv_buncha.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/girona-fc-vs-real-madrid-2358729?mode=ndsd
 #EXTINF:-1 group-title="Girona FC vs Real Madrid" referer="https://hoadao.tv/girona-fc-vs-real-madrid-2358729?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-fce335372bc968d548a50d02e256d7ee.png",Girona FC vs Real Madrid [BLV BÚN CHẢ - SD (ND)]
 https://live.alilicloud.com/live/c8cae9e78ee63bc49fa7ce0e70b13d7c/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/corinthians-paulista-sp-vs-botafogo-rj-2358718?mode=ndsd
-#EXTINF:-1 group-title="Corinthians Paulista (SP) vs Botafogo RJ" referer="https://hoadao.tv/corinthians-paulista-sp-vs-botafogo-rj-2358718?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-ecbceea1f31974edf3072feb063f8e0a.png",Corinthians Paulista (SP) vs Botafogo RJ [No BLV - SD (ND)]
-https://live.alilicloud.com/live/c5e0c23a9fb68280d7e97613831f3127/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/panathinaikos-vs-aek-athens-2358720?mode=ndsd
-#EXTINF:-1 group-title="Panathinaikos vs AEK Athens" referer="https://hoadao.tv/panathinaikos-vs-aek-athens-2358720?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-48bd4ac31508fa9af2c45c592bfd5a9f.png",Panathinaikos vs AEK Athens [No BLV - SD (ND)]
-https://live.alilicloud.com/live/38fdc5f12ad2ac610cd4eae280e57064/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/oriente-petrolero-vs-blooming-2358721?mode=ndsd
-#EXTINF:-1 group-title="Oriente Petrolero vs Blooming" referer="https://hoadao.tv/oriente-petrolero-vs-blooming-2358721?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-45776760e319ff050ce2f83e0d96cc26.png",Oriente Petrolero vs Blooming [No BLV - SD (ND)]
-https://live.alilicloud.com/live/d3aa6e59a214f8c5a375bae940f70857/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/wisla-krakow-vs-stal-mielec-2357948?mode=ndsd
-#EXTINF:-1 group-title="Wisla Krakow vs Stal Mielec" referer="https://hoadao.tv/wisla-krakow-vs-stal-mielec-2357948?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-56250ea07a980f3cf17515be2cc0333d.png",Wisla Krakow vs Stal Mielec [No BLV - SD (ND)]
-https://live.alilicloud.com/live/964851e4473793b591e3d553eb971129/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/wisla-plock-vs-lech-poznan-2358722?mode=ndsd
-#EXTINF:-1 group-title="Wisla Plock vs Lech Poznan" referer="https://hoadao.tv/wisla-plock-vs-lech-poznan-2358722?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-09a7f856d4fdee1334484ac3530e1385.png",Wisla Plock vs Lech Poznan [No BLV - SD (ND)]
-https://live.alilicloud.com/live/d35a876a1bdb42be00b2af5e6177a6e8/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/delfines-del-este-vs-atletico-pantoja-2360934?mode=ndsd
-#EXTINF:-1 group-title="Delfines Del Este vs Atletico Pantoja" referer="https://hoadao.tv/delfines-del-este-vs-atletico-pantoja-2360934?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-352ad5c8a5afc3ffb6ef349bd52416c4.png",Delfines Del Este vs Atletico Pantoja [No BLV - SD (ND)]
-https://live.alilicloud.com/live/4452be14d538ef4561c97fafead8916f/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/salcedo-fc-vs-moca-fc-2360938?mode=ndsd
-#EXTINF:-1 group-title="Salcedo FC vs Moca FC" referer="https://hoadao.tv/salcedo-fc-vs-moca-fc-2360938?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-c9f014035bdce27fb20c8e40da2c38d9.png",Salcedo FC vs Moca FC [No BLV - SD (ND)]
-https://live.alilicloud.com/live/a8ce28015d839a06391491c680759582/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/nacional-montevideo-vs-ca-penarol-2358725?mode=ndsd
 #EXTINF:-1 group-title="Nacional Montevideo vs CA Penarol" referer="https://hoadao.tv/nacional-montevideo-vs-ca-penarol-2358725?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-41b7eea4ace95030612570ef41d18044.png",Nacional Montevideo vs CA Penarol [No BLV - SD (ND)]
 https://live.alilicloud.com/live/c85b81350c57e7824bbbd40aa9d8212c/playlist.m3u8
@@ -131,3 +98,9 @@ https://live.alilicloud.com/live/c14041653b1554b5fbfc6de44eebd53f/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/deportivo-madryn-vs-estudiantes-rio-cuarto-2358731?mode=ndsd
 #EXTINF:-1 group-title="Deportivo Madryn vs Estudiantes Rio Cuarto" referer="https://hoadao.tv/deportivo-madryn-vs-estudiantes-rio-cuarto-2358731?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-b0af513e50af87b1ef4a797aa6b7578b.png",Deportivo Madryn vs Estudiantes Rio Cuarto [No BLV - SD (ND)]
 https://live.alilicloud.com/live/9ae745d6845e54253434ee514ad5556b/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/fc-porto-vs-estoril-2358732?mode=ndsd
+#EXTINF:-1 group-title="FC Porto vs Estoril" referer="https://hoadao.tv/fc-porto-vs-estoril-2358732?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-5afeaea10240aa522a46126bd8f57ebd.png",FC Porto vs Estoril [No BLV - SD (ND)]
+https://live.alilicloud.com/live/8275f6c498c1f41f6516e9716213503e/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/macara-vs-cd-el-nacional-2358733?mode=ndsd
+#EXTINF:-1 group-title="Macara vs CD El Nacional" referer="https://hoadao.tv/macara-vs-cd-el-nacional-2358733?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-c6e23f378890ac2d039ea44e4cb535b0.png",Macara vs CD El Nacional [No BLV - SD (ND)]
+https://live.alilicloud.com/live/a7b1eb242e5d0fa94a8505a840e0cab7/playlist.m3u8
