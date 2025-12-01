@@ -1,13 +1,25 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/the-strongest-vs-bolivar-2358747?mode=ndsd
-#EXTINF:-1 group-title="The Strongest vs Bolivar" referer="https://hoadao.tv/the-strongest-vs-bolivar-2358747?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-a2fbaff91f2bab19c1a6f372d7f86241.png",The Strongest vs Bolivar [No BLV - SD (ND)]
-https://live.alilicloud.com/live/775a6f1ad5f37fcba9f8734ec3bb23ee/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/boca-juniors-vs-argentinos-juniors-2358835?mode=ndsd
-#EXTINF:-1 group-title="Boca Juniors vs Argentinos Juniors" referer="https://hoadao.tv/boca-juniors-vs-argentinos-juniors-2358835?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-98bf6a3dd7917e3d6762194d3c6a29ad.png",Boca Juniors vs Argentinos Juniors [No BLV - SD (ND)]
-https://live.alilicloud.com/live/dde2a294f611727a1020913d3551a015/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/fortaleza-vs-atletico-mineiro-2358748?mode=ndsd
-#EXTINF:-1 group-title="Fortaleza vs Atletico Mineiro" referer="https://hoadao.tv/fortaleza-vs-atletico-mineiro-2358748?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-8e5833849bd30a57044640616459289c.png",Fortaleza vs Atletico Mineiro [No BLV - SD (ND)]
-https://live.alilicloud.com/live/66dc3eceb3cbab507e62dc860b5626f2/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/deportivo-saprissa-vs-ad-municipal-liberia-2358751?mode=ndsd
-#EXTINF:-1 group-title="Deportivo Saprissa vs AD Municipal Liberia" referer="https://hoadao.tv/deportivo-saprissa-vs-ad-municipal-liberia-2358751?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-c51cd6f2487b9d53a3cd71aa7bd9bf50.png",Deportivo Saprissa vs AD Municipal Liberia [No BLV - SD (ND)]
-https://live.alilicloud.com/live/fe82d007891ccd5783e9df7fcba0a4ee/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/famalicao-u23-vs-vizela-u23-2358823?mode=sd
+#EXTINF:-1 group-title="Famalicao U23 vs Vizela U23" referer="https://hoadao.tv/famalicao-u23-vs-vizela-u23-2358823?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-c770f9afd712731b16c8957af7faf350.png",Famalicao U23 vs Vizela U23 [BLV CHIM NHỎ - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/famalicao-u23-vs-vizela-u23-2358823?mode=hd
+#EXTINF:-1 group-title="Famalicao U23 vs Vizela U23" referer="https://hoadao.tv/famalicao-u23-vs-vizela-u23-2358823?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-c770f9afd712731b16c8957af7faf350.png",Famalicao U23 vs Vizela U23 [BLV CHIM NHỎ - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/famalicao-u23-vs-vizela-u23-2358823?mode=flv
+#EXTINF:-1 group-title="Famalicao U23 vs Vizela U23" referer="https://hoadao.tv/famalicao-u23-vs-vizela-u23-2358823?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-c770f9afd712731b16c8957af7faf350.png",Famalicao U23 vs Vizela U23 [BLV CHIM NHỎ - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/famalicao-u23-vs-vizela-u23-2358823?mode=flv2
+#EXTINF:-1 group-title="Famalicao U23 vs Vizela U23" referer="https://hoadao.tv/famalicao-u23-vs-vizela-u23-2358823?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-c770f9afd712731b16c8957af7faf350.png",Famalicao U23 vs Vizela U23 [BLV CHIM NHỎ - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/sepsi-osk-sfantul-gheorghe-vs-acsm-politehnica-iai-2357012?mode=sd
+#EXTINF:-1 group-title="Sepsi OSK Sfantul Gheorghe vs ACSM Politehnica Iași" referer="https://hoadao.tv/sepsi-osk-sfantul-gheorghe-vs-acsm-politehnica-iai-2357012?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-e3efd26a2061a02c7fe0772e964fac14.png",Sepsi OSK Sfantul Gheorghe vs ACSM Politehnica Iași [BLV PHÁO - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/sepsi-osk-sfantul-gheorghe-vs-acsm-politehnica-iai-2357012?mode=hd
+#EXTINF:-1 group-title="Sepsi OSK Sfantul Gheorghe vs ACSM Politehnica Iași" referer="https://hoadao.tv/sepsi-osk-sfantul-gheorghe-vs-acsm-politehnica-iai-2357012?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-e3efd26a2061a02c7fe0772e964fac14.png",Sepsi OSK Sfantul Gheorghe vs ACSM Politehnica Iași [BLV PHÁO - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/sepsi-osk-sfantul-gheorghe-vs-acsm-politehnica-iai-2357012?mode=flv
+#EXTINF:-1 group-title="Sepsi OSK Sfantul Gheorghe vs ACSM Politehnica Iași" referer="https://hoadao.tv/sepsi-osk-sfantul-gheorghe-vs-acsm-politehnica-iai-2357012?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-e3efd26a2061a02c7fe0772e964fac14.png",Sepsi OSK Sfantul Gheorghe vs ACSM Politehnica Iași [BLV PHÁO - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/sepsi-osk-sfantul-gheorghe-vs-acsm-politehnica-iai-2357012?mode=flv2
+#EXTINF:-1 group-title="Sepsi OSK Sfantul Gheorghe vs ACSM Politehnica Iași" referer="https://hoadao.tv/sepsi-osk-sfantul-gheorghe-vs-acsm-politehnica-iai-2357012?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-e3efd26a2061a02c7fe0772e964fac14.png",Sepsi OSK Sfantul Gheorghe vs ACSM Politehnica Iași [BLV PHÁO - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
