@@ -1,13 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/afc-ajax-vs-groningen-2361837?mode=ndsd
-#EXTINF:-1 group-title="AFC Ajax vs Groningen" referer="https://hoadao.tv/afc-ajax-vs-groningen-2361837?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-ac60083029895a9ab986cb6a9379eff1.png",AFC Ajax vs Groningen [No BLV - SD (ND)]
-https://live.alilicloud.com/live/1552b642415be306a02f7a8763e9595f/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/fk-van-charentsavan-vs-fc-noah-2359059?mode=ndsd
-#EXTINF:-1 group-title="FK Van Charentsavan vs FC Noah" referer="https://hoadao.tv/fk-van-charentsavan-vs-fc-noah-2359059?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-b5b48e50939d864453372f5fb71537ed.png",FK Van Charentsavan vs FC Noah [No BLV - SD (ND)]
-https://live.alilicloud.com/live/5ba7a29ba2c24d5950f433c5526b1b3f/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/egypt-u20-women-vs-morocco-u20-women-2362402?mode=ndsd
-#EXTINF:-1 group-title="Egypt U20 Women vs Morocco U20 Women" referer="https://hoadao.tv/egypt-u20-women-vs-morocco-u20-women-2362402?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-f5a104f55581fdda1647f56ef359998e.png",Egypt U20 Women vs Morocco U20 Women [No BLV - SD (ND)]
-https://live.alilicloud.com/live/57866972fd760556a9b1fe36480bf992/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/wales-women-u19-vs-france-women-u19-2359117?mode=ndsd
 #EXTINF:-1 group-title="Wales Women U19 vs France Women U19" referer="https://hoadao.tv/wales-women-u19-vs-france-women-u19-2359117?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-3ea7d3596f9143cd3edd509201823181.png",Wales Women U19 vs France Women U19 [No BLV - SD (ND)]
 https://live.alilicloud.com/live/60833f369b54ee8869c980b650ca5ed1/playlist.m3u8
@@ -17,15 +8,21 @@ https://live.alilicloud.com/live/17a5c0792442abc58c4e0d5fcef81c0a/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/egypt-vs-kuwait-2359898?mode=ndsd
 #EXTINF:-1 group-title="Egypt vs Kuwait" referer="https://hoadao.tv/egypt-vs-kuwait-2359898?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-3e3af0074bdc8fc0c1ad88e49a13d7b6.png",Egypt vs Kuwait [No BLV - SD (ND)]
 https://live.alilicloud.com/live/0e4e44525522b63c2b9f11874ede4cde/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/fenerbahce-halkbank-2361833?mode=sd
-#EXTINF:-1 group-title="Fenerbahce vs Halkbank" referer="https://hoadao.tv/fenerbahce-halkbank-2361833?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-faabe568f58dbebcdf3228e0e6725391.png",Fenerbahce vs Halkbank [BLV KHOAI CON - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_khoaitay/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/fenerbahce-halkbank-2361833?mode=hd
-#EXTINF:-1 group-title="Fenerbahce vs Halkbank" referer="https://hoadao.tv/fenerbahce-halkbank-2361833?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-faabe568f58dbebcdf3228e0e6725391.png",Fenerbahce vs Halkbank [BLV KHOAI CON - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_khoaitay/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/fenerbahce-halkbank-2361833?mode=flv
-#EXTINF:-1 group-title="Fenerbahce vs Halkbank" referer="https://hoadao.tv/fenerbahce-halkbank-2361833?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-faabe568f58dbebcdf3228e0e6725391.png",Fenerbahce vs Halkbank [BLV KHOAI CON - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_khoaitay/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/fenerbahce-halkbank-2361833?mode=flv2
-#EXTINF:-1 group-title="Fenerbahce vs Halkbank" referer="https://hoadao.tv/fenerbahce-halkbank-2361833?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-faabe568f58dbebcdf3228e0e6725391.png",Fenerbahce vs Halkbank [BLV KHOAI CON - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_khoaitay/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/zira-fk-vs-fc-neftci-baku-2359053?mode=ndsd
+#EXTINF:-1 group-title="Zira FK vs FC Neftci Baku" referer="https://hoadao.tv/zira-fk-vs-fc-neftci-baku-2359053?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-cead6cfd8d32cd8c55ccfd7140866276.png",Zira FK vs FC Neftci Baku [No BLV - SD (ND)]
+https://live.alilicloud.com/live/7e059ed741aec884e31483d9cb987fa7/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/academico-viseu-u23-vs-rio-ave-u23-2359058?mode=ndsd
+#EXTINF:-1 group-title="Academico Viseu U23 vs Rio Ave U23" referer="https://hoadao.tv/academico-viseu-u23-vs-rio-ave-u23-2359058?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-e9597337cc93ea905877c296ce0078ac.png",Academico Viseu U23 vs Rio Ave U23 [No BLV - SD (ND)]
+https://live.alilicloud.com/live/f5596ef8dc3963dcb02a9805e04e06d9/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/estrela-fc-u23-vs-benfica-u23-2359063?mode=ndsd
+#EXTINF:-1 group-title="Estrela FC U23 vs Benfica U23" referer="https://hoadao.tv/estrela-fc-u23-vs-benfica-u23-2359063?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-1f265afb97cbfd12c7165d8660161c2d.png",Estrela FC U23 vs Benfica U23 [No BLV - SD (ND)]
+https://live.alilicloud.com/live/03b88c9a0c91af76203a901c1195079f/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/fk-csikszereda-miercurea-ciuc-vs-fc-otelul-galati-2359125?mode=ndsd
+#EXTINF:-1 group-title="FK Csikszereda Miercurea Ciuc vs FC Otelul Galati" referer="https://hoadao.tv/fk-csikszereda-miercurea-ciuc-vs-fc-otelul-galati-2359125?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-46a0d296dcd427c5654ed86f5e1fb0d7.png",FK Csikszereda Miercurea Ciuc vs FC Otelul Galati [No BLV - SD (ND)]
+https://live.alilicloud.com/live/f05a62dda5adeeb8d86667b4880525cf/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/cs-dinamo-bucuresti-vs-concordia-chiajna-2359126?mode=ndsd
+#EXTINF:-1 group-title="CS Dinamo Bucuresti vs Concordia Chiajna" referer="https://hoadao.tv/cs-dinamo-bucuresti-vs-concordia-chiajna-2359126?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-f156e1a99f47f7772bc8e27184825355.png",CS Dinamo Bucuresti vs Concordia Chiajna [No BLV - SD (ND)]
+https://live.alilicloud.com/live/e9d3172181e8feee39bb8818be5b1608/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/caykur-rizespor-vs-pendikspor-2359408?mode=ndsd
+#EXTINF:-1 group-title="Caykur Rizespor vs Pendikspor" referer="https://hoadao.tv/caykur-rizespor-vs-pendikspor-2359408?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-6e62514e166b1189ab0dd875fb4600fc.png",Caykur Rizespor vs Pendikspor [No BLV - SD (ND)]
+https://live.alilicloud.com/live/e8fb224ec45c328c3f8bcf0db48cb9f3/playlist.m3u8
