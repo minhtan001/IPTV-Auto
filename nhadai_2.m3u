@@ -165,6 +165,8 @@ https://ace.hoiquan.click/module/IPTV/?id=KCINE&accKenh=vuminhthanh1
 https://ace.hoiquan.click/module/IPTV/?id=KACTION&accKenh=vuminhthanh1
 #EXTINF:-1 group-title="TruyenHinh_2",K+SPORT1 HD
 https://ace.hoiquan.click/module/IPTV/?id=KSPORT1&accKenh=vuminhthanh1
+#EXTINF:-1 group-title="TruyenHinh_2",K+SPORT2 HD
+https://ace.hoiquan.click/module/IPTV/?id=KSPORT2&accKenh=vuminhthanh1
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV1 HD
 https://liveh12.seenow.vn/hls/SCTV1/03.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV2 HD - TODAY TV
@@ -380,7 +382,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",Animax HD
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1165775&extension=ts&play_token=yyA3sijrgj
 #EXTINF:-1 group-title="TruyenHinh_2",Cartoonito
-http://ch-4k-top.org/play/live.php?mac=00:1A:79:7a:39:a6&stream=306034&extension=ts&play_token=mhEVkdqBiZ
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:7a:39:a6&stream=1516887&extension=ts&play_token=uMKoUY8Cu7
 #EXTINF:-1 group-title="TruyenHinh_2",Cartoon Network HD
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",BabyTV
@@ -427,6 +429,8 @@ https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",TRT World
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Animal Planet
+http://khaitv.giize.com:1979/mytv/new/get.php?id=394
 #EXTINF:-1 group-title="TruyenHinh_2",Discovery
 https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",Discovery Asia
