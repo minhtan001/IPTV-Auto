@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTVLCOPT:http-referrer=https://hoadao.tv/uniao-leiria-u23-vs-santa-clara-u23-2359064?mode=sd
+#EXTINF:-1 group-title="Uniao Leiria U23 vs Santa Clara U23" referer="https://hoadao.tv/uniao-leiria-u23-vs-santa-clara-u23-2359064?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-9068712d863693ed6756e73d3d4c5fcc.png",Uniao Leiria U23 vs Santa Clara U23 [BLV CỤ RÙA - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/uniao-leiria-u23-vs-santa-clara-u23-2359064?mode=hd
+#EXTINF:-1 group-title="Uniao Leiria U23 vs Santa Clara U23" referer="https://hoadao.tv/uniao-leiria-u23-vs-santa-clara-u23-2359064?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-9068712d863693ed6756e73d3d4c5fcc.png",Uniao Leiria U23 vs Santa Clara U23 [BLV CỤ RÙA - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/uniao-leiria-u23-vs-santa-clara-u23-2359064?mode=flv
+#EXTINF:-1 group-title="Uniao Leiria U23 vs Santa Clara U23" referer="https://hoadao.tv/uniao-leiria-u23-vs-santa-clara-u23-2359064?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-9068712d863693ed6756e73d3d4c5fcc.png",Uniao Leiria U23 vs Santa Clara U23 [BLV CỤ RÙA - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/uniao-leiria-u23-vs-santa-clara-u23-2359064?mode=flv2
+#EXTINF:-1 group-title="Uniao Leiria U23 vs Santa Clara U23" referer="https://hoadao.tv/uniao-leiria-u23-vs-santa-clara-u23-2359064?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-9068712d863693ed6756e73d3d4c5fcc.png",Uniao Leiria U23 vs Santa Clara U23 [BLV CỤ RÙA - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/hyundai-gs-caltex-2361830?mode=sd
 #EXTINF:-1 group-title="Hyundai vs GS Caltex" referer="https://hoadao.tv/hyundai-gs-caltex-2361830?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-ae6a33c5e3e4d21bcdcdcff4adf645cd.png",Hyundai vs GS Caltex [BLV KHOAI CON - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_khoaitay/playlist.m3u8
