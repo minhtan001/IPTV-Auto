@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/atalanta-vs-genoa-2359324?mode=sd
-#EXTINF:-1 group-title="Atalanta vs Genoa" referer="https://hoadao.tv/atalanta-vs-genoa-2359324?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-9bdeda7c638788620454439d60cb5411.png",Atalanta vs Genoa [BLV CỤ RÙA - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/atalanta-vs-genoa-2359324?mode=hd
-#EXTINF:-1 group-title="Atalanta vs Genoa" referer="https://hoadao.tv/atalanta-vs-genoa-2359324?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-9bdeda7c638788620454439d60cb5411.png",Atalanta vs Genoa [BLV CỤ RÙA - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/atalanta-vs-genoa-2359324?mode=flv
-#EXTINF:-1 group-title="Atalanta vs Genoa" referer="https://hoadao.tv/atalanta-vs-genoa-2359324?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-9bdeda7c638788620454439d60cb5411.png",Atalanta vs Genoa [BLV CỤ RÙA - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/atalanta-vs-genoa-2359324?mode=flv2
-#EXTINF:-1 group-title="Atalanta vs Genoa" referer="https://hoadao.tv/atalanta-vs-genoa-2359324?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-9bdeda7c638788620454439d60cb5411.png",Atalanta vs Genoa [BLV CỤ RÙA - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/atalanta-vs-genoa-2359324?mode=ndsd
-#EXTINF:-1 group-title="Atalanta vs Genoa" referer="https://hoadao.tv/atalanta-vs-genoa-2359324?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-9bdeda7c638788620454439d60cb5411.png",Atalanta vs Genoa [BLV CỤ RÙA - SD (ND)]
-https://live.alilicloud.com/live/9a97e5897c16bc90fa9e91cc89ec8ca1/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/cska-sofia-vs-lokomotiv-plovdiv-2359493?mode=sd
 #EXTINF:-1 group-title="CSKA Sofia vs Lokomotiv Plovdiv" referer="https://hoadao.tv/cska-sofia-vs-lokomotiv-plovdiv-2359493?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-7e28e9c2f9367fd695c78a298bc42761.png",CSKA Sofia vs Lokomotiv Plovdiv [BLV HẠT TIÊU - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_hattieu/playlist.m3u8
@@ -26,15 +11,45 @@ https://pjoo0925.edgemaxcdn.org/live/blv_hattieu.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/cska-sofia-vs-lokomotiv-plovdiv-2359493?mode=flv2
 #EXTINF:-1 group-title="CSKA Sofia vs Lokomotiv Plovdiv" referer="https://hoadao.tv/cska-sofia-vs-lokomotiv-plovdiv-2359493?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-7e28e9c2f9367fd695c78a298bc42761.png",CSKA Sofia vs Lokomotiv Plovdiv [BLV HẠT TIÊU - FLV 2]
 https://pjoo0925.edgemaxcdn.org/live/blv_hattieu.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/radnik-bijeljina-vs-borac-banja-luka-2359496?mode=ndsd
-#EXTINF:-1 group-title="Radnik Bijeljina vs Borac Banja Luka" referer="https://hoadao.tv/radnik-bijeljina-vs-borac-banja-luka-2359496?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-29d93d78809bababc970995b8250dcc0.png",Radnik Bijeljina vs Borac Banja Luka [No BLV - SD (ND)]
-https://live.alilicloud.com/live/b178aaa112e13eda4e8fefbffa6707f4/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/cska-sofia-vs-lokomotiv-plovdiv-2359493?mode=ndsd
+#EXTINF:-1 group-title="CSKA Sofia vs Lokomotiv Plovdiv" referer="https://hoadao.tv/cska-sofia-vs-lokomotiv-plovdiv-2359493?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-7e28e9c2f9367fd695c78a298bc42761.png",CSKA Sofia vs Lokomotiv Plovdiv [BLV HẠT TIÊU - SD (ND)]
+https://live.alilicloud.com/live/2df728c94adba20b1d13ac52dc98c85d/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/aek-athens-vs-ofi-crete-2359312?mode=ndsd
 #EXTINF:-1 group-title="AEK Athens vs OFI Crete" referer="https://hoadao.tv/aek-athens-vs-ofi-crete-2359312?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-875c007e9adbf8b9650d69c11f32a5c2.png",AEK Athens vs OFI Crete [No BLV - SD (ND)]
 https://live.alilicloud.com/live/ec31d86f654b800bb6d75f025794f587/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/dinamo-minsk-vs-fk-vitebsk-2359335?mode=ndsd
+#EXTINF:-1 group-title="Dinamo Minsk vs FK Vitebsk" referer="https://hoadao.tv/dinamo-minsk-vs-fk-vitebsk-2359335?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-0712eaa6793170244d3cae685bef9a59.png",Dinamo Minsk vs FK Vitebsk [No BLV - SD (ND)]
+https://live.alilicloud.com/live/3b202c1f4f086d3c5cbf8d287b86b66d/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/partizani-tirana-vs-ks-bylis-2359386?mode=ndsd
 #EXTINF:-1 group-title="Partizani Tirana vs KS Bylis" referer="https://hoadao.tv/partizani-tirana-vs-ks-bylis-2359386?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-3d0dac0263d71465d7b5711a6cd829a9.png",Partizani Tirana vs KS Bylis [No BLV - SD (ND)]
 https://live.alilicloud.com/live/baf1d42e8b4010872a16a7b3930b106b/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/teuta-durres-vs-ks-elbasani-2359387?mode=ndsd
 #EXTINF:-1 group-title="Teuta Durres vs KS Elbasani" referer="https://hoadao.tv/teuta-durres-vs-ks-elbasani-2359387?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-af825feb43c6f6bdbf19c989df017818.png",Teuta Durres vs KS Elbasani [No BLV - SD (ND)]
 https://live.alilicloud.com/live/af7e86b1fee59c275c74d9c38d64f507/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/novi-pazar-vs-fk-dubocica-2361197?mode=ndsd
+#EXTINF:-1 group-title="Novi Pazar vs FK Dubocica" referer="https://hoadao.tv/novi-pazar-vs-fk-dubocica-2361197?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-275d3961ffa34596bb3d39361bd2b7ed.png",Novi Pazar vs FK Dubocica [No BLV - SD (ND)]
+https://live.alilicloud.com/live/9e173ea5f71bedf6f645157086ac4e29/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/macva-sabac-vs-fk-imt-belgrad-2361198?mode=ndsd
+#EXTINF:-1 group-title="Macva Sabac vs FK IMT Belgrad" referer="https://hoadao.tv/macva-sabac-vs-fk-imt-belgrad-2361198?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-ec2366f1cc90cd45abd14983e02c7631.png",Macva Sabac vs FK IMT Belgrad [No BLV - SD (ND)]
+https://live.alilicloud.com/live/c3256b78699155cdd8c14417e4e335b0/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/cska-sofia-vs-lokomotiv-plovdiv-2359493?mode=sd
+#EXTINF:-1 group-title="CSKA Sofia vs Lokomotiv Plovdiv" referer="https://hoadao.tv/cska-sofia-vs-lokomotiv-plovdiv-2359493?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-7e28e9c2f9367fd695c78a298bc42761.png",CSKA Sofia vs Lokomotiv Plovdiv [No BLV - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_hattieu/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/cska-sofia-vs-lokomotiv-plovdiv-2359493?mode=hd
+#EXTINF:-1 group-title="CSKA Sofia vs Lokomotiv Plovdiv" referer="https://hoadao.tv/cska-sofia-vs-lokomotiv-plovdiv-2359493?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-7e28e9c2f9367fd695c78a298bc42761.png",CSKA Sofia vs Lokomotiv Plovdiv [No BLV - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_hattieu/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/cska-sofia-vs-lokomotiv-plovdiv-2359493?mode=flv
+#EXTINF:-1 group-title="CSKA Sofia vs Lokomotiv Plovdiv" referer="https://hoadao.tv/cska-sofia-vs-lokomotiv-plovdiv-2359493?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-7e28e9c2f9367fd695c78a298bc42761.png",CSKA Sofia vs Lokomotiv Plovdiv [No BLV - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_hattieu.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/cska-sofia-vs-lokomotiv-plovdiv-2359493?mode=flv2
+#EXTINF:-1 group-title="CSKA Sofia vs Lokomotiv Plovdiv" referer="https://hoadao.tv/cska-sofia-vs-lokomotiv-plovdiv-2359493?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-7e28e9c2f9367fd695c78a298bc42761.png",CSKA Sofia vs Lokomotiv Plovdiv [No BLV - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_hattieu.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/cska-sofia-vs-lokomotiv-plovdiv-2359493?mode=ndsd
+#EXTINF:-1 group-title="CSKA Sofia vs Lokomotiv Plovdiv" referer="https://hoadao.tv/cska-sofia-vs-lokomotiv-plovdiv-2359493?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-7e28e9c2f9367fd695c78a298bc42761.png",CSKA Sofia vs Lokomotiv Plovdiv [No BLV - SD (ND)]
+https://live.alilicloud.com/live/2df728c94adba20b1d13ac52dc98c85d/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/asc-gendrim-vs-fc-nouadhibou-2362576?mode=ndsd
+#EXTINF:-1 group-title="ASC Gendrim vs F.C. Nouadhibou" referer="https://hoadao.tv/asc-gendrim-vs-fc-nouadhibou-2362576?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-82d54ffdb209f9816db9c13a4b7c2dc0.png",ASC Gendrim vs F.C. Nouadhibou [No BLV - SD (ND)]
+https://live.alilicloud.com/live/b122de85899f21fa32eb95057ab908fe/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/nk-varteks-varazdin-vs-nk-osijek-2362581?mode=ndsd
+#EXTINF:-1 group-title="NK Varteks Varazdin vs NK Osijek" referer="https://hoadao.tv/nk-varteks-varazdin-vs-nk-osijek-2362581?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-7b99da0ce609fe246c9cc3ad499e413d.png",NK Varteks Varazdin vs NK Osijek [No BLV - SD (ND)]
+https://live.alilicloud.com/live/1c60b4b99da844396a8e334c48c947b4/playlist.m3u8
