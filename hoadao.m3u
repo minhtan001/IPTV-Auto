@@ -1,13 +1,22 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/united-arab-emirates-u23-vs-oman-u23-2362444?mode=ndsd
-#EXTINF:-1 group-title="United Arab Emirates U23 vs Oman U23" referer="https://hoadao.tv/united-arab-emirates-u23-vs-oman-u23-2362444?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-9979bc12cc7a239ec9676dfcd63f2dbb.png",United Arab Emirates U23 vs Oman U23 [No BLV - SD (ND)]
-https://live.alilicloud.com/live/bdbc676b4bd7268c67e80f77d35a4c5b/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/idr-fk-vs-orduspor-2359601?mode=ndsd
-#EXTINF:-1 group-title="Iğdır FK vs Orduspor" referer="https://hoadao.tv/idr-fk-vs-orduspor-2359601?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-b9c406df7792eee9d57fd5791b02f3ce.png",Iğdır FK vs Orduspor [No BLV - SD (ND)]
-https://live.alilicloud.com/live/1d8c717c877a3ed9e2e6589c71dc55d0/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/palestine-vs-tunisia-2359901?mode=sd
+#EXTINF:-1 group-title="Palestine vs Tunisia" referer="https://hoadao.tv/palestine-vs-tunisia-2359901?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-f51f8e7f33b8a94ca91bfd4729947326.png",Palestine vs Tunisia [BLV KHOAI CON - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_khoaitay/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/palestine-vs-tunisia-2359901?mode=hd
+#EXTINF:-1 group-title="Palestine vs Tunisia" referer="https://hoadao.tv/palestine-vs-tunisia-2359901?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-f51f8e7f33b8a94ca91bfd4729947326.png",Palestine vs Tunisia [BLV KHOAI CON - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_khoaitay/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/palestine-vs-tunisia-2359901?mode=flv
+#EXTINF:-1 group-title="Palestine vs Tunisia" referer="https://hoadao.tv/palestine-vs-tunisia-2359901?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-f51f8e7f33b8a94ca91bfd4729947326.png",Palestine vs Tunisia [BLV KHOAI CON - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_khoaitay/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/palestine-vs-tunisia-2359901?mode=flv2
+#EXTINF:-1 group-title="Palestine vs Tunisia" referer="https://hoadao.tv/palestine-vs-tunisia-2359901?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-f51f8e7f33b8a94ca91bfd4729947326.png",Palestine vs Tunisia [BLV KHOAI CON - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_khoaitay/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/chojniczanka-chojnice-vs-korona-kielce-2361016?mode=ndsd
 #EXTINF:-1 group-title="Chojniczanka Chojnice vs Korona Kielce" referer="https://hoadao.tv/chojniczanka-chojnice-vs-korona-kielce-2361016?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-3ee9022814209e687b567296ebce3b7e.png",Chojniczanka Chojnice vs Korona Kielce [No BLV - SD (ND)]
 https://live.alilicloud.com/live/355e2287cdc5187cd86f29cc7e6ea34f/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/botev-vratsa-vs-spartak-varna-2359606?mode=ndsd
 #EXTINF:-1 group-title="Botev Vratsa vs Spartak Varna" referer="https://hoadao.tv/botev-vratsa-vs-spartak-varna-2359606?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-8eb896c9be2fb11ce1d025140b388ece.png",Botev Vratsa vs Spartak Varna [No BLV - SD (ND)]
 https://live.alilicloud.com/live/7c14197158d42a6e9445fd17e0a04b62/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/shabab-al-ordon-vs-al-baqs-2359607?mode=ndsd
+#EXTINF:-1 group-title="Shabab Al Ordon vs Al-Baq's" referer="https://hoadao.tv/shabab-al-ordon-vs-al-baqs-2359607?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-4c26dbdff4d46be84cacfa852b4eecb5.png",Shabab Al Ordon vs Al-Baq's [No BLV - SD (ND)]
+https://live.alilicloud.com/live/61048c822fc2c7baf3085a33f99f01a6/playlist.m3u8
