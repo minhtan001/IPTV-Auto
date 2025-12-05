@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Socolive_2",13h30: [KING] Bendigo W vs Geelong Venom W
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",13h30: [HUNTER] Bendigo W vs Geelong Venom W
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
 #EXTINF:-1 group-title="Socolive_2",14h30: [BLV HENRY] Sichuan vs Ningbo Rockets
 http://sharing.gotdns.ch:8091/socolive.php?id=9912112
 #EXTINF:-1 group-title="Socolive_2",14h30: [CHAN SENA] Sichuan vs Ningbo Rockets
@@ -269,6 +265,15 @@ http://sharing.gotdns.ch:8091/socolive.php?id=494201
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",00h00-06/12: [RICKHANTER] Galatasaray vs Samsunspor
 http://sharing.gotdns.ch:8091/socolive.php?id=9912101
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2",00h00-06/12: [BLV ĐỐM] Lễ bốc thăm WC 2026 vs Lễ bốc thăm WC 2026
+http://sharing.gotdns.ch:8091/socolive.php?id=9912110
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2",00h00-06/12: [BLV XAVI] Lễ bốc thăm WC 2026 vs Lễ bốc thăm WC 2026
+http://sharing.gotdns.ch:8091/socolive.php?id=525090
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2",00h00-06/12: [BLV DECO] Lễ bốc thăm WC 2026 vs Lễ bốc thăm WC 2026
+http://sharing.gotdns.ch:8091/socolive.php?id=9912060
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",00h00-06/12: [HUNTER] Lokomotiv Kuban vs CSKA Moscow
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
