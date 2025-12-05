@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="KYLE AMOROTO vs JAYBE SUCAL" tvg-logo="https://hxcv.site/images/cache/match-0bb02249ebdbd0fa92c3636f3f11fda5.png",KYLE AMOROTO vs JAYBE SUCAL [NHÀ ĐÀI - HLS]
-https://flv.cdnvankhanh.com/live/OK913.flv?expire=1924966740&sign=c354c2b5269fd62005886f3b8e6540b0
-#EXTINF:-1 group-title="KYLE AMOROTO vs JAYBE SUCAL" tvg-logo="https://hxcv.site/images/cache/match-0bb02249ebdbd0fa92c3636f3f11fda5.png",KYLE AMOROTO vs JAYBE SUCAL [NHÀ ĐÀI - FLV]
-https://hls.cdnvankhanh.com/live/OK913/index.m3u8?expire=1924966740&sign=c354c2b5269fd62005886f3b8e6540b0
-#EXTINF:-1 group-title="Bader Al Awadhi vs Francisco Sanchez Ruiz" tvg-logo="https://hxcv.site/images/cache/match-1a5cf17d36ecc21f975342e3360a8097.png",Bader Al Awadhi vs Francisco Sanchez Ruiz [NHÀ ĐÀI - HLS]
-https://hls.cdnok9.com/live/OK907/index.m3u8?expire=1924966740&sign=bde417549ab18dc0081a9922b4af5f73
-#EXTINF:-1 group-title="Bader Al Awadhi vs Francisco Sanchez Ruiz" tvg-logo="https://hxcv.site/images/cache/match-1a5cf17d36ecc21f975342e3360a8097.png",Bader Al Awadhi vs Francisco Sanchez Ruiz [NHÀ ĐÀI - FLV]
-https://flv.cdnok9.com/live/OK907.flv?expire=1924966740&sign=bde417549ab18dc0081a9922b4af5f73
-#EXTINF:-1 group-title="Manchester City vs Leeds United" tvg-logo="https://hxcv.site/images/cache/match-b3f4af1997a7bf5a67eb9a5bd6aa2ae7.png",Manchester City vs Leeds United [BLV KEVILL - HLS]
-https://hls.cdnok9.com/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
-#EXTINF:-1 group-title="Manchester City vs Leeds United" tvg-logo="https://hxcv.site/images/cache/match-b3f4af1997a7bf5a67eb9a5bd6aa2ae7.png",Manchester City vs Leeds United [BLV KEVILL - FLV]
-https://flv.cdnok9.com/live/TO1A.flv?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
 #EXTINF:-1 group-title="Francisco Sanchez Ruiz vs Denis Grabe" tvg-logo="https://hxcv.site/images/cache/match-45ce8c7d2add4a434c2374532b859497.png",Francisco Sanchez Ruiz vs Denis Grabe [NHÀ ĐÀI - HLS]
 https://flv.cdnok9.com/live/OK912.flv?expire=1924966740&sign=2ce6ea94e47693e4dbb173fbd293e2d2
 #EXTINF:-1 group-title="Francisco Sanchez Ruiz vs Denis Grabe" tvg-logo="https://hxcv.site/images/cache/match-45ce8c7d2add4a434c2374532b859497.png",Francisco Sanchez Ruiz vs Denis Grabe [NHÀ ĐÀI - FLV]
@@ -19,12 +7,32 @@ https://hls.cdnok9.com/live/OK912/index.m3u8?expire=1924966740&sign=2ce6ea94e476
 https://hls.cdnok9.com/live/TO6A/index.m3u8?expire=1891408380&sign=df6b95775ca8cf6b58a17d54271d96e3
 #EXTINF:-1 group-title="Barcelona vs Atletico Madrid" tvg-logo="https://hxcv.site/images/cache/match-16d74eee5739e00bd2e7547227e1c261.png",Barcelona vs Atletico Madrid [BLV THỜI THIÊN REPLAY - FLV]
 https://flv.cdnok9.com/live/TO6A.flv?expire=1891408380&sign=df6b95775ca8cf6b58a17d54271d96e3
+#EXTINF:-1 group-title="Bader Al Awadhi vs Francisco Sanchez Ruiz" tvg-logo="https://hxcv.site/images/cache/match-1a5cf17d36ecc21f975342e3360a8097.png",Bader Al Awadhi vs Francisco Sanchez Ruiz [NHÀ ĐÀI - HLS]
+https://hls.cdnok9.com/live/OK907/index.m3u8?expire=1924966740&sign=bde417549ab18dc0081a9922b4af5f73
+#EXTINF:-1 group-title="Bader Al Awadhi vs Francisco Sanchez Ruiz" tvg-logo="https://hxcv.site/images/cache/match-1a5cf17d36ecc21f975342e3360a8097.png",Bader Al Awadhi vs Francisco Sanchez Ruiz [NHÀ ĐÀI - FLV]
+https://flv.cdnok9.com/live/OK907.flv?expire=1924966740&sign=bde417549ab18dc0081a9922b4af5f73
+#EXTINF:-1 group-title="Manchester City vs Leeds United" tvg-logo="https://hxcv.site/images/cache/match-b3f4af1997a7bf5a67eb9a5bd6aa2ae7.png",Manchester City vs Leeds United [BLV KEVILL - HLS]
+https://hls.cdnok9.com/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
+#EXTINF:-1 group-title="Manchester City vs Leeds United" tvg-logo="https://hxcv.site/images/cache/match-b3f4af1997a7bf5a67eb9a5bd6aa2ae7.png",Manchester City vs Leeds United [BLV KEVILL - FLV]
+https://flv.cdnok9.com/live/TO1A.flv?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
 #EXTINF:-1 group-title="Henan Football Club U21 vs Shenzhen Xinpengcheng U21" tvg-logo="https://hxcv.site/images/cache/match-26f6ab738ac0bfa324e9ec305de372b5.png",Henan Football Club U21 vs Shenzhen Xinpengcheng U21 [NHÀ ĐÀI - HLS]
 https://auto.cdnvankhanh.com/live/sd-6MvYMFe4a1Xu45p4sE/playlist.m3u8
 #EXTINF:-1 group-title="Shanghai Shenhua U21 vs Zhejiang Greentown U21" tvg-logo="https://hxcv.site/images/cache/match-ee76f12053638cd30a46f91534332dc1.png",Shanghai Shenhua U21 vs Zhejiang Greentown U21 [NHÀ ĐÀI - HLS]
 https://auto.cdnvankhanh.com/live/sd-6MvYMFe4ZtwTSeLKQY/playlist.m3u8
 #EXTINF:-1 group-title="Dalian Yingbo U21 vs Tianjin Jinmen Tiger U21" tvg-logo="https://hxcv.site/images/cache/match-f1bb3e999a48e5cfa7739af0ba470024.png",Dalian Yingbo U21 vs Tianjin Jinmen Tiger U21 [NHÀ ĐÀI - HLS]
 https://auto.cdnvankhanh.com/live/sd-6MvYMFe4Zw8wK8AEZS/playlist.m3u8
+#EXTINF:-1 group-title="Melbourne Victory (W) vs Canberra United (W)" tvg-logo="https://hxcv.site/images/cache/match-174f90135d0bd2554c91c8418e85f0ee.png",Melbourne Victory (W) vs Canberra United (W) [BLV PEP - HLS]
+https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
+#EXTINF:-1 group-title="Melbourne Victory (W) vs Canberra United (W)" tvg-logo="https://hxcv.site/images/cache/match-174f90135d0bd2554c91c8418e85f0ee.png",Melbourne Victory (W) vs Canberra United (W) [BLV PEP - FLV]
+https://flv.cdnok9.com/live/PEP.flv?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
+#EXTINF:-1 group-title="Melbourne Victory (W) vs Canberra United (W)" tvg-logo="https://hxcv.site/images/cache/match-174f90135d0bd2554c91c8418e85f0ee.png",Melbourne Victory (W) vs Canberra United (W) [BLV TÔN LẬP - HLS]
+https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 group-title="Melbourne Victory (W) vs Canberra United (W)" tvg-logo="https://hxcv.site/images/cache/match-174f90135d0bd2554c91c8418e85f0ee.png",Melbourne Victory (W) vs Canberra United (W) [BLV TÔN LẬP - FLV]
+https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 group-title="Melbourne Victory (W) vs Canberra United (W)" tvg-logo="https://hxcv.site/images/cache/match-174f90135d0bd2554c91c8418e85f0ee.png",Melbourne Victory (W) vs Canberra United (W) [BLV HOA VINH - HLS]
+https://hls.cdnok9.com/live/GUMA/index.m3u8?expire=1788427256&sign=c57d8f64d762eaf6c2052dd9e8015b01
+#EXTINF:-1 group-title="Melbourne Victory (W) vs Canberra United (W)" tvg-logo="https://hxcv.site/images/cache/match-174f90135d0bd2554c91c8418e85f0ee.png",Melbourne Victory (W) vs Canberra United (W) [BLV HOA VINH - FLV]
+https://flv.cdnok9.com/live/GUMA.flv?expire=1788427256&sign=c57d8f64d762eaf6c2052dd9e8015b01
 #EXTINF:-1 group-title="Kuruvchi Kokand Qoqon vs Xorazm Urganch" tvg-logo="https://hxcv.site/images/cache/match-a2c45f88c16916038cab378191f35377.png",Kuruvchi Kokand Qoqon vs Xorazm Urganch [BLV KENCHU - HLS]
 https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
 #EXTINF:-1 group-title="Kuruvchi Kokand Qoqon vs Xorazm Urganch" tvg-logo="https://hxcv.site/images/cache/match-a2c45f88c16916038cab378191f35377.png",Kuruvchi Kokand Qoqon vs Xorazm Urganch [BLV KENCHU - FLV]
