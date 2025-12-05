@@ -1,12 +1,9 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",05h30-05/12 Cruzeiro Vs Botafogo RJ BLV TỐNG GIANG
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",06h30-05/12 Atletico Nacional Medellin Vs Dep.Independiente Medellin BLV TÂY MÔN KHÁNH
 https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 #EXTVLCOPT:http-referrer=https://ls39.live/
-#EXTINF:-1 group-title="LuongSon_2",05h00-05/12 Universitario De Vinto Vs The Strongest BLV LÝ QUỲ
+#EXTINF:-1 group-title="LuongSon_2",07h00-05/12 Bolivar Vs Nacional Potosi BLV LÝ QUỲ
 https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",12h00-04/12 Francisco Sanchez Ruiz Vs Denis Grabe NHÀ ĐÀI
@@ -14,3 +11,6 @@ https://hls.cdnok9.com/live/OK912/index.m3u8?expire=1924966740&sign=2ce6ea94e476
 #EXTVLCOPT:http-referrer=https://ls39.live/
 #EXTINF:-1 group-title="LuongSon_2",12h00-04/12 Bader Al Awadhi Vs Francisco Sanchez Ruiz NHÀ ĐÀI
 https://hls.cdnok9.com/live/OK907/index.m3u8?expire=1924966740&sign=bde417549ab18dc0081a9922b4af5f73
+#EXTVLCOPT:http-referrer=https://ls39.live/
+#EXTINF:-1 group-title="LuongSon_2",08h35-05/12 Atletico Junior Barranquilla Vs America de Cali BLV TÂY MÔN KHÁNH
+https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
