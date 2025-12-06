@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/inter-milan-vs-como-2361393?mode=sd
-#EXTINF:-1 group-title="Inter Milan vs Como" referer="https://hoadao.tv/inter-milan-vs-como-2361393?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-175a374aaaf051a3b8a0ec4d214d4e78.png",Inter Milan vs Como [BLV CỤ RÙA - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/inter-milan-vs-como-2361393?mode=hd
-#EXTINF:-1 group-title="Inter Milan vs Como" referer="https://hoadao.tv/inter-milan-vs-como-2361393?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-175a374aaaf051a3b8a0ec4d214d4e78.png",Inter Milan vs Como [BLV CỤ RÙA - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/inter-milan-vs-como-2361393?mode=flv
-#EXTINF:-1 group-title="Inter Milan vs Como" referer="https://hoadao.tv/inter-milan-vs-como-2361393?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-175a374aaaf051a3b8a0ec4d214d4e78.png",Inter Milan vs Como [BLV CỤ RÙA - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/inter-milan-vs-como-2361393?mode=flv2
-#EXTINF:-1 group-title="Inter Milan vs Como" referer="https://hoadao.tv/inter-milan-vs-como-2361393?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-175a374aaaf051a3b8a0ec4d214d4e78.png",Inter Milan vs Como [BLV CỤ RÙA - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/leeds-united-vs-liverpool-2361433?mode=sd
 #EXTINF:-1 group-title="Leeds United vs Liverpool" referer="https://hoadao.tv/leeds-united-vs-liverpool-2361433?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-cb327bd7ff5ee5b9508019bb898251ad.png",Leeds United vs Liverpool [BLV KHOAI CON - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_khoaitay/playlist.m3u8
@@ -38,9 +26,6 @@ https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/real-betis-vs-fc-barcelona-2361436?mode=flv2
 #EXTINF:-1 group-title="Real Betis vs FC Barcelona" referer="https://hoadao.tv/real-betis-vs-fc-barcelona-2361436?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-b7fc5c465e921d3e7621227cc3634c5f.png",Real Betis vs FC Barcelona [BLV CHIM NHỎ - FLV 2]
 https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/real-betis-vs-fc-barcelona-2361436?mode=ndsd
-#EXTINF:-1 group-title="Real Betis vs FC Barcelona" referer="https://hoadao.tv/real-betis-vs-fc-barcelona-2361436?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-b7fc5c465e921d3e7621227cc3634c5f.png",Real Betis vs FC Barcelona [BLV CHIM NHỎ - SD (ND)]
-https://live.alilicloud.com/live/ededaea02955ff59baf025c7926e85e7/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/inter-miami-cf-vs-vancouver-whitecaps-2361476?mode=sd
 #EXTINF:-1 group-title="Inter Miami CF vs Vancouver Whitecaps" referer="https://hoadao.tv/inter-miami-cf-vs-vancouver-whitecaps-2361476?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-1f80bae1112ff50a66186fa675afb290.png",Inter Miami CF vs Vancouver Whitecaps [BLV PHÁO - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
@@ -53,12 +38,21 @@ https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/inter-miami-cf-vs-vancouver-whitecaps-2361476?mode=flv2
 #EXTINF:-1 group-title="Inter Miami CF vs Vancouver Whitecaps" referer="https://hoadao.tv/inter-miami-cf-vs-vancouver-whitecaps-2361476?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-1f80bae1112ff50a66186fa675afb290.png",Inter Miami CF vs Vancouver Whitecaps [BLV PHÁO - FLV 2]
 https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/real-sociedad-b-vs-sporting-gijon-2361437?mode=ndsd
-#EXTINF:-1 group-title="Real Sociedad B vs Sporting Gijon" referer="https://hoadao.tv/real-sociedad-b-vs-sporting-gijon-2361437?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-441b3a3cffdea49cf68741f37f038405.png",Real Sociedad B vs Sporting Gijon [No BLV - SD (ND)]
-https://live.alilicloud.com/live/e14228cbfd063880ccc706a6bbba9032/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/fortuna-sittard-vs-afc-ajax-2361441?mode=ndsd
-#EXTINF:-1 group-title="Fortuna Sittard vs AFC Ajax" referer="https://hoadao.tv/fortuna-sittard-vs-afc-ajax-2361441?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-c2ae626ee1e2f5d2eddd605f24acba32.png",Fortuna Sittard vs AFC Ajax [No BLV - SD (ND)]
-https://live.alilicloud.com/live/5bdebde1d1c80a6c485da89c083be1d1/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/inter-miami-cf-vs-vancouver-whitecaps-2361476?mode=ndsd
+#EXTINF:-1 group-title="Inter Miami CF vs Vancouver Whitecaps" referer="https://hoadao.tv/inter-miami-cf-vs-vancouver-whitecaps-2361476?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-1f80bae1112ff50a66186fa675afb290.png",Inter Miami CF vs Vancouver Whitecaps [BLV PHÁO - SD (ND)]
+https://live.alilicloud.com/live/450e5e812f43a54638a928e180adb069/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/athletic-club-vs-atletico-madrid-2361485?mode=sd
+#EXTINF:-1 group-title="Athletic Club vs Atletico Madrid" referer="https://hoadao.tv/athletic-club-vs-atletico-madrid-2361485?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-12c774c6e80ce775211c358ec3d61865.png",Athletic Club vs Atletico Madrid [BLV HẠT TIÊU - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_hattieu/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/athletic-club-vs-atletico-madrid-2361485?mode=hd
+#EXTINF:-1 group-title="Athletic Club vs Atletico Madrid" referer="https://hoadao.tv/athletic-club-vs-atletico-madrid-2361485?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-12c774c6e80ce775211c358ec3d61865.png",Athletic Club vs Atletico Madrid [BLV HẠT TIÊU - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_hattieu/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/athletic-club-vs-atletico-madrid-2361485?mode=flv
+#EXTINF:-1 group-title="Athletic Club vs Atletico Madrid" referer="https://hoadao.tv/athletic-club-vs-atletico-madrid-2361485?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-12c774c6e80ce775211c358ec3d61865.png",Athletic Club vs Atletico Madrid [BLV HẠT TIÊU - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_hattieu.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/athletic-club-vs-atletico-madrid-2361485?mode=flv2
+#EXTINF:-1 group-title="Athletic Club vs Atletico Madrid" referer="https://hoadao.tv/athletic-club-vs-atletico-madrid-2361485?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-12c774c6e80ce775211c358ec3d61865.png",Athletic Club vs Atletico Madrid [BLV HẠT TIÊU - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_hattieu.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/toulouse-fc-vs-rc-strasbourg-alsace-2361442?mode=ndsd
 #EXTINF:-1 group-title="Toulouse FC vs RC Strasbourg Alsace" referer="https://hoadao.tv/toulouse-fc-vs-rc-strasbourg-alsace-2361442?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-9c8b8fbef866d00f57b7bda4f52de5ae.png",Toulouse FC vs RC Strasbourg Alsace [No BLV - SD (ND)]
 https://live.alilicloud.com/live/97afd5abb29b323f10956a8a8aba1a75/playlist.m3u8
@@ -95,3 +89,6 @@ https://live.alilicloud.com/live/f6acebd3f90f57ae02267ebd8286139a/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/heracles-almelo-vs-sc-telstar-2361472?mode=ndsd
 #EXTINF:-1 group-title="Heracles Almelo vs SC Telstar" referer="https://hoadao.tv/heracles-almelo-vs-sc-telstar-2361472?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-e40e1625946c39f5c787d85073a3501f.png",Heracles Almelo vs SC Telstar [No BLV - SD (ND)]
 https://live.alilicloud.com/live/4994f86d60c2b9559dcbd8e54ac936b2/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/piast-gliwice-vs-legia-warszawa-2361473?mode=ndsd
+#EXTINF:-1 group-title="Piast Gliwice vs Legia Warszawa" referer="https://hoadao.tv/piast-gliwice-vs-legia-warszawa-2361473?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-23b818c8e4826d884861cfdc1a85a622.png",Piast Gliwice vs Legia Warszawa [No BLV - SD (ND)]
+https://live.alilicloud.com/live/452525bb780a400ed4bf8e4b796f574d/playlist.m3u8
