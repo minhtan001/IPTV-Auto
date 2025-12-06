@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTVLCOPT:http-referrer=https://hoadao.tv/cerezo-osaka-vs-yokohama-fc-2360505?mode=ndsd
+#EXTINF:-1 group-title="Cerezo Osaka vs Yokohama FC" referer="https://hoadao.tv/cerezo-osaka-vs-yokohama-fc-2360505?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-2207b1ddb3c7e1070f9ed0c1b49a1e74.png",Cerezo Osaka vs Yokohama FC [No BLV - SD (ND)]
+https://live.alilicloud.com/live/00b990c14a4826b7b799628d4246686e/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/gamba-osaka-vs-tokyo-verdy-2360506?mode=ndsd
+#EXTINF:-1 group-title="Gamba Osaka vs Tokyo Verdy" referer="https://hoadao.tv/gamba-osaka-vs-tokyo-verdy-2360506?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-61cd90df4dcd43f53f3b24c0403c1ef5.png",Gamba Osaka vs Tokyo Verdy [No BLV - SD (ND)]
+https://live.alilicloud.com/live/90fa313e51579d773343491622eeb14a/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/fc-tokyo-vs-albirex-niigata-2360507?mode=ndsd
+#EXTINF:-1 group-title="FC Tokyo vs Albirex Niigata" referer="https://hoadao.tv/fc-tokyo-vs-albirex-niigata-2360507?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-27c5866866d0e2b04080013b0b3e81d7.png",FC Tokyo vs Albirex Niigata [No BLV - SD (ND)]
+https://live.alilicloud.com/live/e5de88904461eb4fc62e18aff2f88ae3/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/himeji-victorina-gunma-green-wings-2363098?mode=sd
 #EXTINF:-1 group-title="Himeji Victorina vs Gunma Green Wings" referer="https://hoadao.tv/himeji-victorina-gunma-green-wings-2363098?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-d52d84a7b160631a5ff24337b9d2448a.png",Himeji Victorina vs Gunma Green Wings [BLV KHOAI CON - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_khoaitay/playlist.m3u8
@@ -11,3 +20,15 @@ https://pjoo0925.edgemaxcdn.org/live/blv_khoaitay/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/himeji-victorina-gunma-green-wings-2363098?mode=flv2
 #EXTINF:-1 group-title="Himeji Victorina vs Gunma Green Wings" referer="https://hoadao.tv/himeji-victorina-gunma-green-wings-2363098?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-d52d84a7b160631a5ff24337b9d2448a.png",Himeji Victorina vs Gunma Green Wings [BLV KHOAI CON - FLV 2]
 https://pjoo0925.edgemaxcdn.org/live/blv_khoaitay/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/prestige-aranmare-nec-red-rockets-2363099?mode=sd
+#EXTINF:-1 group-title="Prestige Aranmare vs NEC Red Rockets" referer="https://hoadao.tv/prestige-aranmare-nec-red-rockets-2363099?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-88fa5cc5e87eb31d58defa79906d5bd0.png",Prestige Aranmare vs NEC Red Rockets [BLV HẠT TIÊU - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_hattieu/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/prestige-aranmare-nec-red-rockets-2363099?mode=hd
+#EXTINF:-1 group-title="Prestige Aranmare vs NEC Red Rockets" referer="https://hoadao.tv/prestige-aranmare-nec-red-rockets-2363099?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-88fa5cc5e87eb31d58defa79906d5bd0.png",Prestige Aranmare vs NEC Red Rockets [BLV HẠT TIÊU - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_hattieu/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/prestige-aranmare-nec-red-rockets-2363099?mode=flv
+#EXTINF:-1 group-title="Prestige Aranmare vs NEC Red Rockets" referer="https://hoadao.tv/prestige-aranmare-nec-red-rockets-2363099?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-88fa5cc5e87eb31d58defa79906d5bd0.png",Prestige Aranmare vs NEC Red Rockets [BLV HẠT TIÊU - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_hattieu.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/prestige-aranmare-nec-red-rockets-2363099?mode=flv2
+#EXTINF:-1 group-title="Prestige Aranmare vs NEC Red Rockets" referer="https://hoadao.tv/prestige-aranmare-nec-red-rockets-2363099?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-88fa5cc5e87eb31d58defa79906d5bd0.png",Prestige Aranmare vs NEC Red Rockets [BLV HẠT TIÊU - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_hattieu.flv
