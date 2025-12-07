@@ -1,4 +1,19 @@
 #EXTM3U
+#EXTVLCOPT:http-referrer=https://hoadao.tv/napoli-vs-juventus-2362325?mode=sd
+#EXTINF:-1 group-title="Napoli vs Juventus" referer="https://hoadao.tv/napoli-vs-juventus-2362325?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-ae5248221b86a36231beee98eb2b80f2.png",Napoli vs Juventus [BLV CHIM NHỎ - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/napoli-vs-juventus-2362325?mode=hd
+#EXTINF:-1 group-title="Napoli vs Juventus" referer="https://hoadao.tv/napoli-vs-juventus-2362325?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-ae5248221b86a36231beee98eb2b80f2.png",Napoli vs Juventus [BLV CHIM NHỎ - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/napoli-vs-juventus-2362325?mode=flv
+#EXTINF:-1 group-title="Napoli vs Juventus" referer="https://hoadao.tv/napoli-vs-juventus-2362325?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-ae5248221b86a36231beee98eb2b80f2.png",Napoli vs Juventus [BLV CHIM NHỎ - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/napoli-vs-juventus-2362325?mode=flv2
+#EXTINF:-1 group-title="Napoli vs Juventus" referer="https://hoadao.tv/napoli-vs-juventus-2362325?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-ae5248221b86a36231beee98eb2b80f2.png",Napoli vs Juventus [BLV CHIM NHỎ - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/napoli-vs-juventus-2362325?mode=ndsd
+#EXTINF:-1 group-title="Napoli vs Juventus" referer="https://hoadao.tv/napoli-vs-juventus-2362325?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-ae5248221b86a36231beee98eb2b80f2.png",Napoli vs Juventus [BLV CHIM NHỎ - SD (ND)]
+https://live.alilicloud.com/live/f2d5077fa9562c042a3e4dbf27dcc33f/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/lorient-vs-lyon-2362326?mode=sd
 #EXTINF:-1 group-title="Lorient vs Lyon" referer="https://hoadao.tv/lorient-vs-lyon-2362326?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-a2377ace84591d3b7f892e5837463c2d.png",Lorient vs Lyon [BLV MÈO BÉO - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
@@ -11,6 +26,9 @@ https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/lorient-vs-lyon-2362326?mode=flv2
 #EXTINF:-1 group-title="Lorient vs Lyon" referer="https://hoadao.tv/lorient-vs-lyon-2362326?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-a2377ace84591d3b7f892e5837463c2d.png",Lorient vs Lyon [BLV MÈO BÉO - FLV 2]
 https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/lorient-vs-lyon-2362326?mode=ndsd
+#EXTINF:-1 group-title="Lorient vs Lyon" referer="https://hoadao.tv/lorient-vs-lyon-2362326?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-a2377ace84591d3b7f892e5837463c2d.png",Lorient vs Lyon [BLV MÈO BÉO - SD (ND)]
+https://live.alilicloud.com/live/f6197fae710ea2de118ec55a7a433a9d/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/real-madrid-vs-rc-celta-2362327?mode=sd
 #EXTINF:-1 group-title="Real Madrid vs RC Celta" referer="https://hoadao.tv/real-madrid-vs-rc-celta-2362327?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-b104e3d76cc3a074b7d32cdd73b32ce0.png",Real Madrid vs RC Celta [BLV BÚN CHẢ - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_buncha/playlist.m3u8
@@ -23,24 +41,9 @@ https://pjoo0925.edgemaxcdn.org/live/blv_buncha.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/real-madrid-vs-rc-celta-2362327?mode=flv2
 #EXTINF:-1 group-title="Real Madrid vs RC Celta" referer="https://hoadao.tv/real-madrid-vs-rc-celta-2362327?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-b104e3d76cc3a074b7d32cdd73b32ce0.png",Real Madrid vs RC Celta [BLV BÚN CHẢ - FLV 2]
 https://pjoo0925.edgemaxcdn.org/live/blv_buncha.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/hapoel-beer-sheva-vs-maccabi-tel-aviv-2361445?mode=ndsd
-#EXTINF:-1 group-title="Hapoel Beer Sheva vs Maccabi Tel Aviv" referer="https://hoadao.tv/hapoel-beer-sheva-vs-maccabi-tel-aviv-2361445?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-0c846afd726d640070db95996d83d2d1.png",Hapoel Beer Sheva vs Maccabi Tel Aviv [No BLV - SD (ND)]
-https://live.alilicloud.com/live/9420d95a2a95086c5d4dda112170a36b/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/sampdoria-vs-carrarese-2362307?mode=ndsd
-#EXTINF:-1 group-title="Sampdoria vs Carrarese" referer="https://hoadao.tv/sampdoria-vs-carrarese-2362307?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-cd5c979e0f7bdf7f2d69475e96e908d8.png",Sampdoria vs Carrarese [No BLV - SD (ND)]
-https://live.alilicloud.com/live/4a4c4c488004cfc0f61b7e6e85cb43b5/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/cs-universitatea-craiova-vs-cfr-cluj-2362309?mode=ndsd
-#EXTINF:-1 group-title="CS Universitatea Craiova vs CFR Cluj" referer="https://hoadao.tv/cs-universitatea-craiova-vs-cfr-cluj-2362309?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-261283c207f217ce8b56820d138615e6.png",CS Universitatea Craiova vs CFR Cluj [No BLV - SD (ND)]
-https://live.alilicloud.com/live/5dae009986b79955b90967a98c1f4df0/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/erzgebirge-aue-vs-fc-ingolstadt-2362310?mode=ndsd
-#EXTINF:-1 group-title="Erzgebirge Aue vs FC Ingolstadt" referer="https://hoadao.tv/erzgebirge-aue-vs-fc-ingolstadt-2362310?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-bfb81e2188611009d5078925017e20c9.png",Erzgebirge Aue vs FC Ingolstadt [No BLV - SD (ND)]
-https://live.alilicloud.com/live/840af5d179b2c873882184b022209f84/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/santos-vs-cruzeiro-esporte-clube-2362311?mode=ndsd
-#EXTINF:-1 group-title="Santos vs Cruzeiro Esporte Clube" referer="https://hoadao.tv/santos-vs-cruzeiro-esporte-clube-2362311?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-4b6f62da06abd68c9027a0f37d32edcf.png",Santos vs Cruzeiro Esporte Clube [No BLV - SD (ND)]
-https://live.alilicloud.com/live/127880b2529b448ba4844745fd6f88cd/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/sport-club-do-recife-vs-gremio-rs-2362312?mode=ndsd
-#EXTINF:-1 group-title="Sport Club do Recife vs Gremio (RS)" referer="https://hoadao.tv/sport-club-do-recife-vs-gremio-rs-2362312?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-335e65fef5c502b7e278ab97a46873d9.png",Sport Club do Recife vs Gremio (RS) [No BLV - SD (ND)]
-https://live.alilicloud.com/live/1cd6dd5d270ead501ec397f7abbc45d1/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/real-madrid-vs-rc-celta-2362327?mode=ndsd
+#EXTINF:-1 group-title="Real Madrid vs RC Celta" referer="https://hoadao.tv/real-madrid-vs-rc-celta-2362327?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-b104e3d76cc3a074b7d32cdd73b32ce0.png",Real Madrid vs RC Celta [BLV BÚN CHẢ - SD (ND)]
+https://live.alilicloud.com/live/8ec25e92b4ff9b3968ff3781b2488fe0/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/vitoria-ba-vs-sao-paulo-2362313?mode=ndsd
 #EXTINF:-1 group-title="Vitoria BA vs Sao Paulo" referer="https://hoadao.tv/vitoria-ba-vs-sao-paulo-2362313?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-991a402738b17b742dba987f5baf3338.png",Vitoria BA vs Sao Paulo [No BLV - SD (ND)]
 https://live.alilicloud.com/live/46b2293b5b6f89aa3db96a5d4d117177/playlist.m3u8
@@ -74,3 +77,57 @@ https://live.alilicloud.com/live/f89fb1058cba32a6e0a8f54278359ae4/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/gornik-leczna-vs-ruch-chorzow-2361332?mode=ndsd
 #EXTINF:-1 group-title="Gornik Leczna vs Ruch Chorzow" referer="https://hoadao.tv/gornik-leczna-vs-ruch-chorzow-2361332?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-c48793ffbdfd5d468031372f2018247c.png",Gornik Leczna vs Ruch Chorzow [No BLV - SD (ND)]
 https://live.alilicloud.com/live/4d3ed5c5e987f7c0a20263b8e153800d/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/napoli-vs-juventus-2362325?mode=sd
+#EXTINF:-1 group-title="Napoli vs Juventus" referer="https://hoadao.tv/napoli-vs-juventus-2362325?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-ae5248221b86a36231beee98eb2b80f2.png",Napoli vs Juventus [No BLV - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/napoli-vs-juventus-2362325?mode=hd
+#EXTINF:-1 group-title="Napoli vs Juventus" referer="https://hoadao.tv/napoli-vs-juventus-2362325?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-ae5248221b86a36231beee98eb2b80f2.png",Napoli vs Juventus [No BLV - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/napoli-vs-juventus-2362325?mode=flv
+#EXTINF:-1 group-title="Napoli vs Juventus" referer="https://hoadao.tv/napoli-vs-juventus-2362325?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-ae5248221b86a36231beee98eb2b80f2.png",Napoli vs Juventus [No BLV - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/napoli-vs-juventus-2362325?mode=flv2
+#EXTINF:-1 group-title="Napoli vs Juventus" referer="https://hoadao.tv/napoli-vs-juventus-2362325?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-ae5248221b86a36231beee98eb2b80f2.png",Napoli vs Juventus [No BLV - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/napoli-vs-juventus-2362325?mode=ndsd
+#EXTINF:-1 group-title="Napoli vs Juventus" referer="https://hoadao.tv/napoli-vs-juventus-2362325?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-ae5248221b86a36231beee98eb2b80f2.png",Napoli vs Juventus [No BLV - SD (ND)]
+https://live.alilicloud.com/live/f2d5077fa9562c042a3e4dbf27dcc33f/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/lorient-vs-lyon-2362326?mode=sd
+#EXTINF:-1 group-title="Lorient vs Lyon" referer="https://hoadao.tv/lorient-vs-lyon-2362326?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-a2377ace84591d3b7f892e5837463c2d.png",Lorient vs Lyon [No BLV - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/lorient-vs-lyon-2362326?mode=hd
+#EXTINF:-1 group-title="Lorient vs Lyon" referer="https://hoadao.tv/lorient-vs-lyon-2362326?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-a2377ace84591d3b7f892e5837463c2d.png",Lorient vs Lyon [No BLV - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/lorient-vs-lyon-2362326?mode=flv
+#EXTINF:-1 group-title="Lorient vs Lyon" referer="https://hoadao.tv/lorient-vs-lyon-2362326?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-a2377ace84591d3b7f892e5837463c2d.png",Lorient vs Lyon [No BLV - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/lorient-vs-lyon-2362326?mode=flv2
+#EXTINF:-1 group-title="Lorient vs Lyon" referer="https://hoadao.tv/lorient-vs-lyon-2362326?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-a2377ace84591d3b7f892e5837463c2d.png",Lorient vs Lyon [No BLV - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/lorient-vs-lyon-2362326?mode=ndsd
+#EXTINF:-1 group-title="Lorient vs Lyon" referer="https://hoadao.tv/lorient-vs-lyon-2362326?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-a2377ace84591d3b7f892e5837463c2d.png",Lorient vs Lyon [No BLV - SD (ND)]
+https://live.alilicloud.com/live/f6197fae710ea2de118ec55a7a433a9d/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/real-madrid-vs-rc-celta-2362327?mode=sd
+#EXTINF:-1 group-title="Real Madrid vs RC Celta" referer="https://hoadao.tv/real-madrid-vs-rc-celta-2362327?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-b104e3d76cc3a074b7d32cdd73b32ce0.png",Real Madrid vs RC Celta [No BLV - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_buncha/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/real-madrid-vs-rc-celta-2362327?mode=hd
+#EXTINF:-1 group-title="Real Madrid vs RC Celta" referer="https://hoadao.tv/real-madrid-vs-rc-celta-2362327?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-b104e3d76cc3a074b7d32cdd73b32ce0.png",Real Madrid vs RC Celta [No BLV - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_buncha/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/real-madrid-vs-rc-celta-2362327?mode=flv
+#EXTINF:-1 group-title="Real Madrid vs RC Celta" referer="https://hoadao.tv/real-madrid-vs-rc-celta-2362327?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-b104e3d76cc3a074b7d32cdd73b32ce0.png",Real Madrid vs RC Celta [No BLV - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_buncha.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/real-madrid-vs-rc-celta-2362327?mode=flv2
+#EXTINF:-1 group-title="Real Madrid vs RC Celta" referer="https://hoadao.tv/real-madrid-vs-rc-celta-2362327?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-b104e3d76cc3a074b7d32cdd73b32ce0.png",Real Madrid vs RC Celta [No BLV - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_buncha.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/real-madrid-vs-rc-celta-2362327?mode=ndsd
+#EXTINF:-1 group-title="Real Madrid vs RC Celta" referer="https://hoadao.tv/real-madrid-vs-rc-celta-2362327?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-b104e3d76cc3a074b7d32cdd73b32ce0.png",Real Madrid vs RC Celta [No BLV - SD (ND)]
+https://live.alilicloud.com/live/8ec25e92b4ff9b3968ff3781b2488fe0/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/granada-cf-vs-ad-ceuta-2362328?mode=ndsd
+#EXTINF:-1 group-title="Granada CF vs AD Ceuta" referer="https://hoadao.tv/granada-cf-vs-ad-ceuta-2362328?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-7ee5a15b397c289da3631f188fb9d20a.png",Granada CF vs AD Ceuta [No BLV - SD (ND)]
+https://live.alilicloud.com/live/6be5d565751f75294654f8307d4190d3/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/panama-u19-vs-nicaragua-u19-2362878?mode=ndsd
+#EXTINF:-1 group-title="Panama U19 vs Nicaragua U19" referer="https://hoadao.tv/panama-u19-vs-nicaragua-u19-2362878?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-ce367e2f3f513b6f3b1535cd744a9768.png",Panama U19 vs Nicaragua U19 [No BLV - SD (ND)]
+https://live.alilicloud.com/live/7b167ce0b2afa73de96b3bac8599bc2b/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/el-salvador-u19-vs-guatemala-u19-2362879?mode=ndsd
+#EXTINF:-1 group-title="El Salvador U19 vs Guatemala U19" referer="https://hoadao.tv/el-salvador-u19-vs-guatemala-u19-2362879?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-c1a1647fbeb574f0734a6597f83b073c.png",El Salvador U19 vs Guatemala U19 [No BLV - SD (ND)]
+https://live.alilicloud.com/live/7a8de594c28628fedf83d2f743167072/playlist.m3u8
