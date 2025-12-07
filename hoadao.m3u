@@ -1,4 +1,16 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/centro-social-dep-barber-vs-sv-undeba-2363422?mode=ndsd
-#EXTINF:-1 group-title="Centro Social Dep Barber vs SV UNDEBA" referer="https://hoadao.tv/centro-social-dep-barber-vs-sv-undeba-2363422?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-5434cc86c88e3eadb9672c761415179d.png",Centro Social Dep Barber vs SV UNDEBA [No BLV - SD (ND)]
-https://live.alilicloud.com/live/d373cca4c60cb318f9edc73d17a1dc75/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/alianza-lima-vs-sporting-cristal-2363595?mode=ndsd
+#EXTINF:-1 group-title="Alianza Lima vs Sporting Cristal" referer="https://hoadao.tv/alianza-lima-vs-sporting-cristal-2363595?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-0e8dd28eeb878d281407d6a1765461ea.png",Alianza Lima vs Sporting Cristal [No BLV - SD (ND)]
+https://live.alilicloud.com/live/482dfcfbc0c9da3843ec0ae6a7baba7b/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/nxt-deadline-nxt-deadline-2363105?mode=sd
+#EXTINF:-1 group-title="NXT Deadline vs NXT Deadline" referer="https://hoadao.tv/nxt-deadline-nxt-deadline-2363105?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-a82510f1cc531e0890ed17f4eb1f8e04.png",NXT Deadline vs NXT Deadline [BLV PHÁO - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/nxt-deadline-nxt-deadline-2363105?mode=hd
+#EXTINF:-1 group-title="NXT Deadline vs NXT Deadline" referer="https://hoadao.tv/nxt-deadline-nxt-deadline-2363105?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-a82510f1cc531e0890ed17f4eb1f8e04.png",NXT Deadline vs NXT Deadline [BLV PHÁO - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/nxt-deadline-nxt-deadline-2363105?mode=flv
+#EXTINF:-1 group-title="NXT Deadline vs NXT Deadline" referer="https://hoadao.tv/nxt-deadline-nxt-deadline-2363105?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-a82510f1cc531e0890ed17f4eb1f8e04.png",NXT Deadline vs NXT Deadline [BLV PHÁO - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/nxt-deadline-nxt-deadline-2363105?mode=flv2
+#EXTINF:-1 group-title="NXT Deadline vs NXT Deadline" referer="https://hoadao.tv/nxt-deadline-nxt-deadline-2363105?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-a82510f1cc531e0890ed17f4eb1f8e04.png",NXT Deadline vs NXT Deadline [BLV PHÁO - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
