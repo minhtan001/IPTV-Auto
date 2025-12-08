@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/malaysia-women-vs-myanmar-w-2362351?mode=sd
-#EXTINF:-1 group-title="Malaysia Women vs Myanmar (w)" referer="https://hoadao.tv/malaysia-women-vs-myanmar-w-2362351?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-14b65a1c979080561047937338bc3f5d.png",Malaysia Women vs Myanmar (w) [BLV KHOAI CON - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_khoaitay/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/malaysia-women-vs-myanmar-w-2362351?mode=hd
-#EXTINF:-1 group-title="Malaysia Women vs Myanmar (w)" referer="https://hoadao.tv/malaysia-women-vs-myanmar-w-2362351?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-14b65a1c979080561047937338bc3f5d.png",Malaysia Women vs Myanmar (w) [BLV KHOAI CON - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_khoaitay/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/malaysia-women-vs-myanmar-w-2362351?mode=flv
-#EXTINF:-1 group-title="Malaysia Women vs Myanmar (w)" referer="https://hoadao.tv/malaysia-women-vs-myanmar-w-2362351?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-14b65a1c979080561047937338bc3f5d.png",Malaysia Women vs Myanmar (w) [BLV KHOAI CON - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_khoaitay/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/malaysia-women-vs-myanmar-w-2362351?mode=flv2
-#EXTINF:-1 group-title="Malaysia Women vs Myanmar (w)" referer="https://hoadao.tv/malaysia-women-vs-myanmar-w-2362351?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-14b65a1c979080561047937338bc3f5d.png",Malaysia Women vs Myanmar (w) [BLV KHOAI CON - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_khoaitay/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/philippines-u22-vs-indonesia-u22-2362350?mode=sd
 #EXTINF:-1 group-title="Philippines U22 vs Indonesia U22" referer="https://hoadao.tv/philippines-u22-vs-indonesia-u22-2362350?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-5fb1231cbfffbfa63d908acd5fe621e7.png",Philippines U22 vs Indonesia U22 [BLV PHÁO - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
@@ -23,3 +11,18 @@ https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/philippines-u22-vs-indonesia-u22-2362350?mode=flv2
 #EXTINF:-1 group-title="Philippines U22 vs Indonesia U22" referer="https://hoadao.tv/philippines-u22-vs-indonesia-u22-2362350?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-5fb1231cbfffbfa63d908acd5fe621e7.png",Philippines U22 vs Indonesia U22 [BLV PHÁO - FLV 2]
 https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/philippines-u22-vs-indonesia-u22-2362350?mode=ndsd
+#EXTINF:-1 group-title="Philippines U22 vs Indonesia U22" referer="https://hoadao.tv/philippines-u22-vs-indonesia-u22-2362350?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-5fb1231cbfffbfa63d908acd5fe621e7.png",Philippines U22 vs Indonesia U22 [BLV PHÁO - SD (ND)]
+https://live.alilicloud.com/live/9876ee8cb6df4ed15c261c6a393bdee7/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/philippines-women-vs-vietnam-women-2362353?mode=sd
+#EXTINF:-1 group-title="Philippines Women vs Vietnam Women" referer="https://hoadao.tv/philippines-women-vs-vietnam-women-2362353?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-3abad3decf029e9e1e29d28b426b3059.png",Philippines Women vs Vietnam Women [BLV CHIM NHỎ - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/philippines-women-vs-vietnam-women-2362353?mode=hd
+#EXTINF:-1 group-title="Philippines Women vs Vietnam Women" referer="https://hoadao.tv/philippines-women-vs-vietnam-women-2362353?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-3abad3decf029e9e1e29d28b426b3059.png",Philippines Women vs Vietnam Women [BLV CHIM NHỎ - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/philippines-women-vs-vietnam-women-2362353?mode=flv
+#EXTINF:-1 group-title="Philippines Women vs Vietnam Women" referer="https://hoadao.tv/philippines-women-vs-vietnam-women-2362353?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-3abad3decf029e9e1e29d28b426b3059.png",Philippines Women vs Vietnam Women [BLV CHIM NHỎ - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/philippines-women-vs-vietnam-women-2362353?mode=flv2
+#EXTINF:-1 group-title="Philippines Women vs Vietnam Women" referer="https://hoadao.tv/philippines-women-vs-vietnam-women-2362353?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-3abad3decf029e9e1e29d28b426b3059.png",Philippines Women vs Vietnam Women [BLV CHIM NHỎ - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
