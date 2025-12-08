@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/pisa-vs-parma-2362355?mode=sd
-#EXTINF:-1 group-title="Pisa vs Parma" referer="https://hoadao.tv/pisa-vs-parma-2362355?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-356cc3c9e5d514e35d4c382cdd06508f.png",Pisa vs Parma [BLV MÈO BÉO - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/pisa-vs-parma-2362355?mode=hd
-#EXTINF:-1 group-title="Pisa vs Parma" referer="https://hoadao.tv/pisa-vs-parma-2362355?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-356cc3c9e5d514e35d4c382cdd06508f.png",Pisa vs Parma [BLV MÈO BÉO - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/pisa-vs-parma-2362355?mode=flv
-#EXTINF:-1 group-title="Pisa vs Parma" referer="https://hoadao.tv/pisa-vs-parma-2362355?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-356cc3c9e5d514e35d4c382cdd06508f.png",Pisa vs Parma [BLV MÈO BÉO - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/pisa-vs-parma-2362355?mode=flv2
-#EXTINF:-1 group-title="Pisa vs Parma" referer="https://hoadao.tv/pisa-vs-parma-2362355?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-356cc3c9e5d514e35d4c382cdd06508f.png",Pisa vs Parma [BLV MÈO BÉO - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/pisa-vs-parma-2362355?mode=ndsd
-#EXTINF:-1 group-title="Pisa vs Parma" referer="https://hoadao.tv/pisa-vs-parma-2362355?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-356cc3c9e5d514e35d4c382cdd06508f.png",Pisa vs Parma [BLV MÈO BÉO - SD (ND)]
-https://live.alilicloud.com/live/60ac62fd4344b602abf4e649228756e0/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/radnicki-nis-vs-fk-ukariki-2362507?mode=sd
 #EXTINF:-1 group-title="Radnicki Nis vs FK Čukarički" referer="https://hoadao.tv/radnicki-nis-vs-fk-ukariki-2362507?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-347b77368f6fb708b69c5ff61a91f1c6.png",Radnicki Nis vs FK Čukarički [BLV CỤ RÙA - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
@@ -26,15 +11,27 @@ https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/radnicki-nis-vs-fk-ukariki-2362507?mode=flv2
 #EXTINF:-1 group-title="Radnicki Nis vs FK Čukarički" referer="https://hoadao.tv/radnicki-nis-vs-fk-ukariki-2362507?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-347b77368f6fb708b69c5ff61a91f1c6.png",Radnicki Nis vs FK Čukarički [BLV CỤ RÙA - FLV 2]
 https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/nk-siroki-brijeg-vs-radnik-bijeljina-2364345?mode=ndsd
-#EXTINF:-1 group-title="NK Siroki Brijeg vs Radnik Bijeljina" referer="https://hoadao.tv/nk-siroki-brijeg-vs-radnik-bijeljina-2364345?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-eab31e648872ff7eec12a17f2d259878.png",NK Siroki Brijeg vs Radnik Bijeljina [No BLV - SD (ND)]
-https://live.alilicloud.com/live/41fb3e583dcf040d4c0090d001f7783b/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/burgos-cf-vs-albacete-balompie-sad-2362362?mode=ndsd
-#EXTINF:-1 group-title="Burgos CF vs Albacete Balompié SAD" referer="https://hoadao.tv/burgos-cf-vs-albacete-balompie-sad-2362362?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-255be5955d208e31bb62e949430c2e26.png",Burgos CF vs Albacete Balompié SAD [No BLV - SD (ND)]
-https://live.alilicloud.com/live/8cef1e6bc6c13dbfca4df90eda06d753/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/sc-farense-vs-vizela-2362277?mode=ndsd
+#EXTINF:-1 group-title="SC Farense vs Vizela" referer="https://hoadao.tv/sc-farense-vs-vizela-2362277?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-68d2f5223b0debddcebdda4bda507084.png",SC Farense vs Vizela [No BLV - SD (ND)]
+https://live.alilicloud.com/live/629b78944a68fa5b5a54aabbd3d5a40b/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/ludogorets-razgrad-vs-slavia-sofia-2361295?mode=ndsd
 #EXTINF:-1 group-title="Ludogorets Razgrad vs Slavia Sofia" referer="https://hoadao.tv/ludogorets-razgrad-vs-slavia-sofia-2361295?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-385c83e00f45bbefef5b98c2baf101b2.png",Ludogorets Razgrad vs Slavia Sofia [No BLV - SD (ND)]
 https://live.alilicloud.com/live/87be29805dd31450e7a8e90e07697b11/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/uta-arad-vs-petrolul-ploiesti-2362363?mode=ndsd
 #EXTINF:-1 group-title="UTA Arad vs Petrolul Ploiesti" referer="https://hoadao.tv/uta-arad-vs-petrolul-ploiesti-2362363?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-d21878619596ea6a47e6fc66a8184f92.png",UTA Arad vs Petrolul Ploiesti [No BLV - SD (ND)]
 https://live.alilicloud.com/live/4768d4c21ff823a81d8b63acd818ab02/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/discoveries-sa-vs-wologisi-fc-2364509?mode=ndsd
+#EXTINF:-1 group-title="Discoveries SA vs Wologisi FC" referer="https://hoadao.tv/discoveries-sa-vs-wologisi-fc-2364509?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-584ee3f38e1729e2d965365ead540da6.png",Discoveries SA vs Wologisi FC [No BLV - SD (ND)]
+https://live.alilicloud.com/live/f06c52416051b5853aca298b27dbac50/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/sabah-baku-vs-fc-neftci-baku-2360715?mode=ndsd
+#EXTINF:-1 group-title="Sabah Baku vs FC Neftci Baku" referer="https://hoadao.tv/sabah-baku-vs-fc-neftci-baku-2360715?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-20337f07b0165fd2ad446a8afb767003.png",Sabah Baku vs FC Neftci Baku [No BLV - SD (ND)]
+https://live.alilicloud.com/live/e461c3493f5b7dab7d1a097e44031706/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/panserraikos-vs-panaitolikos-agrinio-2362508?mode=ndsd
+#EXTINF:-1 group-title="Panserraikos vs Panaitolikos Agrinio" referer="https://hoadao.tv/panserraikos-vs-panaitolikos-agrinio-2362508?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-e91be82734104d56ea8d0dcad8c75241.png",Panserraikos vs Panaitolikos Agrinio [No BLV - SD (ND)]
+https://live.alilicloud.com/live/de296163a2a9fca180179309cac32aa7/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/old-edwardians-vs-bullom-stars-2365311?mode=ndsd
+#EXTINF:-1 group-title="Old Edwardians vs Bullom Stars" referer="https://hoadao.tv/old-edwardians-vs-bullom-stars-2365311?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-9b370e412bfa8fd5d53fbd069dc53475.png",Old Edwardians vs Bullom Stars [No BLV - SD (ND)]
+https://live.alilicloud.com/live/043e17de67cfb92f20b530a861927d39/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/bari-vs-pescara-2362509?mode=ndsd
+#EXTINF:-1 group-title="Bari vs Pescara" referer="https://hoadao.tv/bari-vs-pescara-2362509?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-d875e4f11078d7f4b337ad837847eea2.png",Bari vs Pescara [No BLV - SD (ND)]
+https://live.alilicloud.com/live/183417013df23010d8814299aa448de1/playlist.m3u8
