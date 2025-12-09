@@ -1,13 +1,22 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/nicaragua-u19-vs-cuba-u19-2362880?mode=ndsd
-#EXTINF:-1 group-title="Nicaragua U19 vs Cuba U19" referer="https://hoadao.tv/nicaragua-u19-vs-cuba-u19-2362880?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-9adc5f18afacbb4ca90e791b1925fc00.png",Nicaragua U19 vs Cuba U19 [No BLV - SD (ND)]
-https://live.alilicloud.com/live/1dd3332789c3b597794179f4f6e0efbd/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/egypt-vs-jordan-2362553?mode=ndsd
-#EXTINF:-1 group-title="Egypt vs Jordan" referer="https://hoadao.tv/egypt-vs-jordan-2362553?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-791cbbb905d7b7a194dce8d46bd950e5.png",Egypt vs Jordan [No BLV - SD (ND)]
-https://live.alilicloud.com/live/a8ddd20f5855add79803c79ff95b7bdc/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/united-arab-emirates-vs-kuwait-2362554?mode=ndsd
-#EXTINF:-1 group-title="United Arab Emirates vs Kuwait" referer="https://hoadao.tv/united-arab-emirates-vs-kuwait-2362554?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-286d1f184cdb34cafd50c13f5dd2f06f.png",United Arab Emirates vs Kuwait [No BLV - SD (ND)]
-https://live.alilicloud.com/live/029868b316f8656c8d3ae7d9ee498d58/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/fc-kairat-almaty-vs-olympiakos-piraeus-2362559?mode=sd
+#EXTINF:-1 group-title="FC Kairat Almaty vs Olympiakos Piraeus" referer="https://hoadao.tv/fc-kairat-almaty-vs-olympiakos-piraeus-2362559?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-d882a5a35f108bb7b31fd043cfbf02e7.png",FC Kairat Almaty vs Olympiakos Piraeus [BLV MÈO BÉO - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/fc-kairat-almaty-vs-olympiakos-piraeus-2362559?mode=hd
+#EXTINF:-1 group-title="FC Kairat Almaty vs Olympiakos Piraeus" referer="https://hoadao.tv/fc-kairat-almaty-vs-olympiakos-piraeus-2362559?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-d882a5a35f108bb7b31fd043cfbf02e7.png",FC Kairat Almaty vs Olympiakos Piraeus [BLV MÈO BÉO - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/fc-kairat-almaty-vs-olympiakos-piraeus-2362559?mode=flv
+#EXTINF:-1 group-title="FC Kairat Almaty vs Olympiakos Piraeus" referer="https://hoadao.tv/fc-kairat-almaty-vs-olympiakos-piraeus-2362559?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-d882a5a35f108bb7b31fd043cfbf02e7.png",FC Kairat Almaty vs Olympiakos Piraeus [BLV MÈO BÉO - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/fc-kairat-almaty-vs-olympiakos-piraeus-2362559?mode=flv2
+#EXTINF:-1 group-title="FC Kairat Almaty vs Olympiakos Piraeus" referer="https://hoadao.tv/fc-kairat-almaty-vs-olympiakos-piraeus-2362559?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-d882a5a35f108bb7b31fd043cfbf02e7.png",FC Kairat Almaty vs Olympiakos Piraeus [BLV MÈO BÉO - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/inter-milan-u19-vs-liverpool-u19-2362556?mode=ndsd
+#EXTINF:-1 group-title="Inter Milan U19 vs Liverpool U19" referer="https://hoadao.tv/inter-milan-u19-vs-liverpool-u19-2362556?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-f993212ddb5d19ab7a6ecb4962d90b70.png",Inter Milan U19 vs Liverpool U19 [No BLV - SD (ND)]
+https://live.alilicloud.com/live/46b940db9a38168fb7b17987b3bb4043/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/pharco-vs-el-mokawloon-el-arab-2362557?mode=ndsd
+#EXTINF:-1 group-title="Pharco vs El Mokawloon El Arab" referer="https://hoadao.tv/pharco-vs-el-mokawloon-el-arab-2362557?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-76454d3074003bcc681ed9b6e8c13a7d.png",Pharco vs El Mokawloon El Arab [No BLV - SD (ND)]
+https://live.alilicloud.com/live/9e3ebb4d4cc566dc780dee15500385fb/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/coneliagno-orlando-valkyries-2364968?mode=sd
 #EXTINF:-1 group-title="Coneliagno vs Orlando Valkyries" referer="https://hoadao.tv/coneliagno-orlando-valkyries-2364968?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-8ffad7169a635663a133e10bb939a72a.png",Coneliagno vs Orlando Valkyries [BLV CỤ RÙA - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
