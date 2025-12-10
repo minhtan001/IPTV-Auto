@@ -1,16 +1,28 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/tng-hp-cc-mn-1600-1830-2364976?mode=sd
-#EXTINF:-1 group-title="Tổng hợp các môn vs (16:00 - 18:30)" referer="https://hoadao.tv/tng-hp-cc-mn-1600-1830-2364976?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-df893c6976846d9beb01d3e032af5402.png",Tổng hợp các môn vs (16:00 - 18:30) [BLV MÈO BÉO - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/tng-hp-cc-mn-1600-1830-2364976?mode=hd
-#EXTINF:-1 group-title="Tổng hợp các môn vs (16:00 - 18:30)" referer="https://hoadao.tv/tng-hp-cc-mn-1600-1830-2364976?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-df893c6976846d9beb01d3e032af5402.png",Tổng hợp các môn vs (16:00 - 18:30) [BLV MÈO BÉO - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/tng-hp-cc-mn-1600-1830-2364976?mode=flv
-#EXTINF:-1 group-title="Tổng hợp các môn vs (16:00 - 18:30)" referer="https://hoadao.tv/tng-hp-cc-mn-1600-1830-2364976?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-df893c6976846d9beb01d3e032af5402.png",Tổng hợp các môn vs (16:00 - 18:30) [BLV MÈO BÉO - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/tng-hp-cc-mn-1600-1830-2364976?mode=flv2
-#EXTINF:-1 group-title="Tổng hợp các môn vs (16:00 - 18:30)" referer="https://hoadao.tv/tng-hp-cc-mn-1600-1830-2364976?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-df893c6976846d9beb01d3e032af5402.png",Tổng hợp các môn vs (16:00 - 18:30) [BLV MÈO BÉO - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/tng-hp-cc-mn-1830-2100-2364978?mode=sd
+#EXTINF:-1 group-title="Tổng hợp các môn vs (18:30 - 21:00)" referer="https://hoadao.tv/tng-hp-cc-mn-1830-2100-2364978?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-b3a74b0b70cda0cb7e6e06ea5811feab.png",Tổng hợp các môn vs (18:30 - 21:00) [BLV PHÁO - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/tng-hp-cc-mn-1830-2100-2364978?mode=hd
+#EXTINF:-1 group-title="Tổng hợp các môn vs (18:30 - 21:00)" referer="https://hoadao.tv/tng-hp-cc-mn-1830-2100-2364978?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-b3a74b0b70cda0cb7e6e06ea5811feab.png",Tổng hợp các môn vs (18:30 - 21:00) [BLV PHÁO - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/tng-hp-cc-mn-1830-2100-2364978?mode=flv
+#EXTINF:-1 group-title="Tổng hợp các môn vs (18:30 - 21:00)" referer="https://hoadao.tv/tng-hp-cc-mn-1830-2100-2364978?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-b3a74b0b70cda0cb7e6e06ea5811feab.png",Tổng hợp các môn vs (18:30 - 21:00) [BLV PHÁO - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/tng-hp-cc-mn-1830-2100-2364978?mode=flv2
+#EXTINF:-1 group-title="Tổng hợp các môn vs (18:30 - 21:00)" referer="https://hoadao.tv/tng-hp-cc-mn-1830-2100-2364978?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-b3a74b0b70cda0cb7e6e06ea5811feab.png",Tổng hợp các môn vs (18:30 - 21:00) [BLV PHÁO - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/singapore-women-vs-thailand-women-2361571?mode=sd
+#EXTINF:-1 group-title="Singapore Women vs Thailand Women" referer="https://hoadao.tv/singapore-women-vs-thailand-women-2361571?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-5ece9cf6d5bc2a3eac836f973bb9fc7b.png",Singapore Women vs Thailand Women [BLV CHIM NHỎ - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/singapore-women-vs-thailand-women-2361571?mode=hd
+#EXTINF:-1 group-title="Singapore Women vs Thailand Women" referer="https://hoadao.tv/singapore-women-vs-thailand-women-2361571?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-5ece9cf6d5bc2a3eac836f973bb9fc7b.png",Singapore Women vs Thailand Women [BLV CHIM NHỎ - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/singapore-women-vs-thailand-women-2361571?mode=flv
+#EXTINF:-1 group-title="Singapore Women vs Thailand Women" referer="https://hoadao.tv/singapore-women-vs-thailand-women-2361571?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-5ece9cf6d5bc2a3eac836f973bb9fc7b.png",Singapore Women vs Thailand Women [BLV CHIM NHỎ - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/singapore-women-vs-thailand-women-2361571?mode=flv2
+#EXTINF:-1 group-title="Singapore Women vs Thailand Women" referer="https://hoadao.tv/singapore-women-vs-thailand-women-2361571?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-5ece9cf6d5bc2a3eac836f973bb9fc7b.png",Singapore Women vs Thailand Women [BLV CHIM NHỎ - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/benfica-u19-vs-napoli-u19-2362812?mode=ndsd
 #EXTINF:-1 group-title="Benfica U19 vs Napoli U19" referer="https://hoadao.tv/benfica-u19-vs-napoli-u19-2362812?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-c63480cba9de39563ccf8b1f8127b5a8.png",Benfica U19 vs Napoli U19 [No BLV - SD (ND)]
 https://live.alilicloud.com/live/12ec422ad87f1851680a7913c61d20d5/playlist.m3u8
