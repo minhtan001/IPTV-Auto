@@ -1,7 +1,19 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/decic-tuzi-vs-fk-mladost-dg-2362985?mode=ndsd
-#EXTINF:-1 group-title="Decic Tuzi vs FK Mladost DG" referer="https://hoadao.tv/decic-tuzi-vs-fk-mladost-dg-2362985?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-c61f9a31fbc1ceff04f7fd169aaf6565.png",Decic Tuzi vs FK Mladost DG [No BLV - SD (ND)]
-https://live.alilicloud.com/live/9087e87ba05c1347a0b07ec5b16e3f1c/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/mfk-ruzomberok-vs-fk-kosice-2365692?mode=ndsd
-#EXTINF:-1 group-title="MFK Ruzomberok vs FK Kosice" referer="https://hoadao.tv/mfk-ruzomberok-vs-fk-kosice-2365692?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-a1ad5e27f15236b45dbb0059d5b87dbb.png",MFK Ruzomberok vs FK Kosice [No BLV - SD (ND)]
-https://live.alilicloud.com/live/9090497ab120225246b40756c06bd8a7/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/al-wahda-fc-vs-al-nassr-fc-2365683?mode=sd
+#EXTINF:-1 group-title="Al-Wahda FC vs Al Nassr FC" referer="https://hoadao.tv/al-wahda-fc-vs-al-nassr-fc-2365683?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-e61c8bf1262cee27ff9cdf3f5eaeccf7.png",Al-Wahda FC vs Al Nassr FC [BLV MÈO BÉO - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/al-wahda-fc-vs-al-nassr-fc-2365683?mode=hd
+#EXTINF:-1 group-title="Al-Wahda FC vs Al Nassr FC" referer="https://hoadao.tv/al-wahda-fc-vs-al-nassr-fc-2365683?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-e61c8bf1262cee27ff9cdf3f5eaeccf7.png",Al-Wahda FC vs Al Nassr FC [BLV MÈO BÉO - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/al-wahda-fc-vs-al-nassr-fc-2365683?mode=flv
+#EXTINF:-1 group-title="Al-Wahda FC vs Al Nassr FC" referer="https://hoadao.tv/al-wahda-fc-vs-al-nassr-fc-2365683?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-e61c8bf1262cee27ff9cdf3f5eaeccf7.png",Al-Wahda FC vs Al Nassr FC [BLV MÈO BÉO - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/al-wahda-fc-vs-al-nassr-fc-2365683?mode=flv2
+#EXTINF:-1 group-title="Al-Wahda FC vs Al Nassr FC" referer="https://hoadao.tv/al-wahda-fc-vs-al-nassr-fc-2365683?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-e61c8bf1262cee27ff9cdf3f5eaeccf7.png",Al-Wahda FC vs Al Nassr FC [BLV MÈO BÉO - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/real-madrid-u19-vs-manchester-city-u19-2365868?mode=ndsd
+#EXTINF:-1 group-title="Real Madrid U19 vs Manchester City U19" referer="https://hoadao.tv/real-madrid-u19-vs-manchester-city-u19-2365868?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-b4880b348f11c129685f82a5f9fc6618.png",Real Madrid U19 vs Manchester City U19 [No BLV - SD (ND)]
+https://live.alilicloud.com/live/7a36b9f15cf09e7c182c7e8e380a9f45/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/talaea-el-gaish-vs-ceramica-cleopatra-fc-2362847?mode=ndsd
+#EXTINF:-1 group-title="Tala'ea El Gaish vs Ceramica Cleopatra FC" referer="https://hoadao.tv/talaea-el-gaish-vs-ceramica-cleopatra-fc-2362847?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-f0935b738cddcaed28190f52092c7d6a.png",Tala'ea El Gaish vs Ceramica Cleopatra FC [No BLV - SD (ND)]
+https://live.alilicloud.com/live/70cdc43e42e04b3c0c4177a247b0dfe7/playlist.m3u8
