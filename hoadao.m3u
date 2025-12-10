@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/sea-games-33-2364972?mode=sd
-#EXTINF:-1 group-title="Tổng hợp các môn vs (13:30 - 16:00)" referer="https://hoadao.tv/sea-games-33-2364972?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-f58ca2b07f0e0e0ceeade07f5f25c235.png",Tổng hợp các môn vs (13:30 - 16:00) [BLV KHOAI CON - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_khoaitay/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/sea-games-33-2364972?mode=hd
-#EXTINF:-1 group-title="Tổng hợp các môn vs (13:30 - 16:00)" referer="https://hoadao.tv/sea-games-33-2364972?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-f58ca2b07f0e0e0ceeade07f5f25c235.png",Tổng hợp các môn vs (13:30 - 16:00) [BLV KHOAI CON - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_khoaitay/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/sea-games-33-2364972?mode=flv
-#EXTINF:-1 group-title="Tổng hợp các môn vs (13:30 - 16:00)" referer="https://hoadao.tv/sea-games-33-2364972?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-f58ca2b07f0e0e0ceeade07f5f25c235.png",Tổng hợp các môn vs (13:30 - 16:00) [BLV KHOAI CON - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_khoaitay/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/sea-games-33-2364972?mode=flv2
-#EXTINF:-1 group-title="Tổng hợp các môn vs (13:30 - 16:00)" referer="https://hoadao.tv/sea-games-33-2364972?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-f58ca2b07f0e0e0ceeade07f5f25c235.png",Tổng hợp các môn vs (13:30 - 16:00) [BLV KHOAI CON - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_khoaitay/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/tng-hp-cc-mn-1600-1830-2364976?mode=sd
 #EXTINF:-1 group-title="Tổng hợp các môn vs (16:00 - 18:30)" referer="https://hoadao.tv/tng-hp-cc-mn-1600-1830-2364976?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-df893c6976846d9beb01d3e032af5402.png",Tổng hợp các môn vs (16:00 - 18:30) [BLV MÈO BÉO - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
@@ -23,3 +11,15 @@ https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/tng-hp-cc-mn-1600-1830-2364976?mode=flv2
 #EXTINF:-1 group-title="Tổng hợp các môn vs (16:00 - 18:30)" referer="https://hoadao.tv/tng-hp-cc-mn-1600-1830-2364976?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-df893c6976846d9beb01d3e032af5402.png",Tổng hợp các môn vs (16:00 - 18:30) [BLV MÈO BÉO - FLV 2]
 https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/n-singapore-n-thi-lan-2364977?mode=sd
+#EXTINF:-1 group-title="Nữ Singapore vs Nữ Thái Lan" referer="https://hoadao.tv/n-singapore-n-thi-lan-2364977?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-57a8881319cfb1cb2037fc9acfe96d7c.png",Nữ Singapore vs Nữ Thái Lan [BLV CỤ RÙA - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/n-singapore-n-thi-lan-2364977?mode=hd
+#EXTINF:-1 group-title="Nữ Singapore vs Nữ Thái Lan" referer="https://hoadao.tv/n-singapore-n-thi-lan-2364977?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-57a8881319cfb1cb2037fc9acfe96d7c.png",Nữ Singapore vs Nữ Thái Lan [BLV CỤ RÙA - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/n-singapore-n-thi-lan-2364977?mode=flv
+#EXTINF:-1 group-title="Nữ Singapore vs Nữ Thái Lan" referer="https://hoadao.tv/n-singapore-n-thi-lan-2364977?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-57a8881319cfb1cb2037fc9acfe96d7c.png",Nữ Singapore vs Nữ Thái Lan [BLV CỤ RÙA - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/n-singapore-n-thi-lan-2364977?mode=flv2
+#EXTINF:-1 group-title="Nữ Singapore vs Nữ Thái Lan" referer="https://hoadao.tv/n-singapore-n-thi-lan-2364977?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-57a8881319cfb1cb2037fc9acfe96d7c.png",Nữ Singapore vs Nữ Thái Lan [BLV CỤ RÙA - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
