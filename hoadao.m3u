@@ -1,10 +1,13 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/al-jazeera-vs-shabab-al-ordon-2363080?mode=ndsd
-#EXTINF:-1 group-title="Al-Jazeera vs Shabab Al Ordon" referer="https://hoadao.tv/al-jazeera-vs-shabab-al-ordon-2363080?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-014bae5fa8faddf7c61369b509f47ae3.png",Al-Jazeera vs Shabab Al Ordon [No BLV - SD (ND)]
-https://live.alilicloud.com/live/2cd9ff6a85aa0dfc533e0050a0b43ff1/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/guatemala-u19-vs-honduras-u19-2366055?mode=ndsd
-#EXTINF:-1 group-title="Guatemala U19 vs Honduras U19" referer="https://hoadao.tv/guatemala-u19-vs-honduras-u19-2366055?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-e074288f12174628cfd080605d862896.png",Guatemala U19 vs Honduras U19 [No BLV - SD (ND)]
-https://live.alilicloud.com/live/837221c802d2ebac537f09ed591c3721/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/morocco-vs-syria-2365561?mode=ndsd
-#EXTINF:-1 group-title="Morocco vs Syria" referer="https://hoadao.tv/morocco-vs-syria-2365561?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-24bb4eff8f312a8334b4b98d7a8eb256.png",Morocco vs Syria [No BLV - SD (ND)]
-https://live.alilicloud.com/live/a6c6a79eabd2aebc54b112a8eef86e9b/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/fenerbahce-vakifbank-2364993?mode=sd
+#EXTINF:-1 group-title="Fenerbahce vs Vakifbank" referer="https://hoadao.tv/fenerbahce-vakifbank-2364993?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-89509ca463818443f2eabae93c832c0d.png",Fenerbahce vs Vakifbank [BLV PHÁO - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/fenerbahce-vakifbank-2364993?mode=hd
+#EXTINF:-1 group-title="Fenerbahce vs Vakifbank" referer="https://hoadao.tv/fenerbahce-vakifbank-2364993?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-89509ca463818443f2eabae93c832c0d.png",Fenerbahce vs Vakifbank [BLV PHÁO - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/fenerbahce-vakifbank-2364993?mode=flv
+#EXTINF:-1 group-title="Fenerbahce vs Vakifbank" referer="https://hoadao.tv/fenerbahce-vakifbank-2364993?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-89509ca463818443f2eabae93c832c0d.png",Fenerbahce vs Vakifbank [BLV PHÁO - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/fenerbahce-vakifbank-2364993?mode=flv2
+#EXTINF:-1 group-title="Fenerbahce vs Vakifbank" referer="https://hoadao.tv/fenerbahce-vakifbank-2364993?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-89509ca463818443f2eabae93c832c0d.png",Fenerbahce vs Vakifbank [BLV PHÁO - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
