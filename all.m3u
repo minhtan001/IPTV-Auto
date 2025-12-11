@@ -707,6 +707,18 @@ https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/tng-hp-cc-mn-1330-1600-2364985?mode=flv2
 #EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/tng-hp-cc-mn-1330-1600-2364985?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-502ac45929c01fd2c72dd6bbd31acd95.png",Tổng hợp các môn vs (14:00 - 16:30) [BLV CHIM NHỎ - FLV 2]
 https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/n-indonesia-n-myanmar-2364986?mode=sd
+#EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/n-indonesia-n-myanmar-2364986?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-1251f1c5949d02d28548f9df18f01540.png",Nữ Indonesia vs Nữ Myanmar [BLV PHÁO - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/n-indonesia-n-myanmar-2364986?mode=hd
+#EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/n-indonesia-n-myanmar-2364986?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-1251f1c5949d02d28548f9df18f01540.png",Nữ Indonesia vs Nữ Myanmar [BLV PHÁO - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/n-indonesia-n-myanmar-2364986?mode=flv
+#EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/n-indonesia-n-myanmar-2364986?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-1251f1c5949d02d28548f9df18f01540.png",Nữ Indonesia vs Nữ Myanmar [BLV PHÁO - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/n-indonesia-n-myanmar-2364986?mode=flv2
+#EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/n-indonesia-n-myanmar-2364986?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-1251f1c5949d02d28548f9df18f01540.png",Nữ Indonesia vs Nữ Myanmar [BLV PHÁO - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
 #EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-8f8e3b290741ced18c3fa3dcd1236579.png",FC Barcelona vs Alaves [BLV VĂN LONG - HLS]
 https://hls.cdnvankhanh.com/live/VANREN/index.m3u8?expire=1891583400&sign=f4cca58ffdf3217d4ca677039510da17
 #EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-8f8e3b290741ced18c3fa3dcd1236579.png",FC Barcelona vs Alaves [BLV VĂN LONG - FLV]
@@ -865,18 +877,18 @@ https://stream.chuoichien.tv/manze/index.m3u8
 #EXTVLCOPT:http-referrer=https://api.chuoichientv.com/
 #EXTINF:-1 group-title="Chuoichien" referer="https://api.chuoichientv.com/" tvg-logo="https://hxcv.site/images/cache/match-bd24feb67f48b6dc25a3c273654c3042.png",Malaysia W vs Vietnam W [Zeman - SD2 - Zeman - SD2]
 https://stream.chuoichien.tv/manze.flv
-#EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-e5a56116a9173cac344b90d585f800ba.png",Borussia Dortmund vs Bodo Glimt [BLV SHIN - HLS]
-https://hls.cdnok9.com/live/TEST/index.m3u8?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c
-#EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-e5a56116a9173cac344b90d585f800ba.png",Borussia Dortmund vs Bodo Glimt [BLV SHIN - FLV]
-https://flv.cdnok9.com/live/TEST.flv?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c
-#EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-161d0323a50f843035f578f5e70ae989.png",Real Madrid vs Manchester City [BLV TÔN LẬP - HLS]
-https://hls.cdnok9.com/live/TO4A/index.m3u8?expire=1891408380&sign=5274350aaa915df457fdffd606d49f30
-#EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-161d0323a50f843035f578f5e70ae989.png",Real Madrid vs Manchester City [BLV TÔN LẬP - FLV]
-https://flv.cdnok9.com/live/TO4A.flv?expire=1891408380&sign=5274350aaa915df457fdffd606d49f30
 #EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-7df6ee8987e5b9d15b75f3290104747e.png",Club Brugge vs Arsenal [BLV LỮ BỐ - HLS]
 https://hls.cdnok9.com/live/TO4A/index.m3u8?expire=1891408380&sign=5274350aaa915df457fdffd606d49f30
 #EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-7df6ee8987e5b9d15b75f3290104747e.png",Club Brugge vs Arsenal [BLV LỮ BỐ - FLV]
 https://flv.cdnok9.com/live/TO4A.flv?expire=1891408380&sign=5274350aaa915df457fdffd606d49f30
+#EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-161d0323a50f843035f578f5e70ae989.png",Real Madrid vs Manchester City [BLV TÔN LẬP - HLS]
+https://hls.cdnok9.com/live/TO4A/index.m3u8?expire=1891408380&sign=5274350aaa915df457fdffd606d49f30
+#EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-161d0323a50f843035f578f5e70ae989.png",Real Madrid vs Manchester City [BLV TÔN LẬP - FLV]
+https://flv.cdnok9.com/live/TO4A.flv?expire=1891408380&sign=5274350aaa915df457fdffd606d49f30
+#EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-e5a56116a9173cac344b90d585f800ba.png",Borussia Dortmund vs Bodo Glimt [BLV SHIN - HLS]
+https://hls.cdnok9.com/live/TEST/index.m3u8?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c
+#EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-e5a56116a9173cac344b90d585f800ba.png",Borussia Dortmund vs Bodo Glimt [BLV SHIN - FLV]
+https://flv.cdnok9.com/live/TEST.flv?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c
 #EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-3a081a80681137db6a1b8bf6558767ae.png",Inter Milan vs Liverpool [BLV THỜI THIÊN REPLAY - HLS]
 https://hls.cdnok9.com/live/TO6A/index.m3u8?expire=1891408380&sign=df6b95775ca8cf6b58a17d54271d96e3
 #EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-3a081a80681137db6a1b8bf6558767ae.png",Inter Milan vs Liverpool [BLV THỜI THIÊN REPLAY - FLV]
@@ -1739,6 +1751,10 @@ https://live.fptplay53.net/fnxch1/thethao17_mx.smil/chunklist_b6000000.m3u8
 https://live.fptplay53.net/epzch1/thethao02_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 21
 https://live.fptplay53.net/fnxch1/thethao21_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 109
+https://event.fptplay53.net/channel/thethao109/master_mx.m3u8?sign=1765438311-sign-0-50478ee7fe094cfb0b671a9d1470031f
+#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 1
+https://live.fptplay53.net/epzch1/thethao01_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
