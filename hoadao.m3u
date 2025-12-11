@@ -1,43 +1,34 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/tng-hp-cc-mn-1600-1830-2364987?mode=sd
-#EXTINF:-1 group-title="Tổng hợp các môn vs (16:30 - 19:00)" referer="https://hoadao.tv/tng-hp-cc-mn-1600-1830-2364987?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-d28597ed45145e5c68005d47b66078da.png",Tổng hợp các môn vs (16:30 - 19:00) [BLV HẠT TIÊU - SD]
+#EXTVLCOPT:http-referrer=https://hoadao.tv/thailand-u22-vs-singapore-u22-2363068?mode=sd
+#EXTINF:-1 group-title="Thailand U22 vs Singapore U22" referer="https://hoadao.tv/thailand-u22-vs-singapore-u22-2363068?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-e5fdcb370d66c668f7c19864abe44f95.png",Thailand U22 vs Singapore U22 [BLV MÈO BÉO - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/thailand-u22-vs-singapore-u22-2363068?mode=hd
+#EXTINF:-1 group-title="Thailand U22 vs Singapore U22" referer="https://hoadao.tv/thailand-u22-vs-singapore-u22-2363068?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-e5fdcb370d66c668f7c19864abe44f95.png",Thailand U22 vs Singapore U22 [BLV MÈO BÉO - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/thailand-u22-vs-singapore-u22-2363068?mode=flv
+#EXTINF:-1 group-title="Thailand U22 vs Singapore U22" referer="https://hoadao.tv/thailand-u22-vs-singapore-u22-2363068?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-e5fdcb370d66c668f7c19864abe44f95.png",Thailand U22 vs Singapore U22 [BLV MÈO BÉO - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/thailand-u22-vs-singapore-u22-2363068?mode=flv2
+#EXTINF:-1 group-title="Thailand U22 vs Singapore U22" referer="https://hoadao.tv/thailand-u22-vs-singapore-u22-2363068?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-e5fdcb370d66c668f7c19864abe44f95.png",Thailand U22 vs Singapore U22 [BLV MÈO BÉO - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/tai-po-vs-cong-an-ha-noi-fc-2363069?mode=sd
+#EXTINF:-1 group-title="Tai Po vs Cong An Ha Noi FC" referer="https://hoadao.tv/tai-po-vs-cong-an-ha-noi-fc-2363069?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-e7d67bc43695d15c9b5e608a3e729033.png",Tai Po vs Cong An Ha Noi FC [BLV HẠT TIÊU - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_hattieu/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/tng-hp-cc-mn-1600-1830-2364987?mode=hd
-#EXTINF:-1 group-title="Tổng hợp các môn vs (16:30 - 19:00)" referer="https://hoadao.tv/tng-hp-cc-mn-1600-1830-2364987?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-d28597ed45145e5c68005d47b66078da.png",Tổng hợp các môn vs (16:30 - 19:00) [BLV HẠT TIÊU - HD]
+#EXTVLCOPT:http-referrer=https://hoadao.tv/tai-po-vs-cong-an-ha-noi-fc-2363069?mode=hd
+#EXTINF:-1 group-title="Tai Po vs Cong An Ha Noi FC" referer="https://hoadao.tv/tai-po-vs-cong-an-ha-noi-fc-2363069?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-e7d67bc43695d15c9b5e608a3e729033.png",Tai Po vs Cong An Ha Noi FC [BLV HẠT TIÊU - HD]
 https://pjoo0925.edgemaxcdn.org/live/blv_hattieu/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/tng-hp-cc-mn-1600-1830-2364987?mode=flv
-#EXTINF:-1 group-title="Tổng hợp các môn vs (16:30 - 19:00)" referer="https://hoadao.tv/tng-hp-cc-mn-1600-1830-2364987?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-d28597ed45145e5c68005d47b66078da.png",Tổng hợp các môn vs (16:30 - 19:00) [BLV HẠT TIÊU - FLV 1]
+#EXTVLCOPT:http-referrer=https://hoadao.tv/tai-po-vs-cong-an-ha-noi-fc-2363069?mode=flv
+#EXTINF:-1 group-title="Tai Po vs Cong An Ha Noi FC" referer="https://hoadao.tv/tai-po-vs-cong-an-ha-noi-fc-2363069?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-e7d67bc43695d15c9b5e608a3e729033.png",Tai Po vs Cong An Ha Noi FC [BLV HẠT TIÊU - FLV 1]
 https://pjoo0925.edgemaxcdn.org/live/blv_hattieu.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/tng-hp-cc-mn-1600-1830-2364987?mode=flv2
-#EXTINF:-1 group-title="Tổng hợp các môn vs (16:30 - 19:00)" referer="https://hoadao.tv/tng-hp-cc-mn-1600-1830-2364987?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-d28597ed45145e5c68005d47b66078da.png",Tổng hợp các môn vs (16:30 - 19:00) [BLV HẠT TIÊU - FLV 2]
+#EXTVLCOPT:http-referrer=https://hoadao.tv/tai-po-vs-cong-an-ha-noi-fc-2363069?mode=flv2
+#EXTINF:-1 group-title="Tai Po vs Cong An Ha Noi FC" referer="https://hoadao.tv/tai-po-vs-cong-an-ha-noi-fc-2363069?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-e7d67bc43695d15c9b5e608a3e729033.png",Tai Po vs Cong An Ha Noi FC [BLV HẠT TIÊU - FLV 2]
 https://pjoo0925.edgemaxcdn.org/live/blv_hattieu.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/thep-xanh-nam-dinh-fc-vs-eastern-football-team-2363063?mode=sd
-#EXTINF:-1 group-title="Thep Xanh Nam Dinh FC vs Eastern Football Team" referer="https://hoadao.tv/thep-xanh-nam-dinh-fc-vs-eastern-football-team-2363063?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-485cc023146f357e56cd8f7323b639e2.png",Thep Xanh Nam Dinh FC vs Eastern Football Team [BLV KHOAI CON - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_khoaitay/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/thep-xanh-nam-dinh-fc-vs-eastern-football-team-2363063?mode=hd
-#EXTINF:-1 group-title="Thep Xanh Nam Dinh FC vs Eastern Football Team" referer="https://hoadao.tv/thep-xanh-nam-dinh-fc-vs-eastern-football-team-2363063?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-485cc023146f357e56cd8f7323b639e2.png",Thep Xanh Nam Dinh FC vs Eastern Football Team [BLV KHOAI CON - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_khoaitay/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/thep-xanh-nam-dinh-fc-vs-eastern-football-team-2363063?mode=flv
-#EXTINF:-1 group-title="Thep Xanh Nam Dinh FC vs Eastern Football Team" referer="https://hoadao.tv/thep-xanh-nam-dinh-fc-vs-eastern-football-team-2363063?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-485cc023146f357e56cd8f7323b639e2.png",Thep Xanh Nam Dinh FC vs Eastern Football Team [BLV KHOAI CON - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_khoaitay/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/thep-xanh-nam-dinh-fc-vs-eastern-football-team-2363063?mode=flv2
-#EXTINF:-1 group-title="Thep Xanh Nam Dinh FC vs Eastern Football Team" referer="https://hoadao.tv/thep-xanh-nam-dinh-fc-vs-eastern-football-team-2363063?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-485cc023146f357e56cd8f7323b639e2.png",Thep Xanh Nam Dinh FC vs Eastern Football Team [BLV KHOAI CON - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_khoaitay/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/thep-xanh-nam-dinh-fc-vs-eastern-football-team-2363063?mode=ndsd
-#EXTINF:-1 group-title="Thep Xanh Nam Dinh FC vs Eastern Football Team" referer="https://hoadao.tv/thep-xanh-nam-dinh-fc-vs-eastern-football-team-2363063?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-485cc023146f357e56cd8f7323b639e2.png",Thep Xanh Nam Dinh FC vs Eastern Football Team [BLV KHOAI CON - SD (ND)]
-https://live.alilicloud.com/live/3dbb22d8cbca2614e1cb697b482d5657/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/n-philippines-n-thi-lan-2364988?mode=sd
-#EXTINF:-1 group-title="Nữ Philippines vs Nữ Thái Lan" referer="https://hoadao.tv/n-philippines-n-thi-lan-2364988?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-f3650f569aafc0aef7bf1d616c27f665.png",Nữ Philippines vs Nữ Thái Lan [BLV CỤ RÙA - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/n-philippines-n-thi-lan-2364988?mode=hd
-#EXTINF:-1 group-title="Nữ Philippines vs Nữ Thái Lan" referer="https://hoadao.tv/n-philippines-n-thi-lan-2364988?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-f3650f569aafc0aef7bf1d616c27f665.png",Nữ Philippines vs Nữ Thái Lan [BLV CỤ RÙA - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/n-philippines-n-thi-lan-2364988?mode=flv
-#EXTINF:-1 group-title="Nữ Philippines vs Nữ Thái Lan" referer="https://hoadao.tv/n-philippines-n-thi-lan-2364988?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-f3650f569aafc0aef7bf1d616c27f665.png",Nữ Philippines vs Nữ Thái Lan [BLV CỤ RÙA - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/n-philippines-n-thi-lan-2364988?mode=flv2
-#EXTINF:-1 group-title="Nữ Philippines vs Nữ Thái Lan" referer="https://hoadao.tv/n-philippines-n-thi-lan-2364988?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-f3650f569aafc0aef7bf1d616c27f665.png",Nữ Philippines vs Nữ Thái Lan [BLV CỤ RÙA - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/tai-po-vs-cong-an-ha-noi-fc-2363069?mode=ndsd
+#EXTINF:-1 group-title="Tai Po vs Cong An Ha Noi FC" referer="https://hoadao.tv/tai-po-vs-cong-an-ha-noi-fc-2363069?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-e7d67bc43695d15c9b5e608a3e729033.png",Tai Po vs Cong An Ha Noi FC [BLV HẠT TIÊU - SD (ND)]
+https://live.alilicloud.com/live/64cb26743987bd4c034fd33c543093a3/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/fk-iskra-danilovgrad-vs-otrant-2365137?mode=ndsd
+#EXTINF:-1 group-title="FK Iskra Danilovgrad vs Otrant" referer="https://hoadao.tv/fk-iskra-danilovgrad-vs-otrant-2365137?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-d4988354d8414fca22282a82df3287f1.png",FK Iskra Danilovgrad vs Otrant [No BLV - SD (ND)]
+https://live.alilicloud.com/live/0cdc4e5daeb8d00cdd784a481c5c7314/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/tng-hp-cc-mn-1830-2100-2364989?mode=sd
 #EXTINF:-1 group-title="Tổng hợp các môn vs (19:00 - 21:30)" referer="https://hoadao.tv/tng-hp-cc-mn-1830-2100-2364989?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-393773b8a7e0d1ec30a66957a3fc48a5.png",Tổng hợp các môn vs (19:00 - 21:30) [BLV PHÁO - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
@@ -50,3 +41,15 @@ https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/tng-hp-cc-mn-1830-2100-2364989?mode=flv2
 #EXTINF:-1 group-title="Tổng hợp các môn vs (19:00 - 21:30)" referer="https://hoadao.tv/tng-hp-cc-mn-1830-2100-2364989?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-393773b8a7e0d1ec30a66957a3fc48a5.png",Tổng hợp các môn vs (19:00 - 21:30) [BLV PHÁO - FLV 2]
 https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/zamalek-orlando-valkyries-2364992?mode=sd
+#EXTINF:-1 group-title="Zamalek vs Orlando Valkyries" referer="https://hoadao.tv/zamalek-orlando-valkyries-2364992?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-3e1dcc1df19323d0e9a5a3dc051bd2a7.png",Zamalek vs Orlando Valkyries [BLV CỤ RÙA - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/zamalek-orlando-valkyries-2364992?mode=hd
+#EXTINF:-1 group-title="Zamalek vs Orlando Valkyries" referer="https://hoadao.tv/zamalek-orlando-valkyries-2364992?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-3e1dcc1df19323d0e9a5a3dc051bd2a7.png",Zamalek vs Orlando Valkyries [BLV CỤ RÙA - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/zamalek-orlando-valkyries-2364992?mode=flv
+#EXTINF:-1 group-title="Zamalek vs Orlando Valkyries" referer="https://hoadao.tv/zamalek-orlando-valkyries-2364992?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-3e1dcc1df19323d0e9a5a3dc051bd2a7.png",Zamalek vs Orlando Valkyries [BLV CỤ RÙA - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/zamalek-orlando-valkyries-2364992?mode=flv2
+#EXTINF:-1 group-title="Zamalek vs Orlando Valkyries" referer="https://hoadao.tv/zamalek-orlando-valkyries-2364992?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-3e1dcc1df19323d0e9a5a3dc051bd2a7.png",Zamalek vs Orlando Valkyries [BLV CỤ RÙA - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_curua.flv
