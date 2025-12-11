@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/tng-hp-cc-mn-1330-1600-2364985?mode=sd
-#EXTINF:-1 group-title="Tổng hợp các môn vs (14:00 - 16:30)" referer="https://hoadao.tv/tng-hp-cc-mn-1330-1600-2364985?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-502ac45929c01fd2c72dd6bbd31acd95.png",Tổng hợp các môn vs (14:00 - 16:30) [BLV CHIM NHỎ - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/tng-hp-cc-mn-1330-1600-2364985?mode=hd
-#EXTINF:-1 group-title="Tổng hợp các môn vs (14:00 - 16:30)" referer="https://hoadao.tv/tng-hp-cc-mn-1330-1600-2364985?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-502ac45929c01fd2c72dd6bbd31acd95.png",Tổng hợp các môn vs (14:00 - 16:30) [BLV CHIM NHỎ - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/tng-hp-cc-mn-1330-1600-2364985?mode=flv
-#EXTINF:-1 group-title="Tổng hợp các môn vs (14:00 - 16:30)" referer="https://hoadao.tv/tng-hp-cc-mn-1330-1600-2364985?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-502ac45929c01fd2c72dd6bbd31acd95.png",Tổng hợp các môn vs (14:00 - 16:30) [BLV CHIM NHỎ - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/tng-hp-cc-mn-1330-1600-2364985?mode=flv2
-#EXTINF:-1 group-title="Tổng hợp các môn vs (14:00 - 16:30)" referer="https://hoadao.tv/tng-hp-cc-mn-1330-1600-2364985?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-502ac45929c01fd2c72dd6bbd31acd95.png",Tổng hợp các môn vs (14:00 - 16:30) [BLV CHIM NHỎ - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/vietnam-u22-vs-malaysia-u22-2363059?mode=sd
 #EXTINF:-1 group-title="Vietnam U22 vs Malaysia U22" referer="https://hoadao.tv/vietnam-u22-vs-malaysia-u22-2363059?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-61004ad538d9b93e3b6389e1c5468ab5.png",Vietnam U22 vs Malaysia U22 [BLV BÚN CHẢ - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_buncha/playlist.m3u8
@@ -23,6 +11,36 @@ https://pjoo0925.edgemaxcdn.org/live/blv_buncha.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/vietnam-u22-vs-malaysia-u22-2363059?mode=flv2
 #EXTINF:-1 group-title="Vietnam U22 vs Malaysia U22" referer="https://hoadao.tv/vietnam-u22-vs-malaysia-u22-2363059?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-61004ad538d9b93e3b6389e1c5468ab5.png",Vietnam U22 vs Malaysia U22 [BLV BÚN CHẢ - FLV 2]
 https://pjoo0925.edgemaxcdn.org/live/blv_buncha.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/vietnam-u22-vs-malaysia-u22-2363059?mode=ndsd
+#EXTINF:-1 group-title="Vietnam U22 vs Malaysia U22" referer="https://hoadao.tv/vietnam-u22-vs-malaysia-u22-2363059?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-61004ad538d9b93e3b6389e1c5468ab5.png",Vietnam U22 vs Malaysia U22 [BLV BÚN CHẢ - SD (ND)]
+https://live.alilicloud.com/live/d3e80e461730838e762a53edf88abcca/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/philippines-women-vs-malaysia-women-2363060?mode=sd
+#EXTINF:-1 group-title="Philippines Women vs Malaysia Women" referer="https://hoadao.tv/philippines-women-vs-malaysia-women-2363060?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-4cf55ada2ce7df2a5956029279297987.png",Philippines Women vs Malaysia Women [BLV MÈO BÉO - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/philippines-women-vs-malaysia-women-2363060?mode=hd
+#EXTINF:-1 group-title="Philippines Women vs Malaysia Women" referer="https://hoadao.tv/philippines-women-vs-malaysia-women-2363060?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-4cf55ada2ce7df2a5956029279297987.png",Philippines Women vs Malaysia Women [BLV MÈO BÉO - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/philippines-women-vs-malaysia-women-2363060?mode=flv
+#EXTINF:-1 group-title="Philippines Women vs Malaysia Women" referer="https://hoadao.tv/philippines-women-vs-malaysia-women-2363060?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-4cf55ada2ce7df2a5956029279297987.png",Philippines Women vs Malaysia Women [BLV MÈO BÉO - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/philippines-women-vs-malaysia-women-2363060?mode=flv2
+#EXTINF:-1 group-title="Philippines Women vs Malaysia Women" referer="https://hoadao.tv/philippines-women-vs-malaysia-women-2363060?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-4cf55ada2ce7df2a5956029279297987.png",Philippines Women vs Malaysia Women [BLV MÈO BÉO - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/philippines-women-vs-malaysia-women-2363060?mode=ndsd
+#EXTINF:-1 group-title="Philippines Women vs Malaysia Women" referer="https://hoadao.tv/philippines-women-vs-malaysia-women-2363060?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-4cf55ada2ce7df2a5956029279297987.png",Philippines Women vs Malaysia Women [BLV MÈO BÉO - SD (ND)]
+https://live.alilicloud.com/live/258a9af4b0265bd6d17ce59e6fdfcd4d/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/vietnam-women-vs-myanmar-w-2363061?mode=sd
+#EXTINF:-1 group-title="Vietnam Women vs Myanmar Women" referer="https://hoadao.tv/vietnam-women-vs-myanmar-w-2363061?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-7686f7228c267bd8e3cc261e7a01c272.png",Vietnam Women vs Myanmar Women [BLV CHIM NHỎ - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/vietnam-women-vs-myanmar-w-2363061?mode=hd
+#EXTINF:-1 group-title="Vietnam Women vs Myanmar Women" referer="https://hoadao.tv/vietnam-women-vs-myanmar-w-2363061?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-7686f7228c267bd8e3cc261e7a01c272.png",Vietnam Women vs Myanmar Women [BLV CHIM NHỎ - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/vietnam-women-vs-myanmar-w-2363061?mode=flv
+#EXTINF:-1 group-title="Vietnam Women vs Myanmar Women" referer="https://hoadao.tv/vietnam-women-vs-myanmar-w-2363061?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-7686f7228c267bd8e3cc261e7a01c272.png",Vietnam Women vs Myanmar Women [BLV CHIM NHỎ - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/vietnam-women-vs-myanmar-w-2363061?mode=flv2
+#EXTINF:-1 group-title="Vietnam Women vs Myanmar Women" referer="https://hoadao.tv/vietnam-women-vs-myanmar-w-2363061?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-7686f7228c267bd8e3cc261e7a01c272.png",Vietnam Women vs Myanmar Women [BLV CHIM NHỎ - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/tng-hp-cc-mn-1600-1830-2364987?mode=sd
 #EXTINF:-1 group-title="Tổng hợp các môn vs (16:30 - 19:00)" referer="https://hoadao.tv/tng-hp-cc-mn-1600-1830-2364987?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-d28597ed45145e5c68005d47b66078da.png",Tổng hợp các môn vs (16:30 - 19:00) [BLV HẠT TIÊU - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_hattieu/playlist.m3u8
