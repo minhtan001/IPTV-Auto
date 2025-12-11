@@ -77,10 +77,6 @@ http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31801&extensi
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31802&extension=ts&play_token=oKVP0gjuIKp
 #EXTINF:-1 group-title="TruyenHinh_2",Max Sport 4 HD
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31804&extension=ts&play_token=h5UuqXNs2K
-#EXTINF:-1 group-title="TruyenHinh_2",SPOTV
-http://khaitv.giize.com:1979/mytv/new/get.php?id=632
-#EXTINF:-1 group-title="TruyenHinh_2",SPOTV2
-http://khaitv.giize.com:1979/mytv/new/get.php?id=633
 #EXTINF:-1 group-title="TruyenHinh_2",TVB VIỆT NAM
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Đèn Âm Hồn: Người Con Gái Nam Xương
@@ -144,15 +140,11 @@ https://liveh12.seenow.vn/hls/VTV9_HD/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",ON Vie Giải Trí
 https://freem3u.xyz/api/live/play.m3u8?vid=180
 #EXTINF:-1 group-title="TruyenHinh_2",ON Phim Việt
-http://khaitv.giize.com:1979/mytv/new/get.php?id=198
-#EXTINF:-1 group-title="TruyenHinh_2",ON Sport HD
-http://khaitv.giize.com:1979/mytv/new/get.php?id=200
+https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-2-phim-viet-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",On Movies - You TV
 https://freem3u.xyz/api/live/play.m3u8?vid=181
 #EXTINF:-1 group-title="TruyenHinh_2",ON E- Channel
 https://freem3u.xyz/api/live/play.m3u8?vid=182
-#EXTINF:-1 group-title="TruyenHinh_2",ON Sport+ HD
-http://khaitv.giize.com:1979/mytv/new/get.php?id=203
 #EXTINF:-1 group-title="TruyenHinh_2",On O2TV
 https://freem3u.xyz/api/live/play.m3u8?vid=136
 #EXTINF:-1 group-title="TruyenHinh_2",On BiBi
@@ -165,8 +157,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=176
 https://freem3u.xyz/api/live/play.m3u8?vid=184
 #EXTINF:-1 group-title="TruyenHinh_2",On Music
 https://freem3u.xyz/api/live/play.m3u8?vid=185
-#EXTINF:-1 group-title="TruyenHinh_2",ON Football HD
-http://khaitv.giize.com:1979/mytv/new/get.php?id=208
 #EXTINF:-1 group-title="TruyenHinh_2",ON TRENDING TV
 https://freem3u.xyz/api/live/play.m3u8?vid=186
 #EXTINF:-1 group-title="TruyenHinh_2",ON Vie Dramas
