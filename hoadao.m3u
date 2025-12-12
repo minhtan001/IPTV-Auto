@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/tng-hp-cc-mn-1330-1600-2365005?mode=sd
-#EXTINF:-1 group-title="Tổng hợp các môn vs (14:00 - 16:30)" referer="https://hoadao.tv/tng-hp-cc-mn-1330-1600-2365005?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-af82b8adacb8b99d01794a68efa88951.png",Tổng hợp các môn vs (14:00 - 16:30) [BLV PHÁO - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/tng-hp-cc-mn-1330-1600-2365005?mode=hd
-#EXTINF:-1 group-title="Tổng hợp các môn vs (14:00 - 16:30)" referer="https://hoadao.tv/tng-hp-cc-mn-1330-1600-2365005?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-af82b8adacb8b99d01794a68efa88951.png",Tổng hợp các môn vs (14:00 - 16:30) [BLV PHÁO - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_phao/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/tng-hp-cc-mn-1330-1600-2365005?mode=flv
-#EXTINF:-1 group-title="Tổng hợp các môn vs (14:00 - 16:30)" referer="https://hoadao.tv/tng-hp-cc-mn-1330-1600-2365005?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-af82b8adacb8b99d01794a68efa88951.png",Tổng hợp các môn vs (14:00 - 16:30) [BLV PHÁO - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/tng-hp-cc-mn-1330-1600-2365005?mode=flv2
-#EXTINF:-1 group-title="Tổng hợp các môn vs (14:00 - 16:30)" referer="https://hoadao.tv/tng-hp-cc-mn-1330-1600-2365005?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-af82b8adacb8b99d01794a68efa88951.png",Tổng hợp các môn vs (14:00 - 16:30) [BLV PHÁO - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/tng-hp-cc-mn-1600-1830-2365007?mode=sd
 #EXTINF:-1 group-title="Tổng hợp các môn vs (16:30 - 19:00)" referer="https://hoadao.tv/tng-hp-cc-mn-1600-1830-2365007?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-d187f74c1a9572644d5b986d8a288f7b.png",Tổng hợp các môn vs (16:30 - 19:00) [BLV HẠT TIÊU - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_hattieu/playlist.m3u8
