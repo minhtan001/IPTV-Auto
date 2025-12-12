@@ -343,14 +343,14 @@ https://pull.niues.live/live/stream-459401_lsd.m3u8?auth_key=1765493793-0-0-c445
 https://pull06.scstream.net/live/stream-459401_lhd.flv?auth_key=1765493793-0-0-1642a3904a52c5015aee29e87010b8ef
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-1f3dd9d805d4509fe3a1518e49426adf.png",Abha vs Al Ula FC [BLV BÉO - FLV]
 https://pull06.scstream.net/live/stream-459401_lsd.flv?auth_key=1765493793-0-0-f3896be12b2ce4c6d9db8ceca30e94be
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-1f3dd9d805d4509fe3a1518e49426adf.png",Abha vs Al Ula FC [NEYMAR - HD M3U8]
-https://pull.niues.live/live/stream-557150_lhd.m3u8?auth_key=1765466104-0-0-b5a4ea753dc73ff25d32ca9fc2ce94f8
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-1f3dd9d805d4509fe3a1518e49426adf.png",Abha vs Al Ula FC [NEYMAR - M3U8]
-https://pull.niues.live/live/stream-557150_lsd.m3u8?auth_key=1765466104-0-0-026c31b796019cbea23c698b15ba7ef6
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-1f3dd9d805d4509fe3a1518e49426adf.png",Abha vs Al Ula FC [NEYMAR - HD FLV]
-https://pull06.scstream.net/live/stream-557150_lhd.flv?auth_key=1765466104-0-0-752fb4a07676332bdbf4fcaae96421c2
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-1f3dd9d805d4509fe3a1518e49426adf.png",Abha vs Al Ula FC [NEYMAR - FLV]
-https://pull06.scstream.net/live/stream-557150_lsd.flv?auth_key=1765466104-0-0-fc7826af6d48e3d823469b1c9743d668
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-1f3dd9d805d4509fe3a1518e49426adf.png",Abha vs Al Ula FC [BLV LONG - HD M3U8]
+https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=cac07e0d486313474f7b0a1d0e3d6e2b&txTime=693b733e
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-1f3dd9d805d4509fe3a1518e49426adf.png",Abha vs Al Ula FC [BLV LONG - M3U8]
+https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=84908b55ca33a123e42c2e909967b49a&txTime=693b733e
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-1f3dd9d805d4509fe3a1518e49426adf.png",Abha vs Al Ula FC [BLV LONG - HD FLV]
+https://pull.niur.live/live/stream-9912050_lhd.flv?txSecret=cac07e0d486313474f7b0a1d0e3d6e2b&txTime=693b733e
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-1f3dd9d805d4509fe3a1518e49426adf.png",Abha vs Al Ula FC [BLV LONG - FLV]
+https://pull.niur.live/live/stream-9912050_lsd.flv?txSecret=84908b55ca33a123e42c2e909967b49a&txTime=693b733e
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-716ed9beb5e5cf3318467bd6ed3067e6.png",Bologna U20 vs AC Milan U20 [BLV MIXI - HD M3U8]
 https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1765493878-0-0-f916c2506338412d062a55041507d773
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://hxcv.site/images/cache/match-716ed9beb5e5cf3318467bd6ed3067e6.png",Bologna U20 vs AC Milan U20 [BLV MIXI - M3U8]
@@ -559,6 +559,18 @@ https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/n-vit-nam-n-indonesia-2365006?mode=flv2
 #EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/n-vit-nam-n-indonesia-2365006?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-7b24a78777eec6956e57b1c61dfa4bbf.png",Nữ Việt Nam vs Nữ Indonesia [BLV CHIM NHỎ - FLV 2]
 https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/tng-hp-cc-mn-1330-1600-2365005?mode=sd
+#EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/tng-hp-cc-mn-1330-1600-2365005?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-af82b8adacb8b99d01794a68efa88951.png",Tổng hợp các môn vs (14:00 - 16:30) [BLV PHÁO - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_phaosd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/tng-hp-cc-mn-1330-1600-2365005?mode=hd
+#EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/tng-hp-cc-mn-1330-1600-2365005?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-af82b8adacb8b99d01794a68efa88951.png",Tổng hợp các môn vs (14:00 - 16:30) [BLV PHÁO - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/tng-hp-cc-mn-1330-1600-2365005?mode=flv
+#EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/tng-hp-cc-mn-1330-1600-2365005?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-af82b8adacb8b99d01794a68efa88951.png",Tổng hợp các môn vs (14:00 - 16:30) [BLV PHÁO - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/tng-hp-cc-mn-1330-1600-2365005?mode=flv2
+#EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/tng-hp-cc-mn-1330-1600-2365005?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-af82b8adacb8b99d01794a68efa88951.png",Tổng hợp các môn vs (14:00 - 16:30) [BLV PHÁO - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_phao.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/n-malaysia-n-myanmar-2365004?mode=sd
 #EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/n-malaysia-n-myanmar-2365004?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-596dedb3f2f11dc11d4681a6934e4a85.png",Nữ Malaysia vs Nữ Myanmar [BLV MÈO BÉO - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
@@ -907,8 +919,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=308080
 http://sharing.gotdns.ch:8091/socolive.php?id=561379
 #EXTINF:-1 group-title="Socolive_2",19h30: [BLV BÉO] Abha vs Al Ula FC
 http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTINF:-1 group-title="Socolive_2",19h30: [NEYMAR] Abha vs Al Ula FC
-http://sharing.gotdns.ch:8091/socolive.php?id=557150
+#EXTINF:-1 group-title="Socolive_2",19h30: [BLV LONG] Abha vs Al Ula FC
+http://sharing.gotdns.ch:8091/socolive.php?id=9912050
 #EXTINF:-1 group-title="Socolive_2",20h00: [BLV MIXI] Bologna U20 vs AC Milan U20
 http://sharing.gotdns.ch:8091/socolive.php?id=290928
 #EXTINF:-1 group-title="Socolive_2",20h00: [BLV GÔN] Bologna U20 vs AC Milan U20
@@ -1309,9 +1321,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=304148
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",17h30-13/12: [CÔNG LÝ] Sariyer vs Istanbulspor
 http://sharing.gotdns.ch:8091/socolive.php?id=9912035
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",17h30-13/12: [NEYMAR] Sariyer vs Istanbulspor
-http://sharing.gotdns.ch:8091/socolive.php?id=557150
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",17h30-13/12: [BLV RAMBO] Serik Belediyespor vs Manisa Futbol Kulübü
 http://sharing.gotdns.ch:8091/socolive.php?id=534055
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -1618,14 +1627,14 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912050
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h15-13/12: [RÙA VÀNG] RCD Mallorca vs Elche
 http://sharing.gotdns.ch:8091/socolive.php?id=563268
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h15-13/12: [NEYMAR] RCD Mallorca vs Elche
-http://sharing.gotdns.ch:8091/socolive.php?id=557150
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h15-13/12: [VỊT BẠC] RCD Mallorca vs Elche
 http://sharing.gotdns.ch:8091/socolive.php?id=474421
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h15-13/12: [NGOẠ LONG] RCD Mallorca vs Elche
 http://sharing.gotdns.ch:8091/socolive.php?id=538979
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h15-13/12: [BLV SATIVA] RCD Mallorca vs Elche
+http://sharing.gotdns.ch:8091/socolive.php?id=321443
 #EXTINF:-1 group-title="TruyenHinh_2",KuboLive #Server 1
 http://live.qphim.xyz/live/kubolive/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",KuboCast
