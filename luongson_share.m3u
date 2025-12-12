@@ -1,22 +1,19 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",18h00-12/12 Parma U20 Vs S.S.D. Monza 1912 U20 BLV VÕ TÒNG
+https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",18h00-12/12 Perth Glory (W) Vs Wellington Phoenix (W) BLV KHỔNG MINH
 https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",18h00-12/12 Indonesia U22 Vs Myanmar U22 BLV KEVILL
 https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",18h00-12/12 Parma U20 Vs S.S.D. Monza 1912 U20 BLV VÕ TÒNG
-https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",05h00-12/12 WOLVES Vs MU BLV KAKA REPLAY
 https://hls.cdnok9.com/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",12h00-12/12 Real Madrid Vs Manchester City BLV VƯƠNG LUÂN REPLAY
 https://hls.cdnok9.com/live/OK905/index.m3u8?expire=1924966740&sign=e08f6d700054cac9a20636feb9d13c2f
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",16h00-12/12 FC Istaravshan Vs FC Istiklol Dushanbe NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MuS7x4A1JgkuKmV7z/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",17h20-12/12 Kryvbas U21 Vs Kolos Kovalivka U21 NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuQ8iiSxjgj1rHB6k/playlist.m3u8
@@ -29,6 +26,12 @@ https://auto.cdnvankhanh.com/live/sd-6MuQ8iiSxvg8NFQksE/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",18h00-12/12 Kasetsart FC Vs Khonkaen United NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuPtPpm4vcH3sg4gC/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",18h30-12/12 Bashundhara Kings Vs Mohammedan Dhaka BLV TẦN CA
+https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",18h30-12/12 Adana Demirspor Vs Boluspor BLV PHONG VÂN
+https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",19h00-12/12 Chanthaburi FC Vs Pattani NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuPtPpm5Jb5kfwEDA/playlist.m3u8
