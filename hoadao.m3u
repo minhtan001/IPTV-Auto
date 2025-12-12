@@ -1,7 +1,19 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/al-ahly-fc-vs-enppi-2363322?mode=ndsd
-#EXTINF:-1 group-title="Al Ahly FC vs Enppi" referer="https://hoadao.tv/al-ahly-fc-vs-enppi-2363322?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-0033412b7e4fc87cbb69909fd0cc0838.png",Al Ahly FC vs Enppi [No BLV - SD (ND)]
-https://live.alilicloud.com/live/175db49dd3d10d88d60616d0ee8832b8/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/1-fc-union-berlin-vs-rb-leipzig-2363822?mode=sd
+#EXTINF:-1 group-title="1. FC Union Berlin vs RB Leipzig" referer="https://hoadao.tv/1-fc-union-berlin-vs-rb-leipzig-2363822?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-85c641d67ebcc88a9b47a808c17228fb.png",1. FC Union Berlin vs RB Leipzig [BLV KHOAI CON - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_khoaitay/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/1-fc-union-berlin-vs-rb-leipzig-2363822?mode=hd
+#EXTINF:-1 group-title="1. FC Union Berlin vs RB Leipzig" referer="https://hoadao.tv/1-fc-union-berlin-vs-rb-leipzig-2363822?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-85c641d67ebcc88a9b47a808c17228fb.png",1. FC Union Berlin vs RB Leipzig [BLV KHOAI CON - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_khoaitay/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/1-fc-union-berlin-vs-rb-leipzig-2363822?mode=flv
+#EXTINF:-1 group-title="1. FC Union Berlin vs RB Leipzig" referer="https://hoadao.tv/1-fc-union-berlin-vs-rb-leipzig-2363822?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-85c641d67ebcc88a9b47a808c17228fb.png",1. FC Union Berlin vs RB Leipzig [BLV KHOAI CON - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_khoaitay/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/1-fc-union-berlin-vs-rb-leipzig-2363822?mode=flv2
+#EXTINF:-1 group-title="1. FC Union Berlin vs RB Leipzig" referer="https://hoadao.tv/1-fc-union-berlin-vs-rb-leipzig-2363822?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-85c641d67ebcc88a9b47a808c17228fb.png",1. FC Union Berlin vs RB Leipzig [BLV KHOAI CON - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_khoaitay/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/1-fc-union-berlin-vs-rb-leipzig-2363822?mode=ndsd
+#EXTINF:-1 group-title="1. FC Union Berlin vs RB Leipzig" referer="https://hoadao.tv/1-fc-union-berlin-vs-rb-leipzig-2363822?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-85c641d67ebcc88a9b47a808c17228fb.png",1. FC Union Berlin vs RB Leipzig [BLV KHOAI CON - SD (ND)]
+https://live.alilicloud.com/live/1503af01cd3df267d2a111e5ed57bd00/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/oliveirense-vs-gd-chaves-2364350?mode=ndsd
 #EXTINF:-1 group-title="Oliveirense vs GD Chaves" referer="https://hoadao.tv/oliveirense-vs-gd-chaves-2364350?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-4c5204807093d4f459dd3737265aa5d7.png",Oliveirense vs GD Chaves [No BLV - SD (ND)]
 https://live.alilicloud.com/live/d82ef305273381499a151c548983f38a/playlist.m3u8
@@ -32,3 +44,48 @@ https://live.alilicloud.com/live/4b57aff428bc356a43a3092b0680a55e/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/le-puy-foot-43-auvergne-vs-fleury-merogis-us-2363792?mode=ndsd
 #EXTINF:-1 group-title="Le Puy Foot 43 Auvergne vs Fleury Merogis U.S." referer="https://hoadao.tv/le-puy-foot-43-auvergne-vs-fleury-merogis-us-2363792?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-d4313c9eb3fd212269f12ce061344844.png",Le Puy Foot 43 Auvergne vs Fleury Merogis U.S. [No BLV - SD (ND)]
 https://live.alilicloud.com/live/bf6248cd0bcc27f667f7edec60a2473b/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/fc-rouen-vs-quevilly-rouen-metropole-2363782?mode=ndsd
+#EXTINF:-1 group-title="FC Rouen vs Quevilly Rouen Métropole" referer="https://hoadao.tv/fc-rouen-vs-quevilly-rouen-metropole-2363782?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-94eb39a95d97d90bc9a1602a88d152c3.png",FC Rouen vs Quevilly Rouen Métropole [No BLV - SD (ND)]
+https://live.alilicloud.com/live/6e009d0e653ab01c5772e33877f41303/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/willem-ii-vs-sc-cambuur-leeuwarden-2363793?mode=ndsd
+#EXTINF:-1 group-title="Willem II vs SC Cambuur Leeuwarden" referer="https://hoadao.tv/willem-ii-vs-sc-cambuur-leeuwarden-2363793?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-ee17e479f7e8391f202679b7c260ee76.png",Willem II vs SC Cambuur Leeuwarden [No BLV - SD (ND)]
+https://live.alilicloud.com/live/e5b046de6a4787c3599844dba886b254/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/de-graafschap-vs-roda-jc-2363798?mode=ndsd
+#EXTINF:-1 group-title="De Graafschap vs Roda JC" referer="https://hoadao.tv/de-graafschap-vs-roda-jc-2363798?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-4c9792ad52f091e3a160d272a4d16622.png",De Graafschap vs Roda JC [No BLV - SD (ND)]
+https://live.alilicloud.com/live/a52398754bc2e09add6324637d925823/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/annecy-vs-le-mans-2363800?mode=ndsd
+#EXTINF:-1 group-title="Annecy vs Le Mans" referer="https://hoadao.tv/annecy-vs-le-mans-2363800?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-11540bc724a6a4619ace2cc7f83553f5.png",Annecy vs Le Mans [No BLV - SD (ND)]
+https://live.alilicloud.com/live/519ede9c235097b9e77ae7b28ff9e770/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/den-bosch-vs-vvv-venlo-2363802?mode=ndsd
+#EXTINF:-1 group-title="Den Bosch vs VVV Venlo" referer="https://hoadao.tv/den-bosch-vs-vvv-venlo-2363802?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-d0d70052001b47c8135746481dbd1c31.png",Den Bosch vs VVV Venlo [No BLV - SD (ND)]
+https://live.alilicloud.com/live/036ecf967eb77a0e7d7b95a778d81c9b/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/stade-lavallois-mfc-vs-usl-dunkerque-2363803?mode=ndsd
+#EXTINF:-1 group-title="Stade Lavallois MFC vs USL Dunkerque" referer="https://hoadao.tv/stade-lavallois-mfc-vs-usl-dunkerque-2363803?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-a51c8a190f16085272c7a4843c4b5453.png",Stade Lavallois MFC vs USL Dunkerque [No BLV - SD (ND)]
+https://live.alilicloud.com/live/65ed4d1336bff242ba3debab80422d44/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/dordrecht-vs-fc-eindhoven-2363804?mode=ndsd
+#EXTINF:-1 group-title="Dordrecht vs FC Eindhoven" referer="https://hoadao.tv/dordrecht-vs-fc-eindhoven-2363804?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-725bd318f744c0afd8d3a30b55f7e10a.png",Dordrecht vs FC Eindhoven [No BLV - SD (ND)]
+https://live.alilicloud.com/live/31e5eab942d0f45f2844533e5e896423/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/nancy-vs-clermont-2363805?mode=ndsd
+#EXTINF:-1 group-title="Nancy vs Clermont" referer="https://hoadao.tv/nancy-vs-clermont-2363805?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-4d6740809d8b3d716ad21657824a2700.png",Nancy vs Clermont [No BLV - SD (ND)]
+https://live.alilicloud.com/live/fce3f658db7e0b5f4e7c807b444a7b21/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/emmen-vs-helmond-sport-2363807?mode=ndsd
+#EXTINF:-1 group-title="Emmen vs Helmond Sport" referer="https://hoadao.tv/emmen-vs-helmond-sport-2363807?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-acc764f6973516ac815dcfacf6e5cf45.png",Emmen vs Helmond Sport [No BLV - SD (ND)]
+https://live.alilicloud.com/live/d5a44632130e783157ba674310e2c529/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/pau-fc-vs-amiens-2363808?mode=ndsd
+#EXTINF:-1 group-title="Pau FC vs Amiens" referer="https://hoadao.tv/pau-fc-vs-amiens-2363808?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-431dc491e469e4ec917ed3d91f8c4e53.png",Pau FC vs Amiens [No BLV - SD (ND)]
+https://live.alilicloud.com/live/764af6f67b0658ada0a32924f3ad21fa/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/az-alkmaar-youth-vs-fc-utrecht-youth-2363810?mode=ndsd
+#EXTINF:-1 group-title="AZ Alkmaar Youth vs FC Utrecht Youth" referer="https://hoadao.tv/az-alkmaar-youth-vs-fc-utrecht-youth-2363810?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-0f9495ad890c2ee04809c00ca4c91fca.png",AZ Alkmaar Youth vs FC Utrecht Youth [No BLV - SD (ND)]
+https://live.alilicloud.com/live/0856ef2360b275c6728c62102973c6ab/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/rodez-aveyron-vs-guingamp-2363811?mode=ndsd
+#EXTINF:-1 group-title="Rodez Aveyron vs Guingamp" referer="https://hoadao.tv/rodez-aveyron-vs-guingamp-2363811?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-8e5bde2858357010853f5a6822d6c2e4.png",Rodez Aveyron vs Guingamp [No BLV - SD (ND)]
+https://live.alilicloud.com/live/eecf84476c2170dea4a1e95dcc4291b6/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/jong-psv-eindhoven-youth-vs-almere-city-fc-2363813?mode=ndsd
+#EXTINF:-1 group-title="Jong PSV Eindhoven Youth vs Almere City FC" referer="https://hoadao.tv/jong-psv-eindhoven-youth-vs-almere-city-fc-2363813?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-dbc896855a3fb484e2b3b2a168ee5582.png",Jong PSV Eindhoven Youth vs Almere City FC [No BLV - SD (ND)]
+https://live.alilicloud.com/live/b971113e72288d172f1e41f3596bed72/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/mvv-maastricht-vs-jong-ajax-youth-2363816?mode=ndsd
+#EXTINF:-1 group-title="MVV Maastricht vs Jong Ajax Youth" referer="https://hoadao.tv/mvv-maastricht-vs-jong-ajax-youth-2363816?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-2177533e6a95807824c79a4cb41efca5.png",MVV Maastricht vs Jong Ajax Youth [No BLV - SD (ND)]
+https://live.alilicloud.com/live/1d820fc722ced8e6734746e2a6d07e7d/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/fc-oss-vs-ado-den-haag-2363819?mode=ndsd
+#EXTINF:-1 group-title="FC Oss vs ADO Den Haag" referer="https://hoadao.tv/fc-oss-vs-ado-den-haag-2363819?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-f3e2c41dcc6839e30bbf6c1f652f5d21.png",FC Oss vs ADO Den Haag [No BLV - SD (ND)]
+https://live.alilicloud.com/live/a1613a9803a816bfb4accd3402fb8969/playlist.m3u8
