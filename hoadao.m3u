@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://hoadao.tv/tng-hp-cc-mn-1600-1830-2365007?mode=sd
-#EXTINF:-1 group-title="Tổng hợp các môn vs (16:30 - 19:00)" referer="https://hoadao.tv/tng-hp-cc-mn-1600-1830-2365007?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-d187f74c1a9572644d5b986d8a288f7b.png",Tổng hợp các môn vs (16:30 - 19:00) [BLV HẠT TIÊU - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_hattieu/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/tng-hp-cc-mn-1600-1830-2365007?mode=hd
-#EXTINF:-1 group-title="Tổng hợp các môn vs (16:30 - 19:00)" referer="https://hoadao.tv/tng-hp-cc-mn-1600-1830-2365007?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-d187f74c1a9572644d5b986d8a288f7b.png",Tổng hợp các môn vs (16:30 - 19:00) [BLV HẠT TIÊU - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_hattieu/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/tng-hp-cc-mn-1600-1830-2365007?mode=flv
-#EXTINF:-1 group-title="Tổng hợp các môn vs (16:30 - 19:00)" referer="https://hoadao.tv/tng-hp-cc-mn-1600-1830-2365007?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-d187f74c1a9572644d5b986d8a288f7b.png",Tổng hợp các môn vs (16:30 - 19:00) [BLV HẠT TIÊU - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_hattieu.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/tng-hp-cc-mn-1600-1830-2365007?mode=flv2
-#EXTINF:-1 group-title="Tổng hợp các môn vs (16:30 - 19:00)" referer="https://hoadao.tv/tng-hp-cc-mn-1600-1830-2365007?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-d187f74c1a9572644d5b986d8a288f7b.png",Tổng hợp các môn vs (16:30 - 19:00) [BLV HẠT TIÊU - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_hattieu.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/indonesia-u22-vs-myanmar-u22-2363355?mode=sd
 #EXTINF:-1 group-title="Indonesia U22 vs Myanmar U22" referer="https://hoadao.tv/indonesia-u22-vs-myanmar-u22-2363355?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-5be942f4b6d043fdd9439215d8249445.png",Indonesia U22 vs Myanmar U22 [BLV KHOAI CON - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_khoaitay/playlist.m3u8
@@ -23,15 +11,18 @@ https://pjoo0925.edgemaxcdn.org/live/blv_khoaitay/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/indonesia-u22-vs-myanmar-u22-2363355?mode=flv2
 #EXTINF:-1 group-title="Indonesia U22 vs Myanmar U22" referer="https://hoadao.tv/indonesia-u22-vs-myanmar-u22-2363355?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-5be942f4b6d043fdd9439215d8249445.png",Indonesia U22 vs Myanmar U22 [BLV KHOAI CON - FLV 2]
 https://pjoo0925.edgemaxcdn.org/live/blv_khoaitay/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/anse-reunion-vs-foresters-fc-2366129?mode=ndsd
-#EXTINF:-1 group-title="ANSE Reunion vs Foresters FC" referer="https://hoadao.tv/anse-reunion-vs-foresters-fc-2366129?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-750a7959f8a14f0b196c650bf9ed53ed.png",ANSE Reunion vs Foresters FC [No BLV - SD (ND)]
-https://live.alilicloud.com/live/37fffc73e49b1bc8bbc5c7bb0d44da6e/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/parma-u20-vs-monza-u19-2363519?mode=ndsd
-#EXTINF:-1 group-title="Parma U20 vs Monza U19" referer="https://hoadao.tv/parma-u20-vs-monza-u19-2363519?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-badef72bb908b0adead5b9555089ef32.png",Parma U20 vs Monza U19 [No BLV - SD (ND)]
-https://live.alilicloud.com/live/82bbe4920c2014469db594dd3a18def7/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/kasetsart-university-fc-vs-khonkaen-united-2363522?mode=ndsd
-#EXTINF:-1 group-title="Kasetsart University FC vs Khonkaen United" referer="https://hoadao.tv/kasetsart-university-fc-vs-khonkaen-united-2363522?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-f92d8c5f1841897427721a22d84d462f.png",Kasetsart University FC vs Khonkaen United [No BLV - SD (ND)]
-https://live.alilicloud.com/live/406cb71a2fed1525031a91204c7950ae/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/tng-hp-cc-mn-1830-2100-2365014?mode=sd
+#EXTINF:-1 group-title="Tổng hợp các môn vs (18:30 - 21:00)" referer="https://hoadao.tv/tng-hp-cc-mn-1830-2100-2365014?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-211b1b9440942fff5e8f7cef722a09a5.png",Tổng hợp các môn vs (18:30 - 21:00) [BLV CHIM NHỎ - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/tng-hp-cc-mn-1830-2100-2365014?mode=hd
+#EXTINF:-1 group-title="Tổng hợp các môn vs (18:30 - 21:00)" referer="https://hoadao.tv/tng-hp-cc-mn-1830-2100-2365014?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-211b1b9440942fff5e8f7cef722a09a5.png",Tổng hợp các môn vs (18:30 - 21:00) [BLV CHIM NHỎ - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/tng-hp-cc-mn-1830-2100-2365014?mode=flv
+#EXTINF:-1 group-title="Tổng hợp các môn vs (18:30 - 21:00)" referer="https://hoadao.tv/tng-hp-cc-mn-1830-2100-2365014?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-211b1b9440942fff5e8f7cef722a09a5.png",Tổng hợp các môn vs (18:30 - 21:00) [BLV CHIM NHỎ - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/tng-hp-cc-mn-1830-2100-2365014?mode=flv2
+#EXTINF:-1 group-title="Tổng hợp các môn vs (18:30 - 21:00)" referer="https://hoadao.tv/tng-hp-cc-mn-1830-2100-2365014?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-211b1b9440942fff5e8f7cef722a09a5.png",Tổng hợp các môn vs (18:30 - 21:00) [BLV CHIM NHỎ - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/perth-glory-women-vs-wellington-phoenix-women-2363353?mode=ndsd
 #EXTINF:-1 group-title="Perth Glory Women vs Wellington Phoenix Women" referer="https://hoadao.tv/perth-glory-women-vs-wellington-phoenix-women-2363353?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-8017b2e8ceb5a4399aeb0a872b3a7fa1.png",Perth Glory Women vs Wellington Phoenix Women [No BLV - SD (ND)]
 https://live.alilicloud.com/live/3b87888cc0b9cceafb6dc818c8f4b6f1/playlist.m3u8
@@ -41,15 +32,24 @@ https://live.alilicloud.com/live/bc5407dc9356c4aa411bea76d17c5a48/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/adana-demirspor-vs-boluspor-2363523?mode=ndsd
 #EXTINF:-1 group-title="Adana Demirspor vs Boluspor" referer="https://hoadao.tv/adana-demirspor-vs-boluspor-2363523?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-7a700982b13ebbe7fcc44fa5f88dc88d.png",Adana Demirspor vs Boluspor [No BLV - SD (ND)]
 https://live.alilicloud.com/live/272a00953ff8acdd804299f42a81d1c3/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/n-vit-nam-n-indonesia-2365002?mode=sd
-#EXTINF:-1 group-title="Nữ Việt Nam vs Nữ Indonesia" referer="https://hoadao.tv/n-vit-nam-n-indonesia-2365002?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-e8fa97bb8d4e59dbb144c5ffd3239c48.png",Nữ Việt Nam vs Nữ Indonesia [BLV BÚN CHẢ - SD]
-https://pjoo0925.edgemaxcdn.org/live/blv_buncha/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/n-vit-nam-n-indonesia-2365002?mode=hd
-#EXTINF:-1 group-title="Nữ Việt Nam vs Nữ Indonesia" referer="https://hoadao.tv/n-vit-nam-n-indonesia-2365002?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-e8fa97bb8d4e59dbb144c5ffd3239c48.png",Nữ Việt Nam vs Nữ Indonesia [BLV BÚN CHẢ - HD]
-https://pjoo0925.edgemaxcdn.org/live/blv_buncha/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://hoadao.tv/n-vit-nam-n-indonesia-2365002?mode=flv
-#EXTINF:-1 group-title="Nữ Việt Nam vs Nữ Indonesia" referer="https://hoadao.tv/n-vit-nam-n-indonesia-2365002?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-e8fa97bb8d4e59dbb144c5ffd3239c48.png",Nữ Việt Nam vs Nữ Indonesia [BLV BÚN CHẢ - FLV 1]
-https://pjoo0925.edgemaxcdn.org/live/blv_buncha.flv
-#EXTVLCOPT:http-referrer=https://hoadao.tv/n-vit-nam-n-indonesia-2365002?mode=flv2
-#EXTINF:-1 group-title="Nữ Việt Nam vs Nữ Indonesia" referer="https://hoadao.tv/n-vit-nam-n-indonesia-2365002?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-e8fa97bb8d4e59dbb144c5ffd3239c48.png",Nữ Việt Nam vs Nữ Indonesia [BLV BÚN CHẢ - FLV 2]
-https://pjoo0925.edgemaxcdn.org/live/blv_buncha.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/bashundhara-kings-vs-mohammedan-dhaka-2363364?mode=ndsd
+#EXTINF:-1 group-title="Bashundhara Kings vs Mohammedan Dhaka" referer="https://hoadao.tv/bashundhara-kings-vs-mohammedan-dhaka-2363364?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-a90dc63f912483661b1462468f240f8f.png",Bashundhara Kings vs Mohammedan Dhaka [No BLV - SD (ND)]
+https://live.alilicloud.com/live/592642e1a74938aebe32bbb2d0b097ad/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/chanthaburi-fc-vs-pattani-2363367?mode=ndsd
+#EXTINF:-1 group-title="Chanthaburi FC vs Pattani" referer="https://hoadao.tv/chanthaburi-fc-vs-pattani-2363367?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-7d5752f79b5cfaff1ca60d0c5ffeb943.png",Chanthaburi FC vs Pattani [No BLV - SD (ND)]
+https://live.alilicloud.com/live/534a04c7c06d809999d2ff797eaa0468/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/chonburi-fc-vs-kanchanaburi-power-fc-2363368?mode=ndsd
+#EXTINF:-1 group-title="Chonburi FC vs Kanchanaburi Power FC" referer="https://hoadao.tv/chonburi-fc-vs-kanchanaburi-power-fc-2363368?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-082d86c826ec6c54c1ee686054350a9a.png",Chonburi FC vs Kanchanaburi Power FC [No BLV - SD (ND)]
+https://live.alilicloud.com/live/2fbdd75b0415e86a24bb9ebdfc4cde29/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/bourj-sc-vs-racing-beirut-2363477?mode=ndsd
+#EXTINF:-1 group-title="Bourj SC vs Racing Beirut" referer="https://hoadao.tv/bourj-sc-vs-racing-beirut-2363477?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-235a474e41f4a863aa32119cefa5e16f.png",Bourj SC vs Racing Beirut [No BLV - SD (ND)]
+https://live.alilicloud.com/live/943dcfe768cb2c70aae443ca47f0d361/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/tadamon-sc-sour-vs-al-nejmeh-sc-2363478?mode=ndsd
+#EXTINF:-1 group-title="Tadamon SC Sour vs Al Nejmeh SC" referer="https://hoadao.tv/tadamon-sc-sour-vs-al-nejmeh-sc-2363478?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-1b3cbccf7b93e08321ccac205a74950d.png",Tadamon SC Sour vs Al Nejmeh SC [No BLV - SD (ND)]
+https://live.alilicloud.com/live/0b34bea8372faa671e1124af50d813bb/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/al-jandal-vs-jubail-2363371?mode=ndsd
+#EXTINF:-1 group-title="Al-Jandal vs Jubail" referer="https://hoadao.tv/al-jandal-vs-jubail-2363371?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-b1a81bcbdcd27cda2460c694b991dac3.png",Al-Jandal vs Jubail [No BLV - SD (ND)]
+https://live.alilicloud.com/live/ca3df963c5a5e20e1f24b7a4dce023d2/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/abha-vs-al-ula-fc-2363374?mode=ndsd
+#EXTINF:-1 group-title="Abha vs Al Ula FC" referer="https://hoadao.tv/abha-vs-al-ula-fc-2363374?mode=ndsd" tvg-logo="https://hxcv.site/images/cache/match-6f632d7ae2327e3f8afc9cc7cf996b76.png",Abha vs Al Ula FC [No BLV - SD (ND)]
+https://live.alilicloud.com/live/b0f86b006d1cfb7ff7e98815a61f6b2a/playlist.m3u8
