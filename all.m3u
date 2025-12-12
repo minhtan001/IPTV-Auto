@@ -547,6 +547,18 @@ https://pjoo0925.edgemaxcdn.org/live/blv_khoaitay/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://hoadao.tv/tng-hp-cc-mn-1100-1330-2365003?mode=flv2
 #EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/tng-hp-cc-mn-1100-1330-2365003?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-399978fcfc6da1e03f91a296f47bd152.png",Tổng hợp các môn vs (11:30 - 14:00) [BLV KHOAI CON - FLV 2]
 https://pjoo0925.edgemaxcdn.org/live/blv_khoaitay/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/n-vit-nam-n-indonesia-2365006?mode=sd
+#EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/n-vit-nam-n-indonesia-2365006?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-7b24a78777eec6956e57b1c61dfa4bbf.png",Nữ Việt Nam vs Nữ Indonesia [BLV CHIM NHỎ - SD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/n-vit-nam-n-indonesia-2365006?mode=hd
+#EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/n-vit-nam-n-indonesia-2365006?mode=hd" tvg-logo="https://hxcv.site/images/cache/match-7b24a78777eec6956e57b1c61dfa4bbf.png",Nữ Việt Nam vs Nữ Indonesia [BLV CHIM NHỎ - HD]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://hoadao.tv/n-vit-nam-n-indonesia-2365006?mode=flv
+#EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/n-vit-nam-n-indonesia-2365006?mode=flv" tvg-logo="https://hxcv.site/images/cache/match-7b24a78777eec6956e57b1c61dfa4bbf.png",Nữ Việt Nam vs Nữ Indonesia [BLV CHIM NHỎ - FLV 1]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
+#EXTVLCOPT:http-referrer=https://hoadao.tv/n-vit-nam-n-indonesia-2365006?mode=flv2
+#EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/n-vit-nam-n-indonesia-2365006?mode=flv2" tvg-logo="https://hxcv.site/images/cache/match-7b24a78777eec6956e57b1c61dfa4bbf.png",Nữ Việt Nam vs Nữ Indonesia [BLV CHIM NHỎ - FLV 2]
+https://pjoo0925.edgemaxcdn.org/live/blv_chimnho.flv
 #EXTVLCOPT:http-referrer=https://hoadao.tv/n-malaysia-n-myanmar-2365004?mode=sd
 #EXTINF:-1 group-title="Hoadao" referer="https://hoadao.tv/n-malaysia-n-myanmar-2365004?mode=sd" tvg-logo="https://hxcv.site/images/cache/match-596dedb3f2f11dc11d4681a6934e4a85.png",Nữ Malaysia vs Nữ Myanmar [BLV MÈO BÉO - SD]
 https://pjoo0925.edgemaxcdn.org/live/blv_meobeo/playlist.m3u8
@@ -563,6 +575,10 @@ https://pjoo0925.edgemaxcdn.org/live/blv_meobeo.flv
 https://hls.cdnvankhanh.com/live/VANREN/index.m3u8?expire=1891583400&sign=f4cca58ffdf3217d4ca677039510da17
 #EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-8f8e3b290741ced18c3fa3dcd1236579.png",FC Barcelona vs Alaves [BLV VĂN LONG - FLV]
 https://flv.cdnvankhanh.com/live/VANREN.flv?expire=1891583400&sign=f4cca58ffdf3217d4ca677039510da17
+#EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-94f09c05234312734a6b8bb6016904c4.png",Triples Kediri vs Mojosari Putra [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvZ61NGyHcDfrcsoA/playlist.m3u8
+#EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-6a2b492082f8ac034ace3ea186426d9b.png",PS Mojokerto Putra vs Mojokerto FC [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvZ6Q91jsp2LXQmqW/playlist.m3u8
 #EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-cc17db72a2cb5a4e49d6cb56c389842e.png",Dalian Hanyu vs Dalian Yingbo U21 [NHÀ ĐÀI - HLS]
 https://auto.cdnvankhanh.com/live/sd-6MvZ64bnQmkd5u4vK6/playlist.m3u8
 #EXTINF:-1 group-title="Vankhanh" tvg-logo="https://hxcv.site/images/cache/match-bec27b263b4a4fc9f6ff6f430e8a3b0f.png",Central Coast Mariners vs Auckland FC [NHÀ ĐÀI - HLS]
@@ -695,6 +711,10 @@ https://flv.cdnok9.com/live/TO3A.flv?expire=1891408380&sign=9c81b067b218299e5542
 https://hls.cdnok9.com/live/OK905/index.m3u8?expire=1924966740&sign=e08f6d700054cac9a20636feb9d13c2f
 #EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-55c70ba1ccd2d8907e8431ac7e8ea7a2.png",Real Madrid vs Manchester City [BLV VƯƠNG LUÂN REPLAY - FLV]
 https://flv.cdnok9.com/live/OK905.flv?expire=1924966740&sign=e08f6d700054cac9a20636feb9d13c2f
+#EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-bc650ffa5daa28cca2c18984cfbb199e.png",Triples Kediri vs Mojosari Putra [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvZ61NGyHcDfrcsoA/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-4e8faea87682901a6bf35ba8d4295782.png",PS Mojokerto Putra vs Mojokerto FC [NHÀ ĐÀI - HLS]
+https://auto.cdnvankhanh.com/live/sd-6MvZ6Q91jsp2LXQmqW/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-ca58461ca18b42341639a63562bedb71.png",Dalian Hanyu vs Dalian Yingbo U21 [NHÀ ĐÀI - HLS]
 https://auto.cdnvankhanh.com/live/sd-6MvZ64bnQmkd5u4vK6/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon" tvg-logo="https://hxcv.site/images/cache/match-3a26bed3109b2cd4462670d9dbd11768.png",Kryvbas U21 vs Kolos Kovalivka U21 [NHÀ ĐÀI - HLS]
@@ -1710,8 +1730,10 @@ https://vip.opstream90.com/20251129/18758_e33bdf72/3000k/hls/mixed.m3u8
 https://live.fptplay53.net/fnxch1/thethao17_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 1
 https://live.fptplay53.net/epzch1/thethao01_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 4
-https://live.fptplay53.net/epzch1/thethao04_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 5
+https://live.fptplay53.net/epzch1/thethao05_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Malaysia vs Myanmar
+https://events.vtvdigital.vn/livestream/thethao_02-1080p.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
