@@ -96,11 +96,20 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h30-13/12 Canberra United (W) Vs Melbourne City (W) BLV HOA VINH
-https://hls.cdnok9.com/live/GUMA/index.m3u8?expire=1788427256&sign=c57d8f64d762eaf6c2052dd9e8015b01
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h30-13/12 Fakirapool Young Mens Club Vs Abahani Limited BLV PEP
+https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h35-13/12 Melbourne Victory Vs Adelaide United BLV KEVILL
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h30-13/12 PWD Sports Club Vs Bangladesh Police Club BLV KENCHU
+https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h00-13/12 WOLVES Vs MU BLV KAKA REPLAY
 https://hls.cdnok9.com/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",14h00-13/12 AC Taipei (W) Vs Taichung Sakura (W) NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MvXbppf2QVEu536w6/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",14h00-13/12 North District FC Vs Kitchee NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvXcLAMjRUgUEL21z/playlist.m3u8
@@ -108,20 +117,8 @@ https://auto.cdnvankhanh.com/live/sd-6MvXcLAMjRUgUEL21z/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",14h00-13/12 Eastern District SA Vs Southern District NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvXcLAMjTgALi9wAt/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",14h00-13/12 AC Taipei (W) Vs Taichung Sakura (W) NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvXbppf2QVEu536w6/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",14h30-13/12 Taipei Xiongzan (W) Vs Hualien (W) NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuPtu7XLWxTYYf2kc/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h30-13/12 PWD Sports Club Vs Bangladesh Police Club BLV KENCHU
-https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h30-13/12 Fakirapool Young Mens Club Vs Abahani Limited BLV PEP
-https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h35-13/12 Melbourne Victory Vs Adelaide United BLV KEVILL
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-13/12 CSA Steaua Bucuresti Vs FC Gloria Bistrita NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuQ9HLcDAa3LyhBYx/playlist.m3u8
@@ -162,14 +159,14 @@ https://auto.cdnvankhanh.com/live/sd-6MvXML4qqY1ShPymMn/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-13/12 Everton FC (W) Vs Arsenal (W) NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/hd-en-6MuQ9La79UJSbc1ZxY/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-13/12 Chainat FC Vs Trat FC NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MuPtPpm5LnZd9m9N4/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-13/12 Cukaricki Stankom Vs Radnik Surdulica NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuSsD7KJdUV1KAE7E/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-13/12 Inter Milan U20 Vs Cagliari U20 NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuSryzuuFAKuGLwZ6/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-13/12 Chainat FC Vs Trat FC NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MuPtPpm5LnZd9m9N4/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h05-13/12 Al-Baten Vs Al-Adalh NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvXbwGE7ANWvMJJPW/playlist.m3u8
@@ -296,24 +293,6 @@ https://auto.cdnvankhanh.com/live/sd-6MvXMcMoQ8gMGb2rhi/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h30-13/12 Al Hussein Irbid Vs Al Faisaly Amman NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvXMcMoQAsq94rmrc/playlist.m3u8
-#EXTINF:-1 group-title="Socolive_2",13h30: [BLV NIBO] Canberra United Women vs Melbourne City Women
-http://sharing.gotdns.ch:8091/socolive.php?id=372746
-#EXTINF:-1 group-title="Socolive_2",13h30: [BLV VODKA] Canberra United Women vs Melbourne City Women
-http://sharing.gotdns.ch:8091/socolive.php?id=500605
-#EXTINF:-1 group-title="Socolive_2",13h30: [BLV THỎ] Canberra United Women vs Melbourne City Women
-http://sharing.gotdns.ch:8091/socolive.php?id=548260
-#EXTINF:-1 group-title="Socolive_2",13h30: [BLV KAI] Canberra United Women vs Melbourne City Women
-http://sharing.gotdns.ch:8091/socolive.php?id=313971
-#EXTINF:-1 group-title="Socolive_2",13h30: [BLV HENRY] Cairns Taipans vs Tasmania JackJumpers
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",13h30: [BRIAN] Cairns Taipans vs Tasmania JackJumpers
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",13h30: [HUNTER] Cairns Taipans vs Tasmania JackJumpers
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",14h00: [KING] Myanmar vs Indonesia
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",14h00: [CHAN SENA] Myanmar vs Indonesia
-http://sharing.gotdns.ch:8091/socolive.php?id=515530
 #EXTINF:-1 group-title="Socolive_2",15h35: [BLV Củ Cải] Melbourne Victory vs Adelaide United
 http://sharing.gotdns.ch:8091/socolive.php?id=9912091
 #EXTINF:-1 group-title="Socolive_2",15h35: [TẠ BIÊN GIỚI] Melbourne Victory vs Adelaide United
@@ -1340,6 +1319,8 @@ https://live.fptplay53.net/epzch1/thethao05_mx.smil/chunklist_b6000000.m3u8
 https://live.fptplay53.net/fnxch1/thethao14_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 139
 https://live.fptplay53.net/fnxch1/thethao139_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 15
+https://live.fptplay53.net/fnxch1/thethao15_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
