@@ -1,19 +1,16 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",13h00-13/12 Western Sydney Vs Brisbane Roar BLV PEP
-https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",12h50-13/12 Melbourne Victory (W) Vs Adelaide United (W) BLV DƯƠNG CHÍ
 https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",13h00-13/12 Western Sydney Vs Brisbane Roar BLV PEP
+https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",12h00-13/12 Wellington Olympic Vs Auckland City BLV TRƯƠNG THANH
 https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",05h00-13/12 WOLVES Vs MU BLV KAKA REPLAY
 https://hls.cdnok9.com/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",12h00-13/12 Hang Yuan FC (W) Vs Valkyrie (W) NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvXbppf2X5gWWWrPn/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",13h30-13/12 Canberra United (W) Vs Melbourne City (W) BLV HOA VINH
 https://hls.cdnok9.com/live/GUMA/index.m3u8?expire=1788427256&sign=c57d8f64d762eaf6c2052dd9e8015b01
@@ -42,6 +39,9 @@ https://auto.cdnvankhanh.com/live/sd-6MuPtu7XLUkyg4q7bi/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon_2",17h30-13/12 Sariyer Vs Istanbulspor NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuTcdzQc8b5pygxjE/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",18h00-13/12 Granada CF(W) Vs Real Madrid (W) NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MuTcFBSNjZ2W3JWTe/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",18h00-13/12 Sukhothai Vs Nakhon Ratchasima NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvXML4qqPDXDUg6kC/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
@@ -50,9 +50,6 @@ https://auto.cdnvankhanh.com/live/sd-6MuTcJRheKut7RF2c4/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",18h00-13/12 Nong Bua Lamphu Vs JL Chiangmai United FC NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuPtPpm5GPbtC7K4G/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",18h00-13/12 Granada CF(W) Vs Real Madrid (W) NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MuTcFBSNjZ2W3JWTe/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",18h30-13/12 Como 2000 (W) Vs Fiorentina (W) NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuQ9LdoFeGTtvkdi4/playlist.m3u8
