@@ -95,28 +95,6 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTINF:-1 group-title="Socolive_2",19h25: [BLV VODKA] Thailand Women vs Philippines Women
-http://sharing.gotdns.ch:8091/socolive.php?id=500605
-#EXTINF:-1 group-title="Socolive_2",19h25: [BLV KEM] Thailand Women vs Philippines Women
-http://sharing.gotdns.ch:8091/socolive.php?id=513394
-#EXTINF:-1 group-title="Socolive_2",19h25: [BLV ENZO] Thailand Women vs Philippines Women
-http://sharing.gotdns.ch:8091/socolive.php?id=380460
-#EXTINF:-1 group-title="Socolive_2",19h25: [BLV FIREMAN] Thailand Women vs Philippines Women
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
-#EXTINF:-1 group-title="Socolive_2",19h25: [CÔNG CHẤT] Thailand Women vs Philippines Women
-http://sharing.gotdns.ch:8091/socolive.php?id=291277
-#EXTINF:-1 group-title="Socolive_2",19h30: [BLV QUAN VŨ] SV Darmstadt 98 vs Preuben Munster
-http://sharing.gotdns.ch:8091/socolive.php?id=239275
-#EXTINF:-1 group-title="Socolive_2",19h30: [MR BÍCH] SV Darmstadt 98 vs Preuben Munster
-http://sharing.gotdns.ch:8091/socolive.php?id=285067
-#EXTINF:-1 group-title="Socolive_2",19h30: [CÔNG LÝ] SV Elversberg vs Fortuna Dusseldorf
-http://sharing.gotdns.ch:8091/socolive.php?id=9912035
-#EXTINF:-1 group-title="Socolive_2",19h30: [JACKMAN] SV Elversberg vs Fortuna Dusseldorf
-http://sharing.gotdns.ch:8091/socolive.php?id=542758
-#EXTINF:-1 group-title="Socolive_2",19h30: [A CHÈ] Schalke 04 vs 1. FC Nürnberg
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",19h30: [BLV A TÚ] Schalke 04 vs 1. FC Nürnberg
-http://sharing.gotdns.ch:8091/socolive.php?id=557845
 #EXTINF:-1 group-title="Socolive_2",20h00: [BLV VITAMIN] Sevilla FC vs Real Oviedo
 http://sharing.gotdns.ch:8091/socolive.php?id=400722
 #EXTINF:-1 group-title="Socolive_2",20h00: [RED BULL] Sevilla FC vs Real Oviedo
@@ -325,24 +303,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=527383
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h00-15/12: [KÉP] Trabzonspor vs Besiktas JK
 http://sharing.gotdns.ch:8091/socolive.php?id=560690
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-15/12: [BLV KEM] Levante vs Villarreal CF
-http://sharing.gotdns.ch:8091/socolive.php?id=513394
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-15/12: [BLV KAI] Levante vs Villarreal CF
-http://sharing.gotdns.ch:8091/socolive.php?id=313971
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-15/12: [BLV QUAN VŨ] Levante vs Villarreal CF
-http://sharing.gotdns.ch:8091/socolive.php?id=239275
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-15/12: [BLV TÔM] Levante vs Villarreal CF
-http://sharing.gotdns.ch:8091/socolive.php?id=561379
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-15/12: [CÔNG CHẤT] Levante vs Villarreal CF
-http://sharing.gotdns.ch:8091/socolive.php?id=291277
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-15/12: [BLV A TÚ] Levante vs Villarreal CF
-http://sharing.gotdns.ch:8091/socolive.php?id=557845
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-15/12: [BLV CHIVAS] RC Sporting Charleroi vs Union Saint-Gilloise
 http://sharing.gotdns.ch:8091/socolive.php?id=485739
@@ -798,6 +758,8 @@ https://live.fptplay53.net/epzch1/thethao125_mx.smil/chunklist_b6000000.m3u8
 https://live.fptplay53.net/epzch1/thethao06_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 246
 https://live.fptplay53.net/epzch1/thethao246_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 249
+https://live.fptplay53.net/epzch1/thethao249_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
