@@ -96,11 +96,8 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h00-14/12 Azul Claro Numazu Vs Rayluck Shiga BLV A TỦA
-https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h00-14/12 Osaka FC Vs Miyazaki BLV PEP
-https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",14h00-14/12 Biu Chun Rangers Vs LeeMan BLV GIÁO SƯ XOAY
+https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h30-14/12 Malut United Vs Persib Bandung BLV KEVILL
 https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
@@ -110,9 +107,6 @@ https://hls.cdnok9.com/live/TO5A/index.m3u8?expire=1891408380&sign=8bed1a7b9dde1
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h30-14/12 Shatin SA Vs Sham Shui Po NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvY6b8icKErYhnJrY/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",14h00-14/12 Biu Chun Rangers Vs LeeMan BLV GIÁO SƯ XOAY
-https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",14h00-14/12 Loudi Football Team Vs Yongzhou Football Team NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvZ61SgPWvksWtU1r/playlist.m3u8
@@ -189,11 +183,11 @@ https://auto.cdnvankhanh.com/live/sd-6MuT7hrQLu3DQ5Q5it/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-14/12 Mahasarakham United FC Vs Rasi Salai United NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuPtPpkuXX7Ctnndr/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-14/12 Fiorentina U20 Vs Cesena U20 NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MuSs3NXWcMXamrzjv/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-14/12 Mladost Lucani Vs FK Spartak Zlatibor Voda NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuSsD7KJ6hkpbbPxg/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-14/12 Fiorentina U20 Vs Cesena U20 NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MuSs3NXWcMXamrzjv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-14/12 Nantes (W) Vs Marseille (W) NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvXbiJes8KR94GeVr/playlist.m3u8
@@ -212,6 +206,9 @@ https://auto.cdnvankhanh.com/live/sd-6MuT7XyViENtMGtKmW/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-14/12 SV Wehen Wiesbaden Vs Energie Cottbus NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuTcUEB2H3QJS21KS/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-14/12 Darmstadt Vs Preuben Munster BLV VÕ TÒNG
+https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-14/12 Young Boys Vs Luzern NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuSs9oP7XpK9wTE9r/playlist.m3u8
@@ -299,24 +296,6 @@ https://auto.cdnvankhanh.com/live/sd-6MuTcUDQhbadsMcY2x/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",23h00-14/12 Onze Createurs Vs Afrique Football Elite NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvZ6Q92kAF4vQ2FkQ/playlist.m3u8
-#EXTINF:-1 group-title="Socolive_2",12h00: [BLV SÓI] FC Osaka vs Tegevajaro Miyazaki
-http://sharing.gotdns.ch:8091/socolive.php?id=427562
-#EXTINF:-1 group-title="Socolive_2",12h00: [BLV LUCAS] FC Osaka vs Tegevajaro Miyazaki
-http://sharing.gotdns.ch:8091/socolive.php?id=304148
-#EXTINF:-1 group-title="Socolive_2",12h00: [RÙA VÀNG] FC Osaka vs Tegevajaro Miyazaki
-http://sharing.gotdns.ch:8091/socolive.php?id=563268
-#EXTINF:-1 group-title="Socolive_2",12h00: [BLV KAI] FC Osaka vs Tegevajaro Miyazaki
-http://sharing.gotdns.ch:8091/socolive.php?id=313971
-#EXTINF:-1 group-title="Socolive_2",12h00: [KÉP] Azul Claro Numazu vs Reilac Shiga FC
-http://sharing.gotdns.ch:8091/socolive.php?id=560690
-#EXTINF:-1 group-title="Socolive_2",12h00: [VỊT BẠC] Azul Claro Numazu vs Reilac Shiga FC
-http://sharing.gotdns.ch:8091/socolive.php?id=474421
-#EXTINF:-1 group-title="Socolive_2",12h00: [BLV TÔM] Azul Claro Numazu vs Reilac Shiga FC
-http://sharing.gotdns.ch:8091/socolive.php?id=561379
-#EXTINF:-1 group-title="Socolive_2",12h00: [A CHÈ] Azul Claro Numazu vs Reilac Shiga FC
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",12h00: [CHAN SENA] Goyang Sono vs LG Sakers
-http://sharing.gotdns.ch:8091/socolive.php?id=515530
 #EXTINF:-1 group-title="Socolive_2",12h30: [KING] Brisbane Bullets vs Perth
 http://sharing.gotdns.ch:8091/socolive.php?id=9912099
 #EXTINF:-1 group-title="Socolive_2",12h30: [BRIAN] Brisbane Bullets vs Perth
@@ -778,9 +757,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=500605
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",04h30-15/12: [BLV CHIVAS] Barcelona SC(ECU) vs Orense SC
 http://sharing.gotdns.ch:8091/socolive.php?id=485739
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",04h30-15/12: [VƯƠNG ANH] Barcelona SC(ECU) vs Orense SC
-http://sharing.gotdns.ch:8091/socolive.php?id=548860
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",04h30-15/12: [BLV Hổ Lùn] Libertad FC vs Liga Dep Universitaria Quito
 http://sharing.gotdns.ch:8091/socolive.php?id=308080
