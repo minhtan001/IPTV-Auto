@@ -95,30 +95,6 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTINF:-1 group-title="Socolive_2",08h30: [KING] Sydney W vs Adelaide Lightning W
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",08h30: [CHAN SENA] Sydney W vs Adelaide Lightning W
-http://sharing.gotdns.ch:8091/socolive.php?id=515530
-#EXTINF:-1 group-title="Socolive_2",09h00: [TAM MAO] Wellington Phoenix vs Newcastle Jets
-http://sharing.gotdns.ch:8091/socolive.php?id=9912100
-#EXTINF:-1 group-title="Socolive_2",09h00: [BLV TAP] Wellington Phoenix vs Newcastle Jets
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",09h00: [BLV DECO] Wellington Phoenix vs Newcastle Jets
-http://sharing.gotdns.ch:8091/socolive.php?id=9912060
-#EXTINF:-1 group-title="Socolive_2",09h00: [BLV CRIS] Wellington Phoenix vs Newcastle Jets
-http://sharing.gotdns.ch:8091/socolive.php?id=9912103
-#EXTINF:-1 group-title="Socolive_2",09h00: [BLV COCA] Wellington Phoenix vs Newcastle Jets
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",09h00: [BLV KINH TẾ] Wellington Phoenix vs Newcastle Jets
-http://sharing.gotdns.ch:8091/socolive.php?id=532999
-#EXTINF:-1 group-title="Socolive_2",09h00: [BLV Sao Đỏ] LD Alajuelense vs AD Municipal Liberia
-http://sharing.gotdns.ch:8091/socolive.php?id=519740
-#EXTINF:-1 group-title="Socolive_2",09h00: [BLV Hổ Lùn] LD Alajuelense vs AD Municipal Liberia
-http://sharing.gotdns.ch:8091/socolive.php?id=308080
-#EXTINF:-1 group-title="Socolive_2",09h00: [BLV TÔM] LD Alajuelense vs AD Municipal Liberia
-http://sharing.gotdns.ch:8091/socolive.php?id=561379
-#EXTINF:-1 group-title="Socolive_2",09h00: [CÔNG LÝ] LD Alajuelense vs AD Municipal Liberia
-http://sharing.gotdns.ch:8091/socolive.php?id=9912035
 #EXTINF:-1 group-title="Socolive_2",09h35: [HUNTER] Oklahoma City Thunder vs San Antonio Spurs
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
 #EXTINF:-1 group-title="Socolive_2",09h35: [BRIAN] Oklahoma City Thunder vs San Antonio Spurs
@@ -944,6 +920,10 @@ https://dl.dropboxusercontent.com/scl/fi/gcb7dkwb23p8in0m6393d/Detective-Conan-T
 https://vip.opstream90.com/20251129/18758_e33bdf72/3000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 17
 https://live.fptplay53.net/fnxch1/thethao17_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 3
+https://live.fptplay53.net/epzch1/thethao03_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 16
+https://live.fptplay53.net/fnxch1/thethao16_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
