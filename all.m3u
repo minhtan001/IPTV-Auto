@@ -96,9 +96,6 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h30-15/12 Vietnam U22 Vs Philippines U22 BLV KEVILL
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-15/12 Mil Mugan Vs Karvan Evlakh BLV TỐNG GIANG
 https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
 #EXTVLCOPT:http-referrer=https://ls40.live/
@@ -110,30 +107,6 @@ https://hls.cdnok9.com/live/TO5A/index.m3u8?expire=1891408380&sign=8bed1a7b9dde1
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h00-15/12 Metz Vs Paris Saint Germain BLV YẾN THANH REPLAY
 https://hls.cdnok9.com/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
-#EXTINF:-1 group-title="Socolive_2",15h30: [THẠCH TÚ] Vietnam U22 vs Philippines U22
-http://sharing.gotdns.ch:8091/socolive.php?id=344370
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV TAP] Vietnam U22 vs Philippines U22
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV DECO] Vietnam U22 vs Philippines U22
-http://sharing.gotdns.ch:8091/socolive.php?id=9912060
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV ĐỐM] Vietnam U22 vs Philippines U22
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV COCA] Vietnam U22 vs Philippines U22
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",15h30: [TẠ BIÊN GIỚI] Vietnam U22 vs Philippines U22
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV TOMMY] Vietnam U22 vs Philippines U22
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV FANTA] Vietnam U22 vs Philippines U22
-http://sharing.gotdns.ch:8091/socolive.php?id=9912104
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV PIRLO] Vietnam U22 vs Philippines U22
-http://sharing.gotdns.ch:8091/socolive.php?id=351530
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV CRIS] Vietnam U22 vs Philippines U22
-http://sharing.gotdns.ch:8091/socolive.php?id=9912103
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV Củ Cải] Vietnam U22 vs Philippines U22
-http://sharing.gotdns.ch:8091/socolive.php?id=9912091
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV KINH TẾ] Vietnam U22 vs Philippines U22
-http://sharing.gotdns.ch:8091/socolive.php?id=532999
 #EXTINF:-1 group-title="Socolive_2",16h30: [CHAN SENA] Thailand W vs Vietnam W
 http://sharing.gotdns.ch:8091/socolive.php?id=515530
 #EXTINF:-1 group-title="Socolive_2",17h00: [BLV BÉO] İmişli FK vs Karvan Evlakh
