@@ -99,11 +99,8 @@ http://iptv.nhadai.org/stream/ben-tre
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",08h10-15/12 Toluca Vs Tigres UANL BLV LƯU BỊ
 https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",06h30-15/12 Fluminense RJ Vs Vasco da Gama BLV TỐNG GIANG
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",07h00-15/12 Chicago Bulls Vs New Orleans Pelicans BLV NHỊ KA
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",09h00-15/12 Porland Trail Blazers Vs Golden State Warriors BLV YẾN THANH
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h00-15/12 CHELSEA Vs EVERTON BLV URA
 https://hls.cdnok9.com/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
@@ -113,47 +110,16 @@ https://hls.cdnok9.com/live/TO5A/index.m3u8?expire=1891408380&sign=8bed1a7b9dde1
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h00-15/12 Metz Vs Paris Saint Germain BLV YẾN THANH REPLAY
 https://hls.cdnok9.com/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",09h00-15/12 Porland Trail Blazers Vs Golden State Warriors BLV YẾN THANH
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:-1 group-title="Socolive_2",06h30: [BLV BÉO] Fluminense RJ vs Clube de Regatas Vasco da Gama
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTINF:-1 group-title="Socolive_2",06h30: [BLV ENZO] Fluminense RJ vs Clube de Regatas Vasco da Gama
-http://sharing.gotdns.ch:8091/socolive.php?id=380460
-#EXTINF:-1 group-title="Socolive_2",06h30: [BLV SINGER] Fluminense RJ vs Clube de Regatas Vasco da Gama
-http://sharing.gotdns.ch:8091/socolive.php?id=9912102
-#EXTINF:-1 group-title="Socolive_2",06h30: [LOGAN] Fluminense RJ vs Clube de Regatas Vasco da Gama
-http://sharing.gotdns.ch:8091/socolive.php?id=552832
-#EXTINF:-1 group-title="Socolive_2",06h30: [LÃO LÂM] Fluminense RJ vs Clube de Regatas Vasco da Gama
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTINF:-1 group-title="Socolive_2",06h30: [BLV VODKA] Fluminense RJ vs Clube de Regatas Vasco da Gama
-http://sharing.gotdns.ch:8091/socolive.php?id=500605
-#EXTINF:-1 group-title="Socolive_2",06h35: [BLV HENRY] Atlanta Hawks vs Philadelphia 76ers
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",06h35: [BRIAN] Atlanta Hawks vs Philadelphia 76ers
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV KEM] Toluca vs Tigres UANL
-http://sharing.gotdns.ch:8091/socolive.php?id=513394
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV KINH TẾ] Toluca vs Tigres UANL
-http://sharing.gotdns.ch:8091/socolive.php?id=532999
-#EXTINF:-1 group-title="Socolive_2",08h00: [TAM MAO] Toluca vs Tigres UANL
-http://sharing.gotdns.ch:8091/socolive.php?id=9912100
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV PEWPEW] Toluca vs Tigres UANL
-http://sharing.gotdns.ch:8091/socolive.php?id=9912015
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV DECO] Toluca vs Tigres UANL
-http://sharing.gotdns.ch:8091/socolive.php?id=9912060
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV  TYPN] Toluca vs Tigres UANL
-http://sharing.gotdns.ch:8091/socolive.php?id=9912009
 #EXTINF:-1 group-title="Socolive_2",08h35: [BLV DUSTIN] Phoenix Suns vs Los Angeles Lakers
 http://sharing.gotdns.ch:8091/socolive.php?id=289098
-#EXTINF:-1 group-title="Socolive_2",09h00: [BLV HENRY] Portland Trail Blazers vs Golden State Warriors
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",09h00: [BRIAN] Portland Trail Blazers vs Golden State Warriors
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTINF:-1 group-title="Socolive_2",09h00: [KING] Singapore W vs Malaysia W
 http://sharing.gotdns.ch:8091/socolive.php?id=9912099
 #EXTINF:-1 group-title="Socolive_2",09h00: [HUNTER] Singapore W vs Malaysia W
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
+#EXTINF:-1 group-title="Socolive_2",09h35: [BLV HENRY] Portland Trail Blazers vs Golden State Warriors
+http://sharing.gotdns.ch:8091/socolive.php?id=9912112
+#EXTINF:-1 group-title="Socolive_2",09h35: [BRIAN] Portland Trail Blazers vs Golden State Warriors
+http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTINF:-1 group-title="Socolive_2",11h30: [BLV HENRY] Philippines vs Vietnam
 http://sharing.gotdns.ch:8091/socolive.php?id=9912112
 #EXTINF:-1 group-title="Socolive_2",11h30: [BRIAN] Philippines vs Vietnam
@@ -748,6 +714,8 @@ https://dl.dropboxusercontent.com/scl/fi/gcb7dkwb23p8in0m6393d/Detective-Conan-T
 https://vip.opstream90.com/20251129/18758_e33bdf72/3000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 17
 https://live.fptplay53.net/fnxch1/thethao17_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 1
+https://live.fptplay53.net/epzch1/thethao01_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
