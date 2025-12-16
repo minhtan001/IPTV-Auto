@@ -96,35 +96,23 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h00-16/12 Bologna Vs Juventus BLV SHIN
-https://hls.cdnok9.com/live/TEST/index.m3u8?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h00-16/12 Manchester United Vs AFC Bournemouth  BLV LƯU BỊ
-https://hls.cdnok9.com/live/TO2A/index.m3u8?expire=1891408380&sign=b4fcc4558b2967d54c04070f325ecb14
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h00-16/12 Manchester United Vs AFC Bournemouth BLV LỮ BỐ
-https://hls.cdnok9.com/live/TO4A/index.m3u8?expire=1891408380&sign=5274350aaa915df457fdffd606d49f30
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",06h00-16/12 Aurora Vs Academia del Balompie Boliviano BLV DƯƠNG QUÁ
-https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",07h00-16/12 Boston Celtics Vs Detroit Pistons BLV YẾN THANH
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",07h00-16/12 Club Sport Emelec Vs CD El Nacional BLV TỐNG GIANG
 https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:-1 group-title="Socolive_2",06h00: [BLV KAI] Club Aurora vs Academia del Balompié Boliviano
-http://sharing.gotdns.ch:8091/socolive.php?id=313971
-#EXTINF:-1 group-title="Socolive_2",06h00: [TAM MAO] Club Aurora vs Academia del Balompié Boliviano
-http://sharing.gotdns.ch:8091/socolive.php?id=9912100
-#EXTINF:-1 group-title="Socolive_2",06h00: [BLV PEWPEW] Club Aurora vs Academia del Balompié Boliviano
-http://sharing.gotdns.ch:8091/socolive.php?id=9912015
-#EXTINF:-1 group-title="Socolive_2",06h00: [LÃO LÂM] Club Aurora vs Academia del Balompié Boliviano
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTINF:-1 group-title="Socolive_2",06h00: [BLV VODKA] Club Aurora vs Academia del Balompié Boliviano
-http://sharing.gotdns.ch:8091/socolive.php?id=500605
-#EXTINF:-1 group-title="Socolive_2",06h00: [BLV BÉO] Club Aurora vs Academia del Balompié Boliviano
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h00-16/12 Manchester United Vs AFC Bournemouth BLV LỮ BỐ
+https://hls.cdnok9.com/live/TO4A/index.m3u8?expire=1891408380&sign=5274350aaa915df457fdffd606d49f30
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h00-16/12 Bologna Vs Juventus BLV SHIN
+https://hls.cdnok9.com/live/TEST/index.m3u8?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",07h30-16/12 Miami Heat Vs Toronto Raptors BLV LÝ QUỲ
+https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h00-16/12 Manchester United Vs AFC Bournemouth  BLV LƯU BỊ
+https://hls.cdnok9.com/live/TO2A/index.m3u8?expire=1891408380&sign=b4fcc4558b2967d54c04070f325ecb14
 #EXTINF:-1 group-title="Socolive_2",07h00: [BLV SINGER] Club Sport Emelec vs CD El Nacional
 http://sharing.gotdns.ch:8091/socolive.php?id=9912102
 #EXTINF:-1 group-title="Socolive_2",07h00: [LOGAN] Club Sport Emelec vs CD El Nacional
@@ -137,13 +125,13 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912103
 http://sharing.gotdns.ch:8091/socolive.php?id=513394
 #EXTINF:-1 group-title="Socolive_2",07h00: [BLV VITAMIN] Club Sport Emelec vs CD El Nacional
 http://sharing.gotdns.ch:8091/socolive.php?id=400722
-#EXTINF:-1 group-title="Socolive_2",07h00: [BRIAN] Boston Celtics vs Detroit Pistons
+#EXTINF:-1 group-title="Socolive_2",07h35: [BRIAN] Boston Celtics vs Detroit Pistons
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",07h00: [KING] Boston Celtics vs Detroit Pistons
+#EXTINF:-1 group-title="Socolive_2",07h35: [KING] Boston Celtics vs Detroit Pistons
 http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",07h30: [BLV HENRY] Miami Heat vs Toronto Raptors
+#EXTINF:-1 group-title="Socolive_2",08h05: [BLV HENRY] Miami Heat vs Toronto Raptors
 http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",07h30: [CHAN SENA] Miami Heat vs Toronto Raptors
+#EXTINF:-1 group-title="Socolive_2",08h05: [CHAN SENA] Miami Heat vs Toronto Raptors
 http://sharing.gotdns.ch:8091/socolive.php?id=515530
 #EXTINF:-1 group-title="Socolive_2",09h30: [BRIAN] Denver Nuggets vs Houston Rockets
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
