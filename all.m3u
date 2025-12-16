@@ -107,12 +107,10 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912101
 http://sharing.gotdns.ch:8091/socolive.php?id=9912008
 #EXTINF:-1 group-title="Socolive_2",15h30: [TẠ BIÊN GIỚI] Arambagh KS vs Fortis FC
 http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",15h30: [TAM MAO] Bashundhara Kings vs Mohammedan Dhaka
-http://sharing.gotdns.ch:8091/socolive.php?id=9912100
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV TAP] Bashundhara Kings vs Mohammedan Dhaka
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV DECO] Bashundhara Kings vs Mohammedan Dhaka
+#EXTINF:-1 group-title="Socolive_2",15h30: [BLV DECO] Arambagh KS vs Fortis FC
 http://sharing.gotdns.ch:8091/socolive.php?id=9912060
+#EXTINF:-1 group-title="Socolive_2",15h30: [BLV TAP] Arambagh KS vs Fortis FC
+http://sharing.gotdns.ch:8091/socolive.php?id=9912041
 #EXTINF:-1 group-title="Socolive_2",16h00: [BLV SÓI] Aral Nukus vs Buxoro FK
 http://sharing.gotdns.ch:8091/socolive.php?id=427562
 #EXTINF:-1 group-title="Socolive_2",16h00: [BLV COZY] Aral Nukus vs Buxoro FK
@@ -121,6 +119,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=531989
 http://sharing.gotdns.ch:8091/socolive.php?id=285067
 #EXTINF:-1 group-title="Socolive_2",16h00: [BLV BÉO] Aral Nukus vs Buxoro FK
 http://sharing.gotdns.ch:8091/socolive.php?id=459401
+#EXTINF:-1 group-title="Socolive_2",16h00: [TAM MAO] Aral Nukus vs Buxoro FK
+http://sharing.gotdns.ch:8091/socolive.php?id=9912100
 #EXTINF:-1 group-title="Socolive_2",17h00: [BRIAN] Goyang Sono vs Suwon KT
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTINF:-1 group-title="Socolive_2",17h00: [KING] Goyang Sono vs Suwon KT
@@ -453,8 +453,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=519740
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h00-17/12: [BLV NIBO] Genoa U20 vs Frosinone U20
 http://sharing.gotdns.ch:8091/socolive.php?id=372746
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h00-17/12: [BLV COZY] Genoa U20 vs Frosinone U20
-http://sharing.gotdns.ch:8091/socolive.php?id=531989
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h00-17/12: [BLV SHIN] Genoa U20 vs Frosinone U20
+http://sharing.gotdns.ch:8091/socolive.php?id=522086
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h00-17/12: [BLV MIXI] Lecce U20 vs Napoli U20
 http://sharing.gotdns.ch:8091/socolive.php?id=290928
