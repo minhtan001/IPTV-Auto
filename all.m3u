@@ -96,14 +96,17 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h30-17/12 MALAYSIA Vs SINGAPORE BLV SHIN
-https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h30-17/12 Lopburi FC Vs Songkhla FC BLV TỐNG GIANG
 https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h30-17/12 Indonesia (W) Vs Thailand (W) BLV KEVILL
 https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-17/12 Zaqatala FK Vs FK MOIK Baku BLV YẾN THANH
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h30-17/12 MALAYSIA Vs SINGAPORE BLV SHIN
+https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h00-16/12 MU Vs AFC Bournemouth BLV URA REPLAY
 https://hls.cdnok9.com/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
@@ -120,14 +123,8 @@ https://hls.cdnok9.com/live/TO4A/index.m3u8?expire=1891408380&sign=5274350aaa915
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h30-17/12 Bologna Vs Juventus BLV SHIN REPLAY
 https://hls.cdnok9.com/live/TO2A/index.m3u8?expire=1891408380&sign=b4fcc4558b2967d54c04070f325ecb14
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h00-17/12 Persekabpas Pasuruan Vs Persiba Bantul NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvZ6LvF7eUpUkSyji/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h00-17/12 Persitara Jakarta Utara Vs Pekanbaru FC NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvZ6LvFHoXbjKraqz/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-17/12 Zaqatala FK Vs FK MOIK Baku BLV YẾN THANH
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-17/12 Suvermez Vs Karaman Belediyesi Spor NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MvXMivkq7fcvJcoZe/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-17/12 Mardin BB Vs Belediye Derincespor NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuTMh9AJpeShtBN4c/playlist.m3u8
@@ -135,23 +132,23 @@ https://auto.cdnvankhanh.com/live/sd-6MuTMh9AJpeShtBN4c/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-17/12 Ankarademirspor Vs Kahramanmaras Bld NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuTMh9AJkFUxvXXkp/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-17/12 Suvermez Vs Karaman Belediyesi Spor NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvXMivkq7fcvJcoZe/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-17/12 Yeni Orduspor Vs Duzcespor NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuTN2mY2KMWFBRRGY/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-17/12 1926 Polatli Belediye Vs Bulvarspor NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MuTN2ibbA6cG3ttLL/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-17/12 Tokat Bld Plevnespor Vs Yozgat Bld Bozokspor NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MuTN2mXsBehVZKZJU/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-17/12 Etimesgut Belediye Spor Vs Kucukcekmece NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuTN2ibbJtXjyCYwv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-17/12 1926 Polatli Belediye Vs Bulvarspor NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MuTN2ibbA6cG3ttLL/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-17/12 Turk Metal Kirikkale Vs Silifke Belediyespor NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuTN2k5PUzTnqqjtp/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-17/12 Tokat Bld Plevnespor Vs Yozgat Bld Bozokspor NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MuTN2mXsBehVZKZJU/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h30-17/12 Simal FK Vs Baku Sporting BLV TỐNG GIANG
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-17/12 Yeni Malatyaspor Vs Menemen Belediye Spor NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuTMh9AJySNBoV2gC/playlist.m3u8
@@ -162,14 +159,14 @@ https://auto.cdnvankhanh.com/live/sd-6MuTMh9AJUs7sZk7gY/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-17/12 Arnavutkoy Belediyespor Vs Adanaspor NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuTMh9AJrqvaN1HDW/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-17/12 Nilufer Belediye Vs Silivrispor NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MuTN2ibbEVa11Yie8/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-17/12 Inegol Kafkas Genclik Vs Fethiye NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MvXMivmWJLUrNrQAg/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-17/12 Denizli IY Gureller Vs Kestel NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvXMivkzpLdj87QqA/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-17/12 Inegol Kafkas Genclik Vs Fethiye NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvXMivmWJLUrNrQAg/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-17/12 Nilufer Belediye Vs Silivrispor NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MuTN2ibbEVa11Yie8/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-17/12 KS Iliria Fushe Vs Skenderbeu Korca NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvXcL5wUebbMzmUJp/playlist.m3u8
