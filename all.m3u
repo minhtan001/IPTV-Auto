@@ -96,14 +96,11 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",07h30-18/12 Corinthians Paulista (SP) Vs Vasco da Gama BLV TỐNG GIANG
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",08h00-18/12 Minnesota Timberwolves Vs  Memphis Grizzlies BLV YẾN THANH
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",07h30-18/12 Dep.Independiente Medellin Vs Atletico Nacional Medellin BLV LÝ QUỲ
-https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",09h00-18/12 Deportivo Saprissa Vs Alajuelense BLV NHỊ KA
+https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h00-16/12 MU Vs AFC Bournemouth BLV URA REPLAY
 https://hls.cdnok9.com/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
@@ -116,34 +113,6 @@ https://hls.cdnok9.com/live/TO2A/index.m3u8?expire=1891408380&sign=b4fcc4558b296
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h40-17/12 Real Madrid Vs Manchester City BLV TÔN LẬP REPLAY
 https://hls.cdnok9.com/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
-#EXTINF:-1 group-title="Socolive_2",07h30: [BLV  TYPN] Dep.Independiente Medellin vs Atletico Nacional Medellin
-http://sharing.gotdns.ch:8091/socolive.php?id=9912009
-#EXTINF:-1 group-title="Socolive_2",07h30: [BLV MIXI] Dep.Independiente Medellin vs Atletico Nacional Medellin
-http://sharing.gotdns.ch:8091/socolive.php?id=290928
-#EXTINF:-1 group-title="Socolive_2",07h30: [BLV ROBBEN] Dep.Independiente Medellin vs Atletico Nacional Medellin
-http://sharing.gotdns.ch:8091/socolive.php?id=527383
-#EXTINF:-1 group-title="Socolive_2",07h30: [BLV TAP] Dep.Independiente Medellin vs Atletico Nacional Medellin
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",07h30: [BLV PEWPEW] Corinthians Paulista (SP) vs Clube de Regatas Vasco da Gama
-http://sharing.gotdns.ch:8091/socolive.php?id=9912015
-#EXTINF:-1 group-title="Socolive_2",07h30: [LÃO LÂM] Corinthians Paulista (SP) vs Clube de Regatas Vasco da Gama
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTINF:-1 group-title="Socolive_2",07h30: [BLV VODKA] Corinthians Paulista (SP) vs Clube de Regatas Vasco da Gama
-http://sharing.gotdns.ch:8091/socolive.php?id=500605
-#EXTINF:-1 group-title="Socolive_2",07h30: [XUÂN SON] Corinthians Paulista (SP) vs Clube de Regatas Vasco da Gama
-http://sharing.gotdns.ch:8091/socolive.php?id=501412
-#EXTINF:-1 group-title="Socolive_2",07h30: [BLV ENZO] Corinthians Paulista (SP) vs Clube de Regatas Vasco da Gama
-http://sharing.gotdns.ch:8091/socolive.php?id=380460
-#EXTINF:-1 group-title="Socolive_2",07h30: [BLV SINGER] Corinthians Paulista (SP) vs Clube de Regatas Vasco da Gama
-http://sharing.gotdns.ch:8091/socolive.php?id=9912102
-#EXTINF:-1 group-title="Socolive_2",08h30: [CÔNG LÝ] CD Olimpia vs CD Motagua
-http://sharing.gotdns.ch:8091/socolive.php?id=9912035
-#EXTINF:-1 group-title="Socolive_2",08h30: [JACKMAN] CD Olimpia vs CD Motagua
-http://sharing.gotdns.ch:8091/socolive.php?id=542758
-#EXTINF:-1 group-title="Socolive_2",08h30: [VỊT BẠC] CD Olimpia vs CD Motagua
-http://sharing.gotdns.ch:8091/socolive.php?id=474421
-#EXTINF:-1 group-title="Socolive_2",08h30: [BLV TÁO] CD Olimpia vs CD Motagua
-http://sharing.gotdns.ch:8091/socolive.php?id=479849
 #EXTINF:-1 group-title="Socolive_2",08h35: [KING] Chicago Bulls vs Cleveland Cavaliers
 http://sharing.gotdns.ch:8091/socolive.php?id=9912099
 #EXTINF:-1 group-title="Socolive_2",08h35: [BLV HENRY] Chicago Bulls vs Cleveland Cavaliers
@@ -176,6 +145,14 @@ http://sharing.gotdns.ch:8091/socolive.php?id=321443
 http://sharing.gotdns.ch:8091/socolive.php?id=552832
 #EXTINF:-1 group-title="Socolive_2",09h00: [HUNTER] Singapore W vs Vietnam W
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
+#EXTINF:-1 group-title="Socolive_2",09h45: [CÔNG LÝ] CD Olimpia vs CD Motagua
+http://sharing.gotdns.ch:8091/socolive.php?id=9912035
+#EXTINF:-1 group-title="Socolive_2",09h45: [JACKMAN] CD Olimpia vs CD Motagua
+http://sharing.gotdns.ch:8091/socolive.php?id=542758
+#EXTINF:-1 group-title="Socolive_2",09h45: [VỊT BẠC] CD Olimpia vs CD Motagua
+http://sharing.gotdns.ch:8091/socolive.php?id=474421
+#EXTINF:-1 group-title="Socolive_2",09h45: [BLV TÁO] CD Olimpia vs CD Motagua
+http://sharing.gotdns.ch:8091/socolive.php?id=479849
 #EXTINF:-1 group-title="Socolive_2",11h30: [BRIAN] Philippines W vs Indonesia W
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTINF:-1 group-title="Socolive_2",11h30: [BLV HENRY] Philippines W vs Indonesia W
@@ -773,6 +750,18 @@ http://sharing.gotdns.ch:8091/socolive.php?id=380460
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-19/12: [RED BULL] Petrojet vs Ismaily SC
 http://sharing.gotdns.ch:8091/socolive.php?id=547345
 #EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-19/12: [BLV GÔN] Varazdin vs Istra 1961
+http://sharing.gotdns.ch:8091/socolive.php?id=445260
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-19/12: [BLV ROBBEN] Varazdin vs Istra 1961
+http://sharing.gotdns.ch:8091/socolive.php?id=527383
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-19/12: [BLV ALEX] Varazdin vs Istra 1961
+http://sharing.gotdns.ch:8091/socolive.php?id=532081
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-19/12: [BLV Hổ Lùn] Varazdin vs Istra 1961
+http://sharing.gotdns.ch:8091/socolive.php?id=308080
+#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h30-19/12: [BLV PIRLO] Beroe Stara Zagora vs Ludogorets Razgrad
 http://sharing.gotdns.ch:8091/socolive.php?id=351530
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -908,6 +897,8 @@ https://vip.opstream90.com/20251118/17952_7bf57028/3000k/hls/mixed.m3u8
 https://dl.dropboxusercontent.com/scl/fi/gcb7dkwb23p8in0m6393d/Detective-Conan-The-Movie-D-nh-c-a-c-Nh-n.mp4?rlkey=bc4oojtcc3c4wgpuzrws1a6iv&st=l89l6nl2&dl=0
 #EXTINF:-1 group-title="TruyenHinh_2",Mang Mẹ Đi Bỏ
 https://vip.opstream90.com/20251129/18758_e33bdf72/3000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 17
+https://live.fptplay53.net/fnxch1/thethao17_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
