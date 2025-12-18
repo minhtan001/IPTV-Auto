@@ -99,11 +99,11 @@ http://iptv.nhadai.org/stream/ben-tre
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-18/12 Saudi Arabia Vs United Arab Emirates NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvZ6QFf7gCXnbKVhv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-18/12 Hekimoglu Trabzon Vs Kirklarelispor BLV PHONG VÂN
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-18/12 Hoang Anh Gia Lai Vs Cong An Ha Noi NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuPtuBwQo1SZtNiyS/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-18/12 Hekimoglu Trabzon Vs Kirklarelispor BLV PHONG VÂN
+https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h30-18/12 Shahdagh Qusar Vs Sabail BLV TỐNG GIANG
 https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
@@ -128,6 +128,9 @@ https://hls.cdnok9.com/live/TO2A/index.m3u8?expire=1891408380&sign=b4fcc4558b296
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-18/12 Thailand U22 Vs Vietnam U22 NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvZ6LuVoN3YEz8jpp/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-18/12 AL-Sareeh Vs Jerash Club BLV VÕ TÒNG
+https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:-1 group-title="Socolive_2",17h00: [BLV  TYPN] Hoang Anh Gia Lai vs Cong An Ha Noi FC
 http://sharing.gotdns.ch:8091/socolive.php?id=9912009
 #EXTINF:-1 group-title="Socolive_2",17h00: [BLV VOI] Hoang Anh Gia Lai vs Cong An Ha Noi FC
@@ -467,11 +470,14 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912103
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",09h00-19/12: [BLV COCA] CSD Municipal vs CD Achuapa
 http://sharing.gotdns.ch:8091/socolive.php?id=327159
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",09h00-19/12: [BLV ENZO] CSD Municipal vs CD Achuapa
-http://sharing.gotdns.ch:8091/socolive.php?id=380460
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",09h00-19/12: [BLV SINGER] CSD Municipal vs CD Achuapa
 http://sharing.gotdns.ch:8091/socolive.php?id=9912102
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",09h00-19/12: [BLV KAI] CSD Municipal vs CD Achuapa
+http://sharing.gotdns.ch:8091/socolive.php?id=313971
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",09h00-19/12: [BLV MESSI] CSD Municipal vs CD Achuapa
+http://sharing.gotdns.ch:8091/socolive.php?id=494201
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",09h00-19/12: [HUNTER] Singapore vs Vietnam
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
@@ -896,14 +902,8 @@ https://live.fptplay53.net/fnxch1/thethao17_mx.smil/chunklist_b6000000.m3u8
 https://live.fptplay53.net/epzch1/thethao03_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 1
 https://live.fptplay53.net/epzch1/thethao01_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 18
-https://live.fptplay53.net/fnxch1/thethao18_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 5
-https://live.fptplay53.net/epzch1/thethao05_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 141
 https://live.fptplay53.net/fnxch1/thethao141_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 19
-https://live.fptplay53.net/fnxch1/thethao19_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 20
 https://live.fptplay53.net/fnxch1/thethao20_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 122
