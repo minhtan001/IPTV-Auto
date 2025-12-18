@@ -96,18 +96,6 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-18/12 Saudi Arabia Vs United Arab Emirates NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvZ6QFf7gCXnbKVhv/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-18/12 Hoang Anh Gia Lai Vs Cong An Ha Noi NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MuPtuBwQo1SZtNiyS/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-18/12 Hekimoglu Trabzon Vs Kirklarelispor BLV PHONG VÂN
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h30-18/12 Shahdagh Qusar Vs Sabail BLV TỐNG GIANG
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h00-16/12 MU Vs AFC Bournemouth BLV URA REPLAY
 https://hls.cdnok9.com/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
 #EXTVLCOPT:http-referrer=https://ls40.live/
@@ -129,30 +117,23 @@ https://hls.cdnok9.com/live/TO2A/index.m3u8?expire=1891408380&sign=b4fcc4558b296
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-18/12 Thailand U22 Vs Vietnam U22 NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvZ6LuVoN3YEz8jpp/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-18/12 Amman FC Vs Al Yarmouk BLV TỐNG GIANG
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-18/12 AL-Sareeh Vs Jerash Club BLV VÕ TÒNG
 https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV  TYPN] Hoang Anh Gia Lai vs Cong An Ha Noi FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912009
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV VOI] Hoang Anh Gia Lai vs Cong An Ha Noi FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912114
-#EXTINF:-1 group-title="Socolive_2",17h00: [VƯƠNG ANH] Hoang Anh Gia Lai vs Cong An Ha Noi FC
-http://sharing.gotdns.ch:8091/socolive.php?id=548860
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV FIREMAN] Hoang Anh Gia Lai vs Cong An Ha Noi FC
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
-#EXTINF:-1 group-title="Socolive_2",17h00: [LOGAN] Hoang Anh Gia Lai vs Cong An Ha Noi FC
-http://sharing.gotdns.ch:8091/socolive.php?id=552832
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV PIRLO] Hoang Anh Gia Lai vs Cong An Ha Noi FC
-http://sharing.gotdns.ch:8091/socolive.php?id=351530
-#EXTINF:-1 group-title="Socolive_2",17h00: [KING] KCC Egis vs KoGas
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",17h30: [BLV LUCAS] Shahdagh Qusar vs Sabail FC
-http://sharing.gotdns.ch:8091/socolive.php?id=304148
-#EXTINF:-1 group-title="Socolive_2",17h30: [CÔNG LÝ] Shahdagh Qusar vs Sabail FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912035
-#EXTINF:-1 group-title="Socolive_2",17h30: [BLV KAI] Shahdagh Qusar vs Sabail FC
-http://sharing.gotdns.ch:8091/socolive.php?id=313971
-#EXTINF:-1 group-title="Socolive_2",17h30: [CHAN SENA] Perth vs South East Melbourne
-http://sharing.gotdns.ch:8091/socolive.php?id=515530
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h45-18/12 Tractor S.C. Vs Persepolis BLV MÃ SIÊU
+https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-18/12 AFC Leopards Vs Ulinzi Stars Nakuru BLV LÝ ỨNG
+https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-18/12 Juventus U20 Vs Cesena U20 BLV NHỊ KA
+https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h30-18/12 Real Maldive FC Vs PTL Bazar Brothers FC NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MvZ6LuVxiwEDVC6iG/playlist.m3u8
 #EXTINF:-1 group-title="Socolive_2",18h00: [RÙA VÀNG] Saudi Arabia vs United Arab Emirates
 http://sharing.gotdns.ch:8091/socolive.php?id=563268
 #EXTINF:-1 group-title="Socolive_2",18h00: [BLV SATIVA] Saudi Arabia vs United Arab Emirates
@@ -257,14 +238,14 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912110
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-19/12: [BLV Củ Cải] Galatasaray vs Başakşehir Futbol Kulübü
 http://sharing.gotdns.ch:8091/socolive.php?id=9912091
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-19/12: [TẠ BIÊN GIỚI] Galatasaray vs Başakşehir Futbol Kulübü
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-19/12: [THẠCH TÚ] Galatasaray vs Başakşehir Futbol Kulübü
 http://sharing.gotdns.ch:8091/socolive.php?id=344370
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-19/12: [SAO LA] Galatasaray vs Başakşehir Futbol Kulübü
 http://sharing.gotdns.ch:8091/socolive.php?id=462413
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-19/12: [BLV LONG] Galatasaray vs Başakşehir Futbol Kulübü
+http://sharing.gotdns.ch:8091/socolive.php?id=9912050
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h45-19/12: [BLV Hổ Lùn] Spakenburg vs FC Twente Enschede
 http://sharing.gotdns.ch:8091/socolive.php?id=308080
@@ -590,8 +571,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=547345
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",17h30-19/12: [RÙA VÀNG] Cəbrayıl FK vs FK SAFA
 http://sharing.gotdns.ch:8091/socolive.php?id=563268
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",17h30-19/12: [BLV SATIVA] Cəbrayıl FK vs FK SAFA
-http://sharing.gotdns.ch:8091/socolive.php?id=321443
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",17h30-19/12: [BLV ENZO] Cəbrayıl FK vs FK SAFA
+http://sharing.gotdns.ch:8091/socolive.php?id=380460
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h35-19/12: [BLV HENRY] Jiangsu Dragons vs Shanghai
 http://sharing.gotdns.ch:8091/socolive.php?id=9912112
@@ -686,14 +667,14 @@ http://sharing.gotdns.ch:8091/socolive.php?id=356042
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h15-19/12: [BLV VOI] Al Hidd vs Al Khaldiya
 http://sharing.gotdns.ch:8091/socolive.php?id=9912114
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h15-19/12: [BLV KAI] Al Hidd vs Al Khaldiya
-http://sharing.gotdns.ch:8091/socolive.php?id=313971
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h15-19/12: [BLV MIXI] Al Hidd vs Al Khaldiya
 http://sharing.gotdns.ch:8091/socolive.php?id=290928
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h15-19/12: [NGOẠ LONG] Al Hidd vs Al Khaldiya
 http://sharing.gotdns.ch:8091/socolive.php?id=538979
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h15-19/12: [BLV SATIVA] Al Hidd vs Al Khaldiya
+http://sharing.gotdns.ch:8091/socolive.php?id=321443
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h15-19/12: [BLV ADAM] Sitra vs A'Ali FC
 http://sharing.gotdns.ch:8091/socolive.php?id=336303
@@ -902,12 +883,14 @@ https://live.fptplay53.net/fnxch1/thethao17_mx.smil/chunklist_b6000000.m3u8
 https://live.fptplay53.net/epzch1/thethao03_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 1
 https://live.fptplay53.net/epzch1/thethao01_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 141
-https://live.fptplay53.net/fnxch1/thethao141_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 20
 https://live.fptplay53.net/fnxch1/thethao20_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 122
 https://live.fptplay53.net/epzch1/thethao122_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 109
+https://event.fptplay53.net/channel/thethao109/master_mx.m3u8?sign=1766057894-sign-0-4fff254a7b0357cea177f1a0a3ccf07a
+#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 6
+https://live.fptplay53.net/epzch1/thethao06_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
