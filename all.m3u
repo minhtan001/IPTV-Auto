@@ -99,6 +99,9 @@ http://iptv.nhadai.org/stream/ben-tre
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h30-18/12 Philippines U22 Vs Malaysia U22 NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvZ6LuWdXdHSmAXnL/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-18/12 Difai Agsu FK Vs E Nel G Tick BLV KHỔNG MINH
+https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h00-16/12 MU Vs AFC Bournemouth BLV URA REPLAY
 https://hls.cdnok9.com/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
 #EXTVLCOPT:http-referrer=https://ls40.live/
@@ -117,9 +120,6 @@ https://hls.cdnok9.com/live/TO4A/index.m3u8?expire=1891408380&sign=5274350aaa915
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h30-18/12 Bologna Vs Juventus BLV SHIN REPLAY
 https://hls.cdnok9.com/live/TO2A/index.m3u8?expire=1891408380&sign=b4fcc4558b2967d54c04070f325ecb14
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-18/12 Difai Agsu FK Vs E Nel G Tick BLV KHỔNG MINH
-https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-18/12 Hoang Anh Gia Lai Vs Cong An Ha Noi NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuPtuBwQo1SZtNiyS/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
@@ -128,8 +128,6 @@ https://auto.cdnvankhanh.com/live/sd-6MvZ6QFf7gCXnbKVhv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-18/12 Thailand U22 Vs Vietnam U22 NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvZ6LuVoN3YEz8jpp/playlist.m3u8
-#EXTINF:-1 group-title="Socolive_2",14h00: [HUNTER] Philippines vs Indonesia
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
 #EXTINF:-1 group-title="Socolive_2",15h30: [BLV DECO] Philippines U22 vs Malaysia U22
 http://sharing.gotdns.ch:8091/socolive.php?id=9912060
 #EXTINF:-1 group-title="Socolive_2",15h30: [BLV ĐỐM] Philippines U22 vs Malaysia U22
