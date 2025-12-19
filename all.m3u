@@ -96,25 +96,17 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",08h00-19/12 OKLAHOMA CITY THUNDER  Vs LOS ANGELES CLIPPERS BLV YẾN THANH
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",07h00-19/12 Liga Dep. Universitaria Quito Vs Universidad Catolica BLV HOA VINH
 https://hls.cdnok9.com/live/GUMA/index.m3u8?expire=1788427256&sign=c57d8f64d762eaf6c2052dd9e8015b01
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h00-19/12 Nacional Potosi Vs The Strongest BLV YẾN THANH
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",07h00-19/12 Bolivar Vs Blooming BLV TÂY MÔN KHÁNH
+https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h00-16/12 MU Vs AFC Bournemouth BLV URA REPLAY
 https://hls.cdnok9.com/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",07h00-19/12 Bolivar Vs Blooming BLV TÂY MÔN KHÁNH
-https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTINF:-1 group-title="Socolive_2",05h00: [BLV SHIN] Nacional Potosi vs The Strongest
-http://sharing.gotdns.ch:8091/socolive.php?id=522086
-#EXTINF:-1 group-title="Socolive_2",05h00: [BLV QUAN VŨ] Nacional Potosi vs The Strongest
-http://sharing.gotdns.ch:8091/socolive.php?id=239275
-#EXTINF:-1 group-title="Socolive_2",05h00: [NGOẠ LONG] Nacional Potosi vs The Strongest
-http://sharing.gotdns.ch:8091/socolive.php?id=538979
-#EXTINF:-1 group-title="Socolive_2",05h00: [BLV SÓI] Nacional Potosi vs The Strongest
-http://sharing.gotdns.ch:8091/socolive.php?id=427562
 #EXTINF:-1 group-title="Socolive_2",07h00: [CÔNG LÝ] Bolivar vs Blooming
 http://sharing.gotdns.ch:8091/socolive.php?id=9912035
 #EXTINF:-1 group-title="Socolive_2",07h00: [BLV KAI] Bolivar vs Blooming
@@ -131,13 +123,13 @@ http://sharing.gotdns.ch:8091/socolive.php?id=522086
 http://sharing.gotdns.ch:8091/socolive.php?id=548260
 #EXTINF:-1 group-title="Socolive_2",07h00: [BLV Sao Đỏ] Liga Dep Universitaria Quito vs CD Universidad Católica
 http://sharing.gotdns.ch:8091/socolive.php?id=519740
-#EXTINF:-1 group-title="Socolive_2",07h00: [CHAN SENA] Charlotte Hornets vs Atlanta Hawks
+#EXTINF:-1 group-title="Socolive_2",07h35: [CHAN SENA] Charlotte Hornets vs Atlanta Hawks
 http://sharing.gotdns.ch:8091/socolive.php?id=515530
-#EXTINF:-1 group-title="Socolive_2",07h00: [A CHÈ] Charlotte Hornets vs Atlanta Hawks
+#EXTINF:-1 group-title="Socolive_2",07h35: [A CHÈ] Charlotte Hornets vs Atlanta Hawks
 http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",07h00: [BLV HENRY] Indiana Pacers vs New York Knicks
+#EXTINF:-1 group-title="Socolive_2",07h35: [BLV HENRY] Indiana Pacers vs New York Knicks
 http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",07h30: [BRIAN] Brooklyn Nets vs Miami Heat
+#EXTINF:-1 group-title="Socolive_2",08h05: [BRIAN] Brooklyn Nets vs Miami Heat
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTINF:-1 group-title="Socolive_2",08h30: [LOGAN] Marathon vs Platense
 http://sharing.gotdns.ch:8091/socolive.php?id=552832
