@@ -96,50 +96,24 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",08h00-19/12 OKLAHOMA CITY THUNDER  Vs LOS ANGELES CLIPPERS BLV YẾN THANH
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",09h00-19/12 CSD Municipal Vs CD Achuapa BLV TÂY MÔN KHÁNH
-https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h00-16/12 MU Vs AFC Bournemouth BLV URA REPLAY
 https://hls.cdnok9.com/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
-#EXTINF:-1 group-title="Socolive_2",08h30: [LOGAN] Marathon vs Platense
-http://sharing.gotdns.ch:8091/socolive.php?id=552832
-#EXTINF:-1 group-title="Socolive_2",08h30: [CÔNG CHẤT] Marathon vs Platense
-http://sharing.gotdns.ch:8091/socolive.php?id=291277
-#EXTINF:-1 group-title="Socolive_2",08h30: [BLV VOI] Marathon vs Platense
-http://sharing.gotdns.ch:8091/socolive.php?id=9912114
-#EXTINF:-1 group-title="Socolive_2",08h30: [VƯƠNG ANH] Marathon vs Platense
-http://sharing.gotdns.ch:8091/socolive.php?id=548860
-#EXTINF:-1 group-title="Socolive_2",08h30: [VỊT BẠC] Marathon vs Platense
-http://sharing.gotdns.ch:8091/socolive.php?id=474421
-#EXTINF:-1 group-title="Socolive_2",09h00: [BLV TAP] CSD Municipal vs CD Achuapa
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",09h00: [BLV CRIS] CSD Municipal vs CD Achuapa
-http://sharing.gotdns.ch:8091/socolive.php?id=9912103
-#EXTINF:-1 group-title="Socolive_2",09h00: [BLV COCA] CSD Municipal vs CD Achuapa
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",09h00: [BLV SINGER] CSD Municipal vs CD Achuapa
-http://sharing.gotdns.ch:8091/socolive.php?id=9912102
-#EXTINF:-1 group-title="Socolive_2",09h00: [BLV KAI] CSD Municipal vs CD Achuapa
-http://sharing.gotdns.ch:8091/socolive.php?id=313971
-#EXTINF:-1 group-title="Socolive_2",09h00: [BLV DECO] CSD Municipal vs CD Achuapa
-http://sharing.gotdns.ch:8091/socolive.php?id=9912060
-#EXTINF:-1 group-title="Socolive_2",09h05: [KING] Dallas Mavericks vs Detroit Pistons
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",10h00: [BRIAN] Portland Trail Blazers vs Sacramento Kings
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",10h00-19/12 Matsumoto University Vs Niigata University NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MvZ6HeVtQXuEZLAJG/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-20/12 Bangkok FC Vs Songkhla FC NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MuPtPpmuox9nmQGYk/playlist.m3u8
+#EXTINF:-1 group-title="Socolive_2",10h35: [BRIAN] Portland Trail Blazers vs Sacramento Kings
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",10h00: [CHAN SENA] Portland Trail Blazers vs Sacramento Kings
+#EXTINF:-1 group-title="Socolive_2",10h35: [CHAN SENA] Portland Trail Blazers vs Sacramento Kings
 http://sharing.gotdns.ch:8091/socolive.php?id=515530
-#EXTINF:-1 group-title="Socolive_2",10h00: [BLV HENRY] Portland Trail Blazers vs Sacramento Kings
+#EXTINF:-1 group-title="Socolive_2",10h35: [BLV HENRY] Portland Trail Blazers vs Sacramento Kings
 http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",10h00: [A CHÈ] Portland Trail Blazers vs Sacramento Kings
+#EXTINF:-1 group-title="Socolive_2",10h35: [A CHÈ] Portland Trail Blazers vs Sacramento Kings
 http://sharing.gotdns.ch:8091/socolive.php?id=356042
 #EXTINF:-1 group-title="Socolive_2",11h30: [KING] Malaysia W vs Indonesia W
 http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",11h30: [HUNTER] Malaysia W vs Indonesia W
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
 #EXTINF:-1 group-title="Socolive_2",13h30: [BRIAN] Bendigo W vs Adelaide Lightning W
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTINF:-1 group-title="Socolive_2",13h30: [KING] Bendigo W vs Adelaide Lightning W
@@ -200,6 +174,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=536185
 http://sharing.gotdns.ch:8091/socolive.php?id=532081
 #EXTINF:-1 group-title="Socolive_2",16h00: [BLV BÉO] Imigresen FC vs Terengganu FC
 http://sharing.gotdns.ch:8091/socolive.php?id=459401
+#EXTINF:-1 group-title="Socolive_2",16h00: [BLV RAMBO] Imigresen FC vs Terengganu FC
+http://sharing.gotdns.ch:8091/socolive.php?id=534055
 #EXTINF:-1 group-title="Socolive_2",16h00: [MR BÍCH] Penang FC vs PDRM FC
 http://sharing.gotdns.ch:8091/socolive.php?id=285067
 #EXTINF:-1 group-title="Socolive_2",16h00: [BLV VOI] Penang FC vs PDRM FC
@@ -1130,16 +1106,8 @@ https://dl.dropboxusercontent.com/scl/fi/gcb7dkwb23p8in0m6393d/Detective-Conan-T
 https://vip.opstream90.com/20251129/18758_e33bdf72/3000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 17
 https://live.fptplay53.net/fnxch1/thethao17_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 3
-https://live.fptplay53.net/epzch1/thethao03_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 1
-https://live.fptplay53.net/epzch1/thethao01_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 20
-https://live.fptplay53.net/fnxch1/thethao20_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 122
-https://live.fptplay53.net/epzch1/thethao122_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 01
-https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 15
+https://live.fptplay53.net/fnxch1/thethao15_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
