@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",15h05-19/12 FC Macarthur Vs Brisbane Roar BLV KEVILL
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",15h00-19/12 Newcastle Jets (W) Vs Melbourne Victory (W) BLV YẾN THANH
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",15h05-19/12 FC Macarthur Vs Brisbane Roar BLV KEVILL
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",12h00-19/12 THÁI LAN Vs VIỆT NAM BLV VƯƠNG LUÂN REPLAY
 https://hls.cdnok9.com/live/TO5A/index.m3u8?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036
@@ -27,14 +27,26 @@ https://hls.cdnok9.com/live/TO2A/index.m3u8?expire=1891408380&sign=b4fcc4558b296
 #EXTINF:-1 group-title="LuongSon_2",15h00-19/12 Viettel U19 Vs PVF Vietnam U19 NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvZ6Hd3REePiZRB3A/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",15h00-19/12 Perserang Serang Vs PSGC Ciamis NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MvZ6Hd2RBQEMZmC3e/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",15h00-19/12 Persebata Lembata Vs Perseden Denpasar NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvZ6Hd3FixnG949Y8/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",15h20-19/12 PS Bintang Kejora Vs Angkasa Suela NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MvZ6HhULb2eqBzeu2/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",15h30-19/12 Abahani Limited Vs PWD Sports Club NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvXrNmoNaeJ9uvp76/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",15h30-19/12 Rahmatganj MFS Vs Brothers Union NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvXrNmoNYSpHS6txC/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",16h00-19/12 Imigresen FC Vs Terengganu BLV SHIN
+https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",16h00-19/12 Penang Vs PDRM BLV HOA VINH
+https://hls.cdnok9.com/live/GUMA/index.m3u8?expire=1788427256&sign=c57d8f64d762eaf6c2052dd9e8015b01
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",16h00-19/12 Western Sydney Vs Auckland FC BLV NHỊ KA
 https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
