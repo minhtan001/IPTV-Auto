@@ -96,11 +96,23 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h30-19/12 Cəbrayıl FK Vs FK Safa BLV CHU ĐỒNG
-https://hls.cdnok9.com/live/CHUDONG/index.m3u8?expire=1788427256&sign=b7df620ef99aaa1798bda4e698168a46
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h45-19/12 Al Arabi(UAE) Vs Dubba Al-Husun BLV TẦN CA
+https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-19/12 FK Kapaz Ganca Vs Turan Tovuz BLV YẾN THANH
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h40-19/12 Masfut Vs Emirates Club BLV MÃ SIÊU
+https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h10-19/12 Al Anwar SA Vs Al Bukayriyah BLV HOA VINH
+https://hls.cdnok9.com/live/GUMA/index.m3u8?expire=1788427256&sign=c57d8f64d762eaf6c2052dd9e8015b01
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h15-19/12 Kuching FA Vs Melaka FC BLV TỐNG GIANG
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h20-19/12 Al-Arabi(KSA) Vs Al-Baten BLV TÔN LẬP
+https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h50-19/12 Jubail Vs Al-Jabalain BLV URA
+https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h00-19/12 THÁI LAN Vs VIỆT NAM BLV VƯƠNG LUÂN REPLAY
 https://hls.cdnok9.com/live/TO5A/index.m3u8?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036
@@ -120,20 +132,8 @@ https://hls.cdnok9.com/live/TO6A/index.m3u8?expire=1891408380&sign=df6b95775ca8c
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",14h00-19/12 Borussia Dortmund Vs Bodo Glimt BLV SHIN REPLAY
 https://hls.cdnok9.com/live/TO2A/index.m3u8?expire=1891408380&sign=b4fcc4558b2967d54c04070f325ecb14
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-19/12 Nifas Silk Lafto Sub City Vs Debre Birhan Ketema NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvZ6LvDn5JBtgL2kU/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-19/12 Nib FC Vs Batu Ketema NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvZ6QBFNPKHocVwLG/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-19/12 Cote d'Or Vs ANSE Reunion NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvZ6LzfhwJNp4UVSc/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h50-19/12 Jubail Vs Al-Jabalain BLV URA
-https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h15-19/12 Kuching FA Vs Melaka FC BLV TỐNG GIANG
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h15-19/12 Tadamon Sour Vs Al-Hikma NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvZ67r3M5Mth5VyPA/playlist.m3u8
@@ -141,11 +141,11 @@ https://auto.cdnvankhanh.com/live/sd-6MvZ67r3M5Mth5VyPA/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h15-19/12 Al Bourj Vs Al Abbasieh FC NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvZ67r3LxmT5e2DvU/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-19/12 Shashemene Kenema FC Vs Akaki Kality NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvZ6Lvz7AwEu2paip/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-19/12 Bishoftu Ketema Vs Boditi Ketema NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvZ6Lvz7D8imWeVsi/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-19/12 Shashemene Kenema FC Vs Akaki Kality NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MvZ6Lvz7AwEu2paip/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-19/12 Nekemte Ketema Vs Gamo Chencha NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvZ6LvDn36i2CW7ba/playlist.m3u8
@@ -164,6 +164,9 @@ https://auto.cdnvankhanh.com/live/sd-6MvXMSXsYwGMpch4RS/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-19/12 Maccabi Kabilio Jaffa Vs Hapoel Kfar Saba NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvXMSXsYkGxUDZUex/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h15-19/12 Sitra Vs Al Ali CSC BLV KHỔNG MINH
+https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-19/12 JS Tixeraine Vs RC Kouba NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvYM99YiYFmx7jTKz/playlist.m3u8
@@ -191,18 +194,6 @@ https://auto.cdnvankhanh.com/live/sd-6MuPtPpmuox9nmQGYk/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-20/12 Newcastle United Vs Chelsea NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/hd-en-6MuT7JykrrkBJs3MBa/playlist.m3u8
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV TÔM] FK Kapaz Ganca vs Turan Tovuz
-http://sharing.gotdns.ch:8091/socolive.php?id=561379
-#EXTINF:-1 group-title="Socolive_2",17h00: [LÃO LÂM] FK Kapaz Ganca vs Turan Tovuz
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV COZY] FK Kapaz Ganca vs Turan Tovuz
-http://sharing.gotdns.ch:8091/socolive.php?id=531989
-#EXTINF:-1 group-title="Socolive_2",17h00: [RED BULL] FK Kapaz Ganca vs Turan Tovuz
-http://sharing.gotdns.ch:8091/socolive.php?id=547345
-#EXTINF:-1 group-title="Socolive_2",17h30: [RÙA VÀNG] Cəbrayıl FK vs FK SAFA
-http://sharing.gotdns.ch:8091/socolive.php?id=563268
-#EXTINF:-1 group-title="Socolive_2",17h30: [BLV KINH TẾ] Cəbrayıl FK vs FK SAFA
-http://sharing.gotdns.ch:8091/socolive.php?id=532999
 #EXTINF:-1 group-title="Socolive_2",18h35: [BLV HENRY] Jiangsu Dragons vs Shanghai
 http://sharing.gotdns.ch:8091/socolive.php?id=9912112
 #EXTINF:-1 group-title="Socolive_2",18h35: [A CHÈ] Jiangsu Dragons vs Shanghai
@@ -391,9 +382,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=519740
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h00-20/12: [XUÂN SON] Bologna vs Inter Milan
 http://sharing.gotdns.ch:8091/socolive.php?id=501412
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h00-20/12: [BLV 7UP] Bologna vs Inter Milan
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h00-20/12: [RED BULL] Bologna vs Inter Milan
 http://sharing.gotdns.ch:8091/socolive.php?id=547345
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -405,6 +393,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=291277
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h00-20/12: [BLV A BỆU] Bologna vs Inter Milan
 http://sharing.gotdns.ch:8091/socolive.php?id=484845
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h00-20/12: [BLV LONG] Bologna vs Inter Milan
+http://sharing.gotdns.ch:8091/socolive.php?id=9912050
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h30-20/12: [BLV VITAMIN] Borussia Dortmund vs Borussia Monchengladbach
 http://sharing.gotdns.ch:8091/socolive.php?id=400722
@@ -541,8 +532,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=304148
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",12h00-20/12: [CÔNG LÝ] AC Nagano Parceiro Ladies vs NTV Tokyo Verdy Beleza
 http://sharing.gotdns.ch:8091/socolive.php?id=9912035
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",12h00-20/12: [BLV LONG] AC Nagano Parceiro Ladies vs NTV Tokyo Verdy Beleza
-http://sharing.gotdns.ch:8091/socolive.php?id=9912050
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",12h00-20/12: [QUANG VINH] AC Nagano Parceiro Ladies vs NTV Tokyo Verdy Beleza
+http://sharing.gotdns.ch:8091/socolive.php?id=9912109
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",12h00-20/12: [VỊT BẠC] AS Elfen Saitama vs JEF United Ichihara Chiba Ladies
 http://sharing.gotdns.ch:8091/socolive.php?id=474421
@@ -877,9 +868,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=560224
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h30-20/12: [BLV ROBBEN] Hamburger SV vs Eintracht Frankfurt
 http://sharing.gotdns.ch:8091/socolive.php?id=527383
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h30-20/12: [LÃO LÂM] VfB Stuttgart vs TSG Hoffenheim
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h30-20/12: [BLV VODKA] VfB Stuttgart vs TSG Hoffenheim
 http://sharing.gotdns.ch:8091/socolive.php?id=500605
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -894,6 +882,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=547345
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h30-20/12: [BLV TÔM] VfB Stuttgart vs TSG Hoffenheim
 http://sharing.gotdns.ch:8091/socolive.php?id=561379
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h30-20/12: [BLV ANH TÀI] VfB Stuttgart vs TSG Hoffenheim
+http://sharing.gotdns.ch:8091/socolive.php?id=406865
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h30-20/12: [BLV SHIN] VfL Wolfsburg vs SC Freiburg
 http://sharing.gotdns.ch:8091/socolive.php?id=522086
@@ -925,9 +916,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912097
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-20/12: [BLV TOMIA] Brighton Hove Albion vs Sunderland
 http://sharing.gotdns.ch:8091/socolive.php?id=9912008
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-20/12: [BLV 7UP] Brighton Hove Albion vs Sunderland
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-20/12: [TAM MAO] Brighton Hove Albion vs Sunderland
 http://sharing.gotdns.ch:8091/socolive.php?id=9912100
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -939,6 +927,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=494201
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-20/12: [BLV  TYPN] Brighton Hove Albion vs Sunderland
 http://sharing.gotdns.ch:8091/socolive.php?id=9912009
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-20/12: [BLV LONG] Brighton Hove Albion vs Sunderland
+http://sharing.gotdns.ch:8091/socolive.php?id=9912050
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-20/12: [BLV TOMMY] Manchester City vs West Ham United
 http://sharing.gotdns.ch:8091/socolive.php?id=414317
@@ -1111,8 +1102,6 @@ https://live.fptplay53.net/fnxch1/thethao17_mx.smil/chunklist_b6000000.m3u8
 https://live.fptplay53.net/fnxch1/thethao15_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 134
 https://live.fptplay53.net/fnxch1/thethao134_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 4
-https://live.fptplay53.net/epzch1/thethao04_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 18
 https://live.fptplay53.net/fnxch1/thethao18_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 1
@@ -1475,8 +1464,6 @@ https://ace.hoiquan.click/module/IPTV/?id=tlc&accKenh=vuminhthanh1
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",Celestial Movies
 http://ch-4k-top.org/play/live.php?mac=00:1A:79:7a:39:a6&stream=1164000&extension=ts&play_token=HqvKowEeO4
-#EXTINF:-1 group-title="TruyenHinh_2",Filmbox
-http://filex.me:8080/live/%40singh_tesla_7207492/puWnhEGsXpK3/317770.ts
 #EXTINF:-1 group-title="TruyenHinh_2",Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VOV1
