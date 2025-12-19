@@ -1,7 +1,10 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",19h45-19/12 Al Arabi(UAE) Vs Dubba Al-Husun BLV TẦN CA
-https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
+#EXTINF:-1 group-title="LuongSon_2",19h20-19/12 Al-Arabi(KSA) Vs Al-Baten BLV TÔN LẬP
+https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",20h15-19/12 Al Hidd Vs Al Khaldiya BLV TRƯƠNG THANH
+https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",19h40-19/12 Masfut Vs Emirates Club BLV MÃ SIÊU
 https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
@@ -9,11 +12,17 @@ https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe
 #EXTINF:-1 group-title="LuongSon_2",19h10-19/12 Al Anwar SA Vs Al Bukayriyah BLV HOA VINH
 https://hls.cdnok9.com/live/GUMA/index.m3u8?expire=1788427256&sign=c57d8f64d762eaf6c2052dd9e8015b01
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",20h00-19/12 Al-Jahra Vs Al-Shabab(KUW) BLV GIÁO SƯ XOAY
+https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",20h15-19/12 Sitra Vs Al Ali CSC BLV KHỔNG MINH
+https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",19h45-19/12 Al Arabi(UAE) Vs Dubba Al-Husun BLV TẦN CA
+https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",19h15-19/12 Kuching FA Vs Melaka FC BLV TỐNG GIANG
 https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",19h20-19/12 Al-Arabi(KSA) Vs Al-Baten BLV TÔN LẬP
-https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",18h50-19/12 Jubail Vs Al-Jabalain BLV URA
 https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
@@ -36,9 +45,6 @@ https://hls.cdnok9.com/live/TO6A/index.m3u8?expire=1891408380&sign=df6b95775ca8c
 #EXTINF:-1 group-title="LuongSon_2",14h00-19/12 Borussia Dortmund Vs Bodo Glimt BLV SHIN REPLAY
 https://hls.cdnok9.com/live/TO2A/index.m3u8?expire=1891408380&sign=b4fcc4558b2967d54c04070f325ecb14
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",18h00-19/12 Cote d'Or Vs ANSE Reunion NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvZ6LzfhwJNp4UVSc/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",19h15-19/12 Tadamon Sour Vs Al-Hikma NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvZ67r3M5Mth5VyPA/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
@@ -51,14 +57,8 @@ https://auto.cdnvankhanh.com/live/sd-6MvZ6Lvz7D8imWeVsi/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon_2",19h30-19/12 Shashemene Kenema FC Vs Akaki Kality NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvZ6Lvz7AwEu2paip/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",19h30-19/12 Nekemte Ketema Vs Gamo Chencha NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvZ6LvDn36i2CW7ba/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",19h45-19/12 Fnjaa Vs Al-Mdeebe NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvZ6LzehcfrMi36Np/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",20h00-19/12 Hapoel Nof HaGalil Vs Ironi Modiin NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvXMSXsYpfvDBDJxk/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",20h00-19/12 Bnei Yehuda Tel Aviv Vs Hapoel Rishon Lezion NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvXMSXtPUpujBz1uv/playlist.m3u8
@@ -66,17 +66,20 @@ https://auto.cdnvankhanh.com/live/sd-6MvXMSXtPUpujBz1uv/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon_2",20h00-19/12 Hapoel Afula Vs Maccabi Herzliya NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvXMSXsYwGMpch4RS/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",20h00-19/12 Hapoel Nof HaGalil Vs Ironi Modiin NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MvXMSXsYpfvDBDJxk/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",20h00-19/12 Maccabi Kabilio Jaffa Vs Hapoel Kfar Saba NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvXMSXsYkGxUDZUex/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",20h15-19/12 Sitra Vs Al Ali CSC BLV KHỔNG MINH
-https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:-1 group-title="LuongSon_2",21h00-19/12 ESM Kolea Vs USM EL HARRACH NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MvYM99YiTrpDA5d2C/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",21h00-19/12 RC Arba Vs CRB Temouchent NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MvYM99YiaTFpbZNUt/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",21h00-19/12 JS Tixeraine Vs RC Kouba NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvYM99YiYFmx7jTKz/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",21h00-19/12 ESM Kolea Vs USM EL HARRACH NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvYM99YiTrpDA5d2C/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",21h00-19/12 WA Tlemcen Vs JS El Biar NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvYM99Yi5t1WMpTVE/playlist.m3u8
@@ -89,9 +92,6 @@ https://auto.cdnvankhanh.com/live/sd-6MvYM99YiRfLLgFhsJ/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",21h00-19/12 NA Hussein Dey Vs US Bechar Djedid NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvYM99Yicejh5PHdn/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",21h00-19/12 RC Arba Vs CRB Temouchent NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvYM99YiaTFpbZNUt/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",19h00-20/12 Bangkok FC Vs Songkhla FC NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuPtPpmuox9nmQGYk/playlist.m3u8
