@@ -96,17 +96,20 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h30-20/12 76 Igdir Belediye spor Vs Sivasspor BLV NGŨ CA
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h30-20/12 Johor Darul Takzim Vs Kelantan United BLV TỐNG GIANG
 https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h35-20/12 Melbourne City Vs Melbourne Victory BLV KEVILL
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h30-20/12 Bandirmaspor Vs Erzurum BB BLV KHỔNG MINH
+https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h45-20/12 Perth Glory Vs Adelaide United BLV YẾN THANH
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-20/12 Karvan Evlakh Vs FC Neftci Baku BLV TRIỆU TỬ LONG
 https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h30-20/12 Dewa United FC Vs Persis Solo FC BLV YẾN THANH
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h00-19/12 THÁI LAN Vs VIỆT NAM BLV VƯƠNG LUÂN REPLAY
 https://hls.cdnok9.com/live/TO5A/index.m3u8?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036
@@ -126,35 +129,23 @@ https://hls.cdnok9.com/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b2182
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h35-19/12 Manchester United Vs AFC Bournemouth  BLV LƯU BỊ REPLAY
 https://hls.cdnok9.com/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h30-20/12 Bangladesh Police Club Vs Bashundhara Kings NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvXrNmoNf3FtsaeQt/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h45-20/12 Football Club Nave Yosef U19 Vs Hapoel Hadera U19 NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvZ6HiCzLAEw37sp8/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-20/12 Hualien (W) Vs Valkyrie (W) NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvXbppf2bUeFUAgha/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-20/12 Parma U20 Vs Lazio U20 NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuSryzvEghqPPA5F2/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h30-20/12 76 Igdir Belediye spor Vs Sivasspor BLV NGŨ CA
-https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-20/12 Svay Rieng FC Vs Angkor Tiger FC NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MuPtZb1ewzZYrUkYC/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h30-20/12 Bandirmaspor Vs Erzurum BB BLV KHỔNG MINH
-https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-20/12 Maritimo (W) Vs SF Damaiense (W) NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MvZ6QECUzdQpB3Uwn/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-20/12 Hoffenheim (W) Vs Carl Zeiss Jena (W) NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuTMv9fVL7gd8Lomn/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-20/12 Amora FC Vs CD Mafra NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuPtZb1zmWsjmZ3m6/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-20/12 Maritimo (W) Vs SF Damaiense (W) NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvZ6QECUzdQpB3Uwn/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-20/12 Svay Rieng FC Vs Angkor Tiger FC NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MuPtZb1ewzZYrUkYC/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h30-20/12 Lion City Sailors Vs Balestier Khalsa FC NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvZ64ekN9pBDurvLU/playlist.m3u8
@@ -186,9 +177,6 @@ https://auto.cdnvankhanh.com/live/sd-6MuPtLWpDbEG2RPNxC/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-20/12 KF Tirana Vs Vllaznia Shkoder NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuPtLWpDk2BWLh3Zn/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-20/12 Woking Vs Scunthorpe United NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MuTMkNea26wmPuzAx/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-20/12 KS Korabi Peshkopi Vs Burreli NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvXcL5wp3wcydkgqr/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
@@ -200,6 +188,9 @@ https://auto.cdnvankhanh.com/live/sd-6MvXcL5wpaiMAMKWzQ/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-20/12 Apolonia Fier Vs KF Laci NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvXcL5weerT8esQoW/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-20/12 Woking Vs Scunthorpe United NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MuTMkNea26wmPuzAx/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-20/12 Metaloglobus Vs FC Unirea 2004 Slobozia NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuSsKb71M3cpT7h5E/playlist.m3u8
@@ -231,26 +222,14 @@ https://auto.cdnvankhanh.com/live/sd-6MvYMCNM1Z8EfCfqBa/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-20/12 Boluspor Vs Pendikspor NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuTcdzQcMmy3reTec/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-20/12 VfL Osnabruck Vs VfB Stuttgart II NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MuTcUEB1wG5U7akwN/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-20/12 Erzgebirge Aue Vs Schweinfurt 05 FC NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MuTcUEB2EqvRxC6AY/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-20/12 Rot-Weiss Essen Vs SSV Ulm 1846 NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MuTcUEB2U2oeq9b5v/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-20/12 Hansa Rostock Vs Saarbrucken NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MuTcUEB2KEtAuqvUL/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-20/12 SV Waldhof Mannheim Vs Ingolstadt NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MuTcUEB2PdqusVkn8/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-20/12 HB Chelghoum Laid Vs Biskra NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvYM98pj53Wtq1qLQ/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-20/12 JS Bordj Menaiel Vs CA Batna NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MvYM98pj2r32MBvBW/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-20/12 Beni Oulbane Vs NRB Teleghma NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvYM98pZkMJnonPbr/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-20/12 HB Chelghoum Laid Vs Biskra NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MvYM98pj53Wtq1qLQ/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-20/12 MSP Batna Vs CR Beni Thour NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvYM98pZfxM3r8ZJ4/playlist.m3u8
@@ -264,20 +243,26 @@ https://auto.cdnvankhanh.com/live/sd-6MvYM98pjZcmD4kkL4/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-20/12 US Chaouia Vs MO Constantine NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvYM98pZi9pvKxUSx/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-20/12 JS Bordj Menaiel Vs CA Batna NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvYM98pj2r32MBvBW/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-20/12 MC Magra Vs IB Khemis El Khechna NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvYM98pZdksBNJe9A/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-20/12 Negeri Sembilan Vs Kuala Lumpur City F.C. NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MuTN5vetoJa2mmKpQ/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-20/12 Rot-Weiss Essen Vs SSV Ulm 1846 NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MuTcUEB2U2oeq9b5v/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-20/12 Hansa Rostock Vs Saarbrucken NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MuTcUEB2KEtAuqvUL/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-20/12 SV Waldhof Mannheim Vs Ingolstadt NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MuTcUEB2PdqusVkn8/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-20/12 VfL Osnabruck Vs VfB Stuttgart II NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MuTcUEB1wG5U7akwN/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-20/12 Erzgebirge Aue Vs Schweinfurt 05 FC NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MuTcUEB2EqvRxC6AY/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-20/12 Hapoel Tel Aviv Vs Maccabi Bnei Raina NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuSrvpMEmzcXkKeMA/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-20/12 Habitpharm Javor Vs Vojvodina Novi Sad NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MuSsD7JHvs9rATfWU/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h15-20/12 Bahrain SC Vs Al-Shabbab NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvYbQk1jRd1aVdqj2/playlist.m3u8
@@ -300,9 +285,6 @@ https://auto.cdnvankhanh.com/live/sd-6MuPtT2p3aeVnEeNK6/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-20/12 Sassari Torres Vs Arezzo NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuPtT2pYeU4LDJGxk/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-20/12 Asteras Tripolis Vs Aris Thessaloniki NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MuTN61p8ZsMNa8eN8/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-20/12 ZNK Osijek Vs Slaven Belupo NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuSs9p6vqynxemF3A/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
@@ -321,50 +303,35 @@ https://auto.cdnvankhanh.com/live/sd-6MuPtjMGkVaB3ZrLtc/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-20/12 Padova Vs Sampdoria NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuPtjMGR8RdJQh3WU/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-20/12 Asteras Tripolis Vs Aris Thessaloniki NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MuTN61p8ZsMNa8eN8/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h15-20/12 Gulf United FC Vs Dubai United NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvY6XrG3zbSuDqDoi/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h30-20/12 Al-Adalh Vs Al-Wehda NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvXbwGDwY6TrVTXRn/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h30-20/12 Biesheim Vs Metz NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvYMRRndVEjew9DuE/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h30-20/12 St. Maur Lusi Vs Lille NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvYMRRnxjnqnepmpg/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h30-20/12 Paksi SE Honlapja Vs Nyiregyhaza NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MuT7bFzbY5v9fZmBr/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h30-20/12 Crvena Zvezda Vs Mladost Lucani NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuSsD7JJPEvHvNfME/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Francs Borains Vs Club Brugge Ⅱ NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MuTcJQEAunot2YUax/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h30-20/12 Al-Adalh Vs Al-Wehda NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MvXbwGDwY6TrVTXRn/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Rio Ave (W) Vs Valadares Gaia FC (W) NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvZ6QEBdxVcbN1cTe/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h30-20/12 St. Maur Lusi Vs Lille NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MvYMRRnxjnqnepmpg/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 SCU Torreense (W) Vs Vitoria SC (W) NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvZ6QEBdvJ8itBhJk/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h30-20/12 Biesheim Vs Metz NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MvYMRRndVEjew9DuE/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Rotherham United Vs Huddersfield Town NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MuT7sYyLaEeZJdwYx/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h30-20/12 Paksi SE Honlapja Vs Nyiregyhaza NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MuT7bFzbY5v9fZmBr/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Port Vale Vs Peterborough United NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MuT7sYyLVqgpLz7FA/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Charlton Athletic Vs Oxford United NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MuSs3J87DPZXfmZtx/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Mansfield Town Vs Stockport County NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MuT7sYyLRSj5PLGwN/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Bristol City Vs Middlesbrough NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MuSs3J878zbni7jbA/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Wycombe Wanderers Vs Bolton Wanderers NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MuT7sYyL1GSW7FCFW/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Doncaster Rovers Vs Plymouth Argyle NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MuT7sYyVhwTJvjoX2/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Exeter City Vs Barnsley NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MuT7sYyLM3mLRgSda/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Hull City Vs West Bromwich(WBA) NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MuSs3J87HnXGdRQCk/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Shrewsbury Town Vs Chesterfield NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuSsKfWFRKNmXygBe/playlist.m3u8
@@ -387,6 +354,30 @@ https://auto.cdnvankhanh.com/live/sd-6MuSsKfWFXupNyTReL/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 FCV Dender EH Vs Standard Liege NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuT7XyViRNHhg1uXz/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Derby County Vs Portsmouth NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MuSs3J87Kz197FKMe/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Ipswich Town Vs Sheffield Wednesday NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MuSs3J86oDGxPgVD6/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Sheffield United Vs Birmingham City NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MuSs3J7wUX4rNT3UY/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Watford Vs Stoke City NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MuSs3J7wYv2bL6snL/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Queens Park Rangers (QPR) Vs Leicester City NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MuSs3J7wQ877QoDAk/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Francs Borains Vs Club Brugge Ⅱ NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MuTcJQEAunot2YUax/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Rio Ave (W) Vs Valadares Gaia FC (W) NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MvZ6QEBdxVcbN1cTe/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 SCU Torreense (W) Vs Vitoria SC (W) NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MvZ6QEBdvJ8itBhJk/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Dundee United Vs Hibernian NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuSrvnsGLFTcro6qJ/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
@@ -399,33 +390,6 @@ https://auto.cdnvankhanh.com/live/sd-6MuSrvnsGZSLqjkbkg/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Kilmarnock Vs Falkirk NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuSrvnsGV3P6n6mSt/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Watford Vs Stoke City NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MuSs3J7wYv2bL6snL/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Queens Park Rangers (QPR) Vs Leicester City NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MuSs3J7wQ877QoDAk/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Charlton Athletic Vs Oxford United NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MuSs3J87DPZXfmZtx/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Bristol City Vs Middlesbrough NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MuSs3J878zbni7jbA/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Hull City Vs West Bromwich(WBA) NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MuSs3J87HnXGdRQCk/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Sheffield United Vs Birmingham City NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MuSs3J7wUX4rNT3UY/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Derby County Vs Portsmouth NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MuSs3J87Kz197FKMe/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Ipswich Town Vs Sheffield Wednesday NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MuSs3J86oDGxPgVD6/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Dunfermline Athletic Vs Ayr United NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MuSsGL75yMhEkE2rp/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Partick Thistle Vs Raith Rovers NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuSsGL6vaGXPmLkpU/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
@@ -434,6 +398,9 @@ https://auto.cdnvankhanh.com/live/sd-6MuSsGL6vefV8izb8G/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Saint Johnstone Vs Greenock Morton NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuSsGL6vcU1GFAfyN/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Dunfermline Athletic Vs Ayr United NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MuSsGL75yMhEkE2rp/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Airdrie United Vs Queen's Park NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuSsGL76W8RRTns1N/playlist.m3u8
@@ -446,6 +413,24 @@ https://auto.cdnvankhanh.com/live/sd-6MuPtZaG1NohJtf3Yx/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 FC Otelul Galati Vs Arges NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuSsKb71VqYJNRMgp/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Port Vale Vs Peterborough United NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MuT7sYyLVqgpLz7FA/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Mansfield Town Vs Stockport County NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MuT7sYyLRSj5PLGwN/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Rotherham United Vs Huddersfield Town NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MuT7sYyLaEeZJdwYx/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Wycombe Wanderers Vs Bolton Wanderers NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MuT7sYyL1GSW7FCFW/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Doncaster Rovers Vs Plymouth Argyle NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MuT7sYyVhwTJvjoX2/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Exeter City Vs Barnsley NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MuT7sYyLM3mLRgSda/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h15-20/12 SD Huesca Vs Racing Santander NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuTcBuhyfBrTdDUyi/playlist.m3u8
@@ -462,11 +447,11 @@ https://auto.cdnvankhanh.com/live/sd-6MuTcUEB2WEHXJyWEp/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h30-20/12 Al Ain Vs Ittihad Kalba NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvYMCNM12MWUV7132/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h30-20/12 Feirense Vs Pacos de Ferreira NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MuTcJRgohxNTtJEon/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h30-20/12 FC Oss Vs De Graafschap NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvY6kuiX3EhrizKKJ/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h30-20/12 Feirense Vs Pacos de Ferreira NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MuTcJRgohxNTtJEon/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",23h00-20/12 Al-Riffa Vs Al-Ahli(BHR) NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvYbQk1jK2Zy4A6GL/playlist.m3u8
@@ -485,30 +470,6 @@ https://auto.cdnvankhanh.com/live/sd-6MvXMSeWvUGWBKpNDa/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",03h00-22/12 Mount Pleasant FA Vs Spanish Town Police NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvXMSeWvS52JqzT4g/playlist.m3u8
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV  TYPN] Dewa United FC vs Persis Solo FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912009
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV VOI] Dewa United FC vs Persis Solo FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912114
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV LONG] Dewa United FC vs Persis Solo FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912050
-#EXTINF:-1 group-title="Socolive_2",15h30: [RED BULL] Dewa United FC vs Persis Solo FC
-http://sharing.gotdns.ch:8091/socolive.php?id=547345
-#EXTINF:-1 group-title="Socolive_2",15h30: [LÃO LÂM] Dewa United FC vs Persis Solo FC
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV TÁO] Dewa United FC vs Persis Solo FC
-http://sharing.gotdns.ch:8091/socolive.php?id=479849
-#EXTINF:-1 group-title="Socolive_2",15h35: [BLV TOMIA] Melbourne City vs Melbourne Victory
-http://sharing.gotdns.ch:8091/socolive.php?id=9912008
-#EXTINF:-1 group-title="Socolive_2",15h35: [BLV ENZO] Melbourne City vs Melbourne Victory
-http://sharing.gotdns.ch:8091/socolive.php?id=380460
-#EXTINF:-1 group-title="Socolive_2",15h35: [TAM MAO] Melbourne City vs Melbourne Victory
-http://sharing.gotdns.ch:8091/socolive.php?id=9912100
-#EXTINF:-1 group-title="Socolive_2",15h35: [BLV TAP] Melbourne City vs Melbourne Victory
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",15h35: [BLV MESSI] Melbourne City vs Melbourne Victory
-http://sharing.gotdns.ch:8091/socolive.php?id=494201
-#EXTINF:-1 group-title="Socolive_2",15h35: [BLV ĐỐM] Melbourne City vs Melbourne Victory
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
 #EXTINF:-1 group-title="Socolive_2",16h00: [HUNTER] South East Melbourne vs Brisbane Bullets
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
 #EXTINF:-1 group-title="Socolive_2",16h00: [BRIAN] South East Melbourne vs Brisbane Bullets
@@ -659,8 +620,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=511367
 http://sharing.gotdns.ch:8091/socolive.php?id=560224
 #EXTINF:-1 group-title="Socolive_2",21h30: [BLV ROBBEN] Hamburger SV vs Eintracht Frankfurt
 http://sharing.gotdns.ch:8091/socolive.php?id=527383
-#EXTINF:-1 group-title="Socolive_2",21h30: [BLV VODKA] VfB Stuttgart vs TSG Hoffenheim
-http://sharing.gotdns.ch:8091/socolive.php?id=500605
 #EXTINF:-1 group-title="Socolive_2",21h30: [BLV VOI] VfB Stuttgart vs TSG Hoffenheim
 http://sharing.gotdns.ch:8091/socolive.php?id=9912114
 #EXTINF:-1 group-title="Socolive_2",21h30: [VƯƠNG ANH] VfB Stuttgart vs TSG Hoffenheim
@@ -671,6 +630,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=547345
 http://sharing.gotdns.ch:8091/socolive.php?id=561379
 #EXTINF:-1 group-title="Socolive_2",21h30: [BLV ANH TÀI] VfB Stuttgart vs TSG Hoffenheim
 http://sharing.gotdns.ch:8091/socolive.php?id=406865
+#EXTINF:-1 group-title="Socolive_2",21h30: [BLV A TÚ] VfB Stuttgart vs TSG Hoffenheim
+http://sharing.gotdns.ch:8091/socolive.php?id=557845
 #EXTINF:-1 group-title="Socolive_2",21h30: [BLV SHIN] VfL Wolfsburg vs SC Freiburg
 http://sharing.gotdns.ch:8091/socolive.php?id=522086
 #EXTINF:-1 group-title="Socolive_2",21h30: [BLV BÉO] VfL Wolfsburg vs SC Freiburg
@@ -703,6 +664,28 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912009
 http://sharing.gotdns.ch:8091/socolive.php?id=9912050
 #EXTINF:-1 group-title="Socolive_2",22h00: [BLV TAP] Manchester City vs West Ham United
 http://sharing.gotdns.ch:8091/socolive.php?id=9912041
+#EXTINF:-1 group-title="Socolive_2",22h00: [BLV DECO] Manchester City vs West Ham United
+http://sharing.gotdns.ch:8091/socolive.php?id=9912060
+#EXTINF:-1 group-title="Socolive_2",22h00: [BLV ĐỐM] Manchester City vs West Ham United
+http://sharing.gotdns.ch:8091/socolive.php?id=9912110
+#EXTINF:-1 group-title="Socolive_2",22h00: [BLV Củ Cải] Manchester City vs West Ham United
+http://sharing.gotdns.ch:8091/socolive.php?id=9912091
+#EXTINF:-1 group-title="Socolive_2",22h00: [TẠ BIÊN GIỚI] Manchester City vs West Ham United
+http://sharing.gotdns.ch:8091/socolive.php?id=9912108
+#EXTINF:-1 group-title="Socolive_2",22h00: [BLV TOMMY] Manchester City vs West Ham United
+http://sharing.gotdns.ch:8091/socolive.php?id=414317
+#EXTINF:-1 group-title="Socolive_2",22h00: [SAO LA] Manchester City vs West Ham United
+http://sharing.gotdns.ch:8091/socolive.php?id=462413
+#EXTINF:-1 group-title="Socolive_2",22h00: [BLV PIRLO] Manchester City vs West Ham United
+http://sharing.gotdns.ch:8091/socolive.php?id=351530
+#EXTINF:-1 group-title="Socolive_2",22h00: [BLV VODKA] Manchester City vs West Ham United
+http://sharing.gotdns.ch:8091/socolive.php?id=500605
+#EXTINF:-1 group-title="Socolive_2",22h00: [BLV COCA] Manchester City vs West Ham United
+http://sharing.gotdns.ch:8091/socolive.php?id=327159
+#EXTINF:-1 group-title="Socolive_2",22h00: [BLV KINH TẾ] Manchester City vs West Ham United
+http://sharing.gotdns.ch:8091/socolive.php?id=532999
+#EXTINF:-1 group-title="Socolive_2",22h00: [THẠCH TÚ] Manchester City vs West Ham United
+http://sharing.gotdns.ch:8091/socolive.php?id=344370
 #EXTINF:-1 group-title="Socolive_2",22h00: [BLV VITAMIN] Wolverhampton Wanderers vs Brentford
 http://sharing.gotdns.ch:8091/socolive.php?id=400722
 #EXTINF:-1 group-title="Socolive_2",22h00: [BLV FIREMAN] Wolverhampton Wanderers vs Brentford
