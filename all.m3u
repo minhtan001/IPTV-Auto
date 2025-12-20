@@ -99,6 +99,9 @@ http://iptv.nhadai.org/stream/ben-tre
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h00-20/12 Newcastle Jets Vs Sydney FC BLV PEP
 https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h00-20/12 Canberra United (W) Vs Central Coast Mariners (W) BLV CHU ĐỒNG
+https://hls.cdnok9.com/live/CHUDONG/index.m3u8?expire=1788427256&sign=b7df620ef99aaa1798bda4e698168a46
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h00-19/12 THÁI LAN Vs VIỆT NAM BLV VƯƠNG LUÂN REPLAY
 https://hls.cdnok9.com/live/TO5A/index.m3u8?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036
 #EXTVLCOPT:http-referrer=https://ls40.live/
@@ -174,6 +177,9 @@ https://auto.cdnvankhanh.com/live/sd-6MuSrvnsGV3P6n6mSt/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Motherwell Vs Dundee NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuSrvnsGZSLqjkbkg/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Francs Borains Vs Club Brugge Ⅱ NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MuTcJQEAunot2YUax/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Wycombe Wanderers Vs Bolton Wanderers NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuT7sYyL1GSW7FCFW/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
@@ -221,9 +227,6 @@ https://auto.cdnvankhanh.com/live/sd-6MuSs3J7wYv2bL6snL/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Queens Park Rangers (QPR) Vs Leicester City NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuSs3J7wQ877QoDAk/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Francs Borains Vs Club Brugge Ⅱ NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MuTcJQEAunot2YUax/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Oldham Athletic Vs Tranmere Rovers NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuSsKfWFTWre1obLY/playlist.m3u8
@@ -320,18 +323,18 @@ http://sharing.gotdns.ch:8091/socolive.php?id=532999
 http://sharing.gotdns.ch:8091/socolive.php?id=9912100
 #EXTINF:-1 group-title="Socolive_2",13h00: [CR Bưởi] Newcastle Jets vs Sydney FC
 http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",13h00: [BLV ALEX] Canberra United Women vs Central Coast Mariners women
-http://sharing.gotdns.ch:8091/socolive.php?id=532081
-#EXTINF:-1 group-title="Socolive_2",13h00: [BLV SINGER] Canberra United Women vs Central Coast Mariners women
-http://sharing.gotdns.ch:8091/socolive.php?id=9912102
-#EXTINF:-1 group-title="Socolive_2",13h00: [BLV KAN] Canberra United Women vs Central Coast Mariners women
-http://sharing.gotdns.ch:8091/socolive.php?id=283501
-#EXTINF:-1 group-title="Socolive_2",13h00: [BLV A WIN] Canberra United Women vs Central Coast Mariners women
-http://sharing.gotdns.ch:8091/socolive.php?id=536185
 #EXTINF:-1 group-title="Socolive_2",13h30: [HUNTER] Illawarra Hawks vs Adelaide
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
 #EXTINF:-1 group-title="Socolive_2",13h30: [BRIAN] Illawarra Hawks vs Adelaide
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
+#EXTINF:-1 group-title="Socolive_2",13h40: [BLV ALEX] Canberra United Women vs Central Coast Mariners women
+http://sharing.gotdns.ch:8091/socolive.php?id=532081
+#EXTINF:-1 group-title="Socolive_2",13h40: [BLV SINGER] Canberra United Women vs Central Coast Mariners women
+http://sharing.gotdns.ch:8091/socolive.php?id=9912102
+#EXTINF:-1 group-title="Socolive_2",13h40: [BLV KAN] Canberra United Women vs Central Coast Mariners women
+http://sharing.gotdns.ch:8091/socolive.php?id=283501
+#EXTINF:-1 group-title="Socolive_2",13h40: [BLV A WIN] Canberra United Women vs Central Coast Mariners women
+http://sharing.gotdns.ch:8091/socolive.php?id=536185
 #EXTINF:-1 group-title="Socolive_2",14h00: [CHAN SENA] Samsung Blue Minx W vs S-Birds W
 http://sharing.gotdns.ch:8091/socolive.php?id=515530
 #EXTINF:-1 group-title="Socolive_2",14h30: [A CHÈ] KCC Egis vs Goyang Sono
