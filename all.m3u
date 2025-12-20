@@ -99,12 +99,6 @@ http://iptv.nhadai.org/stream/ben-tre
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-20/12 Newcastle United Vs Chelsea BLV KEVILL
 https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h30-20/12 Sabah Vs DPMM FC BLV LÝ ỨNG
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-20/12 Persebaya Surabaya Vs Borneo FC BLV KENCHU
-https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-20/12 VfL Bochum Vs Karlsruher SC BLV QUAN VŨ
 https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 #EXTVLCOPT:http-referrer=https://ls40.live/
@@ -113,6 +107,9 @@ https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd81
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-20/12 Kaiserslautern Vs Magdeburg BLV CHU ĐỒNG
 https://hls.cdnok9.com/live/CHUDONG/index.m3u8?expire=1788427256&sign=b7df620ef99aaa1798bda4e698168a46
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-20/12 Persebaya Surabaya Vs Borneo FC BLV KENCHU
+https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-20/12 Preston North End Vs Norwich City BLV TỐNG GIANG
 https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
@@ -123,9 +120,6 @@ https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-20/12 Southampton Vs Coventry City BLV TÔN LẬP
 https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-20/12 Negeri Sembilan Vs Kuala Lumpur City F.C. BLV KHỔNG MINH
-https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-20/12 Habitpharm Javor Vs Vojvodina Novi Sad BLV VÕ TÒNG
 https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTVLCOPT:http-referrer=https://ls40.live/
@@ -135,20 +129,14 @@ https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-20/12 Andorra FC Vs Deportivo La Coruna BLV MÃ SIÊU
 https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-20/12 Negeri Sembilan Vs Kuala Lumpur City F.C. BLV KHỔNG MINH
+https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-20/12 Eyupspor Vs Fenerbahce BLV KENCHU
+https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-20/12 Brighton Hove Albion Vs Sunderland A.F.C BLV YẾN THANH
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV BÉO] Konyaspor vs Kayserispor
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV LONG] Konyaspor vs Kayserispor
-http://sharing.gotdns.ch:8091/socolive.php?id=9912050
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV MESSI] Konyaspor vs Kayserispor
-http://sharing.gotdns.ch:8091/socolive.php?id=494201
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV A TÚ] Konyaspor vs Kayserispor
-http://sharing.gotdns.ch:8091/socolive.php?id=557845
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV ADAM] Sabah FC vs DPMM FC
-http://sharing.gotdns.ch:8091/socolive.php?id=336303
-#EXTINF:-1 group-title="Socolive_2",18h30: [MR BÍCH] Sabah FC vs DPMM FC
-http://sharing.gotdns.ch:8091/socolive.php?id=285067
 #EXTINF:-1 group-title="Socolive_2",19h00: [BLV RAMBO] VfL Bochum 1848 vs Karlsruher SC
 http://sharing.gotdns.ch:8091/socolive.php?id=534055
 #EXTINF:-1 group-title="Socolive_2",19h00: [BLV KAN] VfL Bochum 1848 vs Karlsruher SC
