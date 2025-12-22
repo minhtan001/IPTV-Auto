@@ -96,11 +96,11 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h30-22/12 Brisbane Bullets Vs  New Zealand Breakers BLV VÕ TÒNG
-https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h30-22/12 PSBS Biak Vs Bali United BLV KEVILL
 https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h30-22/12 Brisbane Bullets Vs  New Zealand Breakers BLV VÕ TÒNG
+https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h00-22/12 crystal palace Vs Kups BLV DƯƠNG QUÁ REPLAY
 https://hls.cdnok9.com/live/TO5A/index.m3u8?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036
@@ -120,20 +120,11 @@ https://hls.cdnok9.com/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h00-22/12 NEWCASLTE UNITED Vs CHELSEA BLV LƯU BỊ REPLAY
 https://hls.cdnok9.com/live/TO2A/index.m3u8?expire=1891408380&sign=b4fcc4558b2967d54c04070f325ecb14
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",14h00-22/12 China U15 Vs Hong Kong U15 NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvYMRR49HzEszCwe4/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",14h10-22/12 Guam U15 Vs Northern Mariana lslands U15 NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvYMRR49Fnm1WP2VA/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",14h30-22/12 PVF-CAND U19 Vs Luxury Ha Long U19 NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvZ6EQznHY3Zg3RAU/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",14h50-22/12 Phuoc Binh Dong Nai U19 Vs Cong an TP HCM U19 NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvZ6EQywUb8Zjy3bi/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h00-22/12 Huda Hue U19 Vs Hoang Anh Gia Lai U19 NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvZ6dHeGUd18ohpKN/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-22/12 Al Karkh Vs Al Gharraf NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvZ6HiwyZ2pPUt9a4/playlist.m3u8
@@ -168,8 +159,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=532999
 http://sharing.gotdns.ch:8091/socolive.php?id=344370
 #EXTINF:-1 group-title="Socolive_2",17h00: [SAO LA] Torino U20 vs Lecce U20
 http://sharing.gotdns.ch:8091/socolive.php?id=462413
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV PIRLO] Torino U20 vs Lecce U20
-http://sharing.gotdns.ch:8091/socolive.php?id=351530
+#EXTINF:-1 group-title="Socolive_2",17h00: [SÙNG A MÚP] Torino U20 vs Lecce U20
+http://sharing.gotdns.ch:8091/socolive.php?id=9912097
 #EXTINF:-1 group-title="Socolive_2",17h00: [BRIAN] Anyang JungKwanJang vs Seoul Thunders
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTINF:-1 group-title="Socolive_2",17h00: [A CHÈ] Anyang JungKwanJang vs Seoul Thunders
