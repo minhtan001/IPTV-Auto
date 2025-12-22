@@ -95,6 +95,15 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",10h00-22/12   Sacramento Kings Vs  Houston Rockets  BLV SHIN
+https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-22/12 Al Karkh Vs Al Gharraf NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MvZ6HiwyZ2pPUt9a4/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-22/12 Mosul FC Vs Naft Misan NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MvZ6HiwyWqLX14ERA/playlist.m3u8
 #EXTINF:-1 group-title="Socolive_2",10h35: [BRIAN] Sacramento Kings vs Houston Rockets
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTINF:-1 group-title="Socolive_2",10h35: [KING] Sacramento Kings vs Houston Rockets
