@@ -1,22 +1,22 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",22h30-22/12 Standard Sumgayit Vs Sabah FK Baku BLV CHU ĐỒNG
-https://hls.cdnok9.com/live/CHUDONG/index.m3u8?expire=1788427256&sign=b7df620ef99aaa1798bda4e698168a46
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",22h00-22/12 Pyramids FC Vs FC Masar BLV TRIỆU TỬ LONG
 https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",22h30-22/12 Al Faisaly Amman Vs Shabab Al Ordon BLV QUAN VŨ
-https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:-1 group-title="LuongSon_2",23h00-22/12 Panserraikos Vs Levadiakos BLV KHỔNG MINH
+https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",22h30-22/12 Standard Sumgayit Vs Sabah FK Baku BLV CHU ĐỒNG
+https://hls.cdnok9.com/live/CHUDONG/index.m3u8?expire=1788427256&sign=b7df620ef99aaa1798bda4e698168a46
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",23h00-22/12 Al-Sharjah Vs Al Hilal BLV KEVILL
 https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",22h30-22/12 Al Faisaly Amman Vs Shabab Al Ordon BLV QUAN VŨ
+https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",23h00-22/12 Tractor S.C. Vs Al Duhail BLV LÝ ỨNG
 https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",23h00-22/12 Panserraikos Vs Levadiakos BLV KHỔNG MINH
-https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",12h15-22/12 NEWCASTLE Vs CHELSEA BLV URA REPLAY
 https://hls.cdnok9.com/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
@@ -39,11 +39,14 @@ https://auto.cdnvankhanh.com/live/sd-6MvZ6HiwydRn8SXysr/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon_2",22h30-22/12 Newroz SC(IRQ) Vs Baghdad NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvZ6HiwybEJFxi4ix/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",23h00-22/12 Gambia Ports Authority Vs Samger FC NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvZ6dHeGfcQVCqQ5r/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",23h00-22/12 Fortune FC Vs Greater Tomorrow FC NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvZ6dHeGdQvcj1Uvx/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",23h00-22/12 F.C. Nouadhibou Vs AS Douanes Nouakchott NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MvZ6dGB8cdszyJ9St/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",23h00-22/12 Gambia Ports Authority Vs Samger FC NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MvZ6dHeGfcQVCqQ5r/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",23h00-22/12 Team Rhino FC Vs Steve Biko NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvZ6dHeGWpV1HXjUG/playlist.m3u8
@@ -57,9 +60,6 @@ https://auto.cdnvankhanh.com/live/sd-6MvZ6dHe6rLx4ws3Me/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon_2",23h00-22/12 Etehad Alreef Vs Al-Tadhmon NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvZ6Zvjy8aqV9tNSp/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",23h00-22/12 F.C. Nouadhibou Vs AS Douanes Nouakchott NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvZ6dGB8cdszyJ9St/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",23h15-22/12 Freetonians SLIFA Vs Diamond Stars NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvZ61P1oNmzNgHHb2/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
@@ -71,6 +71,18 @@ https://auto.cdnvankhanh.com/live/sd-6MvXMSXtNzFfQxF6vG/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",00h00-23/12 Hapoel Hadera Vs Kafr Qasim NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvXMSXtNx4BYURBmN/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",00h00-23/12 Bayer Leverkusen (W) Vs Bayern Munchen (W) BLV A TỦA
+https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",00h00-23/12 Bodrumspor Vs Amedspor BLV TẦN CA
+https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",00h00-23/12 Genclerbirligi Vs Trabzonspor BLV TRƯƠNG THANH
+https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",00h00-23/12 South Africa Vs Angola BLV PEP
+https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",01h30-23/12 Maccabi Haifa Vs Beitar Jerusalem NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuSrvpMErPaGhyUex/playlist.m3u8
