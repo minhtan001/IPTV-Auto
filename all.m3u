@@ -96,8 +96,11 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",06h00-23/12 Bolivar Vs Nacional Potosi BLV NHỊ KA
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",08h00-23/12 New Orleans Pelicans Vs Dallas Mavericks BLV NHỊ KA
 https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",07h00-23/12 Cleveland Cavaliers Vs Charlotte Hornets BLV LÝ QUỲ
+https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h20-22/12 Aston Villa  Vs Manchester United BLV LỮ BỐ REPLAY
 https://hls.cdnok9.com/live/TO4A/index.m3u8?expire=1891408380&sign=5274350aaa915df457fdffd606d49f30
@@ -110,32 +113,17 @@ https://hls.cdnok9.com/live/TO2A/index.m3u8?expire=1891408380&sign=b4fcc4558b296
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",04h30-23/12 valencia Vs barcelona BLV URA REPLAY
 https://hls.cdnok9.com/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",07h00-23/12 Cleveland Cavaliers Vs Charlotte Hornets BLV LÝ QUỲ
-https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:-1 group-title="Socolive_2",06h00: [BLV VOI] Bolivar vs Nacional Potosi
-http://sharing.gotdns.ch:8091/socolive.php?id=9912114
-#EXTINF:-1 group-title="Socolive_2",06h00: [BLV KAI] Bolivar vs Nacional Potosi
-http://sharing.gotdns.ch:8091/socolive.php?id=313971
-#EXTINF:-1 group-title="Socolive_2",06h00: [BLV TOMMY] Bolivar vs Nacional Potosi
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
-#EXTINF:-1 group-title="Socolive_2",06h00: [BLV TÔM] Bolivar vs Nacional Potosi
-http://sharing.gotdns.ch:8091/socolive.php?id=561379
-#EXTINF:-1 group-title="Socolive_2",06h00: [LÃO LÂM] Bolivar vs Nacional Potosi
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTINF:-1 group-title="Socolive_2",06h00: [BLV LUCAS] Bolivar vs Nacional Potosi
-http://sharing.gotdns.ch:8091/socolive.php?id=304148
-#EXTINF:-1 group-title="Socolive_2",07h00: [CHAN SENA] Cleveland Cavaliers vs Charlotte Hornets
+#EXTINF:-1 group-title="Socolive_2",07h35: [CHAN SENA] Cleveland Cavaliers vs Charlotte Hornets
 http://sharing.gotdns.ch:8091/socolive.php?id=515530
-#EXTINF:-1 group-title="Socolive_2",07h00: [A CHÈ] Cleveland Cavaliers vs Charlotte Hornets
+#EXTINF:-1 group-title="Socolive_2",07h35: [A CHÈ] Cleveland Cavaliers vs Charlotte Hornets
 http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",07h00: [BLV HENRY] Cleveland Cavaliers vs Charlotte Hornets
+#EXTINF:-1 group-title="Socolive_2",07h35: [BLV HENRY] Cleveland Cavaliers vs Charlotte Hornets
 http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",07h30: [BRIAN] Boston Celtics vs Indiana Pacers
+#EXTINF:-1 group-title="Socolive_2",08h05: [BRIAN] Boston Celtics vs Indiana Pacers
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",07h30: [KING] Boston Celtics vs Indiana Pacers
+#EXTINF:-1 group-title="Socolive_2",08h05: [KING] Boston Celtics vs Indiana Pacers
 http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",07h30: [HUNTER] Boston Celtics vs Indiana Pacers
+#EXTINF:-1 group-title="Socolive_2",08h05: [HUNTER] Boston Celtics vs Indiana Pacers
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
 #EXTINF:-1 group-title="Socolive_2",09h30: [BLV HENRY] Oklahoma City Thunder vs Memphis Grizzlies
 http://sharing.gotdns.ch:8091/socolive.php?id=9912112
@@ -905,10 +893,6 @@ https://vip.opstream90.com/20251118/17952_7bf57028/3000k/hls/mixed.m3u8
 https://dl.dropboxusercontent.com/scl/fi/gcb7dkwb23p8in0m6393d/Detective-Conan-The-Movie-D-nh-c-a-c-Nh-n.mp4?rlkey=bc4oojtcc3c4wgpuzrws1a6iv&st=l89l6nl2&dl=0
 #EXTINF:-1 group-title="TruyenHinh_2",Mang Mẹ Đi Bỏ
 https://vip.opstream90.com/20251129/18758_e33bdf72/3000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 1
-https://live.fptplay53.net/epzch1/thethao01_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 2
-https://live.fptplay53.net/epzch1/thethao02_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
@@ -1249,6 +1233,8 @@ http://akasajir.myftp.org:8080/cartoon/index.m3u8
 https://ace.hoiquan.click/module/IPTV/?id=discoveryasia&accKenh=vuminhthanh1
 #EXTINF:-1 group-title="TruyenHinh_2",AXN HD
 https://ace.hoiquan.click/module/IPTV/?id=axn&accKenh=vuminhthanh1
+#EXTINF:-1 group-title="TruyenHinh_2",AXN HD (dự phòng)
+http://akasajir.myftp.org:8080/axn/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Rock Entertainment
 http://ch-4k-top.org/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776182&extension=ts&play_token=K4JiFEWv19
 #EXTINF:-1 group-title="TruyenHinh_2",Rock Action
