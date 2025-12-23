@@ -96,8 +96,8 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-23/12 Laconi Lian Vs Yarmanya United FC BLV A TỦA
-https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-23/12 Songkhla FC Vs Phrae United FC BLV QUAN VŨ
+https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h30-23/12 Yadanabon FC Vs Ispe FC BLV MÃ SIÊU
 https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
@@ -120,23 +120,8 @@ https://hls.cdnok9.com/live/TO6A/index.m3u8?expire=1891408380&sign=df6b95775ca8c
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h35-23/12 ASTON VILLA Vs MANCHESTER UNITED BLV LƯU BỊ REPLAY
 https://hls.cdnok9.com/live/TO2A/index.m3u8?expire=1891408380&sign=b4fcc4558b2967d54c04070f325ecb14
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-23/12 Jharkhand FA Vs Railways FC NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvZ6ZvjyFBH6bN7uW/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-23/12 Gresik United Vs Waanal Brothers NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvZ6ZwVTRGyVaJYrQ/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h10-23/12 Perseden Denpasar Vs Persekabpas Pasuruan NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvZ6ZvkoBa95VSQwe/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-23/12 Burayu FC Vs Batu Ketema NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvZ6ZwVd3Z2ZS9Kp8/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-23/12 Songkhla FC Vs Phrae United FC BLV QUAN VŨ
-https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-23/12 KS Korabi Peshkopi Vs Burreli NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvXcL5wp3wcydkgqr/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-23/12 Persijap Jepara Vs PSIM Yogyakarta BLV YẾN THANH
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
@@ -152,20 +137,6 @@ https://auto.cdnvankhanh.com/live/sd-6MuTMh9AJySNBoV2gC/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-24/12 Ratchaburi FC Vs Chiangrai United NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvXML46qpZcviUacC/playlist.m3u8
-#EXTINF:-1 group-title="Socolive_2",16h00: [CÔNG LÝ] Rakhine United FC vs Yarmanya United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912035
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV SATIVA] Rakhine United FC vs Yarmanya United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=321443
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV QUAN VŨ] Rakhine United FC vs Yarmanya United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=239275
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV FAKER] Rakhine United FC vs Yarmanya United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=564597
-#EXTINF:-1 group-title="Socolive_2",16h00: [BRIAN] Melbourne United vs Tasmania JackJumpers
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",16h00: [CHAN SENA] Melbourne United vs Tasmania JackJumpers
-http://sharing.gotdns.ch:8091/socolive.php?id=515530
-#EXTINF:-1 group-title="Socolive_2",16h00: [A CHÈ] Melbourne United vs Tasmania JackJumpers
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
 #EXTINF:-1 group-title="Socolive_2",16h30: [BLV SHIN] Yadanarbon FC vs ISPE FC
 http://sharing.gotdns.ch:8091/socolive.php?id=522086
 #EXTINF:-1 group-title="Socolive_2",16h30: [VỊT BẠC] Yadanarbon FC vs ISPE FC
