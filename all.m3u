@@ -96,9 +96,6 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",08h00-23/12 New Orleans Pelicans Vs Dallas Mavericks BLV NHỊ KA
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",10h00-23/12 Golden State Warriors Vs Orlando Magic BLV YẾN THANH
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTVLCOPT:http-referrer=https://ls40.live/
@@ -116,15 +113,15 @@ https://hls.cdnok9.com/live/TO2A/index.m3u8?expire=1891408380&sign=b4fcc4558b296
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",04h30-23/12 valencia Vs barcelona BLV URA REPLAY
 https://hls.cdnok9.com/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
-#EXTINF:-1 group-title="Socolive_2",09h30: [BLV HENRY] Oklahoma City Thunder vs Memphis Grizzlies
+#EXTINF:-1 group-title="Socolive_2",10h05: [BLV HENRY] Oklahoma City Thunder vs Memphis Grizzlies
 http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",10h00: [BRIAN] Golden State Warriors vs Orlando Magic
+#EXTINF:-1 group-title="Socolive_2",10h35: [BRIAN] Golden State Warriors vs Orlando Magic
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",10h00: [HUNTER] Golden State Warriors vs Orlando Magic
+#EXTINF:-1 group-title="Socolive_2",10h35: [HUNTER] Golden State Warriors vs Orlando Magic
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",10h00: [KING] Portland Trail Blazers vs Detroit Pistons
+#EXTINF:-1 group-title="Socolive_2",10h35: [KING] Portland Trail Blazers vs Detroit Pistons
 http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",10h00: [CHAN SENA] Portland Trail Blazers vs Detroit Pistons
+#EXTINF:-1 group-title="Socolive_2",10h35: [CHAN SENA] Portland Trail Blazers vs Detroit Pistons
 http://sharing.gotdns.ch:8091/socolive.php?id=515530
 #EXTINF:-1 group-title="Socolive_2",12h30: [BLV KINH TẾ] Melbourne City Women vs Melbourne Victory Women
 http://sharing.gotdns.ch:8091/socolive.php?id=532999
@@ -884,6 +881,8 @@ https://vip.opstream90.com/20251118/17952_7bf57028/3000k/hls/mixed.m3u8
 https://dl.dropboxusercontent.com/scl/fi/gcb7dkwb23p8in0m6393d/Detective-Conan-The-Movie-D-nh-c-a-c-Nh-n.mp4?rlkey=bc4oojtcc3c4wgpuzrws1a6iv&st=l89l6nl2&dl=0
 #EXTINF:-1 group-title="TruyenHinh_2",Mang Mẹ Đi Bỏ
 https://vip.opstream90.com/20251129/18758_e33bdf72/3000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 16
+https://live.fptplay53.net/fnxch1/thethao16_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
