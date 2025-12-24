@@ -95,8 +95,6 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTINF:-1 group-title="Socolive_2",10h30: [BLV HENRY] Los Angeles Clippers vs Houston Rockets
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
 #EXTINF:-1 group-title="Socolive_2",13h30: [CHAN SENA] Adelaide vs Cairns Taipans
 http://sharing.gotdns.ch:8091/socolive.php?id=515530
 #EXTINF:-1 group-title="Socolive_2",13h30: [BRIAN] Adelaide vs Cairns Taipans
@@ -401,9 +399,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=372746
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-25/12: [BLV COZY] Cote d'Ivoire vs Mozambique
 http://sharing.gotdns.ch:8091/socolive.php?id=531989
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-25/12: [BLV TOMIA] Cote d'Ivoire vs Mozambique
-http://sharing.gotdns.ch:8091/socolive.php?id=9912008
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-25/12: [QUANG VINH] Cote d'Ivoire vs Mozambique
 http://sharing.gotdns.ch:8091/socolive.php?id=9912109
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -412,6 +407,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=414317
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-25/12: [LOGAN] Cote d'Ivoire vs Mozambique
 http://sharing.gotdns.ch:8091/socolive.php?id=552832
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-25/12: [BLV COCA] Cote d'Ivoire vs Mozambique
+http://sharing.gotdns.ch:8091/socolive.php?id=327159
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",01h00-25/12: [VỊT BẠC] El Mokawloon El Arab vs Tala'ea El Gaish
 http://sharing.gotdns.ch:8091/socolive.php?id=474421
@@ -590,14 +588,14 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912097
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h50-25/12: [BLV ĐỐM] Al Fayha vs Al Hazem
 http://sharing.gotdns.ch:8091/socolive.php?id=9912110
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h50-25/12: [BLV COCA] Al Fayha vs Al Hazem
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h50-25/12: [BLV LONG] Al Fayha vs Al Hazem
 http://sharing.gotdns.ch:8091/socolive.php?id=9912050
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h50-25/12: [TAM MAO] Al Fayha vs Al Hazem
 http://sharing.gotdns.ch:8091/socolive.php?id=9912100
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h50-25/12: [BLV TOMIA] Al Fayha vs Al Hazem
+http://sharing.gotdns.ch:8091/socolive.php?id=9912008
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-25/12: [BLV ALEX] El Gounah vs Bank El Ahly
 http://sharing.gotdns.ch:8091/socolive.php?id=532081
@@ -748,8 +746,8 @@ https://vip.opstream90.com/20251118/17952_7bf57028/3000k/hls/mixed.m3u8
 https://dl.dropboxusercontent.com/scl/fi/gcb7dkwb23p8in0m6393d/Detective-Conan-The-Movie-D-nh-c-a-c-Nh-n.mp4?rlkey=bc4oojtcc3c4wgpuzrws1a6iv&st=l89l6nl2&dl=0
 #EXTINF:-1 group-title="TruyenHinh_2",Mang Mẹ Đi Bỏ
 https://vip.opstream90.com/20251129/18758_e33bdf72/3000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 16
-https://live.fptplay53.net/fnxch1/thethao16_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 15
+https://live.fptplay53.net/fnxch1/thethao15_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
