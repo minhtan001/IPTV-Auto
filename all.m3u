@@ -95,6 +95,51 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h30-24/12 Lakshadweep Vs Services BLV TỐNG GIANG
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h00-23/12 Tottenham Hotspur Vs Liverpool BLV VƯƠNG LUÂN REPLAY
+https://hls.cdnok9.com/live/TO5A/index.m3u8?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h00-23/12 VILLARREAL Vs BARCELONA BLV URA REPLAY
+https://hls.cdnok9.com/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h10-23/12 Real Madrid Vs Manchester City BLV TÔN LẬP REPLAY
+https://hls.cdnok9.com/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h20-23/12 Aston Villa  Vs Manchester United BLV LỮ BỐ REPLAY
+https://hls.cdnok9.com/live/TO4A/index.m3u8?expire=1891408380&sign=5274350aaa915df457fdffd606d49f30
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h30-23/12 Wolves Vs Brentford BLV TRIỆU TỬ LONG REPLAY
+https://hls.cdnok9.com/live/TO6A/index.m3u8?expire=1891408380&sign=df6b95775ca8cf6b58a17d54271d96e3
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",23h59-23/12 ASTON VILLA Vs MANCHESTER UNITED BLV LƯU BỊ REPLAY
+https://hls.cdnok9.com/live/TO2A/index.m3u8?expire=1891408380&sign=b4fcc4558b2967d54c04070f325ecb14
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h00-24/12 Nippon Sport Science University Vs Tsukuba University NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MvZ6ZyhuuUhhVTi1r/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h00-24/12 Hachinohe Gakuin University (W) Vs Shizuoka Sangyo University (W) NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MvZ6Zyhv259JvwTUY/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h00-24/12 Fukuoka University (W) Vs Otemon Gakuin University (W) NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MvZ6Zyhv8favNRCwE/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",14h00-24/12 Jiangsu Wuxi (W) Vs Shanghai RCB (W) NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MvZ6dGBJPhrYkSb2C/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-24/12 76 Igdir Belediye spor Vs Aliaga FUTBOL AS BLV YẾN THANH
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-24/12 Yeni Malatyaspor Vs Menemen Belediye Spor NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MuTMh9AJySNBoV2gC/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-24/12 Ratchaburi FC Vs Chiangrai United NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MvXML46qpZcviUacC/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h30-24/12 Tdamn Hadramawt Vs Al-Nahda Muscat NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MvXrNmnsSRmryd59e/playlist.m3u8
 #EXTINF:-1 group-title="Socolive_2",13h30: [CHAN SENA] Adelaide vs Cairns Taipans
 http://sharing.gotdns.ch:8091/socolive.php?id=515530
 #EXTINF:-1 group-title="Socolive_2",13h30: [BRIAN] Adelaide vs Cairns Taipans
