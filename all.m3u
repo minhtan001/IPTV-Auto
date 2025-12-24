@@ -95,13 +95,13 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTINF:-1 group-title="Socolive_2",07h30: [CHAN SENA] Atlanta Hawks vs Chicago Bulls
+#EXTINF:-1 group-title="Socolive_2",07h55: [CHAN SENA] Atlanta Hawks vs Chicago Bulls
 http://sharing.gotdns.ch:8091/socolive.php?id=515530
-#EXTINF:-1 group-title="Socolive_2",07h30: [KING] Atlanta Hawks vs Chicago Bulls
+#EXTINF:-1 group-title="Socolive_2",07h55: [KING] Atlanta Hawks vs Chicago Bulls
 http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",07h30: [HUNTER] Cleveland Cavaliers vs New Orleans Pelicans
+#EXTINF:-1 group-title="Socolive_2",07h55: [HUNTER] Cleveland Cavaliers vs New Orleans Pelicans
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",07h30: [BRIAN] Indiana Pacers vs Milwaukee Bucks
+#EXTINF:-1 group-title="Socolive_2",07h55: [BRIAN] Indiana Pacers vs Milwaukee Bucks
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTINF:-1 group-title="Socolive_2",08h00: [BLV QUAN VŨ] Real Espana vs CD Motagua
 http://sharing.gotdns.ch:8091/socolive.php?id=239275
@@ -115,7 +115,7 @@ http://sharing.gotdns.ch:8091/socolive.php?id=304148
 http://sharing.gotdns.ch:8091/socolive.php?id=9912114
 #EXTINF:-1 group-title="Socolive_2",08h00: [BLV ENZO] Real Espana vs CD Motagua
 http://sharing.gotdns.ch:8091/socolive.php?id=380460
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV HENRY] Minnesota Timberwolves vs New York Knicks
+#EXTINF:-1 group-title="Socolive_2",08h25: [BLV HENRY] Minnesota Timberwolves vs New York Knicks
 http://sharing.gotdns.ch:8091/socolive.php?id=9912112
 #EXTINF:-1 group-title="Socolive_2",09h00: [A CHÈ] Phoenix Suns vs Los Angeles Lakers
 http://sharing.gotdns.ch:8091/socolive.php?id=356042
@@ -837,7 +837,7 @@ https://ace.hoiquan.click/module/IPTV/?id=KKIDS&accKenh=vuminhthanh1
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV1 HD
 https://liveh12.seenow.vn/hls/SCTV1/03.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV1 HD (dự phòng)
-http://akasajir.myftp.org:8080/sctv1/index.m3u8
+http://akasaijr.myftp.org:21585/sctv1/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV2 HD - TODAY TV
 https://freem3u.xyz/api/live/play.m3u8?vid=201
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV3 - SEE TV
@@ -867,7 +867,7 @@ https://liveh34.vtvprime.vn/hls/SCTV16/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV18 HD
 https://liveh34.seenow.vn/hls/SCTV18/03.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV18 HD (dự phòng)
-http://akasajir.myftp.org:8080/vtc1/index.m3u8
+http://akasaijr.myftp.org:21585/vtc1/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV19 HD
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv19
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV20 HD
@@ -879,7 +879,7 @@ https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV Phim Tổng Hợp
 https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV Phim Tổng Hợp (dự phòng)
-http://akasajir.myftp.org:8080/sctvpth/index.m3u8
+http://akasaijr.myftp.org:21585/sctvpth/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Box Movie 1
 https://toiyeuvietnam.dpdns.org/CoBan/box-movie-1-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Hollywood Classics
@@ -1039,7 +1039,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=69
 #EXTINF:-1 group-title="TruyenHinh_2",HBO
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",HBO (dự phòng)
-http://akasajir.myftp.org:8080/hbo/index.m3u8
+http://akasaijr.myftp.org:21585/hbo/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",HBO Hits
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1163801&extension=ts&play_token=Sb6MqPIhFx
 #EXTINF:-1 group-title="TruyenHinh_2",HBO Family
@@ -1059,7 +1059,7 @@ http://ch-4k-top.org/play/live.php?mac=00:1A:79:7a:39:a6&stream=1516887&extensio
 #EXTINF:-1 group-title="TruyenHinh_2",Cartoon Network HD
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",Cartoon Network HD (dự phòng)
-http://akasajir.myftp.org:8080/cartoon/index.m3u8
+http://akasaijr.myftp.org:21585/cartoon/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",BabyTV
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=150391&extension=ts&play_token=7pUsoprXJc
 #EXTINF:-1 group-title="TruyenHinh_2",Dreamworks
@@ -1109,13 +1109,13 @@ https://ace.hoiquan.click/module/IPTV/?id=animalplanet&accKenh=vuminhthanh1
 #EXTINF:-1 group-title="TruyenHinh_2",Discovery
 https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",Discovery (dự phòng)
-http://akasajir.myftp.org:8080/discovery/index.m3u8
+http://akasaijr.myftp.org:21585/discovery/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Discovery Asia
 https://ace.hoiquan.click/module/IPTV/?id=discoveryasia&accKenh=vuminhthanh1
 #EXTINF:-1 group-title="TruyenHinh_2",AXN HD
 https://ace.hoiquan.click/module/IPTV/?id=axn&accKenh=vuminhthanh1
 #EXTINF:-1 group-title="TruyenHinh_2",AXN HD (dự phòng)
-http://akasajir.myftp.org:8080/axn/index.m3u8
+http://akasaijr.myftp.org:21585/axn/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Rock Entertainment
 http://ch-4k-top.org/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776182&extension=ts&play_token=K4JiFEWv19
 #EXTINF:-1 group-title="TruyenHinh_2",Rock Action
