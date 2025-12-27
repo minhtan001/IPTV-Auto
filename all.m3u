@@ -95,31 +95,6 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h30-28/12 Chelsea Vs Aston Villa BLV CHU ĐỒNG
-https://hls.cdnok9.com/live/CHUDONG/index.m3u8?expire=1788427256&sign=b7df620ef99aaa1798bda4e698168a46
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h00-28/12 Udinese Vs Lazio BLV NHỊ KA
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",23h15-27/12 Palermo Vs Padova BLV TÔN LẬP
-https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h15-28/12 Mechelen Vs FCV Dender EH BLV YẾN THANH
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h30-28/12 Al-Ittihad Vs Al-Shabab BLV MÃ SIÊU
-https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h30-28/12 Uganda Vs Tanzania BLV PEP
-https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",01h00-28/12 FC Famalicao Vs Estrela da Amadora BLV PHONG VÂN
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTINF:-1 group-title="Socolive_2",23h15: [BLV A WIN] Palermo vs Padova
-http://sharing.gotdns.ch:8091/socolive.php?id=536185
-#EXTINF:-1 group-title="Socolive_2",23h15: [KÉP] Palermo vs Padova
-http://sharing.gotdns.ch:8091/socolive.php?id=560690
 #EXTINF:-1 group-title="Socolive_2",00h00: [BLV VITAMIN] Udinese vs Lazio
 http://sharing.gotdns.ch:8091/socolive.php?id=400722
 #EXTINF:-1 group-title="Socolive_2",00h00: [BLV FIREMAN] Udinese vs Lazio
@@ -178,8 +153,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=534055
 http://sharing.gotdns.ch:8091/socolive.php?id=445260
 #EXTINF:-1 group-title="Socolive_2",00h45: [BLV ROBBEN] Aberdeen vs Dundee United
 http://sharing.gotdns.ch:8091/socolive.php?id=527383
-#EXTINF:-1 group-title="Socolive_2",00h45: [KÉP] Aberdeen vs Dundee United
-http://sharing.gotdns.ch:8091/socolive.php?id=560690
 #EXTINF:-1 group-title="Socolive_2",01h00: [BLV THỎ] FC Famalicao vs CF Estrela Amadora SAD
 http://sharing.gotdns.ch:8091/socolive.php?id=548260
 #EXTINF:-1 group-title="Socolive_2",01h00: [BLV SATIVA] FC Famalicao vs CF Estrela Amadora SAD
@@ -220,6 +193,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=547345
 http://sharing.gotdns.ch:8091/socolive.php?id=563268
 #EXTINF:-1 group-title="Socolive_2",03h30: [BLV 7UP] Estoril vs Alverca
 http://sharing.gotdns.ch:8091/socolive.php?id=534219
+#EXTINF:-1 group-title="Socolive_2",03h30: [KÉP] Estoril vs Alverca
+http://sharing.gotdns.ch:8091/socolive.php?id=560690
 #EXTINF:-1 group-title="Socolive_2",05h00: [BLV HENRY] Sacramento Kings vs Dallas Mavericks
 http://sharing.gotdns.ch:8091/socolive.php?id=9912112
 #EXTINF:-1 group-title="Socolive_2",07h00: [BLV SÓI] CSD Municipal vs Antigua GFC
