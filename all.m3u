@@ -96,11 +96,14 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h50-27/12 Adelaide United (W) Vs WS Wanderers (W) BLV CHU ĐỒNG
-https://hls.cdnok9.com/live/CHUDONG/index.m3u8?expire=1788427256&sign=b7df620ef99aaa1798bda4e698168a46
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h00-27/12 Central Coast Mariners (W) Vs Melbourne Victory (W) BLV KEVILL
 https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",14h00-27/12 Newcastle Jets (W) Vs Canberra United (W) BLV TẦN CA
+https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h50-27/12 Adelaide United (W) Vs WS Wanderers (W) BLV CHU ĐỒNG
+https://hls.cdnok9.com/live/CHUDONG/index.m3u8?expire=1788427256&sign=b7df620ef99aaa1798bda4e698168a46
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h30-27/12 Persipura Jayapura Vs Persela Lamongan BLV TỐNG GIANG
 https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
@@ -116,9 +119,6 @@ https://hls.cdnok9.com/live/TO4A/index.m3u8?expire=1891408380&sign=5274350aaa915
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",23h59-27/12 Manchester United Vs AFC Bournemouth BLV LỮ BỐ REPLAY
 https://hls.cdnok9.com/live/TO6A/index.m3u8?expire=1891408380&sign=df6b95775ca8cf6b58a17d54271d96e3
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",14h00-27/12 Newcastle Jets (W) Vs Canberra United (W) BLV TẦN CA
-https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h30-27/12 Sriwijaya FC Vs PSMS Medan BLV KENCHU
 https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
@@ -1094,7 +1094,7 @@ http://live.qphim.xyz/hls_nonkey/ninochannel/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Nino Channel 2
 http://live.qphim.xyz/hls_nonkey/ninochannel2/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SG Network
-https://delivery.04.sgchill.io.vn/v1/channel/twitch/sgnetwork/index.m3u8
+https://delivery.04.sgchill.io.vn/v1/channel/twitch/sgnetwork.smil/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sky Sport F1
 http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/218103.ts
 #EXTINF:-1 group-title="TruyenHinh_2",Sky Sport Mix
@@ -1377,6 +1377,8 @@ https://toiyeuvietnam.dpdns.org/CoBan/phu-tho/TuyetDoiKhongKinhDoanh.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=53
 #EXTINF:-1 group-title="TruyenHinh_2",ĐNNRTV2 - Báo và PTTH Đồng Nai
 https://freem3u.xyz/api/live/play.m3u8?vid=255
+#EXTINF:-1 group-title="TruyenHinh_2",ĐNNRTV3 - Báo và PTTH Đồng Nai
+https://sgchill.io.vn/vie?id=dongnai3
 #EXTINF:-1 group-title="TruyenHinh_2",Hà Nội 1 HD - Đài Hà Nội
 https://freem3u.xyz/api/live/play.m3u8?vid=33
 #EXTINF:-1 group-title="TruyenHinh_2",Hà Nội 2 HD - Đài Hà Nội

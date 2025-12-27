@@ -10,7 +10,7 @@ http://live.qphim.xyz/hls_nonkey/ninochannel/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Nino Channel 2
 http://live.qphim.xyz/hls_nonkey/ninochannel2/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SG Network
-https://delivery.04.sgchill.io.vn/v1/channel/twitch/sgnetwork/index.m3u8
+https://delivery.04.sgchill.io.vn/v1/channel/twitch/sgnetwork.smil/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sky Sport F1
 http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/218103.ts
 #EXTINF:-1 group-title="TruyenHinh_2",Sky Sport Mix
@@ -293,6 +293,8 @@ https://toiyeuvietnam.dpdns.org/CoBan/phu-tho/TuyetDoiKhongKinhDoanh.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=53
 #EXTINF:-1 group-title="TruyenHinh_2",ĐNNRTV2 - Báo và PTTH Đồng Nai
 https://freem3u.xyz/api/live/play.m3u8?vid=255
+#EXTINF:-1 group-title="TruyenHinh_2",ĐNNRTV3 - Báo và PTTH Đồng Nai
+https://sgchill.io.vn/vie?id=dongnai3
 #EXTINF:-1 group-title="TruyenHinh_2",Hà Nội 1 HD - Đài Hà Nội
 https://freem3u.xyz/api/live/play.m3u8?vid=33
 #EXTINF:-1 group-title="TruyenHinh_2",Hà Nội 2 HD - Đài Hà Nội
