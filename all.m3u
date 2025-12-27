@@ -99,9 +99,6 @@ http://iptv.nhadai.org/stream/ben-tre
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-27/12 Nottingham Forest Vs Manchester City BLV CHU ĐỒNG
 https://hls.cdnok9.com/live/CHUDONG/index.m3u8?expire=1788427256&sign=b7df620ef99aaa1798bda4e698168a46
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h30-27/12 Parma Vs Fiorentina BLV A TỦA
-https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-27/12 Thap Luang United Vs Chiangrai United BLV LÝ QUỲ
 https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTVLCOPT:http-referrer=https://ls40.live/
@@ -126,29 +123,14 @@ https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0d
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-27/12 Hibernian Vs Heart of Midlothian BLV THỜI THIÊN
 https://hls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-27/12 Belediye Vanspor Vs Hatayspor BLV URA
+https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-27/12 Al Qadsiah Vs Damac FC BLV LÝ ỨNG
 https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-27/12 Belediye Vanspor Vs Hatayspor BLV URA
-https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV A BỆU] Parma vs Fiorentina
-http://sharing.gotdns.ch:8091/socolive.php?id=484845
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV TOMIA] Parma vs Fiorentina
-http://sharing.gotdns.ch:8091/socolive.php?id=9912008
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV LONG] Parma vs Fiorentina
-http://sharing.gotdns.ch:8091/socolive.php?id=9912050
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV SINGER] Parma vs Fiorentina
-http://sharing.gotdns.ch:8091/socolive.php?id=9912102
-#EXTINF:-1 group-title="Socolive_2",18h30: [CR Bưởi] Parma vs Fiorentina
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV MESSI] Parma vs Fiorentina
-http://sharing.gotdns.ch:8091/socolive.php?id=494201
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV CHIVAS] Spezia vs Pescara
-http://sharing.gotdns.ch:8091/socolive.php?id=485739
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV SATIVA] Spezia vs Pescara
-http://sharing.gotdns.ch:8091/socolive.php?id=321443
-#EXTINF:-1 group-title="Socolive_2",18h35: [BLV HENRY] Beijing Royal Fighters vs Liaoning
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-27/12 Torino Vs Cagliari BLV HOA VINH
+https://hls.cdnok9.com/live/LOELOE6380K/index.m3u8?expire=1788427256&sign=86b4dafe54d1b6da2bffad6653671edb
 #EXTINF:-1 group-title="Socolive_2",19h00: [NGOẠ LONG] Persib Bandung vs Persatuan Sepakbola Makassar
 http://sharing.gotdns.ch:8091/socolive.php?id=538979
 #EXTINF:-1 group-title="Socolive_2",19h00: [BLV SÓI] Persib Bandung vs Persatuan Sepakbola Makassar
