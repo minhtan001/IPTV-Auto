@@ -96,8 +96,8 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h30-28/12 Persebaya Surabaya Vs Persijap Jepara BLV CHU ĐỒNG
-https://hls.cdnok9.com/live/CHUDONG/index.m3u8?expire=1788427256&sign=b7df620ef99aaa1798bda4e698168a46
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-28/12 Samut Sakhon Vs Prachuap Khiri Khan BLV PEP
+https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-28/12 Satun United Vs Lamphun Warrior BLV PHONG VÂN
 https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
@@ -105,11 +105,11 @@ https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-28/12 Customs Department FC Vs Sukhothai BLV TẦN CA
 https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h30-28/12 Persiku Kudus Vs Deltras Sidoarjo BLV TRƯƠNG THANH
-https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h30-28/12 Serik Belediyespor Vs Boluspor BLV VƯƠNG LUÂN
+https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-28/12 Samut Sakhon Vs Prachuap Khiri Khan BLV PEP
-https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h30-28/12 Keciorengucu Vs Umraniyespor BLV TÔN LẬP
+https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h00-28/12 Arsenal Vs Crystal Palace BLV DƯƠNG QUÁ REPLAY
 https://hls.cdnok9.com/live/TO5A/index.m3u8?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036
@@ -125,9 +125,6 @@ https://hls.cdnok9.com/live/TO6A/index.m3u8?expire=1891408380&sign=df6b95775ca8c
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h00-28/12 Nib FC Vs Shashemene Kenema FC NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvZ6a1BPPzjfqp6Lk/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h30-28/12 TPT 555 Vs Savannakhet NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvYqnvspQsinFV7kG/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-28/12 Yreo FC (W) Vs Shan Utd (W) NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvZ6a1vNafqFokSwn/playlist.m3u8
@@ -147,11 +144,11 @@ https://auto.cdnvankhanh.com/live/sd-6MuTMkVKHafV9w5Eo6/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-28/12 Kepez Belediyespor Vs Batman Petrolspor NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuTMkVKHhFvmNYzFn/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h30-28/12 Serik Belediyespor Vs Boluspor BLV VƯƠNG LUÂN
-https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-28/12 Viseu Vs SL Benfica B BLV LÝ ỨNG
+https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h30-28/12 Keciorengucu Vs Umraniyespor BLV TÔN LẬP
-https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-28/12 Pattaya Discovery United FC Vs Bangkok United FC BLV A TỦA
+https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-28/12 Mahasarakham United FC Vs Rayong FC BLV TỐNG GIANG
 https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
@@ -170,18 +167,6 @@ https://auto.cdnvankhanh.com/live/sd-6MvZ6EPWJSC1GVRict/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-28/12 Pacos de Ferreira Vs SC Farense NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuTcJRgeCGm1TwDJk/playlist.m3u8
-#EXTINF:-1 group-title="Socolive_2",15h30: [LOGAN] Persebaya Surabaya vs Persatuan Sepakbola Indonesia Jepara
-http://sharing.gotdns.ch:8091/socolive.php?id=552832
-#EXTINF:-1 group-title="Socolive_2",15h30: [CÔNG CHẤT] Persebaya Surabaya vs Persatuan Sepakbola Indonesia Jepara
-http://sharing.gotdns.ch:8091/socolive.php?id=291277
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV  TYPN] Persebaya Surabaya vs Persatuan Sepakbola Indonesia Jepara
-http://sharing.gotdns.ch:8091/socolive.php?id=9912009
-#EXTINF:-1 group-title="Socolive_2",15h30: [XUÂN SON] Persebaya Surabaya vs Persatuan Sepakbola Indonesia Jepara
-http://sharing.gotdns.ch:8091/socolive.php?id=501412
-#EXTINF:-1 group-title="Socolive_2",15h30: [VƯƠNG ANH] Persebaya Surabaya vs Persatuan Sepakbola Indonesia Jepara
-http://sharing.gotdns.ch:8091/socolive.php?id=548860
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV FIREMAN] Persebaya Surabaya vs Persatuan Sepakbola Indonesia Jepara
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
 #EXTINF:-1 group-title="Socolive_2",16h00: [BRIAN] New Taipei Kings vs Kaohsiung Aquas
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTINF:-1 group-title="Socolive_2",16h00: [KING] New Taipei Kings vs Kaohsiung Aquas
