@@ -1,19 +1,25 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",17h00-28/12 Samut Sakhon Vs Prachuap Khiri Khan BLV PEP
-https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",16h00-28/12 Satun United Vs Lamphun Warrior BLV PHONG VÂN
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:-1 group-title="LuongSon_2",17h30-28/12 Serik Belediyespor Vs Boluspor BLV VƯƠNG LUÂN
+https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",17h00-28/12 Customs Department FC Vs Sukhothai BLV TẦN CA
 https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",17h30-28/12 Serik Belediyespor Vs Boluspor BLV VƯƠNG LUÂN
-https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
+#EXTINF:-1 group-title="LuongSon_2",18h00-28/12 Mahasarakham United FC Vs Rayong FC BLV TỐNG GIANG
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",17h30-28/12 Keciorengucu Vs Umraniyespor BLV TÔN LẬP
 https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",18h00-28/12 Viseu Vs SL Benfica B BLV LÝ ỨNG
+https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",18h00-28/12 Pattaya Discovery United FC Vs Bangkok United FC BLV A TỦA
+https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",17h00-28/12 Samut Sakhon Vs Prachuap Khiri Khan BLV PEP
+https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",12h00-28/12 Arsenal Vs Crystal Palace BLV DƯƠNG QUÁ REPLAY
 https://hls.cdnok9.com/live/TO5A/index.m3u8?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036
@@ -30,15 +36,6 @@ https://hls.cdnok9.com/live/TO6A/index.m3u8?expire=1891408380&sign=df6b95775ca8c
 #EXTINF:-1 group-title="LuongSon_2",13h00-28/12 Nib FC Vs Shashemene Kenema FC NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvZ6a1BPPzjfqp6Lk/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",16h00-28/12 Yreo FC (W) Vs Shan Utd (W) NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvZ6a1vNafqFokSwn/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",16h00-28/12 Silver Stars Vs Chinland NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvZ6a1vCszpSzFqgG/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",16h00-28/12 Yangon City Vs YB United FC NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvZ6a1vCvCJKU5kqA/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",17h00-28/12 Batu Ketema Vs Yeka Sub City FC NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvZ6a1AiZ7Ca61k7n/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
@@ -48,14 +45,17 @@ https://auto.cdnvankhanh.com/live/sd-6MuTMkVKHafV9w5Eo6/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon_2",17h00-28/12 Kepez Belediyespor Vs Batman Petrolspor NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuTMkVKHhFvmNYzFn/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",18h00-28/12 Viseu Vs SL Benfica B BLV LÝ ỨNG
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 group-title="LuongSon_2",18h00-28/12 Angkor Tiger FC Vs Kirivong Sok Sen Chey NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MuPtZb1fFaQWh65mN/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",18h00-28/12 Pattaya Discovery United FC Vs Bangkok United FC BLV A TỦA
-https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:-1 group-title="LuongSon_2",18h00-28/12 Visakha FC Vs MOI Kompong Dewa FC NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MuPtZbm9mTRjzTm6L/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",18h00-28/12 Mahasarakham United FC Vs Rayong FC BLV TỐNG GIANG
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:-1 group-title="LuongSon_2",18h30-28/12 Chainat FC Vs Port FC BLV NGŨ CA
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",18h30-28/12 AC Milan Vs Verona BLV CHU ĐỒNG
+https://hls.cdnok9.com/live/CHUDONG/index.m3u8?expire=1788427256&sign=b7df620ef99aaa1798bda4e698168a46
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",19h00-28/12 Persiba Balikpapan Vs Beigan Baru Tornado NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvYM5tYy8dEGb7pTN/playlist.m3u8
