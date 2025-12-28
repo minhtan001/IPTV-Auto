@@ -95,40 +95,6 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTINF:-1 group-title="Socolive_2",07h00: [BLV SÓI] CSD Municipal vs Antigua GFC
-http://sharing.gotdns.ch:8091/socolive.php?id=427562
-#EXTINF:-1 group-title="Socolive_2",07h00: [BLV SHIN] CSD Municipal vs Antigua GFC
-http://sharing.gotdns.ch:8091/socolive.php?id=522086
-#EXTINF:-1 group-title="Socolive_2",07h00: [CÔNG LÝ] CSD Municipal vs Antigua GFC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912035
-#EXTINF:-1 group-title="Socolive_2",07h00: [JACKMAN] CSD Municipal vs Antigua GFC
-http://sharing.gotdns.ch:8091/socolive.php?id=542758
-#EXTINF:-1 group-title="Socolive_2",07h00: [VỊT BẠC] CSD Municipal vs Antigua GFC
-http://sharing.gotdns.ch:8091/socolive.php?id=474421
-#EXTINF:-1 group-title="Socolive_2",07h00: [BLV GÔN] CSD Municipal vs Antigua GFC
-http://sharing.gotdns.ch:8091/socolive.php?id=445260
-#EXTINF:-1 group-title="Socolive_2",07h35: [CHAN SENA] Orlando Magic vs Denver Nuggets
-http://sharing.gotdns.ch:8091/socolive.php?id=515530
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV  TYPN] CD Olimpia vs Real Espana
-http://sharing.gotdns.ch:8091/socolive.php?id=9912009
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV KEM] CD Olimpia vs Real Espana
-http://sharing.gotdns.ch:8091/socolive.php?id=513394
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV ENZO] CD Olimpia vs Real Espana
-http://sharing.gotdns.ch:8091/socolive.php?id=380460
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV SINGER] CD Olimpia vs Real Espana
-http://sharing.gotdns.ch:8091/socolive.php?id=9912102
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV TÔM] CD Olimpia vs Real Espana
-http://sharing.gotdns.ch:8091/socolive.php?id=561379
-#EXTINF:-1 group-title="Socolive_2",08h00: [LÃO LÂM] CD Olimpia vs Real Espana
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTINF:-1 group-title="Socolive_2",08h35: [KING] Atlanta Hawks vs New York Knicks
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",08h35: [BLV HENRY] Chicago Bulls vs Milwaukee Bucks
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",08h35: [BRIAN] Houston Rockets vs Cleveland Cavaliers
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",08h35: [HUNTER] Miami Heat vs Indiana Pacers
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
 #EXTINF:-1 group-title="Socolive_2",10h30: [BRIAN] Adelaide vs Perth
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTINF:-1 group-title="Socolive_2",10h30: [KING] Adelaide vs Perth
@@ -343,10 +309,10 @@ http://sharing.gotdns.ch:8091/socolive.php?id=472241
 http://sharing.gotdns.ch:8091/socolive.php?id=5126499
 #EXTINF:-1 group-title="Socolive_2",21h30: [BLV ADAM] Al-Sailiya vs Al-Wakrah SC
 http://sharing.gotdns.ch:8091/socolive.php?id=336303
-#EXTINF:-1 group-title="Socolive_2",21h30: [BLV FAKER] Al-Sailiya vs Al-Wakrah SC
-http://sharing.gotdns.ch:8091/socolive.php?id=564597
 #EXTINF:-1 group-title="Socolive_2",21h30: [BLV ANH TÀI] Al-Sailiya vs Al-Wakrah SC
 http://sharing.gotdns.ch:8091/socolive.php?id=406865
+#EXTINF:-1 group-title="Socolive_2",21h30: [BLV TORRES] Al-Sailiya vs Al-Wakrah SC
+http://sharing.gotdns.ch:8091/socolive.php?id=560224
 #EXTINF:-1 group-title="Socolive_2",22h00: [BLV VITAMIN] Equatorial Guinea vs Sudan
 http://sharing.gotdns.ch:8091/socolive.php?id=400722
 #EXTINF:-1 group-title="Socolive_2",22h00: [RED BULL] Equatorial Guinea vs Sudan
@@ -902,6 +868,8 @@ https://vip.opstream90.com/20251118/17952_7bf57028/3000k/hls/mixed.m3u8
 https://dl.dropboxusercontent.com/scl/fi/gcb7dkwb23p8in0m6393d/Detective-Conan-The-Movie-D-nh-c-a-c-Nh-n.mp4?rlkey=bc4oojtcc3c4wgpuzrws1a6iv&st=l89l6nl2&dl=0
 #EXTINF:-1 group-title="TruyenHinh_2",Mang Mẹ Đi Bỏ
 https://vip.opstream90.com/20251129/18758_e33bdf72/3000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 1
+https://live.fptplay53.net/epzch1/thethao01_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
