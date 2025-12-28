@@ -96,23 +96,20 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h30-28/12 Persiku Kudus Vs Deltras Sidoarjo BLV TRƯƠNG THANH
-https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h00-28/12 Lopburi FC Vs Nakhon Ratchasima BLV LÝ QUỲ
-https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h30-28/12 Persebaya Surabaya Vs Persijap Jepara BLV CHU ĐỒNG
 https://hls.cdnok9.com/live/CHUDONG/index.m3u8?expire=1788427256&sign=b7df620ef99aaa1798bda4e698168a46
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h00-28/12 Uttaradit Vs BG Pathum United BLV TỐNG GIANG
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h00-28/12 Melbourne City Vs Perth Glory BLV NHỊ KA
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-28/12 Satun United Vs Lamphun Warrior BLV PHONG VÂN
 https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-28/12 Customs Department FC Vs Sukhothai BLV TẦN CA
+https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h30-28/12 Persiku Kudus Vs Deltras Sidoarjo BLV TRƯƠNG THANH
+https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-28/12 Samut Sakhon Vs Prachuap Khiri Khan BLV PEP
+https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h00-28/12 Arsenal Vs Crystal Palace BLV DƯƠNG QUÁ REPLAY
 https://hls.cdnok9.com/live/TO5A/index.m3u8?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036
@@ -129,75 +126,50 @@ https://hls.cdnok9.com/live/TO6A/index.m3u8?expire=1891408380&sign=df6b95775ca8c
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h00-28/12 Nib FC Vs Shashemene Kenema FC NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvZ6a1BPPzjfqp6Lk/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h00-28/12 Luang Prabang FC Vs Young Elephants FC NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvYqnvsz7Yjb4yj1n/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h00-28/12 Hak Pheang Vs Horng Lor Kanxay NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvYqnvspDtKRrMXyn/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h00-28/12 Mazda GB Vs Ezra FC NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvYqnvszBwhL2dZKa/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h00-28/12 Souliyavong Vs Akaluk NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvYqnvsycyVGqEp28/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h00-28/12 Namtha United Vs Lao Army FC NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvYqnvsz5MFib9ort/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h30-28/12 TPT 555 Vs Savannakhet NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MvYqnvspQsinFV7kG/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-28/12 Yreo FC (W) Vs Shan Utd (W) NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvZ6a1vNafqFokSwn/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-28/12 Yangon City Vs YB United FC NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvZ6a1vCvCJKU5kqA/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-28/12 Silver Stars Vs Chinland NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvZ6a1vCszpSzFqgG/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-28/12 Samut Sakhon Vs Prachuap Khiri Khan BLV PEP
-https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-28/12 Customs Department FC Vs Sukhothai BLV TẦN CA
-https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-28/12 Yangon City Vs YB United FC NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MvZ6a1vCvCJKU5kqA/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-28/12 Batu Ketema Vs Yeka Sub City FC NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvZ6a1AiZ7Ca61k7n/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-28/12 Burayu FC Vs Gamo Chencha NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvYqnvALRfJrDWV6C/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-28/12 Iskenderun FK Vs Ankaragucu NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MuTMkVKHafV9w5Eo6/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-28/12 Menge Belashangul Vs Addis Ketema NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvYqnvALPTpyjgZwJ/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-28/12 Kepez Belediyespor Vs Batman Petrolspor NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MuTMkVKHhFvmNYzFn/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h30-28/12 Serik Belediyespor Vs Boluspor BLV VƯƠNG LUÂN
+https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h30-28/12 Keciorengucu Vs Umraniyespor BLV TÔN LẬP
+https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-28/12 Mahasarakham United FC Vs Rayong FC BLV TỐNG GIANG
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-28/12 Persiba Balikpapan Vs Beigan Baru Tornado NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvYM5tYy8dEGb7pTN/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-28/12 Halaba City Vs Dessie Ketema NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvZ6a1uhpBFu1bw2c/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-28/12 Nekemte Ketema Vs Akaki Kality NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvZ6a1AtLBB7sABh6/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-28/12 Halaba City Vs Dessie Ketema NHÀ ĐÀI
+https://auto.cdnvankhanh.com/live/sd-6MvZ6a1uhpBFu1bw2c/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h50-28/12 Bahla Vs Sur Club NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvZ6EPWJSC1GVRict/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-28/12 Pacos de Ferreira Vs SC Farense NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MuTcJRgeCGm1TwDJk/playlist.m3u8
-#EXTINF:-1 group-title="Socolive_2",15h00: [TAM MAO] Melbourne City vs Perth Glory
-http://sharing.gotdns.ch:8091/socolive.php?id=9912100
-#EXTINF:-1 group-title="Socolive_2",15h00: [BLV TAP] Melbourne City vs Perth Glory
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",15h00: [BLV MESSI] Melbourne City vs Perth Glory
-http://sharing.gotdns.ch:8091/socolive.php?id=494201
-#EXTINF:-1 group-title="Socolive_2",15h00: [BLV ĐỐM] Melbourne City vs Perth Glory
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTINF:-1 group-title="Socolive_2",15h00: [BLV TOMIA] Melbourne City vs Perth Glory
-http://sharing.gotdns.ch:8091/socolive.php?id=9912008
-#EXTINF:-1 group-title="Socolive_2",15h00: [BLV ENZO] Melbourne City vs Perth Glory
-http://sharing.gotdns.ch:8091/socolive.php?id=380460
-#EXTINF:-1 group-title="Socolive_2",15h00: [BLV QUAN VŨ] TPF Uttaradit vs BG Pathum United
-http://sharing.gotdns.ch:8091/socolive.php?id=239275
-#EXTINF:-1 group-title="Socolive_2",15h00: [MR BÍCH] TPF Uttaradit vs BG Pathum United
-http://sharing.gotdns.ch:8091/socolive.php?id=285067
 #EXTINF:-1 group-title="Socolive_2",15h30: [LOGAN] Persebaya Surabaya vs Persatuan Sepakbola Indonesia Jepara
 http://sharing.gotdns.ch:8091/socolive.php?id=552832
 #EXTINF:-1 group-title="Socolive_2",15h30: [CÔNG CHẤT] Persebaya Surabaya vs Persatuan Sepakbola Indonesia Jepara
