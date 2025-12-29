@@ -96,26 +96,14 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-29/12 Ispe FC Vs Yarmanya United FC BLV LÝ QUỲ
-https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h30-29/12 Laconi Lian Vs Ayeyawady united BLV PHONG VÂN
 https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h30-29/12 Sumsel United Vs FC Bekasi City BLV URA
-https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h30-29/12 PSIM Yogyakarta Vs PSBS Biak BLV KAKA
-https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-29/12 Ispe FC Vs Yarmanya United FC BLV LÝ QUỲ
+https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-29/12 Fasil Kenema Vs Ethio Electric FC BLV PEP
 https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h50-29/12 Garudayaksa Vs Persiraja Aceh BLV LƯU BỊ
-https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h30-29/12 Bali United Vs Dewa United FC BLV KEVILL
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h35-29/12 Nottingham Forest Vs Manchester City BLV TRIỆU TỬ LONG REPLAY
 https://hls.cdnok9.com/live/TO4A/index.m3u8?expire=1891408380&sign=5274350aaa915df457fdffd606d49f30
@@ -143,44 +131,6 @@ https://auto.cdnvankhanh.com/live/sd-6MvYqo25PagQrEfsMN/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-29/12 Burayu FC Vs Gamo Chencha NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvYqnvALRfJrDWV6C/playlist.m3u8
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV GÔN] PSIM Yogyakarta vs PSBS Biak Numfor
-http://sharing.gotdns.ch:8091/socolive.php?id=445260
-#EXTINF:-1 group-title="Socolive_2",15h30: [A CHÈ] PSIM Yogyakarta vs PSBS Biak Numfor
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV  TYPN] PSIM Yogyakarta vs PSBS Biak Numfor
-http://sharing.gotdns.ch:8091/socolive.php?id=9912009
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV BÉO] PSIM Yogyakarta vs PSBS Biak Numfor
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV KAI] PSIM Yogyakarta vs PSBS Biak Numfor
-http://sharing.gotdns.ch:8091/socolive.php?id=313971
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV QUAN VŨ] PSIM Yogyakarta vs PSBS Biak Numfor
-http://sharing.gotdns.ch:8091/socolive.php?id=239275
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV PIRLO] Bali United vs Dewa United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=351530
-#EXTINF:-1 group-title="Socolive_2",15h30: [RICKHANTER] Bali United vs Dewa United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912101
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV VOI] Bali United vs Dewa United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912114
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV KINH TẾ] Bali United vs Dewa United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=532999
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV SINGER] Bali United vs Dewa United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912102
-#EXTINF:-1 group-title="Socolive_2",15h30: [SAO LA] Bali United vs Dewa United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=462413
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV SÓI] Garudayaksa FC vs Persiraja Aceh
-http://sharing.gotdns.ch:8091/socolive.php?id=427562
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV COZY] Garudayaksa FC vs Persiraja Aceh
-http://sharing.gotdns.ch:8091/socolive.php?id=531989
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV KAN] Sumsel United vs FC Bekasi City
-http://sharing.gotdns.ch:8091/socolive.php?id=283501
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV FIREMAN] Sumsel United vs FC Bekasi City
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV DUSTIN] Tasmania JackJumpers vs South East Melbourne
-http://sharing.gotdns.ch:8091/socolive.php?id=289098
-#EXTINF:-1 group-title="Socolive_2",15h30: [HUNTER] Tasmania JackJumpers vs South East Melbourne
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",15h30: [CHAN SENA] Tasmania JackJumpers vs South East Melbourne
-http://sharing.gotdns.ch:8091/socolive.php?id=515530
 #EXTINF:-1 group-title="Socolive_2",16h00: [LÃO LÂM] ISPE FC vs Yarmanya United FC
 http://sharing.gotdns.ch:8091/socolive.php?id=527384
 #EXTINF:-1 group-title="Socolive_2",16h00: [BLV VODKA] ISPE FC vs Yarmanya United FC
