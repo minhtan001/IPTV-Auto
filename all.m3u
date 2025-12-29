@@ -96,8 +96,8 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h30-29/12 Laconi Lian Vs Ayeyawady united BLV PHONG VÂN
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h30-29/12 Adana Demirspor Vs Istanbulspor BLV GIÁO SƯ XOAY
+https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-29/12 Fasil Kenema Vs Ethio Electric FC BLV PEP
 https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
@@ -123,16 +123,11 @@ https://hls.cdnok9.com/live/TO5A/index.m3u8?expire=1891408380&sign=8bed1a7b9dde1
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-29/12 Burayu FC Vs Gamo Chencha NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvYqnvALRfJrDWV6C/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h30-29/12 Adana Demirspor Vs Istanbulspor BLV GIÁO SƯ XOAY
-https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0
-#EXTINF:-1 group-title="Socolive_2",16h30: [CÔNG LÝ] Rakhine United FC vs Ayeyawady united
-http://sharing.gotdns.ch:8091/socolive.php?id=9912035
-#EXTINF:-1 group-title="Socolive_2",16h30: [BLV 7UP] Rakhine United FC vs Ayeyawady united
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
-#EXTINF:-1 group-title="Socolive_2",16h30: [BLV TORRES] Rakhine United FC vs Ayeyawady united
-http://sharing.gotdns.ch:8091/socolive.php?id=560224
-#EXTINF:-1 group-title="Socolive_2",16h30: [BLV Hổ Lùn] Rakhine United FC vs Ayeyawady united
-http://sharing.gotdns.ch:8091/socolive.php?id=308080
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-29/12 Persija Jakarta Vs Bhayangkara Solo FC BLV CHU ĐỒNG
+https://hls.cdnok9.com/live/CHUDONG/index.m3u8?expire=1788427256&sign=b7df620ef99aaa1798bda4e698168a46
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-29/12 Wolaita Dicha Vs Arba Minch BLV KEVILL
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTINF:-1 group-title="Socolive_2",18h30: [BLV SHIN] Adana Demirspor vs Istanbulspor
 http://sharing.gotdns.ch:8091/socolive.php?id=522086
 #EXTINF:-1 group-title="Socolive_2",18h30: [BLV Củ Cải] Adana Demirspor vs Istanbulspor
