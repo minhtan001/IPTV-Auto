@@ -95,18 +95,6 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTINF:-1 group-title="Socolive_2",15h00: [TẠ BIÊN GIỚI] WS Wanderers Women vs Wellington Phoenix Women
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",15h00: [THẠCH TÚ] WS Wanderers Women vs Wellington Phoenix Women
-http://sharing.gotdns.ch:8091/socolive.php?id=344370
-#EXTINF:-1 group-title="Socolive_2",15h00: [SAO LA] WS Wanderers Women vs Wellington Phoenix Women
-http://sharing.gotdns.ch:8091/socolive.php?id=462413
-#EXTINF:-1 group-title="Socolive_2",15h00: [BLV PIRLO] WS Wanderers Women vs Wellington Phoenix Women
-http://sharing.gotdns.ch:8091/socolive.php?id=351530
-#EXTINF:-1 group-title="Socolive_2",15h00: [RICKHANTER] WS Wanderers Women vs Wellington Phoenix Women
-http://sharing.gotdns.ch:8091/socolive.php?id=9912101
-#EXTINF:-1 group-title="Socolive_2",15h00: [BLV COCA] WS Wanderers Women vs Wellington Phoenix Women
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
 #EXTINF:-1 group-title="Socolive_2",15h30: [BLV TOMMY] Arema FC vs Persita Tangerang
 http://sharing.gotdns.ch:8091/socolive.php?id=414317
 #EXTINF:-1 group-title="Socolive_2",15h30: [BLV TAP] Arema FC vs Persita Tangerang
@@ -267,6 +255,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=548260
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h00-31/12: [BLV Sao Đỏ] Maccabi Bnei Reineh vs Hapoel Kiryat Shmona
 http://sharing.gotdns.ch:8091/socolive.php?id=519740
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h00-31/12: [BLV FAKER] Maccabi Bnei Reineh vs Hapoel Kiryat Shmona
+http://sharing.gotdns.ch:8091/socolive.php?id=564597
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-31/12: [A CHÈ] Hapoel Haifa vs Hapoel Bnei Sakhnin FC
 http://sharing.gotdns.ch:8091/socolive.php?id=356042
@@ -547,9 +538,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912008
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h30-31/12: [RED BULL] Mahar United vs Hantharwady United
 http://sharing.gotdns.ch:8091/socolive.php?id=547345
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h30-31/12: [BLV FAKER] Mahar United vs Hantharwady United
-http://sharing.gotdns.ch:8091/socolive.php?id=564597
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h30-31/12: [BLV SÓI] Mahar United vs Hantharwady United
 http://sharing.gotdns.ch:8091/socolive.php?id=427562
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -561,6 +549,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=321443
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h30-31/12: [BLV SHIN] Mahar United vs Hantharwady United
 http://sharing.gotdns.ch:8091/socolive.php?id=522086
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h30-31/12: [BLV KAN] Mahar United vs Hantharwady United
+http://sharing.gotdns.ch:8091/socolive.php?id=283501
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",17h00-31/12: [KING] Mobis Phoebus vs LG Sakers
 http://sharing.gotdns.ch:8091/socolive.php?id=9912099
@@ -619,14 +610,14 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912109
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h10-31/12: [BLV RAMBO] Kazma vs Al-Salmiya
 http://sharing.gotdns.ch:8091/socolive.php?id=534055
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h10-31/12: [BLV FAKER] Kazma vs Al-Salmiya
-http://sharing.gotdns.ch:8091/socolive.php?id=564597
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h10-31/12: [BLV SÓI] Kazma vs Al-Salmiya
 http://sharing.gotdns.ch:8091/socolive.php?id=427562
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h10-31/12: [KÉP] Kazma vs Al-Salmiya
 http://sharing.gotdns.ch:8091/socolive.php?id=560690
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h10-31/12: [BLV TORRES] Kazma vs Al-Salmiya
+http://sharing.gotdns.ch:8091/socolive.php?id=560224
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-31/12: [BLV MIXI] Petrojet vs Bank El Ahly
 http://sharing.gotdns.ch:8091/socolive.php?id=290928
@@ -684,9 +675,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=321443
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h40-31/12: [BLV RAMBO] Al Naser SC vs Al Qadisiya SC
 http://sharing.gotdns.ch:8091/socolive.php?id=534055
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h40-31/12: [NGOẠ LONG] Al Naser SC vs Al Qadisiya SC
-http://sharing.gotdns.ch:8091/socolive.php?id=538979
 #EXTINF:-1 group-title="TruyenHinh_2",KuboLive #Server 1
 http://live.qphim.xyz/live/kubolive/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",KuboCast
