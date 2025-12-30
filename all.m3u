@@ -99,8 +99,8 @@ http://iptv.nhadai.org/stream/ben-tre
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-30/12 Suwon KT Vs Seoul Thunders BLV YẾN THANH
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h30-30/12 Dagon Port Vs Thitsar Arman FC BLV PEP
-https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h30-30/12 Tractor S.C. Vs Malavan BLV URA
+https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",03h00-30/12 Nottingham Forest Vs Manchester City  BLV VÕ TÒNG REPLAY
 https://hls.cdnok9.com/live/TO6A/index.m3u8?expire=1891408380&sign=df6b95775ca8cf6b58a17d54271d96e3
@@ -117,26 +117,14 @@ https://hls.cdnok9.com/live/TO2A/index.m3u8?expire=1891408380&sign=b4fcc4558b296
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h20-30/12 Crystal Palace  Vs Tottenham Hotspur BLV KHỔNG MINH REPLAY
 https://hls.cdnok9.com/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h30-30/12 Tractor S.C. Vs Malavan BLV URA
-https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-30/12 Hawassa City FC Vs Hadiya Hossana BLV LƯU BỊ
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h15-30/12 Al-Safa Vs Shabab Sahel BLV TỐNG GIANG
 https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-30/12 Soloda Adwa Vs Debre Birhan Ketema NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvYqo23iGNRpD8TT2/playlist.m3u8
-#EXTINF:-1 group-title="Socolive_2",16h30: [LÃO LÂM] Dagon Port vs Thitsar Arman FC
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTINF:-1 group-title="Socolive_2",16h30: [BLV VODKA] Dagon Port vs Thitsar Arman FC
-http://sharing.gotdns.ch:8091/socolive.php?id=500605
-#EXTINF:-1 group-title="Socolive_2",16h30: [BLV KEM] Dagon Port vs Thitsar Arman FC
-http://sharing.gotdns.ch:8091/socolive.php?id=513394
-#EXTINF:-1 group-title="Socolive_2",16h30: [BLV VITAMIN] Dagon Port vs Thitsar Arman FC
-http://sharing.gotdns.ch:8091/socolive.php?id=400722
-#EXTINF:-1 group-title="Socolive_2",16h30: [BLV SINGER] Dagon Port vs Thitsar Arman FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912102
-#EXTINF:-1 group-title="Socolive_2",16h30: [BLV TÔM] Dagon Port vs Thitsar Arman FC
-http://sharing.gotdns.ch:8091/socolive.php?id=561379
 #EXTINF:-1 group-title="Socolive_2",17h00: [BLV DUSTIN] Suwon KT vs Seoul Thunders
 http://sharing.gotdns.ch:8091/socolive.php?id=289098
 #EXTINF:-1 group-title="Socolive_2",18h35: [KING] Beijing vs Zhejiang Guangsha
@@ -173,8 +161,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=548260
 http://sharing.gotdns.ch:8091/socolive.php?id=519740
 #EXTINF:-1 group-title="Socolive_2",19h55: [BLV WUKONG] Al Ittifaq Dubai vs Al Orooba(UAE)
 http://sharing.gotdns.ch:8091/socolive.php?id=511367
-#EXTINF:-1 group-title="Socolive_2",19h55: [BLV GÔN] Al Ittifaq Dubai vs Al Orooba(UAE)
-http://sharing.gotdns.ch:8091/socolive.php?id=445260
 #EXTINF:-1 group-title="Socolive_2",19h55: [BLV NIBO] Al Ittifaq Dubai vs Al Orooba(UAE)
 http://sharing.gotdns.ch:8091/socolive.php?id=372746
 #EXTINF:-1 group-title="Socolive_2",21h40: [BLV BÉO] Al-Adalah vs Al-Jabalain
