@@ -99,9 +99,6 @@ http://iptv.nhadai.org/stream/ben-tre
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-31/12 Mobis Phoebus Vs LG Sakers BLV YẾN THANH
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-31/12 Shan United Vs YANGON UNITED BLV KEVILL
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-31/12 Menge Belashangul Vs Addis Ketema BLV LƯU BỊ
 https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 #EXTVLCOPT:http-referrer=https://ls40.live/
@@ -117,23 +114,14 @@ https://hls.cdnok9.com/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h30-31/12 Nottingham Forest Vs Manchester City FC BLV VÕ TÒNG REPLAY
 https://hls.cdnok9.com/live/TO6A/index.m3u8?expire=1891408380&sign=df6b95775ca8cf6b58a17d54271d96e3
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h35-31/12 Liaoning Flying Leopards Vs Shanghai Sharks BLV SHIN
+https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h30-31/12 Mahar United Vs Hantharwady United BLV TỐNG GIANG
 https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",03h00-02/01 Treasure Beach Vs Chapelton Maroons FC NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvXMSeXvkhYmCRr8U/playlist.m3u8
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV ENZO] Shan United vs Yangon United
-http://sharing.gotdns.ch:8091/socolive.php?id=380460
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV FIREMAN] Shan United vs Yangon United
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV TÔM] Shan United vs Yangon United
-http://sharing.gotdns.ch:8091/socolive.php?id=561379
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV VODKA] Shan United vs Yangon United
-http://sharing.gotdns.ch:8091/socolive.php?id=500605
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV TOMIA] Shan United vs Yangon United
-http://sharing.gotdns.ch:8091/socolive.php?id=9912008
-#EXTINF:-1 group-title="Socolive_2",16h00: [A PÁO] Shan United vs Yangon United
-http://sharing.gotdns.ch:8091/socolive.php?id=235232
 #EXTINF:-1 group-title="Socolive_2",16h30: [RED BULL] Mahar United vs Hantharwady United
 http://sharing.gotdns.ch:8091/socolive.php?id=547345
 #EXTINF:-1 group-title="Socolive_2",16h30: [BLV SÓI] Mahar United vs Hantharwady United
@@ -218,10 +206,10 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912101
 http://sharing.gotdns.ch:8091/socolive.php?id=527383
 #EXTINF:-1 group-title="Socolive_2",22h30: [BLV EDRIC] Jeddah Sports Club vs Al Bukayriyah
 http://sharing.gotdns.ch:8091/socolive.php?id=5126499
-#EXTINF:-1 group-title="Socolive_2",22h30: [RÙA VÀNG] Jeddah Sports Club vs Al Bukayriyah
-http://sharing.gotdns.ch:8091/socolive.php?id=563268
 #EXTINF:-1 group-title="Socolive_2",22h30: [BLV SATIVA] Jeddah Sports Club vs Al Bukayriyah
 http://sharing.gotdns.ch:8091/socolive.php?id=321443
+#EXTINF:-1 group-title="Socolive_2",22h30: [BLV THỎ] Jeddah Sports Club vs Al Bukayriyah
+http://sharing.gotdns.ch:8091/socolive.php?id=548260
 #EXTINF:-1 group-title="Socolive_2",22h40: [BLV RAMBO] Al Naser SC vs Al Qadisiya SC
 http://sharing.gotdns.ch:8091/socolive.php?id=534055
 #EXTVLCOPT:http-referrer=https://socolive12.co/
