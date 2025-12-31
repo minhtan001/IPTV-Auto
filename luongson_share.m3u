@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",09h00-31/12 Utah Jazz Vs Boston Celtics BLV NHỊ KA
+#EXTINF:-1 group-title="LuongSon_2",11h00-31/12 Los Angeles Clippers Vs Sacramento Kings BLV NHỊ KA
 https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",10h30-31/12 Los Angeles Lakers Vs Detroit Pistons BLV YẾN THANH
@@ -8,6 +8,9 @@ https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d9
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",13h20-30/12 Crystal Palace  Vs Tottenham Hotspur BLV KHỔNG MINH REPLAY
 https://hls.cdnok9.com/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",12h15-31/12 Central Coast Mariners (W) Vs Brisbane Roar (W) BLV CHU ĐỒNG
+https://hls.cdnok9.com/live/CHUDONG/index.m3u8?expire=1788427256&sign=b7df620ef99aaa1798bda4e698168a46
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",13h30-31/12 Shanghai Port U17 Vs Shandong Taishan U17B NHÀ ĐÀI
 https://auto.cdnvankhanh.com/live/sd-6MvZ6BCx9VDcthyKuN/playlist.m3u8
