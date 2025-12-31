@@ -96,36 +96,8 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",02h00-01/01 Gabon Vs Ivory Coast BLV PHONG VÂN
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",02h00-01/01 Mozambique Vs Cameroon BLV A TỦA
-https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h00-31/12 Arsenal Vs Aston Villa BLV DƯƠNG QUÁ REPLAY
 https://hls.cdnok9.com/live/TO5A/index.m3u8?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036
-#EXTINF:-1 group-title="Socolive_2",02h00: [BLV EDRIC] Gabon vs Cote d'Ivoire
-http://sharing.gotdns.ch:8091/socolive.php?id=5126499
-#EXTINF:-1 group-title="Socolive_2",02h00: [BLV KEM] Gabon vs Cote d'Ivoire
-http://sharing.gotdns.ch:8091/socolive.php?id=513394
-#EXTINF:-1 group-title="Socolive_2",02h00: [VƯƠNG ANH] Gabon vs Cote d'Ivoire
-http://sharing.gotdns.ch:8091/socolive.php?id=548860
-#EXTINF:-1 group-title="Socolive_2",02h00: [BLV QUAN VŨ] Gabon vs Cote d'Ivoire
-http://sharing.gotdns.ch:8091/socolive.php?id=239275
-#EXTINF:-1 group-title="Socolive_2",02h00: [LOGAN] Gabon vs Cote d'Ivoire
-http://sharing.gotdns.ch:8091/socolive.php?id=552832
-#EXTINF:-1 group-title="Socolive_2",02h00: [SÙNG A MÚP] Gabon vs Cote d'Ivoire
-http://sharing.gotdns.ch:8091/socolive.php?id=9912097
-#EXTINF:-1 group-title="Socolive_2",02h00: [BLV VOI] Mozambique vs Cameroon
-http://sharing.gotdns.ch:8091/socolive.php?id=9912114
-#EXTINF:-1 group-title="Socolive_2",02h00: [BLV VITAMIN] Mozambique vs Cameroon
-http://sharing.gotdns.ch:8091/socolive.php?id=400722
-#EXTINF:-1 group-title="Socolive_2",02h00: [BLV FIREMAN] Mozambique vs Cameroon
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
-#EXTINF:-1 group-title="Socolive_2",02h00: [CÔNG CHẤT] Mozambique vs Cameroon
-http://sharing.gotdns.ch:8091/socolive.php?id=291277
-#EXTINF:-1 group-title="Socolive_2",02h00: [BLV COZY] Mozambique vs Cameroon
-http://sharing.gotdns.ch:8091/socolive.php?id=531989
 #EXTINF:-1 group-title="Socolive_2",07h00: [KING] San Antonio Spurs vs New York Knicks
 http://sharing.gotdns.ch:8091/socolive.php?id=9912099
 #EXTINF:-1 group-title="Socolive_2",07h00: [BLV DUSTIN] San Antonio Spurs vs New York Knicks
@@ -1429,8 +1401,8 @@ https://HaNoiIPTV.short.gy/Ha_Noi_hom_nay-Ban_dem
 https://HaNoiIPTV.short.gy/Ha_Noi_hom_nay-Su_kien
 #EXTINF:-1 group-title="TruyenHinh_3",MỜI QUÝ KHÁN GIẢ THEO DÕI LẠI | Concert: "Quảng Ninh - Đất mỏ Anh hùng"
 https://www.youtube.com/watch?v=I_vPUtUrPFo
-#EXTINF:-1 group-title="TruyenHinh_3",MỜI QUÝ KHÁN GIẢ THEO DÕI | Những khoảnh khắc cuối cùng trên kênh sóng Báo & PT-TH của gần 29 tỉnh thành phố trên cả nước
-https://HaNoiIPTV.short.gy/Ha_Noi_hom_nay-Tieng_noi_tu_Thu_do
+#EXTINF:-1 group-title="TruyenHinh_3",MỜI QUÝ KHÁN GIẢ THEO DÕI | Cuộc thi "Trường học Không khói thuốc" - Phần thi đến từ Trường THCS Trần Phú (Phường Phủ Lý - Tỉnh Ninh Bình)
+https://www.youtube.com/watch?v=1u_wwFJAvtg
 #EXTINF:-1 group-title="TruyenHinh_3",MỜI QUÝ KHÁN GIẢ THEO DÕI | Những ngày đầu sau sáp nhập TP. Hải Phòng (mới)
 https://HaNoiIPTV.short.gy/Hai_Phong_ngay_nay
 #EXTINF:-1 group-title="TruyenHinh_3",MỜI QUÝ KHÁN GIẢ THEO DÕI | Những ngày đầu sau sáp nhập TP. Hải Phòng (mới)
@@ -1813,10 +1785,8 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-TV_Cultura_HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-LTV1-Truyen_hinh_Lam_Dong_1_HD
 #EXTINF:-1 group-title="TruyenHinh_3",CTV - TH CÀ MAU HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-CTV-Truyen_hinh_Ca_Mau_HD
-#EXTINF:-1 group-title="TruyenHinh_3",TTV1 - TH TÂY NINH 1 HD
+#EXTINF:-1 group-title="TruyenHinh_3",TNTV - TH TÂY NINH HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-TTV1-Truyen_hinh_Tay_Ninh_1_HD
-#EXTINF:-1 group-title="TruyenHinh_3",TTV2 - TH TÂY NINH 2 HD
-https://HaNoiIPTV.short.gy/HaNoiIPTV-TTV2-Truyen_hinh_Tay_Ninh_2_HD
 #EXTINF:-1 group-title="TruyenHinh_3",ĐN1 - TH ĐỒNG NAI 1 HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-DN1-Truyen_hinh_Dong_Nai_1_HD
 #EXTINF:-1 group-title="TruyenHinh_3",ĐN2 - TH ĐỒNG NAI 2 HD
