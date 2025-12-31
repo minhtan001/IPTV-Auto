@@ -95,45 +95,6 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h15-31/12 Central Coast Mariners (W) Vs Brisbane Roar (W) BLV CHU ĐỒNG
-https://hls.cdnok9.com/live/CHUDONG/index.m3u8?expire=1788427256&sign=b7df620ef99aaa1798bda4e698168a46
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h30-31/12 Illawarra Hawks Vs Tasmania JackJumpers BLV NHỊ KA
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h00-31/12 Arsenal Vs Aston Villa BLV DƯƠNG QUÁ REPLAY
-https://hls.cdnok9.com/live/TO5A/index.m3u8?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h00-31/12 Crystal Palace  Vs Tottenham Hotspur BLV KHỔNG MINH REPLAY
-https://hls.cdnok9.com/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h00-31/12 Manchester United Vs Wolves BLV CHU ĐỒNG REPLAY
-https://hls.cdnok9.com/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h30-31/12 Nottingham Forest Vs Manchester City FC BLV VÕ TÒNG REPLAY
-https://hls.cdnok9.com/live/TO6A/index.m3u8?expire=1891408380&sign=df6b95775ca8cf6b58a17d54271d96e3
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h00-31/12 ADE Vs Empire Bengaluru NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvYqjjaLEX3Qi4aHS/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h30-31/12 Shanghai Port U17 Vs Shandong Taishan U17B NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvZ6BCx9VDcthyKuN/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",03h00-02/01 Treasure Beach Vs Chapelton Maroons FC NHÀ ĐÀI
-https://auto.cdnvankhanh.com/live/sd-6MvXMSeXvkhYmCRr8U/playlist.m3u8
-#EXTINF:-1 group-title="Socolive_2",12h15: [BLV ĐỐM] Central Coast Mariners women vs Brisbane Roar Women
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTINF:-1 group-title="Socolive_2",12h15: [BLV VOI] Central Coast Mariners women vs Brisbane Roar Women
-http://sharing.gotdns.ch:8091/socolive.php?id=9912114
-#EXTINF:-1 group-title="Socolive_2",12h15: [TẠ BIÊN GIỚI] Central Coast Mariners women vs Brisbane Roar Women
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",12h15: [BLV TOMMY] Central Coast Mariners women vs Brisbane Roar Women
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
-#EXTINF:-1 group-title="Socolive_2",12h15: [BLV PEWPEW] Central Coast Mariners women vs Brisbane Roar Women
-http://sharing.gotdns.ch:8091/socolive.php?id=9912015
-#EXTINF:-1 group-title="Socolive_2",12h15: [BLV PIRLO] Central Coast Mariners women vs Brisbane Roar Women
-http://sharing.gotdns.ch:8091/socolive.php?id=351530
 #EXTINF:-1 group-title="Socolive_2",13h30: [KING] Illawarra Hawks vs Tasmania JackJumpers
 http://sharing.gotdns.ch:8091/socolive.php?id=9912099
 #EXTINF:-1 group-title="Socolive_2",13h30: [BRIAN] Illawarra Hawks vs Tasmania JackJumpers
