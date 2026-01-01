@@ -96,7 +96,7 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-01/01 Teshrin SC Vs Khan Shaykhun BLV TÔN LẬP
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-01/01 Omayya Ldlib Vs Hutteen FC BLV TÔN LẬP
 https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h00-31/12 Arsenal Vs Aston Villa BLV DƯƠNG QUÁ REPLAY
@@ -243,12 +243,12 @@ http://sharing.gotdns.ch:8091/socolive.php?id=474421
 http://sharing.gotdns.ch:8091/socolive.php?id=538979
 #EXTINF:-1 group-title="Socolive_2",22h00: [BLV ALEX] Watford vs Birmingham City
 http://sharing.gotdns.ch:8091/socolive.php?id=532081
-#EXTINF:-1 group-title="Socolive_2",22h00: [BLV QUAN VŨ] Watford vs Birmingham City
-http://sharing.gotdns.ch:8091/socolive.php?id=239275
 #EXTINF:-1 group-title="Socolive_2",22h00: [BLV TORRES] Watford vs Birmingham City
 http://sharing.gotdns.ch:8091/socolive.php?id=560224
 #EXTINF:-1 group-title="Socolive_2",22h00: [BLV ROBBEN] Watford vs Birmingham City
 http://sharing.gotdns.ch:8091/socolive.php?id=527383
+#EXTINF:-1 group-title="Socolive_2",22h00: [BLV MIXI] Watford vs Birmingham City
+http://sharing.gotdns.ch:8091/socolive.php?id=290928
 #EXTINF:-1 group-title="Socolive_2",22h00: [BLV HENRY] Al Arabi vs Al Shamal
 http://sharing.gotdns.ch:8091/socolive.php?id=9912112
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -985,7 +985,7 @@ https://toiyeuvietnam.dpdns.org/CoBan/ninh-thuan/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",QNgTV1 - Báo và PTTH Quảng Ngãi
 https://freem3u.xyz/api/live/play.m3u8?vid=81
 #EXTINF:-1 group-title="TruyenHinh_2",QNgTV2 - Báo và PTTH Quảng Ngãi
-http://khaitv.giize.com:8090/225.1.4.139:30120
+http://khaitv.giize.com:8090/225.1.1.36:30120
 #EXTINF:-1 group-title="TruyenHinh_2",TTV HD - Báo và PTTH Tuyên Quang
 https://toiyeuvietnam.dpdns.org/CoBan/tuyen-quang/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",TN - Báo và PTTH Thái Nguyên
