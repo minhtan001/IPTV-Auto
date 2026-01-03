@@ -95,36 +95,36 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV BÉO] Borneo FC vs Persatuan Sepakbola Makassar
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV LONG] Borneo FC vs Persatuan Sepakbola Makassar
-http://sharing.gotdns.ch:8091/socolive.php?id=9912050
-#EXTINF:-1 group-title="Socolive_2",15h30: [LÃO LÂM] Borneo FC vs Persatuan Sepakbola Makassar
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV  TYPN] Borneo FC vs Persatuan Sepakbola Makassar
-http://sharing.gotdns.ch:8091/socolive.php?id=9912009
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV Hổ Lùn] Borneo FC vs Persatuan Sepakbola Makassar
-http://sharing.gotdns.ch:8091/socolive.php?id=308080
-#EXTINF:-1 group-title="Socolive_2",15h30: [CÔNG LÝ] Persatuan Sepakbola Indonesia Jakarta vs Persatuan Sepakbola Indonesia Jepara
-http://sharing.gotdns.ch:8091/socolive.php?id=9912035
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV KAI] Persatuan Sepakbola Indonesia Jakarta vs Persatuan Sepakbola Indonesia Jepara
-http://sharing.gotdns.ch:8091/socolive.php?id=313971
-#EXTINF:-1 group-title="Socolive_2",15h30: [VỊT BẠC] Persatuan Sepakbola Indonesia Jakarta vs Persatuan Sepakbola Indonesia Jepara
-http://sharing.gotdns.ch:8091/socolive.php?id=474421
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV KAN] Persatuan Sepakbola Indonesia Jakarta vs Persatuan Sepakbola Indonesia Jepara
-http://sharing.gotdns.ch:8091/socolive.php?id=283501
-#EXTINF:-1 group-title="Socolive_2",15h35: [RICKHANTER] Melbourne City vs Sydney FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912101
-#EXTINF:-1 group-title="Socolive_2",15h35: [BLV Củ Cải] Melbourne City vs Sydney FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912091
-#EXTINF:-1 group-title="Socolive_2",15h35: [BLV ENZO] Melbourne City vs Sydney FC
-http://sharing.gotdns.ch:8091/socolive.php?id=380460
-#EXTINF:-1 group-title="Socolive_2",15h35: [TAM MAO] Melbourne City vs Sydney FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912100
-#EXTINF:-1 group-title="Socolive_2",15h35: [BLV TAP] Melbourne City vs Sydney FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",15h35: [BLV MESSI] Melbourne City vs Sydney FC
-http://sharing.gotdns.ch:8091/socolive.php?id=494201
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-03/01 Adama City Vs Fasil Kenema BLV VĂN VỸ
+https://hls.cdnok9.com/live/VANVY/index.m3u8?expire=1830276060&sign=554d3c30c8d3453c1feb32142851729a
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h45-03/01 Brisbane Roar (W) Vs Wellington Phoenix (W) BLV YẾN THANH
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-03/01 Genoa U20 Vs Napoli Youth BLV URA
+https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-03/01 Cagliari U20 Vs Frosinone U20 BLV LÝ ỨNG
+https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-03/01 Perth Glory (W) Vs Newcastle Jets (W) BLV PHONG VÂN
+https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-03/01 Juventus U20 Vs Parma U20 BLV LỮ BỐ
+https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h00-31/12 Arsenal Vs Aston Villa BLV DƯƠNG QUÁ REPLAY
+https://hls.cdnok9.com/live/TO5A/index.m3u8?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h25-03/01 Crystle Palace Vs Tottenham BLV NHỊ KA REPLAY
+https://hls.cdnok9.com/live/TO2A/index.m3u8?expire=1891408380&sign=b4fcc4558b2967d54c04070f325ecb14
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h55-03/01 Manchester United Vs Wolver BLV SHIN REPLAY
+https://hls.cdnok9.com/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h25-03/01 Arsenal Vs Aston Villa  BLV TRIỆU TỬ LONG REPLAY
+https://hls.cdnok9.com/live/TO4A/index.m3u8?expire=1891408380&sign=5274350aaa915df457fdffd606d49f30
 #EXTINF:-1 group-title="Socolive_2",15h45: [BLV A TÚ] Brisbane Roar Women vs Wellington Phoenix Women
 http://sharing.gotdns.ch:8091/socolive.php?id=557845
 #EXTINF:-1 group-title="Socolive_2",15h45: [RED BULL] Brisbane Roar Women vs Wellington Phoenix Women
@@ -143,8 +143,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912112
 http://sharing.gotdns.ch:8091/socolive.php?id=515530
 #EXTINF:-1 group-title="Socolive_2",17h00: [A CHÈ] Genoa U20 vs Napoli U20
 http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV ALEX] Genoa U20 vs Napoli U20
-http://sharing.gotdns.ch:8091/socolive.php?id=532081
 #EXTINF:-1 group-title="Socolive_2",17h00: [BLV Sao Đỏ] Genoa U20 vs Napoli U20
 http://sharing.gotdns.ch:8091/socolive.php?id=519740
 #EXTINF:-1 group-title="Socolive_2",17h00: [XUÂN SON] Juventus U20 vs Parma U20
@@ -201,8 +199,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=557845
 http://sharing.gotdns.ch:8091/socolive.php?id=563268
 #EXTINF:-1 group-title="Socolive_2",19h30: [BLV TAP] Aston Villa vs Nottingham Forest
 http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",19h30: [BLV DECO] Aston Villa vs Nottingham Forest
-http://sharing.gotdns.ch:8091/socolive.php?id=9912060
 #EXTINF:-1 group-title="Socolive_2",19h30: [BLV ĐỐM] Aston Villa vs Nottingham Forest
 http://sharing.gotdns.ch:8091/socolive.php?id=9912110
 #EXTINF:-1 group-title="Socolive_2",19h30: [BLV Củ Cải] Aston Villa vs Nottingham Forest
@@ -223,6 +219,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=327159
 http://sharing.gotdns.ch:8091/socolive.php?id=380460
 #EXTINF:-1 group-title="Socolive_2",19h30: [THẠCH TÚ] Aston Villa vs Nottingham Forest
 http://sharing.gotdns.ch:8091/socolive.php?id=344370
+#EXTINF:-1 group-title="Socolive_2",19h30: [LÃO LÂM] Aston Villa vs Nottingham Forest
+http://sharing.gotdns.ch:8091/socolive.php?id=527384
 #EXTINF:-1 group-title="Socolive_2",19h55: [VỊT BẠC] Ajman vs Ittihad Kalba FC
 http://sharing.gotdns.ch:8091/socolive.php?id=474421
 #EXTINF:-1 group-title="Socolive_2",19h55: [BLV GÔN] Ajman vs Ittihad Kalba FC
