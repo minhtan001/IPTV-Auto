@@ -99,17 +99,8 @@ http://iptv.nhadai.org/stream/ben-tre
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-04/01 Leeds United Vs Manchester United BLV CHU ĐỒNG
 https://hls.cdnok9.com/live/CHUDONG/index.m3u8?expire=1788427256&sign=b7df620ef99aaa1798bda4e698168a46
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h30-04/01 Lazio Vs Napoli BLV A TỦA
-https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-04/01 Penafiel Vs Pacos de Ferreira BLV LÝ ỨNG
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-04/01 Sporting CP B Vs Viseu BLV TỐNG GIANG
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-04/01 Prachuap Khiri Khan Vs Buriram United BLV PHONG VÂN
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-04/01 Sevilla Vs Levante BLV PEP
+https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-04/01 Bali United Vs Arema FC BLV TRƯƠNG THANH
 https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
@@ -122,18 +113,6 @@ https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f80
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h15-04/01 Selangor Vs Johor Darul Takzim BLV YẾN THANH
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV SÓI] Penafiel vs Pacos de Ferreira
-http://sharing.gotdns.ch:8091/socolive.php?id=427562
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV VIP] Penafiel vs Pacos de Ferreira
-http://sharing.gotdns.ch:8091/socolive.php?id=491873
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV CHIVAS] Sporting CP B vs Viseu
-http://sharing.gotdns.ch:8091/socolive.php?id=485739
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV SATIVA] Sporting CP B vs Viseu
-http://sharing.gotdns.ch:8091/socolive.php?id=321443
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV RAMBO] PT Prachuap FC vs Buriram United
-http://sharing.gotdns.ch:8091/socolive.php?id=534055
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV TORRES] PT Prachuap FC vs Buriram United
-http://sharing.gotdns.ch:8091/socolive.php?id=560224
 #EXTINF:-1 group-title="Socolive_2",18h30: [BLV LONG] Lazio vs Napoli
 http://sharing.gotdns.ch:8091/socolive.php?id=9912050
 #EXTINF:-1 group-title="Socolive_2",18h30: [BLV SINGER] Lazio vs Napoli
