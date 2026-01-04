@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Socolive_2",16h15: [BLV COZY] Kuala Lumpur City FC vs Imigresen FC
-http://sharing.gotdns.ch:8091/socolive.php?id=531989
-#EXTINF:-1 group-title="Socolive_2",16h15: [CÔNG LÝ] Kuala Lumpur City FC vs Imigresen FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912035
-#EXTINF:-1 group-title="Socolive_2",16h15: [QUANG VINH] Kuala Lumpur City FC vs Imigresen FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912109
-#EXTINF:-1 group-title="Socolive_2",16h15: [SÙNG A MÚP] Kuala Lumpur City FC vs Imigresen FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912097
 #EXTINF:-1 group-title="Socolive_2",17h00: [BLV ADAM] Lecce U20 vs Inter Milan U20
 http://sharing.gotdns.ch:8091/socolive.php?id=336303
 #EXTINF:-1 group-title="Socolive_2",17h00: [BLV FAKER] Lecce U20 vs Inter Milan U20
@@ -346,11 +338,11 @@ http://sharing.gotdns.ch:8091/socolive.php?id=531989
 #EXTINF:-1 group-title="Socolive_2",02h45-05/01: [BLV XO] Inter Milan vs Bologna
 http://sharing.gotdns.ch:8091/socolive.php?id=472241
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2",02h45-05/01: [VƯƠNG ANH] Inter Milan vs Bologna
-http://sharing.gotdns.ch:8091/socolive.php?id=548860
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",02h45-05/01: [RED BULL] Inter Milan vs Bologna
 http://sharing.gotdns.ch:8091/socolive.php?id=547345
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2",02h45-05/01: [BLV LONG] Inter Milan vs Bologna
+http://sharing.gotdns.ch:8091/socolive.php?id=9912050
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",02h45-05/01: [BLV MESSI] Paris Saint Germain vs Paris FC
 http://sharing.gotdns.ch:8091/socolive.php?id=494201
