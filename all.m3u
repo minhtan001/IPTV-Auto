@@ -95,44 +95,33 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTINF:-1 group-title="Socolive_2",07h00: [LÃO LÂM] Leones Negros de la U. de G. vs Monterrey
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTINF:-1 group-title="Socolive_2",07h00: [BLV SHIN] Leones Negros de la U. de G. vs Monterrey
-http://sharing.gotdns.ch:8091/socolive.php?id=522086
-#EXTINF:-1 group-title="Socolive_2",07h00: [BLV BÉO] Leones Negros de la U. de G. vs Monterrey
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTINF:-1 group-title="Socolive_2",07h00: [BLV KINH TẾ] Leones Negros de la U. de G. vs Monterrey
-http://sharing.gotdns.ch:8091/socolive.php?id=532999
-#EXTINF:-1 group-title="Socolive_2",07h00: [BLV QUAN VŨ] Leones Negros de la U. de G. vs Monterrey
-http://sharing.gotdns.ch:8091/socolive.php?id=239275
-#EXTINF:-1 group-title="Socolive_2",07h00: [BLV TÔM] Leones Negros de la U. de G. vs Monterrey
-http://sharing.gotdns.ch:8091/socolive.php?id=561379
-#EXTINF:-1 group-title="Socolive_2",08h05: [BRIAN] New York Knicks vs Philadelphia 76ers
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",08h05: [BLV HENRY] New York Knicks vs Philadelphia 76ers
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",08h05: [CHAN SENA] Toronto Raptors vs Atlanta Hawks
-http://sharing.gotdns.ch:8091/socolive.php?id=515530
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",09h45-04/01 Atlas Vs Chivas Guadalajara BLV TỐNG GIANG
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",09h00-04/01 Yamanashi Gakuin University (W) Vs Tokyo Intl Univ (W) BLV TÂY MÔN KHÁNH
+https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",10h30-04/01 Los Angeles Clippers Vs Boston Celtics BLV YẾN THANH
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:-1 group-title="Socolive_2",09h45: [BLV VODKA] Atlas vs Club Deportivo Guadalajara
 http://sharing.gotdns.ch:8091/socolive.php?id=500605
 #EXTINF:-1 group-title="Socolive_2",09h45: [BLV KEM] Atlas vs Club Deportivo Guadalajara
 http://sharing.gotdns.ch:8091/socolive.php?id=513394
-#EXTINF:-1 group-title="Socolive_2",09h45: [BLV KINH TẾ] Atlas vs Club Deportivo Guadalajara
-http://sharing.gotdns.ch:8091/socolive.php?id=532999
 #EXTINF:-1 group-title="Socolive_2",09h45: [BLV SINGER] Atlas vs Club Deportivo Guadalajara
 http://sharing.gotdns.ch:8091/socolive.php?id=9912102
 #EXTINF:-1 group-title="Socolive_2",09h45: [BLV TÔM] Atlas vs Club Deportivo Guadalajara
 http://sharing.gotdns.ch:8091/socolive.php?id=561379
 #EXTINF:-1 group-title="Socolive_2",09h45: [CÔNG CHẤT] Atlas vs Club Deportivo Guadalajara
 http://sharing.gotdns.ch:8091/socolive.php?id=291277
-#EXTINF:-1 group-title="Socolive_2",10h00: [BRIAN] Golden State Warriors vs Utah Jazz
+#EXTINF:-1 group-title="Socolive_2",09h45: [BLV KINH TẾ] Atlas vs Club Deportivo Guadalajara
+http://sharing.gotdns.ch:8091/socolive.php?id=532999
+#EXTINF:-1 group-title="Socolive_2",10h35: [BRIAN] Golden State Warriors vs Utah Jazz
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",10h00: [BLV HENRY] Golden State Warriors vs Utah Jazz
+#EXTINF:-1 group-title="Socolive_2",10h35: [BLV HENRY] Golden State Warriors vs Utah Jazz
 http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",10h00: [CHAN SENA] Golden State Warriors vs Utah Jazz
+#EXTINF:-1 group-title="Socolive_2",10h35: [CHAN SENA] Golden State Warriors vs Utah Jazz
 http://sharing.gotdns.ch:8091/socolive.php?id=515530
-#EXTINF:-1 group-title="Socolive_2",10h30: [KING] New Zealand Breakers vs Perth
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
 #EXTINF:-1 group-title="Socolive_2",12h00: [HUNTER] Suwon KT vs LG Sakers
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
 #EXTINF:-1 group-title="Socolive_2",12h00: [BLV DUSTIN] Suwon KT vs LG Sakers
