@@ -96,6 +96,9 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",23h00-05/01 Egypt Vs Benin BLV KEVILL
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h30-06/01 Erzgebirge Aue Vs Union Berlin BLV KHỔNG MINH
 https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
 #EXTVLCOPT:http-referrer=https://ls40.live/
@@ -105,8 +108,14 @@ https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h30-06/01 Galatasaray Vs Trabzonspor BLV KAKA
 https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",23h00-05/01 Egypt Vs Benin BLV KEVILL
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",01h00-06/01 SL Benfica B Vs Porto B BLV NHỊ KA
+https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",01h30-06/01 Maccabi Haifa Vs Hapoel Haifa BLV PEP
+https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",01h00-06/01 NBE SC Vs Wadi Degla SC BLV TRƯƠNG THANH
+https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h10-05/01 Manchester City Vs Chelsea FC BLV VÕ TÒNG REPLAY
 https://hls.cdnok9.com/live/TO6A/index.m3u8?expire=1891408380&sign=df6b95775ca8cf6b58a17d54271d96e3
@@ -116,21 +125,6 @@ https://hls.cdnok9.com/live/TO4A/index.m3u8?expire=1891408380&sign=5274350aaa915
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h36-05/01 FullHam Vs Liverpool  BLV GIÁO SƯ XOAY REPLAY
 https://hls.cdnok9.com/live/TO5A/index.m3u8?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",23h00-05/01 Meia Noite Youth Vs Ponte Preta (Youth) NHÀ ĐÀI
-rtmp://entrypoint-luongson.cdnfastest.com/live/sd-6MvZ6a1vYAkQTBmJkc/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",23h00-05/01 Nouakchott Academie Vs AS Pompier NHÀ ĐÀI
-rtmp://entrypoint-luongson.cdnfastest.com/live/sd-6MvYqdCs2QgKCn8ct4/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",23h00-05/01 Fortune FC Vs Bombada FC NHÀ ĐÀI
-rtmp://entrypoint-luongson.cdnfastest.com/live/sd-6MvYqgSPoWCq5NXXY8/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",23h00-05/01 Real Banjul Vs Gambian Dutch Lions NHÀ ĐÀI
-rtmp://entrypoint-luongson.cdnfastest.com/live/sd-6MvYqgSPoRosLQshEL/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",23h00-05/01 Medina United FC Vs Samger FC NHÀ ĐÀI
-rtmp://entrypoint-luongson.cdnfastest.com/live/sd-6MvYqgSPoPcPTw3n5S/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",23h40-05/01 AS Nordia Jerusalem U19 Vs Hapoel Jerusalem Malka U19 NHÀ ĐÀI
 rtmp://entrypoint-luongson.cdnfastest.com/live/sd-6MvYqgRez6bi3BjcWQ/playlist.m3u8
@@ -144,14 +138,14 @@ rtmp://entrypoint-luongson.cdnfastest.com/live/sd-6MvXMSXsYSh7WNx9Rn/playlist.m3
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h00-06/01 Hapoel Kfar Shalem Vs Bnei Yehuda Tel Aviv NHÀ ĐÀI
 rtmp://entrypoint-luongson.cdnfastest.com/live/sd-6MvXMSXsZ1fKZaLtjE/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",01h00-06/01 NBE SC Vs Wadi Degla SC BLV TRƯƠNG THANH
-https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",01h15-06/01 Real Youth Vs Coritiba PR (Youth) NHÀ ĐÀI
 rtmp://entrypoint-luongson.cdnfastest.com/live/sd-6MvZ6a1vY8YvahwPbi/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",02h00-06/01 Galvez Youth Vs Gremio (Youth) NHÀ ĐÀI
 rtmp://entrypoint-luongson.cdnfastest.com/live/sd-6MvZ6HeVtbXJaxTk4k/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",02h00-06/01 Nigeria Vs Mozambique BLV KEVILL
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",02h30-06/01 Triestina Vs ASD Alcione BLV VÕ TÒNG
 https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
@@ -173,27 +167,27 @@ rtmp://entrypoint-luongson.cdnfastest.com/live/sd-6MvZ6HfFhnzDtn8E1i/playlist.m3
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h30-06/01 Palmeiras (Youth) Vs Monte Roraima/RR Youth NHÀ ĐÀI
 rtmp://entrypoint-luongson.cdnfastest.com/live/sd-6MvZ6HfEsnCQAvQ6fn/playlist.m3u8
-#EXTINF:-1 group-title="Socolive_2",23h00: [VƯƠNG ANH] Egypt vs Benin
+#EXTINF:-1 group-title="Socolive_2",00h00: [VƯƠNG ANH] Egypt vs Benin
 http://sharing.gotdns.ch:8091/socolive.php?id=548860
-#EXTINF:-1 group-title="Socolive_2",23h00: [TAM MAO] Egypt vs Benin
+#EXTINF:-1 group-title="Socolive_2",00h00: [TAM MAO] Egypt vs Benin
 http://sharing.gotdns.ch:8091/socolive.php?id=9912100
-#EXTINF:-1 group-title="Socolive_2",23h00: [CR Bưởi] Egypt vs Benin
+#EXTINF:-1 group-title="Socolive_2",00h00: [CR Bưởi] Egypt vs Benin
 http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV MESSI] Egypt vs Benin
+#EXTINF:-1 group-title="Socolive_2",00h00: [BLV MESSI] Egypt vs Benin
 http://sharing.gotdns.ch:8091/socolive.php?id=494201
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV A BỆU] Egypt vs Benin
+#EXTINF:-1 group-title="Socolive_2",00h00: [BLV A BỆU] Egypt vs Benin
 http://sharing.gotdns.ch:8091/socolive.php?id=484845
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV TOMIA] Egypt vs Benin
+#EXTINF:-1 group-title="Socolive_2",00h00: [BLV TOMIA] Egypt vs Benin
 http://sharing.gotdns.ch:8091/socolive.php?id=9912008
-#EXTINF:-1 group-title="Socolive_2",23h00: [RED BULL] Egypt vs Benin
+#EXTINF:-1 group-title="Socolive_2",00h00: [RED BULL] Egypt vs Benin
 http://sharing.gotdns.ch:8091/socolive.php?id=547345
-#EXTINF:-1 group-title="Socolive_2",23h00: [LOGAN] Egypt vs Benin
+#EXTINF:-1 group-title="Socolive_2",00h00: [LOGAN] Egypt vs Benin
 http://sharing.gotdns.ch:8091/socolive.php?id=552832
-#EXTINF:-1 group-title="Socolive_2",23h00: [SÙNG A MÚP] Egypt vs Benin
+#EXTINF:-1 group-title="Socolive_2",00h00: [SÙNG A MÚP] Egypt vs Benin
 http://sharing.gotdns.ch:8091/socolive.php?id=9912097
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV VODKA] Egypt vs Benin
+#EXTINF:-1 group-title="Socolive_2",00h00: [BLV VODKA] Egypt vs Benin
 http://sharing.gotdns.ch:8091/socolive.php?id=500605
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV XO] Egypt vs Benin
+#EXTINF:-1 group-title="Socolive_2",00h00: [BLV XO] Egypt vs Benin
 http://sharing.gotdns.ch:8091/socolive.php?id=472241
 #EXTINF:-1 group-title="Socolive_2",00h30: [THẠCH TÚ] Galatasaray vs Trabzonspor
 http://sharing.gotdns.ch:8091/socolive.php?id=344370
@@ -213,8 +207,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=534055
 http://sharing.gotdns.ch:8091/socolive.php?id=406865
 #EXTINF:-1 group-title="Socolive_2",01h00: [BLV EDRIC] SL Benfica B vs Porto B
 http://sharing.gotdns.ch:8091/socolive.php?id=5126499
-#EXTINF:-1 group-title="Socolive_2",01h00: [LOGAN] SL Benfica B vs Porto B
-http://sharing.gotdns.ch:8091/socolive.php?id=552832
 #EXTINF:-1 group-title="Socolive_2",01h00: [BLV CHIVAS] Bank El Ahly vs Wadi Degla SC
 http://sharing.gotdns.ch:8091/socolive.php?id=485739
 #EXTINF:-1 group-title="Socolive_2",01h00: [BLV Sao Đỏ] Bank El Ahly vs Wadi Degla SC
