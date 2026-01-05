@@ -95,12 +95,9 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTINF:-1 group-title="Socolive_2",09h00: [BRIAN] Sacramento Kings vs Milwaukee Bucks
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",09h30: [BLV HENRY] Los Angeles Lakers vs Memphis Grizzlies
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",09h30: [CHAN SENA] Los Angeles Lakers vs Memphis Grizzlies
-http://sharing.gotdns.ch:8091/socolive.php?id=515530
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",09h30-05/01 Los Angeles Lakers Vs Memphis Grizzlies BLV SHIN
+https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 #EXTINF:-1 group-title="Socolive_2",13h00: [BRIAN] Sydney W vs Bendigo W
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTINF:-1 group-title="Socolive_2",13h00: [BLV HENRY] Sydney W vs Bendigo W
@@ -1516,7 +1513,7 @@ https://HaNoiIPTV.short.gy/Ha_Noi_hom_nay-Su_kien
 #EXTINF:-1 group-title="TruyenHinh_3",MỜI QUÝ KHÁN GIẢ THEO DÕI LẠI | Concert: "Quảng Ninh - Đất mỏ Anh hùng"
 https://www.youtube.com/watch?v=I_vPUtUrPFo
 #EXTINF:-1 group-title="TruyenHinh_3",MỜI QUÝ KHÁN GIẢ THEO DÕI | Cuộc thi "Trường học Không khói thuốc" - Phần thi đến từ Trường THCS Trần Phú (Phường Phủ Lý - Tỉnh Ninh Bình)
-https://www.youtube.com/watch?v=8Z03ylNodFU
+https://HaNoiIPTV.short.gy/Ha_Noi_hom_nay-Tieng_noi_tu_Thu_do
 #EXTINF:-1 group-title="TruyenHinh_3",MỜI QUÝ KHÁN GIẢ THEO DÕI | Những ngày đầu sau sáp nhập TP. Hải Phòng (mới)
 https://HaNoiIPTV.short.gy/Hai_Phong_ngay_nay
 #EXTINF:-1 group-title="TruyenHinh_3",MỜI QUÝ KHÁN GIẢ THEO DÕI | Những ngày đầu sau sáp nhập TP. Hải Phòng (mới)
