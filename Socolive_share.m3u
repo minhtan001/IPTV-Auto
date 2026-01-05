@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Socolive_2",19h45: [BLV  TYPN] Abha vs Al Diraiyah
-http://sharing.gotdns.ch:8091/socolive.php?id=9912009
-#EXTINF:-1 group-title="Socolive_2",19h45: [BLV KEM] Abha vs Al Diraiyah
-http://sharing.gotdns.ch:8091/socolive.php?id=513394
-#EXTINF:-1 group-title="Socolive_2",19h45: [BLV LONG] Abha vs Al Diraiyah
-http://sharing.gotdns.ch:8091/socolive.php?id=9912050
-#EXTINF:-1 group-title="Socolive_2",19h45: [BLV QUAN VŨ] Abha vs Al Diraiyah
-http://sharing.gotdns.ch:8091/socolive.php?id=239275
-#EXTINF:-1 group-title="Socolive_2",19h45: [BLV TÔM] Abha vs Al Diraiyah
-http://sharing.gotdns.ch:8091/socolive.php?id=561379
-#EXTINF:-1 group-title="Socolive_2",19h45: [LÃO LÂM] Abha vs Al Diraiyah
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
 #EXTINF:-1 group-title="Socolive_2",20h00: [BLV ADAM] VfB Stuttgart vs Luzern
 http://sharing.gotdns.ch:8091/socolive.php?id=336303
 #EXTINF:-1 group-title="Socolive_2",20h00: [BLV KAN] VfB Stuttgart vs Luzern
@@ -114,6 +102,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=406865
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",01h00-06/01: [BLV EDRIC] SL Benfica B vs Porto B
 http://sharing.gotdns.ch:8091/socolive.php?id=5126499
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2",01h00-06/01: [LOGAN] SL Benfica B vs Porto B
+http://sharing.gotdns.ch:8091/socolive.php?id=552832
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",01h00-06/01: [BLV CHIVAS] Bank El Ahly vs Wadi Degla SC
 http://sharing.gotdns.ch:8091/socolive.php?id=485739
