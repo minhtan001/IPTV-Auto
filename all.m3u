@@ -96,14 +96,11 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",23h00-06/01 Algeria Vs Democratic Rep Congo BLV TRIỆU TỬ LONG
-https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h00-07/01 Lecce Vs AS Roma BLV KEVILL
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",01h00-07/01 Granada CF Vs Rayo Vallecano BLV CHU ĐỒNG
 https://hls.cdnok9.com/live/CHUDONG/index.m3u8?expire=1788427256&sign=b7df620ef99aaa1798bda4e698168a46
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h00-07/01 Lecce Vs AS Roma BLV KEVILL
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h30-07/01 Fenerbahce Vs Samsunspor BLV URA
 https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
@@ -114,23 +111,8 @@ https://hls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac425
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",01h00-07/01 Al-Ittihad Alexandria Vs ZED FC BLV PEP
 https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",23h30-06/01 Al-Sailiya Vs Al Rayyan BLV NGŨ CA
-https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",02h00-07/01 Ivory Coast Vs Burkina Faso BLV NGŨ CA
 https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 group-title="Socolive_2",23h30: [JACKMAN] Al-Sailiya vs Al Rayyan
-http://sharing.gotdns.ch:8091/socolive.php?id=542758
-#EXTINF:-1 group-title="Socolive_2",23h30: [BLV ADAM] Al-Sailiya vs Al Rayyan
-http://sharing.gotdns.ch:8091/socolive.php?id=336303
-#EXTINF:-1 group-title="Socolive_2",23h30: [MR BÍCH] Al-Sailiya vs Al Rayyan
-http://sharing.gotdns.ch:8091/socolive.php?id=285067
-#EXTINF:-1 group-title="Socolive_2",23h30: [BLV A WIN] Al-Sailiya vs Al Rayyan
-http://sharing.gotdns.ch:8091/socolive.php?id=536185
-#EXTINF:-1 group-title="Socolive_2",23h30: [KÉP] Al-Sailiya vs Al Rayyan
-http://sharing.gotdns.ch:8091/socolive.php?id=560690
-#EXTINF:-1 group-title="Socolive_2",23h30: [BLV BÉO] Al-Sailiya vs Al Rayyan
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
 #EXTINF:-1 group-title="Socolive_2",23h55: [BLV MESSI] Algeria vs Democratic Republic of the Congo
 http://sharing.gotdns.ch:8091/socolive.php?id=494201
 #EXTINF:-1 group-title="Socolive_2",23h55: [BLV  TYPN] Algeria vs Democratic Republic of the Congo
