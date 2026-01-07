@@ -114,6 +114,9 @@ https://hls.cdnok9.com/live/TO2A/index.m3u8?expire=1891408380&sign=b4fcc4558b296
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h30-07/01 Manchester City Vs Chelsea FC BLV CHU ĐỒNG REPLAY
 https://hls.cdnok9.com/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h00-07/01 PS Hizbul Wathan Vs Persema Malang BLV A TỦA
+https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-07/01 Verona U20 Vs Lazio U20 BLV NGŨ CA
 https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTINF:-1 group-title="Socolive_2",15h30: [BLV HENRY] Melbourne United vs Cairns Taipans
@@ -132,10 +135,10 @@ http://sharing.gotdns.ch:8091/socolive.php?id=427562
 http://sharing.gotdns.ch:8091/socolive.php?id=522086
 #EXTINF:-1 group-title="Socolive_2",16h30: [RÙA VÀNG] Yadanarbon FC vs Hantharwady United
 http://sharing.gotdns.ch:8091/socolive.php?id=563268
-#EXTINF:-1 group-title="Socolive_2",16h30: [BLV Sao Đỏ] Yadanarbon FC vs Hantharwady United
-http://sharing.gotdns.ch:8091/socolive.php?id=519740
 #EXTINF:-1 group-title="Socolive_2",16h30: [VỊT BẠC] Yadanarbon FC vs Hantharwady United
 http://sharing.gotdns.ch:8091/socolive.php?id=474421
+#EXTINF:-1 group-title="Socolive_2",16h30: [BLV KAI] Yadanarbon FC vs Hantharwady United
+http://sharing.gotdns.ch:8091/socolive.php?id=313971
 #EXTINF:-1 group-title="Socolive_2",17h00: [BLV DUSTIN] LG Sakers vs Seoul Thunders
 http://sharing.gotdns.ch:8091/socolive.php?id=289098
 #EXTINF:-1 group-title="Socolive_2",18h00: [BRIAN] Kaohsiung Aquas vs Taipei Taishin Mars
