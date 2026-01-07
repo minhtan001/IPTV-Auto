@@ -96,36 +96,14 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",08h00-07/01 Atlas (W) Vs Pachuca (W) BLV HOA VINH
-https://hls.cdnok9.com/live/LOELOE6380K/index.m3u8?expire=1788427256&sign=86b4dafe54d1b6da2bffad6653671edb
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",08h00-07/01 Memphis Grizzlies Vs San Antonio Spurs BLV YẾN THANH
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",10h00-07/01 Mazatlan FC (W) Vs Juarez FC (W) BLV TỐNG GIANG
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",07h00-07/01 Washington Wizards Vs Orlando Magic BLV LÝ QUỲ
 https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",08h00-07/01 Memphis Grizzlies Vs San Antonio Spurs BLV YẾN THANH
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:-1 group-title="Socolive_2",07h00: [KING] Washington Wizards vs Orlando Magic
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV KINH TẾ] Atlas Women vs Pachuca Women
-http://sharing.gotdns.ch:8091/socolive.php?id=532999
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV SINGER] Atlas Women vs Pachuca Women
-http://sharing.gotdns.ch:8091/socolive.php?id=9912102
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV PEWPEW] Atlas Women vs Pachuca Women
-http://sharing.gotdns.ch:8091/socolive.php?id=9912015
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV PIRLO] Atlas Women vs Pachuca Women
-http://sharing.gotdns.ch:8091/socolive.php?id=351530
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV ĐỐM] Atlas Women vs Pachuca Women
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV Củ Cải] Atlas Women vs Pachuca Women
-http://sharing.gotdns.ch:8091/socolive.php?id=9912091
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV HENRY] Memphis Grizzlies vs San Antonio Spurs
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",08h00: [BRIAN] Memphis Grizzlies vs San Antonio Spurs
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",08h00: [CHAN SENA] Minnesota Timberwolves vs Miami Heat
-http://sharing.gotdns.ch:8091/socolive.php?id=515530
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV DUSTIN] New Orleans Pelicans vs Los Angeles Lakers
-http://sharing.gotdns.ch:8091/socolive.php?id=289098
 #EXTINF:-1 group-title="Socolive_2",10h00: [BLV SINGER] Mazatlan FC Women vs Juarez FC Women
 http://sharing.gotdns.ch:8091/socolive.php?id=9912102
 #EXTINF:-1 group-title="Socolive_2",10h00: [BLV TAP] Mazatlan FC Women vs Juarez FC Women
@@ -1875,7 +1853,9 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-Band_News_TV_HD
 #EXTINF:-1 group-title="TruyenHinh_3",BAND SPORTS HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-Band_Sports_HD
 #EXTINF:-1 group-title="TruyenHinh_3",QNgTV1 - TH QUẢNG NGÃI 1 HD
-https://HaNoiIPTV.short.gy/HaNoiIPTV-QNGTV-Truyen_hinh_Bao_Quang_Ngai
+https://HaNoiIPTV.short.gy/HaNoiIPTV-QNgTV1-Truyen_hinh_Quang_Ngai_1
+#EXTINF:-1 group-title="TruyenHinh_3",QNgTV2 - TH QUẢNG NGÃI 2 thử nghiệm
+https://HaNoiIPTV.short.gy/HaNoiIPTV-QNgTV2-Truyen_hinh_Quang_Ngai_2
 #EXTINF:-1 group-title="TruyenHinh_3",GTV HD - TH GIA LAI
 https://HaNoiIPTV.short.gy/HaNoiIPTV-GTV-Truyen_hinh_Gia_Lai_HD
 #EXTINF:-1 group-title="TruyenHinh_3",DRT - TH ĐẮK LẮK HD
@@ -1912,8 +1892,6 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-THDT1-Truyen_hinh_Dong_Thap_HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-THDT2-Van_hoa_mien_Tay
 #EXTINF:-1 group-title="TruyenHinh_3",ATV2 - TH AN GIANG 2 HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-ATV2-Truyen_hinh_An_Giang_2_HD
-#EXTINF:-1 group-title="TruyenHinh_3",REDE BRASIL HD
-https://www.youtube.com/watch?v=M6yMcv2dsIg
 #EXTINF:-1 group-title="TruyenHinh_3",TV BRASIL HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-TV_Brasil_HD
 #EXTINF:-1 group-title="TruyenHinh_3",REDE MINAS HD
