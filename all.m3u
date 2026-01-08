@@ -96,14 +96,17 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-08/01 Shire Endaselassie FC Vs Negelle Arsi BLV PEP
-https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h30-08/01 Australia U23 Vs Thailand U23 BLV KEVILL
 https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h15-08/01 Stride Vs Income Tax SC BLV NHỊ KA
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-08/01 Haras El Hedoud Vs Smouha SC BLV TỐNG GIANG
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h35-08/01 Shanxi Zhongyu Vs Tianjin BLV LÝ QUỲ
+https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-08/01 Al Qasim Sport Club Vs Al Shorta BLV TRƯƠNG THANH
+https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",04h30-08/01 U23 VIỆT NAM Vs U23 JORDAN BLV LƯU BỊ REPLAY
 https://hls.cdnok9.com/live/TO2A/index.m3u8?expire=1891408380&sign=b4fcc4558b2967d54c04070f325ecb14
@@ -117,16 +120,23 @@ https://hls.cdnok9.com/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h25-08/01 BURNLEY Vs MU BLV KAKA REPLAY
 https://hls.cdnok9.com/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h35-08/01 Shanxi Zhongyu Vs Tianjin BLV LÝ QUỲ
-https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-08/01 Dibba Al-Fujairah Vs Khor Fakkan BLV LỮ BỐ
+https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-08/01 Al Qasim Sport Club Vs Al Shorta BLV TRƯƠNG THANH
-https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-08/01 Al-Jazira(UAE) Vs Ajman BLV KHỔNG MINH
+https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-08/01 Welwalo Adigrat Vs Adama City BLV CHU ĐỒNG
+https://hls.cdnok9.com/live/CHUDONG/index.m3u8?expire=1788427256&sign=b7df620ef99aaa1798bda4e698168a46
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-08/01 Sidama Bunna Vs Arba Minch BLV TÔN LẬP
+https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-08/01 ES Ben Aknoun Vs Olympique Akbou BLV PHONG VÂN
+https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-08/01 Club Brugge Vs Sturm Graz BLV NGŨ CA
 https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 group-title="Socolive_2",17h00: [KING] Wonju DB vs Suwon KT
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
 #EXTINF:-1 group-title="Socolive_2",18h30: [BLV ĐỐM] Australia U23 vs Thailand U23
 http://sharing.gotdns.ch:8091/socolive.php?id=9912110
 #EXTINF:-1 group-title="Socolive_2",18h30: [BLV Củ Cải] Australia U23 vs Thailand U23
@@ -324,9 +334,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912008
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-09/01: [BLV 7UP] Al Nassr FC vs Al Qadsiah
 http://sharing.gotdns.ch:8091/socolive.php?id=534219
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",01h00-09/01: [TAM MAO] Paris Saint Germain vs Marseille
-http://sharing.gotdns.ch:8091/socolive.php?id=9912100
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",01h00-09/01: [BLV TÔM] Paris Saint Germain vs Marseille
 http://sharing.gotdns.ch:8091/socolive.php?id=561379
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -341,6 +348,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=459401
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",01h00-09/01: [BLV LONG] Paris Saint Germain vs Marseille
 http://sharing.gotdns.ch:8091/socolive.php?id=9912050
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",01h00-09/01: [BLV RAMBO] Paris Saint Germain vs Marseille
+http://sharing.gotdns.ch:8091/socolive.php?id=534055
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h00-09/01: [RED BULL] Atletico Madrid vs Real Madrid
 http://sharing.gotdns.ch:8091/socolive.php?id=547345
