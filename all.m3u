@@ -114,6 +114,12 @@ https://hls.cdnok9.com/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h25-08/01 BURNLEY Vs MU BLV KAKA REPLAY
 https://hls.cdnok9.com/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h35-08/01 Shanxi Zhongyu Vs Tianjin BLV LÝ QUỲ
+https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h30-08/01 Australia U23 Vs Thailand U23 BLV KEVILL
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-08/01 Club Brugge Vs Sturm Graz BLV NGŨ CA
 https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTINF:-1 group-title="Socolive_2",17h00: [KING] Wonju DB vs Suwon KT
@@ -593,6 +599,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=991140
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h00-09/01: [BLV FAKER] Maccabi Netanya vs Hapoel Jerusalem
 http://sharing.gotdns.ch:8091/socolive.php?id=564597
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h00-09/01: [LOGAN] Maccabi Netanya vs Hapoel Jerusalem
+http://sharing.gotdns.ch:8091/socolive.php?id=552832
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h00-09/01: [BLV SINGER] Persatuan Sepakbola Makassar vs Bali United
 http://sharing.gotdns.ch:8091/socolive.php?id=9912102
