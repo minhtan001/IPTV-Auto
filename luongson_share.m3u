@@ -1,10 +1,16 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",18h00-09/01 Perth Glory (W) Vs WS Wanderers (W) BLV PHONG VÂN
+https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",17h00-09/01 Anyang JungKwanJang Vs Mobis Phoebus BLV LÝ QUỲ
 https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",18h00-09/01 Perth Glory (W) Vs WS Wanderers (W) BLV PHONG VÂN
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:-1 group-title="LuongSon_2",18h35-09/01 Beijing Vs Shandong BLV YẾN THANH
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",18h30-09/01 Belediye Vanspor Vs Boluspor BLV PEP
+https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",18h00-09/01 Taiwan Beer Leopards Vs New Taipei Kings BLV SHIN
 https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
@@ -15,14 +21,8 @@ https://hls.cdnok9.com/live/TO5A/index.m3u8?expire=1891408380&sign=8bed1a7b9dde1
 #EXTINF:-1 group-title="LuongSon_2",13h25-09/01 BURNLEY Vs MU BLV KAKA REPLAY
 https://hls.cdnok9.com/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",18h35-09/01 Beijing Vs Shandong BLV YẾN THANH
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",22h00-09/01 U23 Vietnam Vs U23 Jordan  BLV KEVILL REPLAY
 https://hls.cdnok9.com/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",16h35-09/01 Delta Putra Sidoarjo Vs PSBI Blitar NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MvYr244DKYBR8WDor/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",17h30-09/01 Racing Genk Vs Diosgyor VTK NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvYqdELKyLT9S2u24/playlist.m3u8
@@ -30,11 +30,11 @@ https://auto.cdnok9.com/live/sd-6MvYqdELKyLT9S2u24/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon_2",18h00-09/01 Puskas Akademia Vs KVSK Lommel NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvYqdELf7J7fiEhUp/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2",18h30-09/01 Belediye Vanspor Vs Boluspor BLV PEP
-https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",18h45-09/01 Inter de Limeira (Youth) Vs CSA U20 NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvZ6HeVNvY47JbAxk/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",19h00-09/01 PSM Makassar Vs Bali United BLV KEVILL
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",19h00-09/01 Duhok Vs AL Minaa NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvYqdELf56doEQnKv/playlist.m3u8
@@ -42,8 +42,14 @@ https://auto.cdnok9.com/live/sd-6MvYqdELf56doEQnKv/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon_2",19h00-09/01 Zakho Vs Baghdad NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvYqdELVg1TxFXWHa/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",19h00-09/01 Uthai Thani FC Vs Buriram United BLV TỐNG GIANG
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",19h00-09/01 Naft Misan Vs Al Zawraa NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvYqdELViCwpjMRSU/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2",19h00-09/01 Hawassa City FC Vs Kedus Giorgis BLV TRƯƠNG THANH
+https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2",19h55-09/01 Muscat Vs Nizwa Club NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvYr216w3kXUEHz5i/playlist.m3u8
