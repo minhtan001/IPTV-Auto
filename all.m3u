@@ -96,14 +96,17 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h25-09/01 BURNLEY Vs MU BLV KAKA REPLAY
-https://hls.cdnok9.com/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-09/01 U23 Vietnam Vs U23 Jordan  BLV KEVILL REPLAY
+https://hls.cdnok9.com/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h00-09/01 Sunderland Vs Manchester City BLV DƯƠNG QUÁ REPLAY
 https://hls.cdnok9.com/live/TO5A/index.m3u8?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-09/01 U23 Vietnam Vs U23 Jordan  BLV KEVILL REPLAY
-https://hls.cdnok9.com/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h25-09/01 BURNLEY Vs MU BLV KAKA REPLAY
+https://hls.cdnok9.com/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h00-09/01 Sydney FC (W) Vs Adelaide United (W) BLV KHỔNG MINH
+https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
 #EXTINF:-1 group-title="Socolive_2",13h30: [KING] New Zealand Breakers vs Sydney
 http://sharing.gotdns.ch:8091/socolive.php?id=9912099
 #EXTINF:-1 group-title="Socolive_2",13h30: [CHAN SENA] New Zealand Breakers vs Sydney
@@ -178,10 +181,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=283501
 http://sharing.gotdns.ch:8091/socolive.php?id=527383
 #EXTINF:-1 group-title="Socolive_2",18h30: [KÉP] Belediye Vanspor vs Boluspor
 http://sharing.gotdns.ch:8091/socolive.php?id=560690
-#EXTINF:-1 group-title="Socolive_2",18h30: [CÔNG LÝ] Geylang United FC vs Balestier Khalsa FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912035
-#EXTINF:-1 group-title="Socolive_2",18h30: [QUANG VINH] Geylang United FC vs Balestier Khalsa FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912109
 #EXTINF:-1 group-title="Socolive_2",19h00: [BLV FIREMAN] Maccabi Netanya vs Hapoel Jerusalem
 http://sharing.gotdns.ch:8091/socolive.php?id=991140
 #EXTINF:-1 group-title="Socolive_2",19h00: [BLV FAKER] Maccabi Netanya vs Hapoel Jerusalem
@@ -783,9 +782,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=472241
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h30-10/01: [BLV LONG] Lebanon U23 vs South Korea U23
 http://sharing.gotdns.ch:8091/socolive.php?id=9912050
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h30-10/01: [BLV QUAN VŨ] Lebanon U23 vs South Korea U23
-http://sharing.gotdns.ch:8091/socolive.php?id=239275
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h30-10/01: [BLV TÔM] Lebanon U23 vs South Korea U23
 http://sharing.gotdns.ch:8091/socolive.php?id=561379
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -794,6 +790,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=527384
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h30-10/01: [BLV VODKA] Lebanon U23 vs South Korea U23
 http://sharing.gotdns.ch:8091/socolive.php?id=500605
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h30-10/01: [RED BULL] Lebanon U23 vs South Korea U23
+http://sharing.gotdns.ch:8091/socolive.php?id=547345
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h00-10/01: [RÙA VÀNG] Madura United vs PSIM Yogyakarta
 http://sharing.gotdns.ch:8091/socolive.php?id=563268
@@ -885,8 +884,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=459401
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h00-10/01: [BLV Sao Đỏ] Como vs Bologna
 http://sharing.gotdns.ch:8091/socolive.php?id=519740
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h00-10/01: [RED BULL] Como vs Bologna
-http://sharing.gotdns.ch:8091/socolive.php?id=547345
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h00-10/01: [BLV QUAN VŨ] Como vs Bologna
+http://sharing.gotdns.ch:8091/socolive.php?id=239275
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h00-10/01: [KÉP] Udinese vs Pisa
 http://sharing.gotdns.ch:8091/socolive.php?id=560690
