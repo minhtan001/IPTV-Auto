@@ -95,11 +95,11 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTINF:-1 group-title="Socolive_2",07h00: [CHAN SENA] Boston Celtics vs Toronto Raptors
+#EXTINF:-1 group-title="Socolive_2",07h25: [CHAN SENA] Boston Celtics vs Toronto Raptors
 http://sharing.gotdns.ch:8091/socolive.php?id=515530
-#EXTINF:-1 group-title="Socolive_2",07h00: [BLV DUSTIN] Boston Celtics vs Toronto Raptors
+#EXTINF:-1 group-title="Socolive_2",07h25: [BLV DUSTIN] Boston Celtics vs Toronto Raptors
 http://sharing.gotdns.ch:8091/socolive.php?id=289098
-#EXTINF:-1 group-title="Socolive_2",07h00: [BLV HENRY] Orlando Magic vs Philadelphia 76ers
+#EXTINF:-1 group-title="Socolive_2",07h25: [BLV HENRY] Orlando Magic vs Philadelphia 76ers
 http://sharing.gotdns.ch:8091/socolive.php?id=9912112
 #EXTINF:-1 group-title="Socolive_2",08h00: [BLV SINGER] Mazatlan FC vs FC Juarez
 http://sharing.gotdns.ch:8091/socolive.php?id=9912102
@@ -137,9 +137,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=534055
 http://sharing.gotdns.ch:8091/socolive.php?id=372746
 #EXTINF:-1 group-title="Socolive_2",08h00: [BLV TORRES] Saint Louis Athletica Women vs Unam Pumas Women
 http://sharing.gotdns.ch:8091/socolive.php?id=560224
-#EXTINF:-1 group-title="Socolive_2",08h00: [KING] Memphis Grizzlies vs Oklahoma City Thunder
+#EXTINF:-1 group-title="Socolive_2",08h25: [KING] Memphis Grizzlies vs Oklahoma City Thunder
 http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",08h00: [BRIAN] Memphis Grizzlies vs Oklahoma City Thunder
+#EXTINF:-1 group-title="Socolive_2",08h25: [BRIAN] Memphis Grizzlies vs Oklahoma City Thunder
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTINF:-1 group-title="Socolive_2",10h00: [CR Bưởi] Atlas vs Puebla
 http://sharing.gotdns.ch:8091/socolive.php?id=387694
@@ -201,6 +201,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=351530
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
 #EXTINF:-1 group-title="Socolive_2",14h00: [KING] S-Birds W vs Busan BNK Sum W
 http://sharing.gotdns.ch:8091/socolive.php?id=9912099
+#EXTINF:-1 group-title="Socolive_2",14h00: [BRIAN] S-Birds W vs Busan BNK Sum W
+http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTINF:-1 group-title="Socolive_2",14h30: [CHAN SENA] LG Sakers vs Goyang Sono
 http://sharing.gotdns.ch:8091/socolive.php?id=515530
 #EXTINF:-1 group-title="Socolive_2",15h00: [BLV BÉO] Newcastle Jets Women vs Central Coast Mariners women
@@ -1336,8 +1338,6 @@ https://vodcdn.fptplay.net/POVOD/encoded/2025/12/28/thamtulungdanhconanduanhcuad
 https://vip.opstream90.com/20251129/18758_e33bdf72/3000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Trái Tim Què Quặt
 https://s6.kkphimplayer6.com/20251228/0HQf0tP2/3500kb/hls/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 19
-https://live.fptplay53.net/fnxch1/thethao19_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
@@ -1349,7 +1349,7 @@ https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Vietnam Today
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV5
-https://freem3u.xyz/api/live/play.m3u8?vid=110
+https://liveh12.seenow.vn/hls/VTV5_HD/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV5 Tây Nam Bộ
 https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV5 Tây Nguyên
