@@ -95,42 +95,55 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTINF:-1 group-title="Socolive_2",19h00: [RÙA VÀNG] Madura United vs PSIM Yogyakarta
-http://sharing.gotdns.ch:8091/socolive.php?id=563268
-#EXTINF:-1 group-title="Socolive_2",19h00: [BLV Sao Đỏ] Madura United vs PSIM Yogyakarta
-http://sharing.gotdns.ch:8091/socolive.php?id=519740
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV ROBBEN] Cheltenham Town vs Leicester City
-http://sharing.gotdns.ch:8091/socolive.php?id=527383
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV EDRIC] Cheltenham Town vs Leicester City
-http://sharing.gotdns.ch:8091/socolive.php?id=5126499
-#EXTINF:-1 group-title="Socolive_2",19h15: [TẠ BIÊN GIỚI] Everton vs Sunderland
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-10/01 Real Oviedo Vs Real Betis BLV LƯU BỊ
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h15-10/01 Everton Vs Sunderland A.F.C BLV SHIN
+https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-10/01 Udinese Vs Pisa BLV NGŨ CA
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-10/01 Neom SC Vs Al-Fateh BLV LỮ BỐ
+https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-10/01 Iran U23 Vs Uzbekistan U23 BLV KHỔNG MINH
+https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-10/01 Prachuap Khiri Khan Vs Chiangrai United BLV KENCHU
+https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-10/01 Como Vs Bologna BLV DƯƠNG CHÍ
+https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-10/01 JENNIE Vs OK9 TV MEGA LIVE
+https://flv.cdnok9.com/live/PHATCODE.flv?expire=1893075960&sign=381b4a78bac99610b4491fddd97a4d91
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h30-10/01 Heidenheimer Vs FC Koln BLV YẾN THANH
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h30-10/01 Orleans US 45 Vs Monaco BLV URA
+https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h30-10/01 SC Freiburg Vs Hamburger SV BLV TÔN LẬP
+https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h30-10/01 Union Berlin Vs FSV Mainz 05 BLV HOA VINH
+https://hls.cdnok9.com/live/LOELOE6380K/index.m3u8?expire=1788427256&sign=86b4dafe54d1b6da2bffad6653671edb
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-10/01 Sheffield Wednesday Vs Brentford BLV TRƯƠNG THANH
+https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
+#EXTINF:-1 group-title="Socolive_2",20h00: [TẠ BIÊN GIỚI] Everton vs Sunderland
 http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",19h15: [THẠCH TÚ] Everton vs Sunderland
-http://sharing.gotdns.ch:8091/socolive.php?id=344370
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV TAP] Everton vs Sunderland
+#EXTINF:-1 group-title="Socolive_2",20h00: [BLV TAP] Everton vs Sunderland
 http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV DECO] Everton vs Sunderland
+#EXTINF:-1 group-title="Socolive_2",20h00: [BLV DECO] Everton vs Sunderland
 http://sharing.gotdns.ch:8091/socolive.php?id=9912060
-#EXTINF:-1 group-title="Socolive_2",19h15: [RICKHANTER] Everton vs Sunderland
+#EXTINF:-1 group-title="Socolive_2",20h00: [RICKHANTER] Everton vs Sunderland
 http://sharing.gotdns.ch:8091/socolive.php?id=9912101
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV TOMIA] Everton vs Sunderland
+#EXTINF:-1 group-title="Socolive_2",20h00: [BLV TOMIA] Everton vs Sunderland
 http://sharing.gotdns.ch:8091/socolive.php?id=9912008
-#EXTINF:-1 group-title="Socolive_2",19h15: [QUANG VINH] Macclesfield Town vs Crystal Palace
-http://sharing.gotdns.ch:8091/socolive.php?id=9912109
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV MIXI] Macclesfield Town vs Crystal Palace
-http://sharing.gotdns.ch:8091/socolive.php?id=290928
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV TORRES] Macclesfield Town vs Crystal Palace
-http://sharing.gotdns.ch:8091/socolive.php?id=560224
-#EXTINF:-1 group-title="Socolive_2",19h15: [NGƯỜI THÉP] Macclesfield Town vs Crystal Palace
-http://sharing.gotdns.ch:8091/socolive.php?id=568233
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV ALEX] Wolverhampton Wanderers vs Shrewsbury Town
-http://sharing.gotdns.ch:8091/socolive.php?id=532081
-#EXTINF:-1 group-title="Socolive_2",19h15: [VỊT BẠC] Wolverhampton Wanderers vs Shrewsbury Town
-http://sharing.gotdns.ch:8091/socolive.php?id=474421
-#EXTINF:-1 group-title="Socolive_2",19h15: [A CHÈ] Wolverhampton Wanderers vs Shrewsbury Town
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV KAN] Wolverhampton Wanderers vs Shrewsbury Town
-http://sharing.gotdns.ch:8091/socolive.php?id=283501
 #EXTINF:-1 group-title="Socolive_2",20h00: [BLV TOMMY] Real Oviedo vs Real Betis
 http://sharing.gotdns.ch:8091/socolive.php?id=414317
 #EXTINF:-1 group-title="Socolive_2",20h00: [SAO LA] Real Oviedo vs Real Betis
@@ -177,8 +190,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912015
 http://sharing.gotdns.ch:8091/socolive.php?id=500605
 #EXTINF:-1 group-title="Socolive_2",21h30: [BLV RAMBO] SC Freiburg vs Hamburger SV
 http://sharing.gotdns.ch:8091/socolive.php?id=534055
-#EXTINF:-1 group-title="Socolive_2",21h30: [BLV FAKER] SC Freiburg vs Hamburger SV
-http://sharing.gotdns.ch:8091/socolive.php?id=564597
 #EXTINF:-1 group-title="Socolive_2",21h30: [BLV SÓI] SC Freiburg vs Hamburger SV
 http://sharing.gotdns.ch:8091/socolive.php?id=427562
 #EXTINF:-1 group-title="Socolive_2",21h30: [BLV A BỆU] SC Freiburg vs Hamburger SV
@@ -223,6 +234,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=564362
 http://sharing.gotdns.ch:8091/socolive.php?id=308080
 #EXTINF:-1 group-title="Socolive_2",22h00: [Lửng Mật] Fulham vs Middlesbrough
 http://sharing.gotdns.ch:8091/socolive.php?id=566705
+#EXTINF:-1 group-title="Socolive_2",22h00: [NGƯỜI THÉP] Fulham vs Middlesbrough
+http://sharing.gotdns.ch:8091/socolive.php?id=568233
 #EXTINF:-1 group-title="Socolive_2",22h00: [BLV Củ Cải] Manchester City vs Exeter City
 http://sharing.gotdns.ch:8091/socolive.php?id=9912091
 #EXTINF:-1 group-title="Socolive_2",22h00: [TẠ BIÊN GIỚI] Manchester City vs Exeter City
@@ -1110,10 +1123,8 @@ https://vodcdn.fptplay.net/POVOD/encoded/2025/12/28/thamtulungdanhconanduanhcuad
 https://vip.opstream90.com/20251129/18758_e33bdf72/3000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Trái Tim Què Quặt
 https://s6.kkphimplayer6.com/20251228/0HQf0tP2/3500kb/hls/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 1
-https://live.fptplay53.net/epzch1/thethao01_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 2
-https://live.fptplay53.net/epzch1/thethao02_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 3
+https://live.fptplay53.net/epzch1/thethao03_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
