@@ -95,34 +95,6 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTINF:-1 group-title="Socolive_2",10h00: [BLV PIRLO] Monterrey vs Toluca
-http://sharing.gotdns.ch:8091/socolive.php?id=351530
-#EXTINF:-1 group-title="Socolive_2",10h00: [BLV ĐỐM] Monterrey vs Toluca
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTINF:-1 group-title="Socolive_2",10h00: [BLV COCA] Monterrey vs Toluca
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",10h00: [TẠ BIÊN GIỚI] Monterrey vs Toluca
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",10h00: [BLV TOMMY] Monterrey vs Toluca
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
-#EXTINF:-1 group-title="Socolive_2",10h00: [BLV PEWPEW] Monterrey vs Toluca
-http://sharing.gotdns.ch:8091/socolive.php?id=9912015
-#EXTINF:-1 group-title="Socolive_2",10h00: [VỊT BẠC] Tijuana Women vs Club America Women
-http://sharing.gotdns.ch:8091/socolive.php?id=474421
-#EXTINF:-1 group-title="Socolive_2",10h00: [BLV FAKER] Tijuana Women vs Club America Women
-http://sharing.gotdns.ch:8091/socolive.php?id=564597
-#EXTINF:-1 group-title="Socolive_2",10h00: [BLV NIBO] Tijuana Women vs Club America Women
-http://sharing.gotdns.ch:8091/socolive.php?id=372746
-#EXTINF:-1 group-title="Socolive_2",10h00: [BLV LUCAS] Tijuana Women vs Club America Women
-http://sharing.gotdns.ch:8091/socolive.php?id=304148
-#EXTINF:-1 group-title="Socolive_2",10h05: [BRIAN] Utah Jazz vs Charlotte Hornets
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",10h05: [KING] Utah Jazz vs Charlotte Hornets
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",10h05: [CHAN SENA] Utah Jazz vs Charlotte Hornets
-http://sharing.gotdns.ch:8091/socolive.php?id=515530
-#EXTINF:-1 group-title="Socolive_2",10h05: [HUNTER] Utah Jazz vs Charlotte Hornets
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
 #EXTINF:-1 group-title="Socolive_2",10h30: [BLV HENRY] Illawarra Hawks vs New Zealand Breakers
 http://sharing.gotdns.ch:8091/socolive.php?id=9912112
 #EXTINF:-1 group-title="Socolive_2",12h00: [HUNTER] Suwon KT vs Mobis Phoebus
@@ -293,6 +265,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912102
 http://sharing.gotdns.ch:8091/socolive.php?id=494201
 #EXTINF:-1 group-title="Socolive_2",21h00: [BLV ĐỐM] Fiorentina vs AC Milan
 http://sharing.gotdns.ch:8091/socolive.php?id=9912110
+#EXTINF:-1 group-title="Socolive_2",21h00: [BLV TAP] Fiorentina vs AC Milan
+http://sharing.gotdns.ch:8091/socolive.php?id=9912041
 #EXTINF:-1 group-title="Socolive_2",21h00: [TẠ BIÊN GIỚI] Portsmouth vs Arsenal
 http://sharing.gotdns.ch:8091/socolive.php?id=9912108
 #EXTINF:-1 group-title="Socolive_2",21h00: [BLV TOMMY] Portsmouth vs Arsenal
@@ -919,8 +893,6 @@ https://vodcdn.fptplay.net/POVOD/encoded/2025/12/28/thamtulungdanhconanduanhcuad
 https://vip.opstream90.com/20251129/18758_e33bdf72/3000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Trái Tim Què Quặt
 https://s6.kkphimplayer6.com/20251228/0HQf0tP2/3500kb/hls/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 14
-https://live.fptplay53.net/fnxch1/thethao14_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
@@ -991,8 +963,6 @@ https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 https://liveh34.seenow.vn/hls/SCTV7/03.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV8 HD
 https://liveh34.seenow.vn/hls/SCTV8/03.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",SCTV9 HD
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv9
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV9 HD (dự phòng)
 http://akasaijr.myftp.org:21585/sctv9/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV10
