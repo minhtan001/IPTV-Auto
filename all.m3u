@@ -95,14 +95,6 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTINF:-1 group-title="Socolive_2",00h20: [BLV CHIVAS] FC Nantes vs OGC Nice
-http://sharing.gotdns.ch:8091/socolive.php?id=485739
-#EXTINF:-1 group-title="Socolive_2",00h20: [QUANG VINH] FC Nantes vs OGC Nice
-http://sharing.gotdns.ch:8091/socolive.php?id=9912109
-#EXTINF:-1 group-title="Socolive_2",00h30: [BLV GÔN] Aris Thessaloniki vs AEK Athens
-http://sharing.gotdns.ch:8091/socolive.php?id=445260
-#EXTINF:-1 group-title="Socolive_2",00h30: [BLV ADAM] Aris Thessaloniki vs AEK Athens
-http://sharing.gotdns.ch:8091/socolive.php?id=336303
 #EXTINF:-1 group-title="Socolive_2",01h00: [BLV ANH TÀI] Moreirense vs CD Tondela
 http://sharing.gotdns.ch:8091/socolive.php?id=406865
 #EXTINF:-1 group-title="Socolive_2",01h00: [KÉP] Moreirense vs CD Tondela
@@ -390,6 +382,33 @@ http://sharing.gotdns.ch:8091/socolive.php?id=462413
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h30-12/01: [HUNTER] Al Muharraq vs Al-Ahli Dubai
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",05h30-13/01: [KING] Bauru vs Pinheiros
+http://sharing.gotdns.ch:8091/socolive.php?id=9912099
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h00-13/01: [BLV HENRY] Cleveland Cavaliers vs Utah Jazz
+http://sharing.gotdns.ch:8091/socolive.php?id=9912112
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-13/01: [CHAN SENA] Indiana Pacers vs Boston Celtics
+http://sharing.gotdns.ch:8091/socolive.php?id=515530
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-13/01: [BRIAN] Indiana Pacers vs Boston Celtics
+http://sharing.gotdns.ch:8091/socolive.php?id=9912106
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-13/01: [KING] Toronto Raptors vs Philadelphia 76ers
+http://sharing.gotdns.ch:8091/socolive.php?id=9912099
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-13/01: [HUNTER] Toronto Raptors vs Philadelphia 76ers
+http://sharing.gotdns.ch:8091/socolive.php?id=558264
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",10h00-13/01: [BRIAN] Sacramento Kings vs Los Angeles Lakers
+http://sharing.gotdns.ch:8091/socolive.php?id=9912106
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",10h00-13/01: [BLV HENRY] Sacramento Kings vs Los Angeles Lakers
+http://sharing.gotdns.ch:8091/socolive.php?id=9912112
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",10h00-13/01: [BLV DUSTIN] Sacramento Kings vs Los Angeles Lakers
+http://sharing.gotdns.ch:8091/socolive.php?id=289098
 #EXTINF:-1 group-title="TruyenHinh_2",KuboLive #Server 1
 http://live.qphim.xyz/live/kubolive/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",KuboCast
