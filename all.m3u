@@ -96,14 +96,14 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h30-12/01 PSBS Biak Vs Bhayangkara Solo FC BLV KEVILL
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h00-12/01 Waanal Brothers Vs Gresik United BLV HOA VINH
 https://hls.cdnok9.com/live/LOELOE6380K/index.m3u8?expire=1788427256&sign=86b4dafe54d1b6da2bffad6653671edb
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",14h30-12/01 Persipal Palu Vs Persiku Kudus BLV KAKA
-https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h30-12/01 PSBS Biak Vs Bhayangkara Solo FC BLV KEVILL
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h30-12/01 Laconi Lian Vs YANGON UNITED BLV KHỔNG MINH
+https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h45-12/01 Arsenal Vs Portsmouth BLV TÂY MÔN KHÁNH REPLAY
 https://hls.cdnok9.com/live/TO6A/index.m3u8?expire=1891408380&sign=df6b95775ca8cf6b58a17d54271d96e3
@@ -113,14 +113,9 @@ https://hls.cdnok9.com/live/TO4A/index.m3u8?expire=1891408380&sign=5274350aaa915
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h05-12/01 U23 Kyrgyzstan Vs U23 Việt Nam BLV LƯU BỊ REPLAY
 https://hls.cdnok9.com/live/TO2A/index.m3u8?expire=1891408380&sign=b4fcc4558b2967d54c04070f325ecb14
-#EXTINF:-1 group-title="Socolive_2",14h30: [BLV Sao Đỏ] Persipal Palu vs Persiku Kudus
-http://sharing.gotdns.ch:8091/socolive.php?id=519740
-#EXTINF:-1 group-title="Socolive_2",14h30: [BLV WUKONG] Persipal Palu vs Persiku Kudus
-http://sharing.gotdns.ch:8091/socolive.php?id=511367
-#EXTINF:-1 group-title="Socolive_2",14h30: [BLV FAKER] Persipal Palu vs Persiku Kudus
-http://sharing.gotdns.ch:8091/socolive.php?id=564597
-#EXTINF:-1 group-title="Socolive_2",14h30: [CÔNG LÝ] Persipal Palu vs Persiku Kudus
-http://sharing.gotdns.ch:8091/socolive.php?id=9912035
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-12/01 Atalanta U20 Vs Lecce U20 BLV TRƯƠNG THANH
+https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
 #EXTINF:-1 group-title="Socolive_2",15h30: [BLV VODKA] PSBS Biak Numfor vs Bhayangkara Presisi Indonesia FC
 http://sharing.gotdns.ch:8091/socolive.php?id=500605
 #EXTINF:-1 group-title="Socolive_2",15h30: [BLV KEM] PSBS Biak Numfor vs Bhayangkara Presisi Indonesia FC
@@ -754,17 +749,14 @@ http://sharing.gotdns.ch:8091/socolive.php?id=459401
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-13/01: [BLV KINH TẾ] Gazisehir Gaziantep vs Kocaelispor
 http://sharing.gotdns.ch:8091/socolive.php?id=532999
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-13/01: [BLV ROBBEN] Sporting CP U23 vs Academico Viseu U23
-http://sharing.gotdns.ch:8091/socolive.php?id=527383
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-13/01: [BLV LUCAS] Sporting CP U23 vs Academico Viseu U23
-http://sharing.gotdns.ch:8091/socolive.php?id=304148
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-13/01: [BLV FIREMAN] Torreense U23 vs Benfica U23
 http://sharing.gotdns.ch:8091/socolive.php?id=991140
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-13/01: [BLV TORRES] Torreense U23 vs Benfica U23
 http://sharing.gotdns.ch:8091/socolive.php?id=560224
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-13/01: [BLV ROBBEN] Torreense U23 vs Benfica U23
+http://sharing.gotdns.ch:8091/socolive.php?id=527383
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h10-13/01: [NGƯỜI THÉP] Al-Raed SFC vs Al Zulfi
 http://sharing.gotdns.ch:8091/socolive.php?id=568233
@@ -993,6 +985,8 @@ http://akasaijr.myftp.org:21585/vtc1/index.m3u8
 https://liveh34.vtvprime.vn/hls/SCTV19/03.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV20 HD
 https://liveh34.vtvprime.vn/hls/SCTV20/03.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",SCTV21 HD
+https://liveh34.vtvprime.vn/hls/SCTV21/03.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",:SCTV22 HD
 https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV Phim Tổng Hợp
