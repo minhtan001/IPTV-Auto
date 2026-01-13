@@ -95,22 +95,6 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTINF:-1 group-title="Socolive_2",15h00: [BLV TAP] Sydney FC Women vs Newcastle Jets Women
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",15h00: [BLV Củ Cải] Sydney FC Women vs Newcastle Jets Women
-http://sharing.gotdns.ch:8091/socolive.php?id=9912091
-#EXTINF:-1 group-title="Socolive_2",15h00: [TẠ BIÊN GIỚI] Sydney FC Women vs Newcastle Jets Women
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",15h00: [THẠCH TÚ] Sydney FC Women vs Newcastle Jets Women
-http://sharing.gotdns.ch:8091/socolive.php?id=344370
-#EXTINF:-1 group-title="Socolive_2",15h00: [CÔNG CHẤT] Sydney FC Women vs Newcastle Jets Women
-http://sharing.gotdns.ch:8091/socolive.php?id=291277
-#EXTINF:-1 group-title="Socolive_2",15h00: [BLV VODKA] Sydney FC Women vs Newcastle Jets Women
-http://sharing.gotdns.ch:8091/socolive.php?id=500605
-#EXTINF:-1 group-title="Socolive_2",15h00: [CHAN SENA] Adelaide Lightning W vs Sydney W
-http://sharing.gotdns.ch:8091/socolive.php?id=515530
-#EXTINF:-1 group-title="Socolive_2",15h00: [HUNTER] Adelaide Lightning W vs Sydney W
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
 #EXTINF:-1 group-title="Socolive_2",16h00: [VỊT BẠC] Ayeyawady united vs ISPE FC
 http://sharing.gotdns.ch:8091/socolive.php?id=474421
 #EXTINF:-1 group-title="Socolive_2",16h00: [BLV FAKER] Ayeyawady united vs ISPE FC
@@ -694,6 +678,21 @@ http://sharing.gotdns.ch:8091/socolive.php?id=552832
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h30-14/01: [SÙNG A MÚP] Thailand U23 vs China U23
 http://sharing.gotdns.ch:8091/socolive.php?id=9912097
 #EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h15-14/01: [BLV QUAN VŨ] Johor Darul Ta'zim FC vs Kuching City FC
+http://sharing.gotdns.ch:8091/socolive.php?id=239275
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h15-14/01: [BLV FAKER] Johor Darul Ta'zim FC vs Kuching City FC
+http://sharing.gotdns.ch:8091/socolive.php?id=564597
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h15-14/01: [LÃO LÂM] Johor Darul Ta'zim FC vs Kuching City FC
+http://sharing.gotdns.ch:8091/socolive.php?id=527384
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h15-14/01: [BLV KEM] Johor Darul Ta'zim FC vs Kuching City FC
+http://sharing.gotdns.ch:8091/socolive.php?id=513394
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h15-14/01: [QUANG VINH] Johor Darul Ta'zim FC vs Kuching City FC
+http://sharing.gotdns.ch:8091/socolive.php?id=9912109
+#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h15-14/01: [CÔNG LÝ] Kuala Lumpur City FC vs Penang FC
 http://sharing.gotdns.ch:8091/socolive.php?id=9912035
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -956,13 +955,13 @@ https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
 https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV3
-https://liveh12.seenow.vn/hls/VTV3_HD/04.m3u8
+https://liveh12.vtvprime.vn/hls/VTV3_HD/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV4
 https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Vietnam Today
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV5
-https://liveh12.seenow.vn/hls/VTV5_HD/04.m3u8
+https://liveh12.vtvprime.vn/hls/VTV5_HD/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV5 Tây Nam Bộ
 https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV5 Tây Nguyên
@@ -972,9 +971,9 @@ https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV7
 https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV8
-https://liveh12.seenow.vn/hls/VTV8_HD/04.m3u8
+https://liveh12.vtvprime.vn/hls/VTV8_HD/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV9
-https://liveh12.seenow.vn/hls/VTV9_HD/04.m3u8
+https://liveh12.vtvprime.vn/hls/VTV9_HD/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",ON Vie Giải Trí
 https://freem3u.xyz/api/live/play.m3u8?vid=180
 #EXTINF:-1 group-title="TruyenHinh_2",ON Phim Việt
@@ -1008,31 +1007,31 @@ https://freem3u.xyz/api/live/play.m3u8?vid=188
 #EXTINF:-1 group-title="TruyenHinh_2",On Golf
 https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-23-golf-channel/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV1 HD
-https://liveh12.seenow.vn/hls/SCTV1/03.m3u8
+https://liveh12.vtvprime.vn/hls/SCTV1/03.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV2 HD - TODAY TV
 https://freem3u.xyz/api/live/play.m3u8?vid=201
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV3 - SEE TV
-https://liveh34.seenow.vn/hls/SCTV3/03.m3u8
+https://liveh34.vtvprime.vn/hls/SCTV3/03.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV4 HD
-https://liveh12.seenow.vn/hls/SCTV4/03.m3u8
+https://liveh12.vtvprime.vn/hls/SCTV4/03.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV6 HD
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV7 HD
-https://liveh34.seenow.vn/hls/SCTV7/03.m3u8
+https://liveh34.vtvprime.vn/hls/SCTV7/03.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV8 HD
-https://liveh34.seenow.vn/hls/SCTV8/03.m3u8
+https://liveh34.vtvprime.vn/hls/SCTV8/03.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV9 HD
 http://akasaijr.myftp.org:21585/sctv9/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV10
-https://liveh34.seenow.vn/hls/SCTV10/index.m3u8
+https://liveh34.vtvprime.vn/hls/SCTV10/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV11 HD
-https://liveh34.seenow.vn/hls/SCTV11/03.m3u8
+https://liveh34.vtvprime.vn/hls/SCTV11/03.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV12 HD
-https://liveh34.seenow.vn/hls/SCTV12/03.m3u8
+https://liveh34.vtvprime.vn/hls/SCTV12/03.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV13 HD
-https://liveh34.seenow.vn/hls/SCTV13/03.m3u8
+https://liveh34.vtvprime.vn/hls/SCTV13/03.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV14 HD
-https://liveh34.seenow.vn/hls/SCTV14/03.m3u8
+https://liveh34.vtvprime.vn/hls/SCTV14/03.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV16 HD
 https://liveh34.vtvprime.vn/hls/SCTV16/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV18 HD
@@ -1048,7 +1047,7 @@ https://liveh34.vtvprime.vn/hls/SCTV21/03.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",:SCTV22 HD
 https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV Phim Tổng Hợp
-https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8
+https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV Phim Tổng Hợp (dự phòng)
 http://akasaijr.myftp.org:21585/sctvpth/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Box Movie 1
