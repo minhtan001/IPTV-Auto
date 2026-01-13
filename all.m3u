@@ -95,46 +95,6 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV FAKER] Famalicao U23 vs Leixoes U23
-http://sharing.gotdns.ch:8091/socolive.php?id=564597
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV ADAM] Famalicao U23 vs Leixoes U23
-http://sharing.gotdns.ch:8091/socolive.php?id=336303
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV  TYPN] Iran U23 vs Lebanon U23
-http://sharing.gotdns.ch:8091/socolive.php?id=9912009
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV TOMIA] Iran U23 vs Lebanon U23
-http://sharing.gotdns.ch:8091/socolive.php?id=9912008
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV 7UP] Iran U23 vs Lebanon U23
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
-#EXTINF:-1 group-title="Socolive_2",18h30: [TAM MAO] Iran U23 vs Lebanon U23
-http://sharing.gotdns.ch:8091/socolive.php?id=9912100
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV PEWPEW] Iran U23 vs Lebanon U23
-http://sharing.gotdns.ch:8091/socolive.php?id=9912015
-#EXTINF:-1 group-title="Socolive_2",18h30: [SÙNG A MÚP] Iran U23 vs Lebanon U23
-http://sharing.gotdns.ch:8091/socolive.php?id=9912097
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV ĐỐM] Uzbekistan U23 vs South Korea U23
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV Củ Cải] Uzbekistan U23 vs South Korea U23
-http://sharing.gotdns.ch:8091/socolive.php?id=9912091
-#EXTINF:-1 group-title="Socolive_2",18h30: [TẠ BIÊN GIỚI] Uzbekistan U23 vs South Korea U23
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV TOMMY] Uzbekistan U23 vs South Korea U23
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV TAP] Uzbekistan U23 vs South Korea U23
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV DECO] Uzbekistan U23 vs South Korea U23
-http://sharing.gotdns.ch:8091/socolive.php?id=9912060
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV VODKA] Uzbekistan U23 vs South Korea U23
-http://sharing.gotdns.ch:8091/socolive.php?id=500605
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV COCA] Uzbekistan U23 vs South Korea U23
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV ENZO] Uzbekistan U23 vs South Korea U23
-http://sharing.gotdns.ch:8091/socolive.php?id=380460
-#EXTINF:-1 group-title="Socolive_2",18h30: [THẠCH TÚ] Uzbekistan U23 vs South Korea U23
-http://sharing.gotdns.ch:8091/socolive.php?id=344370
-#EXTINF:-1 group-title="Socolive_2",18h30: [SAO LA] Uzbekistan U23 vs South Korea U23
-http://sharing.gotdns.ch:8091/socolive.php?id=462413
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV PIRLO] Uzbekistan U23 vs South Korea U23
-http://sharing.gotdns.ch:8091/socolive.php?id=351530
 #EXTINF:-1 group-title="Socolive_2",19h00: [NGƯỜI THÉP] Braga U23 vs Santa Clara U23
 http://sharing.gotdns.ch:8091/socolive.php?id=568233
 #EXTINF:-1 group-title="Socolive_2",19h00: [BLV Sao Đỏ] Braga U23 vs Santa Clara U23
@@ -237,8 +197,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=548860
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h30-13/01: [BLV SINGER] Japan U23 vs Qatar U23
 http://sharing.gotdns.ch:8091/socolive.php?id=9912102
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h30-13/01: [SAO LA] Japan U23 vs Qatar U23
-http://sharing.gotdns.ch:8091/socolive.php?id=462413
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h30-13/01: [BLV PEWPEW] Japan U23 vs Qatar U23
+http://sharing.gotdns.ch:8091/socolive.php?id=9912015
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h30-13/01: [BLV COZY] United Arab Emirates U23 vs Syria U23
 http://sharing.gotdns.ch:8091/socolive.php?id=531989
@@ -705,11 +665,11 @@ http://sharing.gotdns.ch:8091/socolive.php?id=406865
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h00-14/01: [BLV  TYPN] Selangor FC vs Negeri Sembilan
 http://sharing.gotdns.ch:8091/socolive.php?id=9912009
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h00-14/01: [RÙA VÀNG] Selangor FC vs Negeri Sembilan
-http://sharing.gotdns.ch:8091/socolive.php?id=563268
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h00-14/01: [Lửng Mật] Selangor FC vs Negeri Sembilan
 http://sharing.gotdns.ch:8091/socolive.php?id=566705
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h00-14/01: [BLV BÉO] Selangor FC vs Negeri Sembilan
+http://sharing.gotdns.ch:8091/socolive.php?id=459401
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h30-14/01: [BLV TORRES] Al-Mina'a SC vs Al Karkh
 http://sharing.gotdns.ch:8091/socolive.php?id=560224
