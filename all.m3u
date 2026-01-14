@@ -95,12 +95,6 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTINF:-1 group-title="Socolive_2",11h05: [HUNTER] Los Angeles Lakers vs Atlanta Hawks
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",11h05: [BRIAN] Los Angeles Lakers vs Atlanta Hawks
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",11h05: [CHAN SENA] Los Angeles Lakers vs Atlanta Hawks
-http://sharing.gotdns.ch:8091/socolive.php?id=515530
 #EXTINF:-1 group-title="Socolive_2",11h35: [BLV HENRY] Golden State Warriors vs Portland Trail Blazers
 http://sharing.gotdns.ch:8091/socolive.php?id=9912112
 #EXTINF:-1 group-title="Socolive_2",16h15: [HUNTER] Meralco Bolts vs TNT Tropang Giga
@@ -494,8 +488,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=427562
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",05h00-15/01: [VỊT BẠC] Fluminense RJ vs Madureira
 http://sharing.gotdns.ch:8091/socolive.php?id=474421
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",05h00-15/01: [BLV GÔN] Fluminense RJ vs Madureira
-http://sharing.gotdns.ch:8091/socolive.php?id=445260
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",05h00-15/01: [NGOẠ LONG] Fluminense RJ vs Madureira
+http://sharing.gotdns.ch:8091/socolive.php?id=538979
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",05h00-15/01: [BLV LUCAS] Galo Maringa vs Foz do Iguacu PR
 http://sharing.gotdns.ch:8091/socolive.php?id=304148
@@ -524,8 +518,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=313971
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-15/01: [BLV RAMBO] Azuriz FC vs Londrina PR
 http://sharing.gotdns.ch:8091/socolive.php?id=534055
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-15/01: [NGOẠ LONG] Cascavel PR vs Andraus Brasil
-http://sharing.gotdns.ch:8091/socolive.php?id=538979
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-15/01: [BLV GÔN] Cascavel PR vs Andraus Brasil
+http://sharing.gotdns.ch:8091/socolive.php?id=445260
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h30-15/01: [CÔNG LÝ] Athletico Paranaense vs Operario Ferroviario PR
 http://sharing.gotdns.ch:8091/socolive.php?id=9912035
