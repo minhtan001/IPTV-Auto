@@ -108,13 +108,14 @@ https://hls.cdnok9.com/live/TO2A/index.m3u8?expire=1891408380&sign=b4fcc4558b296
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h20-15/01 Chelsea Vs Arsenal BLV SHIN REPLAY
 https://hls.cdnok9.com/live/TO4A/index.m3u8?expire=1891408380&sign=5274350aaa915df457fdffd606d49f30
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h30-15/01 Chrudim Vs Hradec Kralove B NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MvZ6Hgiqzkfrvy9GG/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-15/01 Pardubice Vs Vysocina jihlava NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvYqrBsjQaqfA7cRi/playlist.m3u8
-#EXTINF:-1 group-title="Socolive_2",16h00: [HUNTER] Keelung Black Kites vs Bank of Taiwan
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-15/01 LASK Linz Vs Jagiellonia Bialystok NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYqrHnHRPRNEyFjS/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-15/01 Diosgyor VTK Vs Wolfsberger AC NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYqxh9k3e7jnEfkQ/playlist.m3u8
 #EXTINF:-1 group-title="Socolive_2",17h00: [TẠ BIÊN GIỚI] Erzurum BB vs Caykur Rizespor
 http://sharing.gotdns.ch:8091/socolive.php?id=9912108
 #EXTINF:-1 group-title="Socolive_2",17h00: [THẠCH TÚ] Erzurum BB vs Caykur Rizespor
