@@ -95,10 +95,6 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTINF:-1 group-title="Socolive_2",05h00: [VỊT BẠC] Botafogo SP vs Noroeste
-http://sharing.gotdns.ch:8091/socolive.php?id=474421
-#EXTINF:-1 group-title="Socolive_2",05h00: [BLV GÔN] Botafogo SP vs Noroeste
-http://sharing.gotdns.ch:8091/socolive.php?id=445260
 #EXTINF:-1 group-title="Socolive_2",05h00: [BLV SÓI] Portuguesa RJ vs Botafogo RJ
 http://sharing.gotdns.ch:8091/socolive.php?id=427562
 #EXTINF:-1 group-title="Socolive_2",05h00: [BLV SHIN] Portuguesa RJ vs Botafogo RJ
@@ -157,14 +153,14 @@ http://sharing.gotdns.ch:8091/socolive.php?id=321443
 http://sharing.gotdns.ch:8091/socolive.php?id=414317
 #EXTINF:-1 group-title="Socolive_2",09h00: [CR Bưởi] LD Alajuelense vs AD Municipal Liberia
 http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",09h00: [BLV DECO] LD Alajuelense vs AD Municipal Liberia
-http://sharing.gotdns.ch:8091/socolive.php?id=9912060
 #EXTINF:-1 group-title="Socolive_2",09h00: [BLV COCA] LD Alajuelense vs AD Municipal Liberia
 http://sharing.gotdns.ch:8091/socolive.php?id=327159
 #EXTINF:-1 group-title="Socolive_2",09h00: [BLV KINH TẾ] LD Alajuelense vs AD Municipal Liberia
 http://sharing.gotdns.ch:8091/socolive.php?id=532999
 #EXTINF:-1 group-title="Socolive_2",09h00: [BLV VODKA] LD Alajuelense vs AD Municipal Liberia
 http://sharing.gotdns.ch:8091/socolive.php?id=500605
+#EXTINF:-1 group-title="Socolive_2",09h00: [SÙNG A MÚP] LD Alajuelense vs AD Municipal Liberia
+http://sharing.gotdns.ch:8091/socolive.php?id=9912097
 #EXTINF:-1 group-title="Socolive_2",10h00: [BRIAN] Golden State Warriors vs New York Knicks
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTINF:-1 group-title="Socolive_2",10h00: [BLV HENRY] Golden State Warriors vs New York Knicks
