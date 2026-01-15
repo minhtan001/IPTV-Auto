@@ -95,6 +95,30 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",14h20-15/01 Cathay Life W Vs Taipower W BLV LÝ QUỲ
+https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",14h30-15/01 Hoang Anh Gia Lai U19 Vs Dong Thap U19 BLV GIÁO SƯ XOAY
+https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h00-15/01 Perth Lynx (W) Vs Bendigo Braves (W) BLV YẾN THANH
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h30-14/01 Barcelona Vs Real Madrid BLV KEVILL REPLAY
+https://hls.cdnok9.com/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h45-15/01 Barcelona Vs Real Madrid BLV LƯU BỊ REPLAY
+https://hls.cdnok9.com/live/TO2A/index.m3u8?expire=1891408380&sign=b4fcc4558b2967d54c04070f325ecb14
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h00-15/01 CSKA 1948 Sofia Vs LASK Linz NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYqrH4dvVPyndbaL/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h30-15/01 Chrudim Vs Hradec Kralove B NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvZ6Hgiqzkfrvy9GG/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-15/01 Pardubice Vs Vysocina jihlava NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYqrBsjQaqfA7cRi/playlist.m3u8
 #EXTINF:-1 group-title="Socolive_2",14h00: [KING] Cathay Life W vs Taipower W
 http://sharing.gotdns.ch:8091/socolive.php?id=9912099
 #EXTINF:-1 group-title="Socolive_2",14h00: [HUNTER] Cathay Life W vs Taipower W
@@ -345,6 +369,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=522086
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",05h00-16/01: [BLV VOI] Independente Sao Joseense PR vs Cianorte PR
 http://sharing.gotdns.ch:8091/socolive.php?id=9912114
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",05h00-16/01: [Lửng Mật] Independente Sao Joseense PR vs Cianorte PR
+http://sharing.gotdns.ch:8091/socolive.php?id=566705
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",05h30-16/01: [BLV Hổ Lùn] Red Bull Bragantino vs Sport Club Corinthians Paulista
 http://sharing.gotdns.ch:8091/socolive.php?id=308080
