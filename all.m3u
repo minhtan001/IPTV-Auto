@@ -99,14 +99,8 @@ http://iptv.nhadai.org/stream/ben-tre
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h30-16/01 Japan U23 Vs Jordan U23 BLV KEVILL
 https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h45-16/01 Perth Glory Vs Brisbane Roar BLV TỐNG GIANG
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-16/01 Lazio U20 Vs Sassuolo U20 BLV TẦN CA
-https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h30-16/01 Tampines Rovers FC Vs Young Lions BLV PHONG VÂN
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-16/01 SODA Vs OK9 TV MEGA LIVE
+https://hls.cdnok9.com/live/PHATCODE/index.m3u8?expire=1893075960&sign=381b4a78bac99610b4491fddd97a4d91
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-16/01 PSPS Pekanbaru Vs Persekat Tegal BLV VÕ TÒNG
 https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
@@ -117,63 +111,46 @@ https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bb
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h25-16/01 Al-Baten Vs Al-Faisaly Harmah BLV LỮ BỐ
 https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h45-16/01 Al-Jndal Vs Al-Arabi(KSA) BLV SHIN
-https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h45-16/01 Al-Jabalain Vs Al-Wehda BLV TRƯƠNG THANH
 https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h45-16/01 Al-Jndal Vs Al-Arabi(KSA) BLV SHIN
+https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-16/01 Hadiya Hossana Vs Shire Endaselassie FC BLV NGŨ CA
 https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-16/01 Genoa U20 Vs Parma U20 BLV KHỔNG MINH
+https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-16/01 AC Milan U20 Vs Fiorentina U20 BLV YẾN THANH
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-16/01 Genoa U20 Vs Parma U20 BLV KHỔNG MINH
-https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:-1 group-title="Socolive_2",17h45: [BLV TOMIA] Perth Glory vs Brisbane Roar
-http://sharing.gotdns.ch:8091/socolive.php?id=9912008
-#EXTINF:-1 group-title="Socolive_2",17h45: [BLV 7UP] Perth Glory vs Brisbane Roar
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
-#EXTINF:-1 group-title="Socolive_2",17h45: [TAM MAO] Perth Glory vs Brisbane Roar
-http://sharing.gotdns.ch:8091/socolive.php?id=9912100
-#EXTINF:-1 group-title="Socolive_2",17h45: [CR Bưởi] Perth Glory vs Brisbane Roar
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",17h45: [BLV PIRLO] Perth Glory vs Brisbane Roar
-http://sharing.gotdns.ch:8091/socolive.php?id=351530
-#EXTINF:-1 group-title="Socolive_2",17h45: [BLV COZY] Perth Glory vs Brisbane Roar
-http://sharing.gotdns.ch:8091/socolive.php?id=531989
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV FIREMAN] Lazio U20 vs Sassuolo U20
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV KAN] Lazio U20 vs Sassuolo U20
-http://sharing.gotdns.ch:8091/socolive.php?id=283501
-#EXTINF:-1 group-title="Socolive_2",18h30: [A CHÈ] Tampines Rovers FC vs Young Lions
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV LUCAS] Tampines Rovers FC vs Young Lions
-http://sharing.gotdns.ch:8091/socolive.php?id=304148
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV COCA] Japan U23 vs Jordan U23
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h40-16/01 Al Najma(KSA) Vs Al-Fateh BLV TỐNG GIANG
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:-1 group-title="Socolive_2",19h15: [BLV COCA] Japan U23 vs Jordan U23
 http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",18h30: [TẠ BIÊN GIỚI] Japan U23 vs Jordan U23
+#EXTINF:-1 group-title="Socolive_2",19h15: [TẠ BIÊN GIỚI] Japan U23 vs Jordan U23
 http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",18h30: [THẠCH TÚ] Japan U23 vs Jordan U23
+#EXTINF:-1 group-title="Socolive_2",19h15: [THẠCH TÚ] Japan U23 vs Jordan U23
 http://sharing.gotdns.ch:8091/socolive.php?id=344370
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV TAP] Japan U23 vs Jordan U23
+#EXTINF:-1 group-title="Socolive_2",19h15: [BLV TAP] Japan U23 vs Jordan U23
 http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV MESSI] Japan U23 vs Jordan U23
+#EXTINF:-1 group-title="Socolive_2",19h15: [BLV MESSI] Japan U23 vs Jordan U23
 http://sharing.gotdns.ch:8091/socolive.php?id=494201
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV ĐỐM] Japan U23 vs Jordan U23
+#EXTINF:-1 group-title="Socolive_2",19h15: [BLV ĐỐM] Japan U23 vs Jordan U23
 http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV Củ Cải] Japan U23 vs Jordan U23
+#EXTINF:-1 group-title="Socolive_2",19h15: [BLV Củ Cải] Japan U23 vs Jordan U23
 http://sharing.gotdns.ch:8091/socolive.php?id=9912091
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV ENZO] Japan U23 vs Jordan U23
+#EXTINF:-1 group-title="Socolive_2",19h15: [BLV ENZO] Japan U23 vs Jordan U23
 http://sharing.gotdns.ch:8091/socolive.php?id=380460
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV TOMMY] Japan U23 vs Jordan U23
+#EXTINF:-1 group-title="Socolive_2",19h15: [BLV TOMMY] Japan U23 vs Jordan U23
 http://sharing.gotdns.ch:8091/socolive.php?id=414317
-#EXTINF:-1 group-title="Socolive_2",18h30: [SAO LA] Japan U23 vs Jordan U23
+#EXTINF:-1 group-title="Socolive_2",19h15: [SAO LA] Japan U23 vs Jordan U23
 http://sharing.gotdns.ch:8091/socolive.php?id=462413
-#EXTINF:-1 group-title="Socolive_2",18h30: [SÙNG A MÚP] Japan U23 vs Jordan U23
+#EXTINF:-1 group-title="Socolive_2",19h15: [SÙNG A MÚP] Japan U23 vs Jordan U23
 http://sharing.gotdns.ch:8091/socolive.php?id=9912097
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV A BỆU] Japan U23 vs Jordan U23
+#EXTINF:-1 group-title="Socolive_2",19h15: [BLV A BỆU] Japan U23 vs Jordan U23
 http://sharing.gotdns.ch:8091/socolive.php?id=484845
 #EXTINF:-1 group-title="Socolive_2",19h25: [BLV KAI] Al-Batin vs Al-Faisaly Harmah
 http://sharing.gotdns.ch:8091/socolive.php?id=313971
@@ -205,12 +182,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=568233
 http://sharing.gotdns.ch:8091/socolive.php?id=570313
 #EXTINF:-1 group-title="Socolive_2",20h00: [BLV RAMBO] AC Milan U20 vs Fiorentina U20
 http://sharing.gotdns.ch:8091/socolive.php?id=534055
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV ROBBEN] Genoa U20 vs Parma U20
-http://sharing.gotdns.ch:8091/socolive.php?id=527383
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV ALEX] Genoa U20 vs Parma U20
-http://sharing.gotdns.ch:8091/socolive.php?id=532081
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV KAN] Genoa U20 vs Parma U20
-http://sharing.gotdns.ch:8091/socolive.php?id=283501
 #EXTINF:-1 group-title="Socolive_2",20h40: [BLV LONG] Al Najma(KSA) vs Al Fateh SC
 http://sharing.gotdns.ch:8091/socolive.php?id=9912050
 #EXTINF:-1 group-title="Socolive_2",20h40: [BLV QUAN VŨ] Al Najma(KSA) vs Al Fateh SC
@@ -453,6 +424,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=538979
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h00-17/01: [BLV BÉO] Unam Pumas Women vs Mazatlan FC Women
 http://sharing.gotdns.ch:8091/socolive.php?id=459401
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h00-17/01: [BLV VITAMIN] Unam Pumas Women vs Mazatlan FC Women
+http://sharing.gotdns.ch:8091/socolive.php?id=400722
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h00-17/01: [HUNTER] Indiana Pacers vs New Orleans Pelicans
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
@@ -1155,8 +1129,6 @@ https://vodcdn.fptplay.net/POVOD/encoded/2025/12/28/thamtulungdanhconanduanhcuad
 https://vip.opstream90.com/20251129/18758_e33bdf72/3000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Trái Tim Què Quặt
 https://s6.kkphimplayer6.com/20251228/0HQf0tP2/3500kb/hls/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 19
-https://live.fptplay53.net/fnxch1/thethao19_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
