@@ -96,8 +96,8 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h00-16/01 WS Wanderers (W) Vs Brisbane Roar (W) BLV TỐNG GIANG
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h30-16/01 Dagon FC Vs Hantharwady United BLV DƯƠNG QUÁ
+https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h35-16/01 Melbourne City Vs Auckland FC BLV KAKA
 https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
@@ -105,17 +105,14 @@ https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9c
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-16/01 Yarmanya United FC Vs Laconi Lian BLV LÝ ỨNG
 https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",14h30-16/01 Ho Chi Minh City U19 Vs Cong an TP HCM U19 BLV GIÁO SƯ XOAY
-https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h00-16/01 WS Wanderers (W) Vs Brisbane Roar (W) BLV TỐNG GIANG
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h30-16/01 FC Bekasi City Vs Sriwijaya FC BLV SHIN
 https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h50-16/01 Chelsea Vs Arsenal BLV LƯU BỊ REPLAY
 https://hls.cdnok9.com/live/TO2A/index.m3u8?expire=1891408380&sign=b4fcc4558b2967d54c04070f325ecb14
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",14h30-16/01 Persemar Martapura Vs Persenus Nusantara NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MvYrF35b1YKVLytxt/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h00-16/01 PSGC Ciamis Vs Tri Brata Rafflesia FC NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvYrF2Kb1fT8nsEJQ/playlist.m3u8
@@ -129,11 +126,11 @@ https://auto.cdnok9.com/live/sd-6MvYrF1bnGUBPGwxiY/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h20-16/01 Garhwal FC Vs M2M FC NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvYrEzscyzTujFyzk/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h30-16/01 Dagon FC Vs Hantharwady United BLV DƯƠNG QUÁ
-https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h30-16/01 Slovan Liberec II Vs Mlada Boleslav NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvZ6Hgir7M7UNStix/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-16/01 Sheger Ketema Vs Fasil Kenema BLV NGŨ CA
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h30-16/01 Legia Warszawa Vs Sigma Olomouc NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvYqrH58siWvKokmJ/playlist.m3u8
@@ -188,12 +185,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=532999
 http://sharing.gotdns.ch:8091/socolive.php?id=9912102
 #EXTINF:-1 group-title="Socolive_2",15h00: [CR Bưởi] WS Wanderers Women vs Brisbane Roar Women
 http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",15h00: [KING] Geelong Venom W vs Sydney W
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",15h00: [BRIAN] Geelong Venom W vs Sydney W
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",15h00: [CHAN SENA] Geelong Venom W vs Sydney W
-http://sharing.gotdns.ch:8091/socolive.php?id=515530
 #EXTINF:-1 group-title="Socolive_2",15h35: [BLV ĐỐM] Melbourne City vs Auckland FC
 http://sharing.gotdns.ch:8091/socolive.php?id=9912110
 #EXTINF:-1 group-title="Socolive_2",15h35: [BLV Củ Cải] Melbourne City vs Auckland FC
