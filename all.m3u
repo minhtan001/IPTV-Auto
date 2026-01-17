@@ -99,14 +99,8 @@ http://iptv.nhadai.org/stream/ben-tre
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-17/01 Manchester United Vs Manchester City BLV KEVILL
 https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-17/01 FC Unirea 2004 Slobozia Vs UTA Arad BLV PHONG VÂN
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h30-17/01 Uzbekistan U23 Vs China U23 BLV TỐNG GIANG
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-17/01 Preuben Munster Vs Karlsruher SC BLV LEO
-https://hls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-17/01 Real Madrid Vs Levante BLV LƯU BỊ
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-17/01 Dynamo Dresden Vs Greuther Furth BLV LÝ QUỲ
 https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
@@ -114,36 +108,20 @@ https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad017
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-17/01 Nurnberg Vs SV Elversberg BLV VĂN VỸ
 https://hls.cdnok9.com/live/VANVY/index.m3u8?expire=1830276060&sign=554d3c30c8d3453c1feb32142851729a
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-17/01 Watford Vs Millwall BLV NGŨ CA
-https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-17/01 Preuben Munster Vs Karlsruher SC BLV LEO
+https://hls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-17/01 Coventry City Vs Leicester City BLV MAYBACH
 https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-17/01 Watford Vs Millwall BLV NGŨ CA
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-17/01 Ipswich Town Vs Blackburn Rovers BLV SHIN
 https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-17/01 Real Madrid Vs Levante BLV LƯU BỊ
-https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h30-17/01 Hamburger SV Vs Borussia Monchengladbach BLV VÕ TÒNG
 https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV CHIVAS] FC Unirea 2004 Slobozia vs UTA Arad
-http://sharing.gotdns.ch:8091/socolive.php?id=485739
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV LONG] FC Unirea 2004 Slobozia vs UTA Arad
-http://sharing.gotdns.ch:8091/socolive.php?id=9912050
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV KEM] Uzbekistan U23 vs China U23
-http://sharing.gotdns.ch:8091/socolive.php?id=513394
-#EXTINF:-1 group-title="Socolive_2",18h30: [VƯƠNG ANH] Uzbekistan U23 vs China U23
-http://sharing.gotdns.ch:8091/socolive.php?id=548860
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV QUAN VŨ] Uzbekistan U23 vs China U23
-http://sharing.gotdns.ch:8091/socolive.php?id=239275
-#EXTINF:-1 group-title="Socolive_2",18h30: [CR Bưởi] Uzbekistan U23 vs China U23
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",18h30: [LÃO LÂM] Uzbekistan U23 vs China U23
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV ALEX] Uzbekistan U23 vs China U23
-http://sharing.gotdns.ch:8091/socolive.php?id=532081
 #EXTINF:-1 group-title="Socolive_2",19h00: [BLV WUKONG] 1. FC Nürnberg vs SV Elversberg
 http://sharing.gotdns.ch:8091/socolive.php?id=511367
 #EXTINF:-1 group-title="Socolive_2",19h00: [NGOẠ LONG] 1. FC Nürnberg vs SV Elversberg
@@ -162,6 +140,18 @@ http://sharing.gotdns.ch:8091/socolive.php?id=336303
 http://sharing.gotdns.ch:8091/socolive.php?id=285067
 #EXTINF:-1 group-title="Socolive_2",19h00: [A PÁO] Dynamo Dresden vs SpVgg Greuther Fürth
 http://sharing.gotdns.ch:8091/socolive.php?id=235232
+#EXTINF:-1 group-title="Socolive_2",19h15: [BLV KEM] Uzbekistan U23 vs China U23
+http://sharing.gotdns.ch:8091/socolive.php?id=513394
+#EXTINF:-1 group-title="Socolive_2",19h15: [VƯƠNG ANH] Uzbekistan U23 vs China U23
+http://sharing.gotdns.ch:8091/socolive.php?id=548860
+#EXTINF:-1 group-title="Socolive_2",19h15: [BLV QUAN VŨ] Uzbekistan U23 vs China U23
+http://sharing.gotdns.ch:8091/socolive.php?id=239275
+#EXTINF:-1 group-title="Socolive_2",19h15: [CR Bưởi] Uzbekistan U23 vs China U23
+http://sharing.gotdns.ch:8091/socolive.php?id=387694
+#EXTINF:-1 group-title="Socolive_2",19h15: [LÃO LÂM] Uzbekistan U23 vs China U23
+http://sharing.gotdns.ch:8091/socolive.php?id=527384
+#EXTINF:-1 group-title="Socolive_2",19h15: [BLV ALEX] Uzbekistan U23 vs China U23
+http://sharing.gotdns.ch:8091/socolive.php?id=532081
 #EXTINF:-1 group-title="Socolive_2",19h30: [BLV TOMMY] Manchester United vs Manchester City
 http://sharing.gotdns.ch:8091/socolive.php?id=414317
 #EXTINF:-1 group-title="Socolive_2",19h30: [BLV TAP] Manchester United vs Manchester City
@@ -1033,18 +1023,6 @@ https://delivery.04.sgchill.io.vn/v1/channel/nokey/twitch/sgnetwork.smil/index.m
 http://live.qphim.xyz:8880/hls_nonkey/ninochannel/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Nino Channel 2
 http://live.qphim.xyz/hls_nonkey/ninochannel2/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",ONi1
-https://1.org.vn/oni1/?/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",ONi2
-https://d.org.vn/oni2-mbnlife/?/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",ONi3
-https://1.org.vn/oni3/?/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",ONi4
-https://1.org.vn/oni4/?/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",ONi6
-https://1.org.vn/oni6/?/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",ONi7
-https://1.org.vn/oni7/?/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",LVTT
 http://live.qphim.xyz:8880/hls_nonkey/lvtt/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",ATV HD
