@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Socolive_2",09h00: [BLV RAMBO] UNAN Managua vs Walter Ferretti
-http://sharing.gotdns.ch:8091/socolive.php?id=534055
-#EXTINF:-1 group-title="Socolive_2",09h00: [BLV FAKER] UNAN Managua vs Walter Ferretti
-http://sharing.gotdns.ch:8091/socolive.php?id=564597
-#EXTINF:-1 group-title="Socolive_2",09h00: [BLV NIBO] UNAN Managua vs Walter Ferretti
-http://sharing.gotdns.ch:8091/socolive.php?id=372746
-#EXTINF:-1 group-title="Socolive_2",09h00: [BLV LUCAS] UNAN Managua vs Walter Ferretti
-http://sharing.gotdns.ch:8091/socolive.php?id=304148
 #EXTINF:-1 group-title="Socolive_2",10h05: [HUNTER] Los Angeles Lakers vs Toronto Raptors
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
 #EXTINF:-1 group-title="Socolive_2",10h05: [CHAN SENA] Los Angeles Lakers vs Toronto Raptors
@@ -517,11 +509,11 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912009
 #EXTINF:-1 group-title="Socolive_2",20h30-20/01: [BLV KEM] Al Markhiya vs Al-Wakrah SC
 http://sharing.gotdns.ch:8091/socolive.php?id=513394
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2",20h30-20/01: [BLV 7UP] Al Markhiya vs Al-Wakrah SC
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",20h30-20/01: [TAM MAO] Al Markhiya vs Al-Wakrah SC
 http://sharing.gotdns.ch:8091/socolive.php?id=9912100
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2",20h30-20/01: [BLV KAI] Al Markhiya vs Al-Wakrah SC
+http://sharing.gotdns.ch:8091/socolive.php?id=313971
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2",21h00-20/01: [KING] Sharjah vs Kuwait SC
 http://sharing.gotdns.ch:8091/socolive.php?id=9912099
