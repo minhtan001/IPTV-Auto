@@ -95,12 +95,15 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTINF:-1 group-title="Socolive_2",15h00: [BRIAN] Adelaide Lightning W vs Canberra Capitals W
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",15h00: [BLV HENRY] Adelaide Lightning W vs Canberra Capitals W
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",15h00: [CHAN SENA] Adelaide Lightning W vs Canberra Capitals W
-http://sharing.gotdns.ch:8091/socolive.php?id=515530
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-20/01 Brisbane Roar (W) Vs Melbourne City (W) BLV KEVILL
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-20/01 Mlada Boleslav Vs Chrudim NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvZ6Hgir59dbtcya4/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h20-20/01 Al-Rawdhah Vs Jerash FC BLV ĐOÀN DỰ
+https://hls.cdnok9.com/live/DOANDU1/index.m3u8?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
 #EXTINF:-1 group-title="Socolive_2",16h00: [BLV SINGER] Brisbane Roar Women vs Melbourne City Women
 http://sharing.gotdns.ch:8091/socolive.php?id=9912102
 #EXTINF:-1 group-title="Socolive_2",16h00: [CR Bưởi] Brisbane Roar Women vs Melbourne City Women
@@ -457,8 +460,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=283501
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h00-21/01: [XUÂN SON] Pachuca Women vs Puebla Women
 http://sharing.gotdns.ch:8091/socolive.php?id=501412
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h00-21/01: [BLV KAI] Pachuca Women vs Puebla Women
-http://sharing.gotdns.ch:8091/socolive.php?id=313971
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h00-21/01: [TẠ BIÊN GIỚI] Pachuca Women vs Puebla Women
+http://sharing.gotdns.ch:8091/socolive.php?id=9912108
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h00-21/01: [KING] Houston Rockets vs San Antonio Spurs
 http://sharing.gotdns.ch:8091/socolive.php?id=9912099
@@ -477,6 +480,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=351530
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",09h00-21/01: [BLV  TYPN] CS Herediano vs Guadalupe FC
 http://sharing.gotdns.ch:8091/socolive.php?id=9912009
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",09h00-21/01: [BLV KAI] CS Herediano vs Guadalupe FC
+http://sharing.gotdns.ch:8091/socolive.php?id=313971
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",09h00-21/01: [CÔNG LÝ] Xelaju MC vs Aurora F.C.
 http://sharing.gotdns.ch:8091/socolive.php?id=9912035
