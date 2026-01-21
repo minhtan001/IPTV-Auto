@@ -95,20 +95,6 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTINF:-1 group-title="Socolive_2",07h35: [HUNTER] Philadelphia 76ers vs Phoenix Suns
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",07h35: [CHAN SENA] Philadelphia 76ers vs Phoenix Suns
-http://sharing.gotdns.ch:8091/socolive.php?id=515530
-#EXTINF:-1 group-title="Socolive_2",08h00: [VỊT BẠC] Pachuca Women vs Puebla Women
-http://sharing.gotdns.ch:8091/socolive.php?id=474421
-#EXTINF:-1 group-title="Socolive_2",08h00: [BLV KAN] Pachuca Women vs Puebla Women
-http://sharing.gotdns.ch:8091/socolive.php?id=283501
-#EXTINF:-1 group-title="Socolive_2",08h00: [XUÂN SON] Pachuca Women vs Puebla Women
-http://sharing.gotdns.ch:8091/socolive.php?id=501412
-#EXTINF:-1 group-title="Socolive_2",08h00: [TẠ BIÊN GIỚI] Pachuca Women vs Puebla Women
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",08h35: [KING] Houston Rockets vs San Antonio Spurs
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
 #EXTINF:-1 group-title="Socolive_2",09h00: [BLV COCA] CS Herediano vs Guadalupe FC
 http://sharing.gotdns.ch:8091/socolive.php?id=327159
 #EXTINF:-1 group-title="Socolive_2",09h00: [TAM MAO] CS Herediano vs Guadalupe FC
@@ -145,13 +131,13 @@ http://sharing.gotdns.ch:8091/socolive.php?id=291277
 http://sharing.gotdns.ch:8091/socolive.php?id=9912110
 #EXTINF:-1 group-title="Socolive_2",10h00: [BLV Củ Cải] Tijuana Women vs Juarez FC Women
 http://sharing.gotdns.ch:8091/socolive.php?id=9912091
-#EXTINF:-1 group-title="Socolive_2",10h00: [CHAN SENA] Denver Nuggets vs Los Angeles Lakers
+#EXTINF:-1 group-title="Socolive_2",10h35: [CHAN SENA] Denver Nuggets vs Los Angeles Lakers
 http://sharing.gotdns.ch:8091/socolive.php?id=515530
-#EXTINF:-1 group-title="Socolive_2",10h00: [BLV HENRY] Golden State Warriors vs Toronto Raptors
+#EXTINF:-1 group-title="Socolive_2",10h35: [BLV HENRY] Golden State Warriors vs Toronto Raptors
 http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",10h00: [BRIAN] Golden State Warriors vs Toronto Raptors
+#EXTINF:-1 group-title="Socolive_2",10h35: [BRIAN] Golden State Warriors vs Toronto Raptors
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",10h00: [HUNTER] Sacramento Kings vs Miami Heat
+#EXTINF:-1 group-title="Socolive_2",10h35: [HUNTER] Sacramento Kings vs Miami Heat
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
 #EXTINF:-1 group-title="Socolive_2",13h30: [HUNTER] Melbourne United vs Brisbane Bullets
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
@@ -1019,8 +1005,6 @@ https://vip.opstream90.com/20251129/18758_e33bdf72/3000k/hls/mixed.m3u8
 https://s6.kkphimplayer6.com/20251228/0HQf0tP2/3500kb/hls/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Làm Giàu Với Ma Phần 2: Cuộc Chiến Hột Xoàn
 https://vip.opstream90.com/20260102/21537_fe1af53e/3000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Thể Thao 15
-https://live.fptplay53.net/fnxch1/thethao15_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
