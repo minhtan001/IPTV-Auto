@@ -95,34 +95,30 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTINF:-1 group-title="Socolive_2",19h30: [BLV FIREMAN] ZED FC vs Al Masry
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
-#EXTINF:-1 group-title="Socolive_2",19h30: [BLV KAN] ZED FC vs Al Masry
-http://sharing.gotdns.ch:8091/socolive.php?id=283501
-#EXTINF:-1 group-title="Socolive_2",19h35: [BLV CHIVAS] Al-Anwar Club vs Al-Arabi SC(KSA)
-http://sharing.gotdns.ch:8091/socolive.php?id=485739
-#EXTINF:-1 group-title="Socolive_2",19h35: [BLV Sao Đỏ] Al-Anwar Club vs Al-Arabi SC(KSA)
-http://sharing.gotdns.ch:8091/socolive.php?id=519740
-#EXTINF:-1 group-title="Socolive_2",19h35: [A PÁO] Al-Anwar Club vs Al-Arabi SC(KSA)
-http://sharing.gotdns.ch:8091/socolive.php?id=235232
-#EXTINF:-1 group-title="Socolive_2",19h35: [KÉP] Al-Anwar Club vs Al-Arabi SC(KSA)
-http://sharing.gotdns.ch:8091/socolive.php?id=560690
-#EXTINF:-1 group-title="Socolive_2",19h35: [BLV VOI] Al Zulfi vs Al-Jandal
-http://sharing.gotdns.ch:8091/socolive.php?id=9912114
-#EXTINF:-1 group-title="Socolive_2",19h35: [BLV MIXI] Al Zulfi vs Al-Jandal
-http://sharing.gotdns.ch:8091/socolive.php?id=290928
-#EXTINF:-1 group-title="Socolive_2",19h35: [NGOẠ LONG] Al Zulfi vs Al-Jandal
-http://sharing.gotdns.ch:8091/socolive.php?id=538979
-#EXTINF:-1 group-title="Socolive_2",19h35: [BLV MESSI] Al Zulfi vs Al-Jandal
-http://sharing.gotdns.ch:8091/socolive.php?id=494201
-#EXTINF:-1 group-title="Socolive_2",19h45: [BLV LUCAS] Al-Jabalain vs Al-Batin
-http://sharing.gotdns.ch:8091/socolive.php?id=304148
-#EXTINF:-1 group-title="Socolive_2",19h45: [BLV BÉO] Al-Jabalain vs Al-Batin
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTINF:-1 group-title="Socolive_2",19h45: [BLV ENZO] Al-Jabalain vs Al-Batin
-http://sharing.gotdns.ch:8091/socolive.php?id=380460
-#EXTINF:-1 group-title="Socolive_2",19h45: [BLV ANH TÀI] Al-Jabalain vs Al-Batin
-http://sharing.gotdns.ch:8091/socolive.php?id=406865
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-21/01 SODA Vs OK9 TV MEGA LIVE
+https://hls.cdnok9.com/live/HANGVU1/index.m3u8?expire=1788427256&sign=35e56aacb29c1a0624a29230271c3db1
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h20-21/01 Bahla Vs Al Shabab(OMA) BLV DƯƠNG QUÁ
+https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-21/01 AS Gabes Vs Olympique de Beja BLV QUAN VŨ
+https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-21/01 Ceramica Cleopatra FC Vs Al-Ittihad Alexandria BLV LƯU BỊ
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-21/01 Hawassa City FC Vs Negelle Arsi BLV TRƯƠNG THANH
+https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-21/01 Al Khor SC Vs Al Rayyan BLV TỐNG GIANG
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h30-21/01 Al-Okhdood Vs Al-Riyadh BLV KEVILL
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h45-21/01 AL-Rbeea Jeddah Vs Jubail BLV KENCHU
+https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
 #EXTINF:-1 group-title="Socolive_2",20h00: [BLV RAMBO] Napoli U20 vs Atalanta U20
 http://sharing.gotdns.ch:8091/socolive.php?id=534055
 #EXTINF:-1 group-title="Socolive_2",20h00: [BLV XAVI] Napoli U20 vs Atalanta U20
@@ -131,6 +127,10 @@ http://sharing.gotdns.ch:8091/socolive.php?id=525090
 http://sharing.gotdns.ch:8091/socolive.php?id=568233
 #EXTINF:-1 group-title="Socolive_2",20h00: [BÚA TẠ] Napoli U20 vs Atalanta U20
 http://sharing.gotdns.ch:8091/socolive.php?id=570313
+#EXTINF:-1 group-title="Socolive_2",20h15: [BLV FIREMAN] ZED FC vs Al Masry
+http://sharing.gotdns.ch:8091/socolive.php?id=991140
+#EXTINF:-1 group-title="Socolive_2",20h15: [BLV KAN] ZED FC vs Al Masry
+http://sharing.gotdns.ch:8091/socolive.php?id=283501
 #EXTINF:-1 group-title="Socolive_2",20h30: [BLV PEWPEW] Al Khor SC vs Al Rayyan
 http://sharing.gotdns.ch:8091/socolive.php?id=9912015
 #EXTINF:-1 group-title="Socolive_2",20h30: [BLV PIRLO] Al Khor SC vs Al Rayyan
