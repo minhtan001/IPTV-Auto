@@ -96,41 +96,26 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-22/01 JENNIE Vs OK9 TV MEGA LIVE
-https://hls.cdnok9.com/live/HANGVU1/index.m3u8?expire=1788427256&sign=35e56aacb29c1a0624a29230271c3db1
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-22/01 Club Africain Vs ES du Sahel BLV A TỦA
-https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h30-22/01 Al Karma SC Vs Baghdad BLV MAYBACH
 https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-22/01 Mekelakeya Vs Kedus Giorgis BLV LEO
-https://hls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-22/01 Haras El Hedoud Vs Kahraba Ismailia BLV LÝ ỨNG
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-22/01 Sidama Bunna Vs Ethiopia Bunna BLV CHUNN
-https://hls.cdnok9.com/live/CHUN1/index.m3u8?expire=1890830700&sign=dbdc8ced2f1b21adf9d5a264bfe72141
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-22/01 Wadi Degla SC Vs Ghazl El Mahallah BLV ĐOÀN DỰ
 https://hls.cdnok9.com/live/DOANDU1/index.m3u8?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-22/01 JENNIE Vs OK9 TV MEGA LIVE
+https://hls.cdnok9.com/live/HANGVU1/index.m3u8?expire=1788427256&sign=35e56aacb29c1a0624a29230271c3db1
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-22/01 Haras El Hedoud Vs Kahraba Ismailia BLV LÝ ỨNG
+https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h15-22/01 Al-Taawoun Vs Al-Hazm BLV NHỊ KA
 https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTINF:-1 group-title="Socolive_2",20h00: [A PÁO] Club Africain vs Etoile Sahel
-http://sharing.gotdns.ch:8091/socolive.php?id=235232
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV A TÚ] Club Africain vs Etoile Sahel
-http://sharing.gotdns.ch:8091/socolive.php?id=557845
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV ADAM] Bologna U20 vs Cesena U20
-http://sharing.gotdns.ch:8091/socolive.php?id=336303
-#EXTINF:-1 group-title="Socolive_2",20h00: [NGOẠ LONG] Bologna U20 vs Cesena U20
-http://sharing.gotdns.ch:8091/socolive.php?id=538979
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV A BỆU] Torino U20 vs AS Roma U20
-http://sharing.gotdns.ch:8091/socolive.php?id=484845
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV A WIN] Torino U20 vs AS Roma U20
-http://sharing.gotdns.ch:8091/socolive.php?id=536185
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h10-22/01 Al Ula FC Vs Al-Wehda BLV TỐNG GIANG
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h45-23/01 FC Viktoria Plzen Vs FC Porto BLV NGŨ CA
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTINF:-1 group-title="Socolive_2",21h10: [BLV SINGER] Al Ula FC vs Al Wehda Mecca
 http://sharing.gotdns.ch:8091/socolive.php?id=9912102
 #EXTINF:-1 group-title="Socolive_2",21h10: [LÃO LÂM] Al Ula FC vs Al Wehda Mecca
@@ -246,6 +231,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912008
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h45-23/01: [BLV ENZO] Fenerbahce vs Aston Villa
 http://sharing.gotdns.ch:8091/socolive.php?id=380460
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h45-23/01: [BLV PEWPEW] Fenerbahce vs Aston Villa
+http://sharing.gotdns.ch:8091/socolive.php?id=9912015
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h45-23/01: [A PÁO] Feyenoord vs Sturm Graz
 http://sharing.gotdns.ch:8091/socolive.php?id=235232
@@ -384,9 +372,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=534055
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-23/01: [BLV NIBO] Club Atlético Unión vs CA Platense
 http://sharing.gotdns.ch:8091/socolive.php?id=372746
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-23/01: [BLV PEWPEW] Club Atlético Unión vs CA Platense
-http://sharing.gotdns.ch:8091/socolive.php?id=9912015
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-23/01: [BLV SATIVA] Botafogo SP vs Primavera
 http://sharing.gotdns.ch:8091/socolive.php?id=321443
