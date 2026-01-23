@@ -96,35 +96,26 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-23/01 Hapoel Jerusalem Vs Hapoel Petah Tikva BLV LÝ ỨNG
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h15-23/01 Selangor Vs Kelantan United BLV KHỔNG MINH
 https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-23/01 PSPS Pekanbaru Vs Adhyaksa Farmel FC BLV LƯU BỊ
 https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-23/01 Persija Jakarta Vs Madura United BLV KEVILL
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h30-23/01 Geylang International Vs Tampines Rovers FC BLV KAKA
-https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-23/01 SODA Vs OK9 TV MEGA LIVE
+https://hls.cdnok9.com/live/HANGVU1/index.m3u8?expire=1788427256&sign=35e56aacb29c1a0624a29230271c3db1
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-23/01 Nong Bua Lamphu Vs Chanthaburi FC BLV MAYBACH
 https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h00-23/01 Brighton Hove Albion Vs AFC Bournemouth BLV VƯƠNG LUÂN REPLAY
-https://hls.cdnok9.com/live/TO5A/index.m3u8?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h20-23/01 INTER Vs ARSENAL BLV THỜI THIÊN REPLAY
-https://hls.cdnok9.com/live/TO6A/index.m3u8?expire=1891408380&sign=df6b95775ca8cf6b58a17d54271d96e3
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h20-23/01 Chelsea Vs Arsenal BLV LƯU BỊ REPLAY
-https://hls.cdnok9.com/live/TO2A/index.m3u8?expire=1891408380&sign=b4fcc4558b2967d54c04070f325ecb14
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h50-23/01 Al-Orubah Vs Al Bukayriyah BLV TỐNG GIANG
 https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-23/01 Hapoel Jerusalem Vs Hapoel Petah Tikva BLV LÝ ỨNG
+https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-23/01 Persija Jakarta Vs Madura United BLV KEVILL
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-23/01 Jeunesse Sportive Omrane Vs Esperance Sportive Zarzis BLV MÃ SIÊU
 https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
@@ -132,18 +123,14 @@ https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-23/01 Terengganu Vs UM-Damansara United BLV A TỦA
 https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h25-23/01 Al-Salmiyah Vs Al-Ttadamon(KUW) BLV TRƯƠNG THANH
+https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h40-23/01 Al-Draih Vs Al-Tai BLV KAKA
+https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h50-23/01 Al Fahaheel SC Vs Al-Qadsia SC BLV VÕ TÒNG
 https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV PEWPEW] Geylang United FC vs Tampines Rovers FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912015
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV VOI] Geylang United FC vs Tampines Rovers FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912114
-#EXTINF:-1 group-title="Socolive_2",18h30: [BÚA TẠ] Geylang United FC vs Tampines Rovers FC
-http://sharing.gotdns.ch:8091/socolive.php?id=570313
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV SINGER] Geylang United FC vs Tampines Rovers FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912102
-#EXTINF:-1 group-title="Socolive_2",18h30: [KING] San Miguel Beermen vs TNT Tropang Giga
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
 #EXTINF:-1 group-title="Socolive_2",19h00: [BLV Hổ Lùn] Hapoel Jerusalem vs Hapoel Petah Tikva
 http://sharing.gotdns.ch:8091/socolive.php?id=308080
 #EXTINF:-1 group-title="Socolive_2",19h00: [NGOẠ LONG] Hapoel Jerusalem vs Hapoel Petah Tikva
@@ -192,6 +179,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=472241
 http://sharing.gotdns.ch:8091/socolive.php?id=9912109
 #EXTINF:-1 group-title="Socolive_2",20h25: [BLV VIP] Al-Salmiya vs Al-Ttadamon(KUW)
 http://sharing.gotdns.ch:8091/socolive.php?id=491873
+#EXTINF:-1 group-title="Socolive_2",20h25: [BLV A WIN] Al-Salmiya vs Al-Ttadamon(KUW)
+http://sharing.gotdns.ch:8091/socolive.php?id=536185
 #EXTINF:-1 group-title="Socolive_2",20h40: [BLV SINGER] Al Diraiyah vs Al-Tai
 http://sharing.gotdns.ch:8091/socolive.php?id=9912102
 #EXTINF:-1 group-title="Socolive_2",20h40: [BLV TÔM] Al Diraiyah vs Al-Tai
