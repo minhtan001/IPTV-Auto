@@ -95,18 +95,6 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTINF:-1 group-title="Socolive_2",18h00: [VƯƠNG ANH] PVF CAND vs Hoang Anh Gia Lai
-http://sharing.gotdns.ch:8091/socolive.php?id=548860
-#EXTINF:-1 group-title="Socolive_2",18h00: [TAM MAO] PVF CAND vs Hoang Anh Gia Lai
-http://sharing.gotdns.ch:8091/socolive.php?id=9912100
-#EXTINF:-1 group-title="Socolive_2",18h00: [CR Bưởi] PVF CAND vs Hoang Anh Gia Lai
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",18h00: [SÙNG A MÚP] PVF CAND vs Hoang Anh Gia Lai
-http://sharing.gotdns.ch:8091/socolive.php?id=9912097
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV A BỆU] PVF CAND vs Hoang Anh Gia Lai
-http://sharing.gotdns.ch:8091/socolive.php?id=484845
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV TOMIA] PVF CAND vs Hoang Anh Gia Lai
-http://sharing.gotdns.ch:8091/socolive.php?id=9912008
 #EXTINF:-1 group-title="Socolive_2",18h30: [KÉP] Kayserispor vs Başakşehir Futbol Kulübü
 http://sharing.gotdns.ch:8091/socolive.php?id=560690
 #EXTINF:-1 group-title="Socolive_2",18h30: [BLV CHIVAS] Kayserispor vs Başakşehir Futbol Kulübü
@@ -539,9 +527,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=313971
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h00-25/01: [LÃO LÂM] Juarez FC Women vs Cruz Azul Women
 http://sharing.gotdns.ch:8091/socolive.php?id=527384
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h00-25/01: [BLV VIP] Juarez FC Women vs Cruz Azul Women
-http://sharing.gotdns.ch:8091/socolive.php?id=491873
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h00-25/01: [CHAN SENA] Orlando Magic vs Cleveland Cavaliers
 http://sharing.gotdns.ch:8091/socolive.php?id=515530
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -643,9 +628,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=552832
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",10h00-25/01: [LÃO LÂM] Wellington Phoenix Women vs Adelaide United Women
 http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",10h00-25/01: [BLV VIP] Wellington Phoenix Women vs Adelaide United Women
-http://sharing.gotdns.ch:8091/socolive.php?id=491873
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",10h30-25/01: [HUNTER] Sydney vs Adelaide
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
@@ -982,9 +964,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=513394
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h00-25/01: [BLV ANH TÀI] FC Nantes vs OGC Nice
 http://sharing.gotdns.ch:8091/socolive.php?id=406865
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h00-25/01: [BLV VIP] FC Nantes vs OGC Nice
-http://sharing.gotdns.ch:8091/socolive.php?id=491873
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h30-25/01: [BLV FIREMAN] Borussia Monchengladbach vs VfB Stuttgart
 http://sharing.gotdns.ch:8091/socolive.php?id=991140
