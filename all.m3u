@@ -96,6 +96,9 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-24/01 Burnley Vs Tottenham Hotspur BLV TRƯƠNG THANH
+https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-24/01 Manchester City Vs Wolves BLV KEVILL
 https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTVLCOPT:http-referrer=https://ls40.live/
@@ -105,24 +108,6 @@ https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-24/01 Fulham Vs Brighton Hove Albion BLV MÃ SIÊU
 https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h30-24/01 Bayern Munchen Vs Augsburg BLV LƯU BỊ
-https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-24/01 Burnley Vs Tottenham Hotspur BLV TRƯƠNG THANH
-https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h30-24/01 Eintracht Frankfurt Vs TSG Hoffenheim BLV TẦN CA
-https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h30-24/01 FSV Mainz 05 Vs VfL Wolfsburg BLV PHONG VÂN
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h30-24/01 Heidenheimer Vs RB Leipzig BLV LÝ QUỲ
-https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h30-24/01 Bayer Leverkusen Vs Werder Bremen BLV CHUNN
-https://hls.cdnok9.com/live/CHUN1/index.m3u8?expire=1890830700&sign=dbdc8ced2f1b21adf9d5a264bfe72141
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h15-24/01 Valencia Vs RCD Espanyol BLV PEP
 https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
 #EXTVLCOPT:http-referrer=https://ls40.live/
@@ -130,6 +115,21 @@ https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38
 https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",23h00-24/01 Rennes Vs Lorient BLV NGŨ CA
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h00-25/01 Karagumruk Vs Galatasaray BLV PHONG VÂN
+https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h15-25/01 Club Brugge Vs Zulte-Waregem BLV QUAN VŨ
+https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h30-25/01 Sevilla Vs Athletic Bilbao BLV MÃ SIÊU
+https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h30-25/01 Union Berlin Vs Borussia Dortmund BLV LƯU BỊ
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",02h00-25/01 PSV Eindhoven Vs NAC Breda BLV NGŨ CA
 https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTINF:-1 group-title="Socolive_2",21h00: [BLV TORRES] Como vs Torino
 http://sharing.gotdns.ch:8091/socolive.php?id=560224
@@ -247,57 +247,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=285067
 http://sharing.gotdns.ch:8091/socolive.php?id=579144
 #EXTINF:-1 group-title="Socolive_2",22h30: [KÉP] AFC Ajax vs Volendam
 http://sharing.gotdns.ch:8091/socolive.php?id=560690
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h30-24/01: [BLV CHIVAS] Bayer 04 Leverkusen vs SV Werder Bremen
-http://sharing.gotdns.ch:8091/socolive.php?id=485739
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h30-24/01: [BLV Sao Đỏ] Bayer 04 Leverkusen vs SV Werder Bremen
-http://sharing.gotdns.ch:8091/socolive.php?id=519740
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h30-24/01: [BLV FIREMAN] Bayer 04 Leverkusen vs SV Werder Bremen
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h30-24/01: [BLV GÔN] Bayer 04 Leverkusen vs SV Werder Bremen
-http://sharing.gotdns.ch:8091/socolive.php?id=445260
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h30-24/01: [LÃO LÂM] FC Bayern Munich vs FC Augsburg
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h30-24/01: [BLV  TYPN] FC Bayern Munich vs FC Augsburg
-http://sharing.gotdns.ch:8091/socolive.php?id=9912009
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h30-24/01: [BLV VOI] FC Bayern Munich vs FC Augsburg
-http://sharing.gotdns.ch:8091/socolive.php?id=9912114
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h30-24/01: [BLV LONG] FC Bayern Munich vs FC Augsburg
-http://sharing.gotdns.ch:8091/socolive.php?id=9912050
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h30-24/01: [RED BULL] FC Bayern Munich vs FC Augsburg
-http://sharing.gotdns.ch:8091/socolive.php?id=547345
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h30-24/01: [BLV TÔM] FC Bayern Munich vs FC Augsburg
-http://sharing.gotdns.ch:8091/socolive.php?id=561379
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h30-24/01: [A PÁO] Eintracht Frankfurt vs TSG Hoffenheim
-http://sharing.gotdns.ch:8091/socolive.php?id=235232
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h30-24/01: [BLV SHIN] Eintracht Frankfurt vs TSG Hoffenheim
-http://sharing.gotdns.ch:8091/socolive.php?id=522086
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h30-24/01: [BLV ADAM] 1. FC Heidenheim 1846 vs RB Leipzig
-http://sharing.gotdns.ch:8091/socolive.php?id=336303
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h30-24/01: [NGOẠ LONG] 1. FC Heidenheim 1846 vs RB Leipzig
-http://sharing.gotdns.ch:8091/socolive.php?id=538979
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h30-24/01: [QUANG VINH] 1. FC Heidenheim 1846 vs RB Leipzig
-http://sharing.gotdns.ch:8091/socolive.php?id=9912109
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h30-24/01: [BLV ROBBEN] 1. FSV Mainz 05 vs VfL Wolfsburg
-http://sharing.gotdns.ch:8091/socolive.php?id=527383
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h30-24/01: [BLV VIP] 1. FSV Mainz 05 vs VfL Wolfsburg
-http://sharing.gotdns.ch:8091/socolive.php?id=491873
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-24/01: [BLV COZY] Burnley vs Tottenham Hotspur
 http://sharing.gotdns.ch:8091/socolive.php?id=531989
