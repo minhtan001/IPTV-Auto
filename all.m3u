@@ -95,12 +95,6 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTINF:-1 group-title="Socolive_2",01h00: [BLV FIREMAN] Benfica vs CF Estrela Amadora SAD
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
-#EXTINF:-1 group-title="Socolive_2",01h00: [BLV KAN] Benfica vs CF Estrela Amadora SAD
-http://sharing.gotdns.ch:8091/socolive.php?id=283501
-#EXTINF:-1 group-title="Socolive_2",01h00: [Đình Bắc] Benfica vs CF Estrela Amadora SAD
-http://sharing.gotdns.ch:8091/socolive.php?id=579144
 #EXTINF:-1 group-title="Socolive_2",02h45: [VƯƠNG ANH] AS Roma vs AC Milan
 http://sharing.gotdns.ch:8091/socolive.php?id=548860
 #EXTINF:-1 group-title="Socolive_2",02h45: [RED BULL] AS Roma vs AC Milan
@@ -137,8 +131,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=534219
 http://sharing.gotdns.ch:8091/socolive.php?id=568233
 #EXTINF:-1 group-title="Socolive_2",03h30: [BÚA TẠ] Sporting Braga vs Alverca
 http://sharing.gotdns.ch:8091/socolive.php?id=570313
-#EXTINF:-1 group-title="Socolive_2",03h30: [A CHÈ] Memphis Grizzlies vs Denver Nuggets
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
 #EXTINF:-1 group-title="Socolive_2",04h00: [BLV SÓI] Fluminense RJ vs CR Flamengo
 http://sharing.gotdns.ch:8091/socolive.php?id=427562
 #EXTINF:-1 group-title="Socolive_2",04h00: [BLV SHIN] Fluminense RJ vs CR Flamengo
@@ -1185,7 +1177,7 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-Hu_Nan_Wei_Shi_HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-FM96-Thoi_su_Ha_Noi
 #EXTINF:-1 group-title="TruyenHinh_3",FM90 • TIN TỨC & GIAO THÔNG HÀ NỘI
 https://HaNoiIPTV.short.gy/HaNoiIPTV-FM90-Tin_tuc_va_Giao_thong_Ha_Noi
-#EXTINF:-1 group-title="TruyenHinh_3",FM 92,7 • TIN TỨC & VĂN HÓA DÂN SINH HƯNG YÊN
+#EXTINF:-1 group-title="TruyenHinh_3",FM 92.7 • TIN TỨC HƯNG YÊN & VĂN HÓA - DÂN SINH
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-NBTV-Phat_thanh_Ninh_Binh
 #EXTINF:-1 group-title="TruyenHinh_3",GLOBO HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-TV_Globo_HD
@@ -1631,77 +1623,77 @@ https://tv.nknews.org/tvdash/stream.mpd
 https://HaNoiIPTV.short.gy/HaNoiIPTV-VOV_Giao_thong_Ha_Noi
 #EXTINF:-1 group-title="TruyenHinh_3",FM 101 • VOV1
 https://HaNoiIPTV.short.gy/HaNoiIPTV-VOV1
-#EXTINF:-1 group-title="TruyenHinh_3",FM 96,5 • VOV2
+#EXTINF:-1 group-title="TruyenHinh_3",FM 96.5 • VOV2
 https://HaNoiIPTV.short.gy/HaNoiIPTV-VOV2
-#EXTINF:-1 group-title="TruyenHinh_3",FM 102,7 • VOV3
+#EXTINF:-1 group-title="TruyenHinh_3",FM 102.7 • VOV3
 https://HaNoiIPTV.short.gy/HaNoiIPTV-VOV3
 #EXTINF:-1 group-title="TruyenHinh_3",FM 92 • VOV4
 https://HaNoiIPTV.short.gy/HaNoiIPTV-VOV4
-#EXTINF:-1 group-title="TruyenHinh_3",FM 105,5 • VOV5
+#EXTINF:-1 group-title="TruyenHinh_3",FM 105.5 • VOV5
 https://HaNoiIPTV.short.gy/HaNoiIPTV-VOV5
-#EXTINF:-1 group-title="TruyenHinh_3",FM 99,9 • VOH1
+#EXTINF:-1 group-title="TruyenHinh_3",FM 99.9 • VOH1
 https://HaNoiIPTV.short.gy/HaNoiIPTV-VOH1
-#EXTINF:-1 group-title="TruyenHinh_3",FM 95,6 • VOH2
+#EXTINF:-1 group-title="TruyenHinh_3",FM 95.6 • VOH2
 https://HaNoiIPTV.short.gy/HaNoiIPTV-VOH2
-#EXTINF:-1 group-title="TruyenHinh_3",FM 87,7 • VOH3
+#EXTINF:-1 group-title="TruyenHinh_3",FM 87.7 • VOH3
 https://HaNoiIPTV.short.gy/HaNoiIPTV-VOH3
 #EXTINF:-1 group-title="TruyenHinh_3",AM 610 • VOH4
 https://HaNoiIPTV.short.gy/HaNoiIPTV-VOH4
 #EXTINF:-1 group-title="TruyenHinh_3",FM 89 • XONE Radio
 http://gg.gg/HaNoiIPTV-XONE_Radio
-#EXTINF:-1 group-title="TruyenHinh_3",FM 97,8 • QNR1 - PT QUẢNG NINH 1
+#EXTINF:-1 group-title="TruyenHinh_3",FM 97.8 • QNR1 - PT QUẢNG NINH 1
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-QNR1-Phat_thanh_Quang_Ninh_1
-#EXTINF:-1 group-title="TruyenHinh_3",FM 94,7 • QNR2 - PT QUẢNG NINH 2
+#EXTINF:-1 group-title="TruyenHinh_3",FM 94.7 • QNR2 - PT QUẢNG NINH 2
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-QNR2-Phat_thanh_Quang_Ninh_2
-#EXTINF:-1 group-title="TruyenHinh_3",FM 88,6 • PT LẠNG SƠN
+#EXTINF:-1 group-title="TruyenHinh_3",FM 88.6 • PT LẠNG SƠN
 http://gg.gg/HaNoiIPTVPlus-LSTV-Phat_thanh_Lang_Son
-#EXTINF:-1 group-title="TruyenHinh_3",FM 92,1 • BTV - PT BẮC NINH
+#EXTINF:-1 group-title="TruyenHinh_3",FM 92.1 • BTV - PT BẮC NINH
 http://gg.gg/HaNoiIPTVPlus-BTV-Phat_thanh_Bac_Ninh
-#EXTINF:-1 group-title="TruyenHinh_3",FM 92,7 • PT VĨNH LONG
+#EXTINF:-1 group-title="TruyenHinh_3",FM 92.7 • THVL Audio - PT VĨNH LONG
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-THVL-Phat_thanh_Vinh_Long
 #EXTINF:-1 group-title="TruyenHinh_3",FM 93 • PT THÀNH PHỐ HUẾ
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-TRT-Phat_thanh_Thanh_pho_Hue_thu_nghiem
-#EXTINF:-1 group-title="TruyenHinh_3",FM 93,7 • PT HẢI PHÒNG
+#EXTINF:-1 group-title="TruyenHinh_3",FM 93.7 • PT HẢI PHÒNG
 http://gg.gg/HaNoiIPTV-THP-Phat_thanh_Hai_Phong
-#EXTINF:-1 group-title="TruyenHinh_3",FM 94,1 • PT LAI CHÂU
+#EXTINF:-1 group-title="TruyenHinh_3",FM 94.1 • PT LAI CHÂU
 http://gg.gg/HaNoiIPTVPlus-LTV-Phat_thanh_Lai_Chau
-#EXTINF:-1 group-title="TruyenHinh_3",FM 94,6 • PT CÀ MAU
+#EXTINF:-1 group-title="TruyenHinh_3",FM 94.6 • PT CÀ MAU
 http://gg.gg/HaNoiIPTVPlus-CTV-Phat_thanh_Ca_Mau
-#EXTINF:-1 group-title="TruyenHinh_3",FM 95,6 • PT TUYÊN QUANG
+#EXTINF:-1 group-title="TruyenHinh_3",FM 95.6 • PT TUYÊN QUANG
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-TTV-Phat_thanh_Tuyen_Quang
 #EXTINF:-1 group-title="TruyenHinh_3",FM 96 • PT SƠN LA
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-STV-Phat_thanh_Son_La
-#EXTINF:-1 group-title="TruyenHinh_3",FM 96,1 • PT QUẢNG TRỊ
+#EXTINF:-1 group-title="TruyenHinh_3",FM 96.1 • PT QUẢNG TRỊ
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-QRTV-Phat_thanh_Quang_Tri
 #EXTINF:-1 group-title="TruyenHinh_3",FM 97 • PT LÀO CAI
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-THLC-Phat_thanh_Lao_Cai
 #EXTINF:-1 group-title="TruyenHinh_3",FM 97 • PT LÂM ĐỒNG
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-LTV1-Phat_thanh_Lam_Dong_1
-#EXTINF:-1 group-title="TruyenHinh_3",FM 97,3 • PT CẦN THƠ
+#EXTINF:-1 group-title="TruyenHinh_3",FM 97.3 • PT CẦN THƠ
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-THTPCT-Phat_thanh_Can_Tho
-#EXTINF:-1 group-title="TruyenHinh_3",FM 97,5 • PT ĐỒNG NAI
+#EXTINF:-1 group-title="TruyenHinh_3",FM 97.5 • PT ĐỒNG NAI
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-DNRTV-Phat_thanh_Dong_Nai
-#EXTINF:-1 group-title="TruyenHinh_3",FM 97,8 • PT HÀ TĨNH
+#EXTINF:-1 group-title="TruyenHinh_3",FM 97.8 • PT HÀ TĨNH
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-HTTV-Phat_thanh_Ha_Tinh
-#EXTINF:-1 group-title="TruyenHinh_3",FM 98,4 • PT ĐỒNG THÁP
+#EXTINF:-1 group-title="TruyenHinh_3",FM 98.4 • PT ĐỒNG THÁP
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-THDT-Phat_thanh_Dong_Thap
 #EXTINF:-1 group-title="TruyenHinh_3",QUẢNG NINH | CHƯƠNG TRÌNH CỦA CÔNG TY CỔ PHẦN THAN CAO SƠN
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM99-Phat_thanh_Thanh_pho_Cam_Pha-Chuong_trinh_Cong_ty_CP_Than_Cao_Son
-#EXTINF:-1 group-title="TruyenHinh_3",FM 99,6 • VON - PT NGHỆ AN
+#EXTINF:-1 group-title="TruyenHinh_3",FM 99.6 • VON - PT NGHỆ AN
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-VON-Phat_thanh_Nghe_An
 #EXTINF:-1 group-title="TruyenHinh_3",FM 102 • PT GIA LAI
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-GTV-Phat_thanh_Gia_Lai
-#EXTINF:-1 group-title="TruyenHinh_3",FM 102,2 • THP GIAO THÔNG - PT HẢI PHÒNG 2
+#EXTINF:-1 group-title="TruyenHinh_3",FM 102.2 • THP GIAO THÔNG - PT HẢI PHÒNG 2
 http://gg.gg/HaNoiIPTVPlus-THP_Giao_thong-Phat_thanh_Hai_Phong_2
-#EXTINF:-1 group-title="TruyenHinh_3",FM 102,9 • PT QUẢNG NGÃI
+#EXTINF:-1 group-title="TruyenHinh_3",FM 102.9 • PT QUẢNG NGÃI
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-PTQ-Phat_thanh_Quang_Ngai
-#EXTINF:-1 group-title="TruyenHinh_3",FM 103,1 • PT TÂY NINH
+#EXTINF:-1 group-title="TruyenHinh_3",FM 103.1 • PT TÂY NINH
 https://hqth.me/Xhjj
-#EXTINF:-1 group-title="TruyenHinh_3",FM 105,6 • PT KHÁNH HÒA
+#EXTINF:-1 group-title="TruyenHinh_3",FM 105.6 • PT KHÁNH HÒA
 http://210.245.20.94/hls/radio.m3u8
 #EXTINF:-1 group-title="TruyenHinh_3",FM 106 • PT PHÚ THỌ
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-PTV-Phat_thanh_Phu_Tho
-#EXTINF:-1 group-title="TruyenHinh_3",FM 106,5 • VOT - PT THÁI NGUYÊN
+#EXTINF:-1 group-title="TruyenHinh_3",FM 106.5 • VOT - PT THÁI NGUYÊN
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-TNTV-Phat_thanh_Thai_Nguyen
 #EXTINF:-1 group-title="TruyenHinh_4",Unknown
 --------------------------------------------------------------------------------
