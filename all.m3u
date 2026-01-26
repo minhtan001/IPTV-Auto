@@ -95,27 +95,6 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",23h00-26/01 Al Khaldiya Vs Al-Ahli(BHR) BLV LÝ ỨNG
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h30-27/01 Al-Ittihad Vs Al-Okhdood BLV PHONG VÂN
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",23h00-26/01 Al-Budaiya Vs Malkia BLV VĂN VỸ
-https://hls.cdnok9.com/live/VANVY/index.m3u8?expire=1830276060&sign=554d3c30c8d3453c1feb32142851729a
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h00-27/01 E.N.Paralimniou Vs Olympiakos Nicosia FC BLV KAKA
-https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h00-27/01 Sakaryaspor Vs Bodrumspor BLV NGŨ CA
-https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h00-27/01 Eyupspor Vs Besiktas JK BLV A TỦA
-https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h30-27/01 Al-Nassr Vs Al-Taawoun BLV KEVILL
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTINF:-1 group-title="Socolive_2",23h00: [BLV ROBBEN] Al-Budaiya vs Malkiya
 http://sharing.gotdns.ch:8091/socolive.php?id=527383
 #EXTINF:-1 group-title="Socolive_2",23h00: [BLV A TÚ] Al-Budaiya vs Malkiya
