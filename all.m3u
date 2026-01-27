@@ -95,29 +95,17 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTINF:-1 group-title="Socolive_2",09h00: [TAM MAO] Municipal Pérez Zeledón vs Sporting FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912100
-#EXTINF:-1 group-title="Socolive_2",09h00: [BLV TAP] Municipal Pérez Zeledón vs Sporting FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",09h00: [BLV PIRLO] Municipal Pérez Zeledón vs Sporting FC
-http://sharing.gotdns.ch:8091/socolive.php?id=351530
-#EXTINF:-1 group-title="Socolive_2",09h00: [BLV ĐỐM] Municipal Pérez Zeledón vs Sporting FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTINF:-1 group-title="Socolive_2",09h00: [BLV COCA] Municipal Pérez Zeledón vs Sporting FC
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",09h00: [TẠ BIÊN GIỚI] Municipal Pérez Zeledón vs Sporting FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",09h30: [HUNTER] Minnesota Timberwolves vs Golden State Warriors
+#EXTINF:-1 group-title="Socolive_2",10h05: [HUNTER] Minnesota Timberwolves vs Golden State Warriors
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
-#EXTINF:-1 group-title="Socolive_2",09h30: [A CHÈ] Minnesota Timberwolves vs Golden State Warriors
+#EXTINF:-1 group-title="Socolive_2",10h05: [A CHÈ] Minnesota Timberwolves vs Golden State Warriors
 http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",09h30: [KING] Minnesota Timberwolves vs Golden State Warriors
+#EXTINF:-1 group-title="Socolive_2",10h05: [KING] Minnesota Timberwolves vs Golden State Warriors
 http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",09h30: [BLV HENRY] Minnesota Timberwolves vs Golden State Warriors
+#EXTINF:-1 group-title="Socolive_2",10h05: [BLV HENRY] Minnesota Timberwolves vs Golden State Warriors
 http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",09h30: [BRIAN] Minnesota Timberwolves vs Golden State Warriors
+#EXTINF:-1 group-title="Socolive_2",10h05: [BRIAN] Minnesota Timberwolves vs Golden State Warriors
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",09h30: [CHAN SENA] Minnesota Timberwolves vs Golden State Warriors
+#EXTINF:-1 group-title="Socolive_2",10h05: [CHAN SENA] Minnesota Timberwolves vs Golden State Warriors
 http://sharing.gotdns.ch:8091/socolive.php?id=515530
 #EXTINF:-1 group-title="Socolive_2",15h00: [HUNTER] Southside W vs Perth Lynx W
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
@@ -907,6 +895,8 @@ https://vip.opstream90.com/20260102/21537_fe1af53e/3000k/hls/mixed.m3u8
 https://rumble.com/hls-vod/72av32/playlist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Oshi No Ko Phần 3 - Tập 2
 https://rumble.com/hls-vod/72nhy6/playlist.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 1
+https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
