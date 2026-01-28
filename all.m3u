@@ -95,8 +95,6 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTINF:-1 group-title="Socolive_2",09h35: [A CHÈ] Phoenix Suns vs Brooklyn Nets
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
 #EXTINF:-1 group-title="Socolive_2",10h05: [BLV Củ Cải] USA Women vs Chile Women
 http://sharing.gotdns.ch:8091/socolive.php?id=9912091
 #EXTINF:-1 group-title="Socolive_2",10h05: [TẠ BIÊN GIỚI] USA Women vs Chile Women
@@ -1019,6 +1017,8 @@ https://vip.opstream90.com/20260102/21537_fe1af53e/3000k/hls/mixed.m3u8
 https://rumble.com/hls-vod/72av32/playlist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Oshi No Ko Phần 3 - Tập 2
 https://rumble.com/hls-vod/72nhy6/playlist.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 1
+https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
