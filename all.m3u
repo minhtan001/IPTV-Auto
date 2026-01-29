@@ -95,10 +95,6 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTINF:-1 group-title="Socolive_2",17h00: [KING] Anyang JungKwanJang vs Seoul Thunders
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV HENRY] Anyang JungKwanJang vs Seoul Thunders
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
 #EXTINF:-1 group-title="Socolive_2",18h35: [A CHÈ] Jiangsu Dragons vs Xinjiang
 http://sharing.gotdns.ch:8091/socolive.php?id=356042
 #EXTINF:-1 group-title="Socolive_2",19h00: [BLV ROBBEN] Adhyaksa FC Banten vs Sriwijaya FC
@@ -121,10 +117,10 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912091
 http://sharing.gotdns.ch:8091/socolive.php?id=579144
 #EXTINF:-1 group-title="Socolive_2",20h00: [BLV CÒ] Shabab Al Ordon vs Al Wehdat
 http://sharing.gotdns.ch:8091/socolive.php?id=582342
-#EXTINF:-1 group-title="Socolive_2",20h10: [BLV QUAN VŨ] Al Thaid vs Dibba Al-Hisn
-http://sharing.gotdns.ch:8091/socolive.php?id=239275
 #EXTINF:-1 group-title="Socolive_2",20h10: [NGOẠ LONG] Al Thaid vs Dibba Al-Hisn
 http://sharing.gotdns.ch:8091/socolive.php?id=538979
+#EXTINF:-1 group-title="Socolive_2",20h10: [RED BULL] Al Thaid vs Dibba Al-Hisn
+http://sharing.gotdns.ch:8091/socolive.php?id=547345
 #EXTINF:-1 group-title="Socolive_2",20h10: [BLV SÓI] City Club vs Hatta
 http://sharing.gotdns.ch:8091/socolive.php?id=427562
 #EXTINF:-1 group-title="Socolive_2",20h10: [BLV LIO] City Club vs Hatta
@@ -181,10 +177,10 @@ http://sharing.gotdns.ch:8091/socolive.php?id=462413
 http://sharing.gotdns.ch:8091/socolive.php?id=557845
 #EXTINF:-1 group-title="Socolive_2",22h00: [BLV CHIVAS] Enppi vs Smouha SC
 http://sharing.gotdns.ch:8091/socolive.php?id=485739
-#EXTINF:-1 group-title="Socolive_2",22h00: [BLV Sao Đỏ] Enppi vs Smouha SC
-http://sharing.gotdns.ch:8091/socolive.php?id=519740
 #EXTINF:-1 group-title="Socolive_2",22h00: [BLV A WIN] Enppi vs Smouha SC
 http://sharing.gotdns.ch:8091/socolive.php?id=536185
+#EXTINF:-1 group-title="Socolive_2",22h00: [QUANG VINH] Enppi vs Smouha SC
+http://sharing.gotdns.ch:8091/socolive.php?id=9912109
 #EXTINF:-1 group-title="Socolive_2",22h30: [BLV VOI] Al Faisaly vs Al-Ramtha SC
 http://sharing.gotdns.ch:8091/socolive.php?id=9912114
 #EXTINF:-1 group-title="Socolive_2",22h30: [BÚA TẠ] Al Faisaly vs Al-Ramtha SC
@@ -394,8 +390,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=304148
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h00-30/01: [BLV CHIVAS] CS Cartagines vs Sporting FC
 http://sharing.gotdns.ch:8091/socolive.php?id=485739
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h00-30/01: [BLV Sao Đỏ] CS Cartagines vs Sporting FC
-http://sharing.gotdns.ch:8091/socolive.php?id=519740
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h00-30/01: [QUANG VINH] CS Cartagines vs Sporting FC
+http://sharing.gotdns.ch:8091/socolive.php?id=9912109
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h00-30/01: [HUNTER] Philadelphia 76ers vs Sacramento Kings
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
@@ -589,14 +585,14 @@ http://sharing.gotdns.ch:8091/socolive.php?id=406865
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h00-30/01: [CÔNG LÝ] Ho Chi Minh City vs Bac Ninh
 http://sharing.gotdns.ch:8091/socolive.php?id=9912035
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h00-30/01: [BLV Sao Đỏ] Ho Chi Minh City vs Bac Ninh
-http://sharing.gotdns.ch:8091/socolive.php?id=519740
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h00-30/01: [BLV SÓI] Ho Chi Minh City vs Bac Ninh
 http://sharing.gotdns.ch:8091/socolive.php?id=427562
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h00-30/01: [BLV LIO] Ho Chi Minh City vs Bac Ninh
 http://sharing.gotdns.ch:8091/socolive.php?id=564362
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h00-30/01: [BLV CÒ] Ho Chi Minh City vs Bac Ninh
+http://sharing.gotdns.ch:8091/socolive.php?id=582342
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h00-30/01: [BLV Hổ Lùn] Dagon Port vs Hantharwady United
 http://sharing.gotdns.ch:8091/socolive.php?id=308080
@@ -757,9 +753,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=380460
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h50-30/01: [BLV TOMMY] Al Taawoun vs Al Okhdood
 http://sharing.gotdns.ch:8091/socolive.php?id=414317
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h50-30/01: [BLV TAP] Al Taawoun vs Al Okhdood
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h50-30/01: [BLV DECO] Al Taawoun vs Al Okhdood
 http://sharing.gotdns.ch:8091/socolive.php?id=9912060
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -768,6 +761,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912101
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h50-30/01: [BLV Củ Cải] Al Taawoun vs Al Okhdood
 http://sharing.gotdns.ch:8091/socolive.php?id=9912091
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h50-30/01: [SAO LA] Al Taawoun vs Al Okhdood
+http://sharing.gotdns.ch:8091/socolive.php?id=462413
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h45-30/01: [TAM MAO] Al Shamal vs Al-Sailiya
 http://sharing.gotdns.ch:8091/socolive.php?id=9912100
@@ -811,9 +807,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=581585
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-30/01: [Đình Bắc] Pharco vs ZED FC
 http://sharing.gotdns.ch:8091/socolive.php?id=579144
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h50-30/01: [SAO LA] NEOM Sports Club vs Damac
-http://sharing.gotdns.ch:8091/socolive.php?id=462413
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h50-30/01: [SÙNG A MÚP] NEOM Sports Club vs Damac
 http://sharing.gotdns.ch:8091/socolive.php?id=9912097
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -828,6 +821,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=534219
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h50-30/01: [BLV SINGER] NEOM Sports Club vs Damac
 http://sharing.gotdns.ch:8091/socolive.php?id=9912102
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h50-30/01: [BLV PEWPEW] NEOM Sports Club vs Damac
+http://sharing.gotdns.ch:8091/socolive.php?id=9912015
 #EXTINF:-1 group-title="TruyenHinh_2",KuboLive #Server 1
 http://live.qphim.xyz/live/kubolive/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",KuboCast
@@ -954,12 +950,12 @@ https://rumble.com/hls-vod/72av32/playlist.m3u8
 https://rumble.com/hls-vod/72nhy6/playlist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+10
 http://hoatv001.ddns.net/PHANMEM/admin.php?stream=377ec936e6018de75833db0015facf3a
-#EXTINF:-1 group-title="TruyenHinh_2",Event 1
-https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 6
 https://live.fptplay53.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 1
 https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 4
+https://live.fptplay53.net/live/media/event-04/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
@@ -986,6 +982,8 @@ https://liveh12.vtvprime.vn/hls/VTV8_HD/04.m3u8
 https://liveh12.vtvprime.vn/hls/VTV9_HD/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",ON Vie Giải Trí
 https://freem3u.xyz/api/live/play.m3u8?vid=180
+#EXTINF:-1 group-title="TruyenHinh_2",ON Phim Việt
+https://onnanetwork.xyz/https://freem3u.xyz/api/live/play.m3u8?vid=175
 #EXTINF:-1 group-title="TruyenHinh_2",On Movies - You TV
 https://freem3u.xyz/api/live/play.m3u8?vid=181
 #EXTINF:-1 group-title="TruyenHinh_2",ON E- Channel
