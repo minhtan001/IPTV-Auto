@@ -96,46 +96,20 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-30/01 PDRM Vs Kuala Lumpur City F.C. BLV PHONG VÂN
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-30/01 Pharco Vs ZED FC BLV TẦN CA
+https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-30/01 JENNIE Vs OK9 TV MEGA LIVE
-https://hls.cdnok9.com/live/HANGVU1/index.m3u8?expire=1788427256&sign=35e56aacb29c1a0624a29230271c3db1
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h45-30/01 Al Shamal Vs Al-Sailiya BLV KAKA
+https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h50-30/01 Al-Taawoun Vs Al-Okhdood BLV KEVILL
 https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h40-30/01 Al-Faisaly Harmah Vs Al-Zlfe BLV KAKA
-https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-30/01 CFR Cluj Vs Metaloglobus BLV KHỔNG MINH
+https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-30/01 Qabala Vs Mil Mugan BLV YẾN THANH
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h35-30/01 Al-Baten Vs Jubail BLV MAYBACH
-https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h45-30/01 Al Shamal Vs Al-Sailiya BLV KAKA
-https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTINF:-1 group-title="Socolive_2",19h40: [BLV EDRIC] Al-Faisaly Harmah vs Al Zulfi
-http://sharing.gotdns.ch:8091/socolive.php?id=5126499
-#EXTINF:-1 group-title="Socolive_2",19h40: [BLV ADAM] Al-Faisaly Harmah vs Al Zulfi
-http://sharing.gotdns.ch:8091/socolive.php?id=336303
-#EXTINF:-1 group-title="Socolive_2",19h40: [BLV TÔM] Al-Faisaly Harmah vs Al Zulfi
-http://sharing.gotdns.ch:8091/socolive.php?id=561379
-#EXTINF:-1 group-title="Socolive_2",19h40: [A PÁO] Al-Faisaly Harmah vs Al Zulfi
-http://sharing.gotdns.ch:8091/socolive.php?id=235232
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV ALEX] PDRM FC vs Kuala Lumpur City FC
-http://sharing.gotdns.ch:8091/socolive.php?id=532081
-#EXTINF:-1 group-title="Socolive_2",20h00: [NGƯỜI THÉP] PDRM FC vs Kuala Lumpur City FC
-http://sharing.gotdns.ch:8091/socolive.php?id=568233
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV CÒ] PDRM FC vs Kuala Lumpur City FC
-http://sharing.gotdns.ch:8091/socolive.php?id=582342
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV WUKONG] FK Gilan Gabala vs İmişli FK
-http://sharing.gotdns.ch:8091/socolive.php?id=511367
-#EXTINF:-1 group-title="Socolive_2",20h00: [MR BÍCH] FK Gilan Gabala vs İmişli FK
-http://sharing.gotdns.ch:8091/socolive.php?id=285067
-#EXTINF:-1 group-title="Socolive_2",20h00: [BLV ROBBEN] FK Gilan Gabala vs İmişli FK
-http://sharing.gotdns.ch:8091/socolive.php?id=527383
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-30/01 JENNIE Vs OK9 TV MEGA LIVE
+https://hls.cdnok9.com/live/HANGVU1/index.m3u8?expire=1788427256&sign=35e56aacb29c1a0624a29230271c3db1
 #EXTINF:-1 group-title="Socolive_2",20h50: [BLV ENZO] Al Taawoun vs Al Okhdood
 http://sharing.gotdns.ch:8091/socolive.php?id=380460
 #EXTINF:-1 group-title="Socolive_2",20h50: [BLV TOMMY] Al Taawoun vs Al Okhdood
