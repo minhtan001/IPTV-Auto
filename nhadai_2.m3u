@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="TruyenHinh_2",KuboLive #Server 1
-https://livecd1.dramahay.xyz/kbnw/kubolive/index.m3u8
+https://hnlive.dramahay.xyz/live/kubolive/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",KuboCast
-https://livecd1.dramahay.xyz/kbnw/kubocast/index.m3u8
+https://hnlive.dramahay.xyz/live/kubocast/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SG Network
 https://nino208.x10.mx/v1/tw?id=devonlynino
 #EXTINF:-1 group-title="TruyenHinh_2",Nino Channel
@@ -10,9 +10,9 @@ https://nino208.x10.mx/v1/tw?id=ninochannel12
 #EXTINF:-1 group-title="TruyenHinh_2",Nino Channel 2
 http://live.qphim.xyz/hls_nonkey/ninochannel2/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",LVTT
-http://live.qphim.xyz:8880/hls_nonkey/lvtt/index.m3u8
+https://hnlive.dramahay.xyz/hls_nonkey/lvtt/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",ATV HD
-https://live.qphim.xyz/live/atv/index.m3u8
+https://hnlive.dramahay.xyz/live/atv/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",ONi1
 https://1.org.vn/oni1/?/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",ONi2
@@ -127,14 +127,8 @@ https://rumble.com/hls-vod/72av32/playlist.m3u8
 https://rumble.com/hls-vod/72nhy6/playlist.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+9
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-9/KenhCoBan.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 2
-https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 1
 https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 4
-https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 6
-https://live.fptplay53.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
