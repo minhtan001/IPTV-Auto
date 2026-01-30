@@ -95,30 +95,6 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTINF:-1 group-title="Socolive_2",05h15: [BLV SHIN] Belgrano vs Club Atletico Tigre
-http://sharing.gotdns.ch:8091/socolive.php?id=522086
-#EXTINF:-1 group-title="Socolive_2",05h15: [XUÂN SON] Belgrano vs Club Atletico Tigre
-http://sharing.gotdns.ch:8091/socolive.php?id=501412
-#EXTINF:-1 group-title="Socolive_2",05h15: [HOA VINH] Belgrano vs Club Atletico Tigre
-http://sharing.gotdns.ch:8091/socolive.php?id=579055
-#EXTINF:-1 group-title="Socolive_2",05h15: [VỊT BẠC] Club Atlético Lanús vs Club Atlético Unión
-http://sharing.gotdns.ch:8091/socolive.php?id=474421
-#EXTINF:-1 group-title="Socolive_2",05h15: [BLV KAN] Club Atlético Lanús vs Club Atlético Unión
-http://sharing.gotdns.ch:8091/socolive.php?id=283501
-#EXTINF:-1 group-title="Socolive_2",05h15: [BLV SÓI] Club Atlético Lanús vs Club Atlético Unión
-http://sharing.gotdns.ch:8091/socolive.php?id=427562
-#EXTINF:-1 group-title="Socolive_2",06h00: [LOGAN] Mirassol vs Clube de Regatas Vasco da Gama
-http://sharing.gotdns.ch:8091/socolive.php?id=552832
-#EXTINF:-1 group-title="Socolive_2",06h00: [CÔNG LÝ] Mirassol vs Clube de Regatas Vasco da Gama
-http://sharing.gotdns.ch:8091/socolive.php?id=9912035
-#EXTINF:-1 group-title="Socolive_2",06h00: [BLV SATIVA] Mirassol vs Clube de Regatas Vasco da Gama
-http://sharing.gotdns.ch:8091/socolive.php?id=321443
-#EXTINF:-1 group-title="Socolive_2",06h00: [BLV QUAN VŨ] Mirassol vs Clube de Regatas Vasco da Gama
-http://sharing.gotdns.ch:8091/socolive.php?id=239275
-#EXTINF:-1 group-title="Socolive_2",06h10: [BLV NIBO] Jaguares de Cordoba vs Internacional de Bogota
-http://sharing.gotdns.ch:8091/socolive.php?id=372746
-#EXTINF:-1 group-title="Socolive_2",06h10: [BLV LUCAS] Jaguares de Cordoba vs Internacional de Bogota
-http://sharing.gotdns.ch:8091/socolive.php?id=304148
 #EXTINF:-1 group-title="Socolive_2",07h00: [BLV CHIVAS] CS Cartagines vs Sporting FC
 http://sharing.gotdns.ch:8091/socolive.php?id=485739
 #EXTINF:-1 group-title="Socolive_2",07h00: [QUANG VINH] CS Cartagines vs Sporting FC
@@ -135,8 +111,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912099
 http://sharing.gotdns.ch:8091/socolive.php?id=515530
 #EXTINF:-1 group-title="Socolive_2",07h00: [BLV HENRY] Washington Wizards vs Milwaukee Bucks
 http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",07h30: [BLV BÉO] Estudiantes Rio Cuarto vs Argentinos Juniors
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
 #EXTINF:-1 group-title="Socolive_2",07h30: [BLV KINH TẾ] Estudiantes Rio Cuarto vs Argentinos Juniors
 http://sharing.gotdns.ch:8091/socolive.php?id=532999
 #EXTINF:-1 group-title="Socolive_2",07h30: [VỊT BẠC] Estudiantes Rio Cuarto vs Argentinos Juniors
@@ -943,8 +917,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=557845
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h30-31/01: [VỊT BẠC] Alanyaspor vs Eyupspor
 http://sharing.gotdns.ch:8091/socolive.php?id=474421
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h30-31/01: [THE KOP] Alanyaspor vs Eyupspor
-http://sharing.gotdns.ch:8091/socolive.php?id=581585
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h30-31/01: [BLV XAVI] Alanyaspor vs Eyupspor
+http://sharing.gotdns.ch:8091/socolive.php?id=525090
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",19h00-31/01: [BLV XO] VfL Bochum 1848 vs Schalke 04
 http://sharing.gotdns.ch:8091/socolive.php?id=472241
