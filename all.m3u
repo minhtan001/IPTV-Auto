@@ -95,10 +95,6 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTINF:-1 group-title="Socolive_2",17h30: [BLV KAN] Erzurum BB vs Sariyer
-http://sharing.gotdns.ch:8091/socolive.php?id=283501
-#EXTINF:-1 group-title="Socolive_2",17h30: [BLV FIREMAN] Iğdır FK vs Manisa Futbol Kulübü
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
 #EXTINF:-1 group-title="Socolive_2",17h45: [RICKHANTER] Perth Glory vs Auckland FC
 http://sharing.gotdns.ch:8091/socolive.php?id=9912101
 #EXTINF:-1 group-title="Socolive_2",17h45: [BLV COCA] Perth Glory vs Auckland FC
@@ -728,9 +724,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=427562
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",16h00-01/02: [BLV LUCAS] Van Hien University vs Thanh Niên TP. Hồ Chí Minh
 http://sharing.gotdns.ch:8091/socolive.php?id=304148
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",17h00-01/02: [Lửng Mật] Hoang Anh Gia Lai vs SHB Da Nang
-http://sharing.gotdns.ch:8091/socolive.php?id=566705
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",17h00-01/02: [BLV TOMMY] Hoang Anh Gia Lai vs SHB Da Nang
 http://sharing.gotdns.ch:8091/socolive.php?id=414317
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -745,6 +738,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=5126499
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",17h00-01/02: [BLV VOI] Hoang Anh Gia Lai vs SHB Da Nang
 http://sharing.gotdns.ch:8091/socolive.php?id=9912114
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",17h00-01/02: [BLV VITAMIN] Hoang Anh Gia Lai vs SHB Da Nang
+http://sharing.gotdns.ch:8091/socolive.php?id=400722
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",17h00-01/02: [A CHÈ] Zenit Petersburg vs Samara
 http://sharing.gotdns.ch:8091/socolive.php?id=356042
@@ -764,11 +760,11 @@ http://sharing.gotdns.ch:8091/socolive.php?id=538979
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h00-01/02: [BLV XO] PVF CAND vs Cong An Ho Chi Minh City
 http://sharing.gotdns.ch:8091/socolive.php?id=472241
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h00-01/02: [BLV VITAMIN] PVF CAND vs Cong An Ho Chi Minh City
-http://sharing.gotdns.ch:8091/socolive.php?id=400722
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h00-01/02: [BLV MIXI] PVF CAND vs Cong An Ho Chi Minh City
 http://sharing.gotdns.ch:8091/socolive.php?id=290928
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h00-01/02: [Lửng Mật] PVF CAND vs Cong An Ho Chi Minh City
+http://sharing.gotdns.ch:8091/socolive.php?id=566705
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",18h00-01/02: [BLV SINGER] CLB Thanh Hoa vs Thep Xanh Nam Dinh FC
 http://sharing.gotdns.ch:8091/socolive.php?id=9912102
@@ -1173,14 +1169,12 @@ https://rumble.com/hls-vod/72nhy6/playlist.m3u8
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-9/KenhCoBan.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+10
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-10/KenhCoBan.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Event 2
-https://live.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Event 4
-https://live.fptplay53.net/live/media/event-04/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 6
 https://live.fptplay53.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Event 3
 https://live.fptplay53.net/live/media/event-03/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 7
+https://live.fptplay53.net/live/media/su-kien-07/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
