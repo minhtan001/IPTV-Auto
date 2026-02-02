@@ -96,8 +96,8 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h30-02/02 Arema FC Vs Persijap Jepara BLV KEVILL
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-02/02 Seoul Knights Vs KCC Egis BLV YẾN THANH
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h00-02/02 Manchester City Vs Wolves BLV VƯƠNG LUÂN REPLAY
 https://hls.cdnok9.com/live/TO5A/index.m3u8?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036
@@ -111,20 +111,8 @@ https://hls.cdnok9.com/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h42-02/02 Barcelona Vs Real Oviedo BLV LƯU BỊ REPLAY
 https://hls.cdnok9.com/live/TO2A/index.m3u8?expire=1891408380&sign=b4fcc4558b2967d54c04070f325ecb14
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-02/02 Seoul Knights Vs KCC Egis BLV YẾN THANH
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV TAP] Arema FC vs Persatuan Sepakbola Indonesia Jepara
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV DECO] Arema FC vs Persatuan Sepakbola Indonesia Jepara
-http://sharing.gotdns.ch:8091/socolive.php?id=9912060
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV ĐỐM] Arema FC vs Persatuan Sepakbola Indonesia Jepara
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV COCA] Arema FC vs Persatuan Sepakbola Indonesia Jepara
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",15h30: [TẠ BIÊN GIỚI] Arema FC vs Persatuan Sepakbola Indonesia Jepara
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",15h30: [THẠCH TÚ] Arema FC vs Persatuan Sepakbola Indonesia Jepara
-http://sharing.gotdns.ch:8091/socolive.php?id=344370
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-02/02 Lazio U20 Vs Atalanta U20 BLV GIÁO SƯ XOAY
+https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0
 #EXTINF:-1 group-title="Socolive_2",17h00: [BRIAN] Seoul Knights vs KCC Egis
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTINF:-1 group-title="Socolive_2",17h00: [CHAN SENA] Seoul Knights vs KCC Egis
@@ -614,6 +602,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=474421
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h00-03/02: [BLV XO] Al-Orobah FC vs Abha
 http://sharing.gotdns.ch:8091/socolive.php?id=472241
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h00-03/02: [BLV XAVI] Al-Orobah FC vs Abha
+http://sharing.gotdns.ch:8091/socolive.php?id=525090
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h00-03/02: [BLV SÓI] AZ Alkmaar U19 vs Borussia Dortmund U19
 http://sharing.gotdns.ch:8091/socolive.php?id=427562
