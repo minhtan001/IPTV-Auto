@@ -95,6 +95,21 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h00-02/02 Manchester City Vs Wolves BLV VƯƠNG LUÂN REPLAY
+https://hls.cdnok9.com/live/TO5A/index.m3u8?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h28-02/02 Inter Milan Vs Pisa BLV LỮ BỐ REPLAY
+https://hls.cdnok9.com/live/TO4A/index.m3u8?expire=1891408380&sign=5274350aaa915df457fdffd606d49f30
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h42-02/02 Barcelona Vs Real Oviedo BLV LƯU BỊ REPLAY
+https://hls.cdnok9.com/live/TO2A/index.m3u8?expire=1891408380&sign=b4fcc4558b2967d54c04070f325ecb14
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h30-02/02 Man City Vs Tottenham BLV THỜI THIÊN REPLAY
+https://hls.cdnok9.com/live/TO6A/index.m3u8?expire=1891408380&sign=df6b95775ca8cf6b58a17d54271d96e3
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h30-02/02 Barcelona Vs Real Oviedo BLV PHONG VÂN REPLAY
+https://hls.cdnok9.com/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
 #EXTINF:-1 group-title="Socolive_2",15h30: [BLV TAP] Arema FC vs Persatuan Sepakbola Indonesia Jepara
 http://sharing.gotdns.ch:8091/socolive.php?id=9912041
 #EXTINF:-1 group-title="Socolive_2",15h30: [BLV DECO] Arema FC vs Persatuan Sepakbola Indonesia Jepara
@@ -1092,7 +1107,7 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/ninh-thuan/KenhCoBan.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",QNgTV1 - Báo và PTTH Quảng Ngãi
 https://freem3u.xyz/api/live/play.m3u8?vid=81
 #EXTINF:-1 group-title="TruyenHinh_2",QNgTV2 - Báo và PTTH Quảng Ngãi
-https://ace.hoiquan.click/module/IPTV/?id=QNgTV2&accKenh=vuminhthanh1
+http://42.115.209.229:8090/225.1.1.36:30120
 #EXTINF:-1 group-title="TruyenHinh_2",TTV HD - Báo và PTTH Tuyên Quang
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tuyen-quang/KenhCoBan.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",TN - Báo và PTTH Thái Nguyên
