@@ -95,14 +95,6 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTINF:-1 group-title="Socolive_2",12h30: [BLV COCA] Hekari Souths United FC vs Vanuatu United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",12h30: [TẠ BIÊN GIỚI] Hekari Souths United FC vs Vanuatu United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",12h30: [BLV MESSI] Hekari Souths United FC vs Vanuatu United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=494201
-#EXTINF:-1 group-title="Socolive_2",12h30: [BLV XAVI] Hekari Souths United FC vs Vanuatu United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=525090
 #EXTINF:-1 group-title="Socolive_2",15h00: [HUNTER] Canberra Capitals W vs Southside W
 http://sharing.gotdns.ch:8091/socolive.php?id=558264
 #EXTINF:-1 group-title="Socolive_2",15h00: [CHAN SENA] Canberra Capitals W vs Southside W
@@ -111,6 +103,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=515530
 http://sharing.gotdns.ch:8091/socolive.php?id=9912035
 #EXTINF:-1 group-title="Socolive_2",15h45: [TẠ BIÊN GIỚI] Rahmatgonj MFS vs Abahani Limited Dhaka
 http://sharing.gotdns.ch:8091/socolive.php?id=9912108
+#EXTINF:-1 group-title="Socolive_2",15h45: [A PÁO] Rahmatgonj MFS vs Abahani Limited Dhaka
+http://sharing.gotdns.ch:8091/socolive.php?id=235232
 #EXTINF:-1 group-title="Socolive_2",15h45: [BLV FIREMAN] Brothers Union vs PWD Sports
 http://sharing.gotdns.ch:8091/socolive.php?id=991140
 #EXTINF:-1 group-title="Socolive_2",15h45: [BLV TORRES] Brothers Union vs PWD Sports
