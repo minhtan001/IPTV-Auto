@@ -95,28 +95,6 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV BÉO] Boluspor vs Alanyaspor
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV ENZO] Boluspor vs Alanyaspor
-http://sharing.gotdns.ch:8091/socolive.php?id=380460
-#EXTINF:-1 group-title="Socolive_2",17h00: [THẠCH TÚ] Boluspor vs Alanyaspor
-http://sharing.gotdns.ch:8091/socolive.php?id=344370
-#EXTINF:-1 group-title="Socolive_2",17h00: [LOGAN] Boluspor vs Alanyaspor
-http://sharing.gotdns.ch:8091/socolive.php?id=552832
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV PIRLO] Boluspor vs Alanyaspor
-http://sharing.gotdns.ch:8091/socolive.php?id=351530
-#EXTINF:-1 group-title="Socolive_2",17h00: [RICKHANTER] Boluspor vs Alanyaspor
-http://sharing.gotdns.ch:8091/socolive.php?id=9912101
-#EXTINF:-1 group-title="Socolive_2",17h00: [KING] Goyang Sono vs KCC Egis
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV HENRY] Goyang Sono vs KCC Egis
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",17h00: [A CHÈ] Goyang Sono vs KCC Egis
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",17h00: [BRIAN] Samsung Blue Minx W vs Hana Bank W
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",17h00: [CHAN SENA] Samsung Blue Minx W vs Hana Bank W
-http://sharing.gotdns.ch:8091/socolive.php?id=515530
 #EXTINF:-1 group-title="Socolive_2",18h00: [KING] Hong Kong Eastern vs Utsunomiya Brex
 http://sharing.gotdns.ch:8091/socolive.php?id=9912099
 #EXTINF:-1 group-title="Socolive_2",18h00: [BLV HENRY] Hong Kong Eastern vs Utsunomiya Brex
@@ -221,14 +199,16 @@ http://sharing.gotdns.ch:8091/socolive.php?id=372746
 http://sharing.gotdns.ch:8091/socolive.php?id=501412
 #EXTINF:-1 group-title="Socolive_2",22h00: [BLV SHIN] Smouha SC vs Pyramids FC
 http://sharing.gotdns.ch:8091/socolive.php?id=522086
+#EXTINF:-1 group-title="Socolive_2",22h00: [BLV TAP] Smouha SC vs Pyramids FC
+http://sharing.gotdns.ch:8091/socolive.php?id=9912041
 #EXTINF:-1 group-title="Socolive_2",22h00: [A PÁO] ZED FC vs Al Masry
 http://sharing.gotdns.ch:8091/socolive.php?id=235232
 #EXTINF:-1 group-title="Socolive_2",22h00: [BLV VODKA] ZED FC vs Al Masry
 http://sharing.gotdns.ch:8091/socolive.php?id=500605
 #EXTINF:-1 group-title="Socolive_2",22h00: [BLV RAMBO] Benfica U19 vs Slavia Praha U19
 http://sharing.gotdns.ch:8091/socolive.php?id=534055
-#EXTINF:-1 group-title="Socolive_2",22h00: [THE KOP] Benfica U19 vs Slavia Praha U19
-http://sharing.gotdns.ch:8091/socolive.php?id=581585
+#EXTINF:-1 group-title="Socolive_2",22h00: [BLV GÔN] Benfica U19 vs Slavia Praha U19
+http://sharing.gotdns.ch:8091/socolive.php?id=445260
 #EXTINF:-1 group-title="Socolive_2",22h00: [BLV MIXI] HJK Helsinki U19 vs Manchester City U19
 http://sharing.gotdns.ch:8091/socolive.php?id=290928
 #EXTINF:-1 group-title="Socolive_2",22h00: [BLV XAVI] HJK Helsinki U19 vs Manchester City U19
@@ -944,6 +924,12 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-9/KenhCoBan.m3u8
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-10/KenhCoBan.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+11
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-11/KenhCoBan.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 4
+https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Event 1
+https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 2
+https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
