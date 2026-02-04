@@ -95,18 +95,6 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTINF:-1 group-title="Socolive_2",13h30: [BLV COCA] Melbourne City Women vs WS Wanderers Women
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",13h30: [TẠ BIÊN GIỚI] Melbourne City Women vs WS Wanderers Women
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",13h30: [BLV TOMMY] Melbourne City Women vs WS Wanderers Women
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
-#EXTINF:-1 group-title="Socolive_2",13h30: [CR Bưởi] Melbourne City Women vs WS Wanderers Women
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",13h30: [SÙNG A MÚP] Melbourne City Women vs WS Wanderers Women
-http://sharing.gotdns.ch:8091/socolive.php?id=9912097
-#EXTINF:-1 group-title="Socolive_2",13h30: [BLV VIP] Melbourne City Women vs WS Wanderers Women
-http://sharing.gotdns.ch:8091/socolive.php?id=491873
 #EXTINF:-1 group-title="Socolive_2",15h30: [BLV ĐỐM] Sydney FC Women vs Brisbane Roar Women
 http://sharing.gotdns.ch:8091/socolive.php?id=9912110
 #EXTINF:-1 group-title="Socolive_2",15h30: [BLV Củ Cải] Sydney FC Women vs Brisbane Roar Women
@@ -994,8 +982,6 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-9/KenhCoBan.m3u8
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-10/KenhCoBan.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",TV360+11
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-11/KenhCoBan.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 1
-https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
