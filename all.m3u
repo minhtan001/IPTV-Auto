@@ -95,26 +95,6 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTINF:-1 group-title="Socolive_2",00h30: [BLV VODKA] Galatasaray vs Istanbulspor
-http://sharing.gotdns.ch:8091/socolive.php?id=500605
-#EXTINF:-1 group-title="Socolive_2",00h30: [BLV TOMIA] Galatasaray vs Istanbulspor
-http://sharing.gotdns.ch:8091/socolive.php?id=9912008
-#EXTINF:-1 group-title="Socolive_2",00h30: [BLV LONG] Galatasaray vs Istanbulspor
-http://sharing.gotdns.ch:8091/socolive.php?id=9912050
-#EXTINF:-1 group-title="Socolive_2",00h30: [RED BULL] Galatasaray vs Istanbulspor
-http://sharing.gotdns.ch:8091/socolive.php?id=547345
-#EXTINF:-1 group-title="Socolive_2",00h30: [BLV KAN] Galatasaray vs Istanbulspor
-http://sharing.gotdns.ch:8091/socolive.php?id=283501
-#EXTINF:-1 group-title="Socolive_2",00h30: [SÙNG A MÚP] Galatasaray vs Istanbulspor
-http://sharing.gotdns.ch:8091/socolive.php?id=9912097
-#EXTINF:-1 group-title="Socolive_2",00h45: [BLV TÔM] NEC Nijmegen vs Volendam
-http://sharing.gotdns.ch:8091/socolive.php?id=561379
-#EXTINF:-1 group-title="Socolive_2",00h45: [LÃO LÂM] NEC Nijmegen vs Volendam
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTINF:-1 group-title="Socolive_2",00h45: [BLV LUCAS] NEC Nijmegen vs Volendam
-http://sharing.gotdns.ch:8091/socolive.php?id=304148
-#EXTINF:-1 group-title="Socolive_2",00h45: [BLV MIXI] NEC Nijmegen vs Volendam
-http://sharing.gotdns.ch:8091/socolive.php?id=290928
 #EXTINF:-1 group-title="Socolive_2",02h30: [BLV CÒ] Lyon vs Stade Lavallois MFC
 http://sharing.gotdns.ch:8091/socolive.php?id=582342
 #EXTINF:-1 group-title="Socolive_2",02h30: [Đình Bắc] OGC Nice vs Montpellier Hérault SC
@@ -472,6 +452,18 @@ http://sharing.gotdns.ch:8091/socolive.php?id=406865
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h45-05/02: [BLV LIO] Al-Arabi SC vs Al Shamal
 http://sharing.gotdns.ch:8091/socolive.php?id=564362
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-06/02: [A PÁO] Fenerbahce vs Erzurum BB
+http://sharing.gotdns.ch:8091/socolive.php?id=235232
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-06/02: [BLV VIP] Fenerbahce vs Erzurum BB
+http://sharing.gotdns.ch:8091/socolive.php?id=491873
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-06/02: [NGƯỜI THÉP] Fenerbahce vs Erzurum BB
+http://sharing.gotdns.ch:8091/socolive.php?id=568233
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h30-06/02: [BLV VITAMIN] Fenerbahce vs Erzurum BB
+http://sharing.gotdns.ch:8091/socolive.php?id=400722
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h00-06/02: [KING] Detroit Pistons vs Washington Wizards
 http://sharing.gotdns.ch:8091/socolive.php?id=9912099
