@@ -99,9 +99,6 @@ http://iptv.nhadai.org/stream/ben-tre
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",03h45-06/02 Sporting CP Vs AVS Futebol SAD NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvYqnvtpWKN1iy1tg/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",04h00-06/02 Bolivia (W) U20 Vs Peru (W) U20 NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MvVcsmu2mAs78jK9n/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",04h00-06/02 Brasil (W) U20 Vs Ecuador (W) U20 NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvVcsmu2iyPEeuPzt/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
@@ -185,9 +182,9 @@ https://auto.cdnok9.com/live/sd-6MvYM99Y3HBxH5r2RA/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-06/02 Jwaya Vs Al-Ahed NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvYrBkcXvfCFizEVa/playlist.m3u8
-#EXTINF:-1 group-title="Socolive_2",03h45: [BLV XO] Sporting CP vs AVS Futebol SAD
+#EXTINF:-1 group-title="Socolive_2",04h15: [BLV XO] Sporting CP vs AVS Futebol SAD
 http://sharing.gotdns.ch:8091/socolive.php?id=472241
-#EXTINF:-1 group-title="Socolive_2",03h45: [BLV CÒ] Sporting CP vs AVS Futebol SAD
+#EXTINF:-1 group-title="Socolive_2",04h15: [BLV CÒ] Sporting CP vs AVS Futebol SAD
 http://sharing.gotdns.ch:8091/socolive.php?id=582342
 #EXTINF:-1 group-title="Socolive_2",05h00: [VỊT BẠC] Bahia vs Fluminense RJ
 http://sharing.gotdns.ch:8091/socolive.php?id=474421
