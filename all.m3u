@@ -96,74 +96,32 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-06/02 Yokohama Marinos Vs Machida Zelvia BLV YẾN THANH
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-06/02 V-Varen Nagasaki Vs Hiroshima Sanfrecce BLV TÔN LẬP
-https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-06/02 Ho Chi Minh City II Vs Dong Thap BLV SHIN
-https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-06/02 Kyoto Sanga Vs Vissel Kobe BLV URA
 https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-06/02 Khatoco Khanh Hoa Vs Ba Ria Vung Tau FC BLV VĂN VỸ
-https://hls.cdnok9.com/live/VANVY/index.m3u8?expire=1830276060&sign=554d3c30c8d3453c1feb32142851729a
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h10-06/02 WGroup Vs Wahana FC NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MvVNKtTo3QsjVC9eC/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h30-06/02 Brisbane City (W) Vs Gold Coast Knights (W) NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MvVNP8k4PS3k2BKYx/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h30-06/02 St George Willawong FC Vs Queensland Lions SC NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MvVcpZtEwdxQXsKue/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h30-06/02 Capalaba Bulldogs Vs Moreton City Excelsior FC NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MvVcpZtQc7VLsY22G/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h30-06/02 Logan Lightning Vs Eastern Suburbs Brisbane NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MvVcpZsu87eDco2gk/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h45-06/02 Sunshine Coast Wanderers FC Vs Rochedale Rovers NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MvVcpZsuaVQfNi2XW/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h30-06/02 Shahdagh Qusar Vs Difai Agsu FK NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MvVcsprK7MUnzbPBi/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-06/02 Yokohama Marinos Vs Machida Zelvia BLV YẾN THANH
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-06/02 Fajr Sepasi Vs Tractor S.C. BLV MÃ SIÊU
 https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-06/02 Hapoel Petah Tikva Nahum Stelmah U19 Vs Maccabi Netanya U19 NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MvVNKrFLQRE3ejKsA/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h30-06/02 Tanjong Pagar Utd Vs Geylang International BLV THỜI THIÊN
+https://hls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-06/02 Cote d'Or Vs Revengers NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MvVNKsjoqaymZFwit/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-06/02 V-Varen Nagasaki Vs Hiroshima Sanfrecce BLV TÔN LẬP
+https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h15-06/02 Al-Hikma Vs Al-Safa NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MvYrBkcXp4keHWV2t/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-06/02 Khatoco Khanh Hoa Vs Ba Ria Vung Tau FC BLV VĂN VỸ
+https://hls.cdnok9.com/live/VANVY/index.m3u8?expire=1830276060&sign=554d3c30c8d3453c1feb32142851729a
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-06/02 KS Bylis Vs Partizani Tirana NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MuPtLXZYL3Jhwcchr/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-06/02 Ho Chi Minh City II Vs Dong Thap BLV SHIN
+https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-06/02 Vllaznia Shkoder Vs FK Vora NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MuPtLXZYNEnaRSXrk/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-06/02 Baghdad Vs AL Minaa BLV NGŨ CA
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-06/02 BG Green Farmers FC Vs Rukinzo FC NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MvYqgTqmeUFuscXJU/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h15-06/02 Gulf United FC Vs Al-Ittifaq(UAE) NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MvY6Xs1DBXQFqsWuS/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h15-06/02 Masfut Vs Al Oruba (UAE) NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MvY6Xs1DJ7qsHMGN8/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-06/02 Jwaya Vs Al-Ahed NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MvYrBkcXvfCFizEVa/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-06/02 WA Mostaganem Vs CRB Temouchent NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MvYM99Y3HBxH5r2RA/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-06/02 Persib Bandung Vs Malut United BLV KEVILL
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTINF:-1 group-title="Socolive_2",17h00: [BLV PIRLO] Yokohama F. Marinos vs Machida Zelvia
 http://sharing.gotdns.ch:8091/socolive.php?id=351530
 #EXTINF:-1 group-title="Socolive_2",17h00: [RICKHANTER] Yokohama F. Marinos vs Machida Zelvia
