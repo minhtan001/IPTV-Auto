@@ -95,20 +95,6 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV MIXI] PSBS Biak Numfor vs Persatuan Sepakbola Makassar
-http://sharing.gotdns.ch:8091/socolive.php?id=290928
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV KAN] PSBS Biak Numfor vs Persatuan Sepakbola Makassar
-http://sharing.gotdns.ch:8091/socolive.php?id=283501
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV XO] PSBS Biak Numfor vs Persatuan Sepakbola Makassar
-http://sharing.gotdns.ch:8091/socolive.php?id=472241
-#EXTINF:-1 group-title="Socolive_2",15h30: [BLV KINH TẾ] PSBS Biak Numfor vs Persatuan Sepakbola Makassar
-http://sharing.gotdns.ch:8091/socolive.php?id=532999
-#EXTINF:-1 group-title="Socolive_2",15h30: [KÉP] Semen Padang vs Persita Tangerang
-http://sharing.gotdns.ch:8091/socolive.php?id=560690
-#EXTINF:-1 group-title="Socolive_2",15h30: [NGƯỜI THÉP] Semen Padang vs Persita Tangerang
-http://sharing.gotdns.ch:8091/socolive.php?id=568233
-#EXTINF:-1 group-title="Socolive_2",15h30: [QUANG VINH] Semen Padang vs Persita Tangerang
-http://sharing.gotdns.ch:8091/socolive.php?id=9912109
 #EXTINF:-1 group-title="Socolive_2",17h00: [BLV TÔM] FC Dobrudzha Dobrich vs Septemvri Sofia
 http://sharing.gotdns.ch:8091/socolive.php?id=561379
 #EXTINF:-1 group-title="Socolive_2",17h00: [BLV WUKONG] FC Dobrudzha Dobrich vs Septemvri Sofia
@@ -165,8 +151,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=372746
 http://sharing.gotdns.ch:8091/socolive.php?id=9912009
 #EXTINF:-1 group-title="Socolive_2",19h15: [BLV BÉO] Cong An Ho Chi Minh City vs Thanh Hoa
 http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTINF:-1 group-title="Socolive_2",19h15: [BLV SATIVA] Cong An Ho Chi Minh City vs Thanh Hoa
-http://sharing.gotdns.ch:8091/socolive.php?id=321443
+#EXTINF:-1 group-title="Socolive_2",19h15: [VƯƠNG ANH] Cong An Ho Chi Minh City vs Thanh Hoa
+http://sharing.gotdns.ch:8091/socolive.php?id=548860
 #EXTINF:-1 group-title="Socolive_2",19h15: [RED BULL] The Cong Viettel vs Song Lam Nghe An
 http://sharing.gotdns.ch:8091/socolive.php?id=547345
 #EXTINF:-1 group-title="Socolive_2",19h15: [BLV PEWPEW] The Cong Viettel vs Song Lam Nghe An
@@ -928,6 +914,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9904
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360.live/KenhCoBan.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 2
 https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Event 1
+https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
