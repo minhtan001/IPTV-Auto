@@ -95,10 +95,6 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTINF:-1 group-title="Socolive_2",12h30: [BRIAN] Brisbane Bullets vs Cairns Taipans
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",12h30: [CHAN SENA] Brisbane Bullets vs Cairns Taipans
-http://sharing.gotdns.ch:8091/socolive.php?id=515530
 #EXTINF:-1 group-title="Socolive_2",13h00: [THẠCH TÚ] Kawasaki Frontale vs Kashiwa Reysol
 http://sharing.gotdns.ch:8091/socolive.php?id=344370
 #EXTINF:-1 group-title="Socolive_2",13h00: [CR Bưởi] Kawasaki Frontale vs Kashiwa Reysol
@@ -173,8 +169,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912100
 http://sharing.gotdns.ch:8091/socolive.php?id=445260
 #EXTINF:-1 group-title="Socolive_2",18h15: [CÔNG CHẤT] FC Utrecht vs Feyenoord
 http://sharing.gotdns.ch:8091/socolive.php?id=291277
-#EXTINF:-1 group-title="Socolive_2",18h15: [RICKHANTER] FC Utrecht vs Feyenoord
-http://sharing.gotdns.ch:8091/socolive.php?id=9912101
 #EXTINF:-1 group-title="Socolive_2",18h15: [BLV TOMIA] FC Utrecht vs Feyenoord
 http://sharing.gotdns.ch:8091/socolive.php?id=9912008
 #EXTINF:-1 group-title="Socolive_2",18h15: [BLV ENZO] FC Utrecht vs Feyenoord
@@ -534,6 +528,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=304148
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",04h10-09/02: [XUÂN SON] Alianza vs Deportiva Once Caldas
 http://sharing.gotdns.ch:8091/socolive.php?id=501412
 #EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",04h10-09/02: [BLV SATIVA] Alianza vs Deportiva Once Caldas
+http://sharing.gotdns.ch:8091/socolive.php?id=321443
+#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",05h15-09/02: [THE KOP] CA Huracan vs San Lorenzo
 http://sharing.gotdns.ch:8091/socolive.php?id=581585
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -797,6 +794,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912097
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h45-09/02: [BLV COZY] Nasaf Qarshi vs Al Shorta
 http://sharing.gotdns.ch:8091/socolive.php?id=531989
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h45-09/02: [BLV BÉO] Nasaf Qarshi vs Al Shorta
+http://sharing.gotdns.ch:8091/socolive.php?id=459401
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h00-09/02: [BLV ADAM] Kayserispor vs Kocaelispor
 http://sharing.gotdns.ch:8091/socolive.php?id=336303
