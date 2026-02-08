@@ -96,14 +96,8 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h30-08/02 FC Koln Vs RB Leipzig BLV LƯU BỊ
-https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-08/02 Saint Gilloise Vs LaLouviere BLV MÃ SIÊU
-https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h00-08/02 Midtjylland Vs FC Copenhagen BLV VÕ TÒNG
-https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",23h30-08/02 Liverpool Vs Manchester City BLV KEVILL
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",22h15-08/02 Sevilla Vs Girona BLV SHIN
 https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
@@ -129,8 +123,8 @@ https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8?expire=1830276060&sign=5c3d0f8
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",23h30-08/02 Bayern Munchen Vs TSG Hoffenheim BLV LƯU BỊ
 https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",23h30-08/02 Liverpool Vs Manchester City BLV KEVILL
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",23h45-08/02 Rijeka Vs Dinamo Zagreb BLV MAYBACH
+https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h00-09/02 AEP Paphos Vs Omonia Nicosia FC BLV VĂN VỸ
 https://hls.cdnok9.com/live/VANVY/index.m3u8?expire=1830276060&sign=554d3c30c8d3453c1feb32142851729a
@@ -140,6 +134,9 @@ https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefd
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h00-09/02 Besiktas JK Vs Alanyaspor BLV VÕ TÒNG
 https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h30-09/02 Atletico Madrid Vs Real Betis BLV MÃ SIÊU
+https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 #EXTINF:-1 group-title="Socolive_2",21h00: [BLV FIREMAN] Lecce vs Udinese
 http://sharing.gotdns.ch:8091/socolive.php?id=991140
 #EXTINF:-1 group-title="Socolive_2",21h00: [BLV GÔN] Lecce vs Udinese
@@ -209,24 +206,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=472241
 #EXTINF:-1 group-title="Socolive_2",22h45: [Lửng Mật] Groningen vs PSV Eindhoven
 http://sharing.gotdns.ch:8091/socolive.php?id=566705
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h30-08/02: [TAM MAO] FC Köln vs RB Leipzig
-http://sharing.gotdns.ch:8091/socolive.php?id=9912100
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h30-08/02: [LOGAN] FC Köln vs RB Leipzig
-http://sharing.gotdns.ch:8091/socolive.php?id=552832
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h30-08/02: [BLV MESSI] FC Köln vs RB Leipzig
-http://sharing.gotdns.ch:8091/socolive.php?id=494201
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h30-08/02: [BLV A BỆU] FC Köln vs RB Leipzig
-http://sharing.gotdns.ch:8091/socolive.php?id=484845
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h30-08/02: [BLV VOI] FC Köln vs RB Leipzig
-http://sharing.gotdns.ch:8091/socolive.php?id=9912114
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",21h30-08/02: [BLV KINH TẾ] FC Köln vs RB Leipzig
-http://sharing.gotdns.ch:8091/socolive.php?id=532999
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h15-08/02: [KÉP] Sevilla FC vs Girona FC
 http://sharing.gotdns.ch:8091/socolive.php?id=560690
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -283,9 +262,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=283501
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h30-08/02: [SÙNG A MÚP] FC Bayern Munich vs TSG Hoffenheim
 http://sharing.gotdns.ch:8091/socolive.php?id=9912097
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h30-08/02: [BLV ALEX] FC Bayern Munich vs TSG Hoffenheim
-http://sharing.gotdns.ch:8091/socolive.php?id=532081
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h30-08/02: [BLV TOMIA] FC Bayern Munich vs TSG Hoffenheim
 http://sharing.gotdns.ch:8091/socolive.php?id=9912008
