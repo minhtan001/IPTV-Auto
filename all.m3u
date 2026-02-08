@@ -95,38 +95,18 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTINF:-1 group-title="Socolive_2",10h10: [TAM MAO] Club America vs Monterrey
-http://sharing.gotdns.ch:8091/socolive.php?id=9912100
-#EXTINF:-1 group-title="Socolive_2",10h10: [BLV TAP] Club America vs Monterrey
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",10h10: [SÙNG A MÚP] Club America vs Monterrey
-http://sharing.gotdns.ch:8091/socolive.php?id=9912097
-#EXTINF:-1 group-title="Socolive_2",10h10: [BLV ĐỐM] Club America vs Monterrey
-http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTINF:-1 group-title="Socolive_2",10h10: [BLV COCA] Club America vs Monterrey
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",10h10: [BLV 7UP] Club America vs Monterrey
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
-#EXTINF:-1 group-title="Socolive_2",10h30: [BRIAN] South East Melbourne vs Sydney
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",11h00: [BLV FIREMAN] Roasso Kumamoto vs Renofa Yamaguchi
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
-#EXTINF:-1 group-title="Socolive_2",11h05: [RED BULL] Avispa Fukuoka vs Fagiano Okayama
+#EXTINF:-1 group-title="Socolive_2",11h20: [RED BULL] Avispa Fukuoka vs Fagiano Okayama
 http://sharing.gotdns.ch:8091/socolive.php?id=547345
-#EXTINF:-1 group-title="Socolive_2",11h05: [LOGAN] Avispa Fukuoka vs Fagiano Okayama
+#EXTINF:-1 group-title="Socolive_2",11h20: [LOGAN] Avispa Fukuoka vs Fagiano Okayama
 http://sharing.gotdns.ch:8091/socolive.php?id=552832
-#EXTINF:-1 group-title="Socolive_2",11h05: [CÔNG CHẤT] Avispa Fukuoka vs Fagiano Okayama
+#EXTINF:-1 group-title="Socolive_2",11h20: [CÔNG CHẤT] Avispa Fukuoka vs Fagiano Okayama
 http://sharing.gotdns.ch:8091/socolive.php?id=291277
-#EXTINF:-1 group-title="Socolive_2",11h05: [BLV A BỆU] Avispa Fukuoka vs Fagiano Okayama
+#EXTINF:-1 group-title="Socolive_2",11h20: [BLV A BỆU] Avispa Fukuoka vs Fagiano Okayama
 http://sharing.gotdns.ch:8091/socolive.php?id=484845
-#EXTINF:-1 group-title="Socolive_2",11h05: [BLV BÉO] Avispa Fukuoka vs Fagiano Okayama
+#EXTINF:-1 group-title="Socolive_2",11h20: [BLV BÉO] Avispa Fukuoka vs Fagiano Okayama
 http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTINF:-1 group-title="Socolive_2",11h05: [BLV KINH TẾ] Avispa Fukuoka vs Fagiano Okayama
+#EXTINF:-1 group-title="Socolive_2",11h20: [BLV KINH TẾ] Avispa Fukuoka vs Fagiano Okayama
 http://sharing.gotdns.ch:8091/socolive.php?id=532999
-#EXTINF:-1 group-title="Socolive_2",11h05: [LOKA] Ehime FC vs Albirex Niigata
-http://sharing.gotdns.ch:8091/socolive.php?id=589848
-#EXTINF:-1 group-title="Socolive_2",11h05: [BLV ANH TÀI] Ehime FC vs Albirex Niigata
-http://sharing.gotdns.ch:8091/socolive.php?id=406865
 #EXTINF:-1 group-title="Socolive_2",11h30: [BLV LUCAS] Fujieda MYFC vs FC Gifu
 http://sharing.gotdns.ch:8091/socolive.php?id=304148
 #EXTINF:-1 group-title="Socolive_2",12h00: [BLV MIXI] Nagoya Grampus vs Shimizu S-Pulse
@@ -161,8 +141,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=372746
 http://sharing.gotdns.ch:8091/socolive.php?id=564362
 #EXTINF:-1 group-title="Socolive_2",13h00: [BLV VOI] Kawasaki Frontale vs Kashiwa Reysol
 http://sharing.gotdns.ch:8091/socolive.php?id=9912114
-#EXTINF:-1 group-title="Socolive_2",13h00: [HOA VINH] Kawasaki Frontale vs Kashiwa Reysol
-http://sharing.gotdns.ch:8091/socolive.php?id=579055
 #EXTINF:-1 group-title="Socolive_2",13h00: [BLV TAP] Adelaide United vs Newcastle Jets
 http://sharing.gotdns.ch:8091/socolive.php?id=9912041
 #EXTINF:-1 group-title="Socolive_2",13h00: [BLV PIRLO] Adelaide United vs Newcastle Jets
@@ -587,9 +565,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=304148
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",04h10-09/02: [XUÂN SON] Alianza vs Deportiva Once Caldas
 http://sharing.gotdns.ch:8091/socolive.php?id=501412
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",04h10-09/02: [HOA VINH] Alianza vs Deportiva Once Caldas
-http://sharing.gotdns.ch:8091/socolive.php?id=579055
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",05h15-09/02: [THE KOP] CA Huracan vs San Lorenzo
 http://sharing.gotdns.ch:8091/socolive.php?id=581585
@@ -1031,10 +1006,6 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-10/KenhCoBan.m3u8
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-11/KenhCoBan.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",TV360 Promo
 https://freem3u.xyz/api/live/play.m3u8?vid=9904
-#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 3
-https://live.fptplay53.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="TruyenHinh_2",Event 1
-https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
