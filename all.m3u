@@ -96,69 +96,38 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-09/02 OFK Beograd Vs Cukaricki Stankom BLV MÃ SIÊU
-https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-09/02 Bangkok FC Vs Kasetsart FC BLV NGŨ CA
 https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h30-09/02 Lamphun Warrior Vs DP Kanchanaburi BLV TRƯƠNG THANH
-https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h05-09/02 Al-Jndal Vs Al-Draih BLV KHỔNG MINH
+https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-09/02 Nam Dinh FC Vs Hong Linh Ha Tinh BLV KAKA
-https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h45-09/02 Nasaf Qarshi Vs Al Shorta BLV QUAN VŨ
+https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-09/02 Suwon KT Vs Seoul Thunders BLV YẾN THANH
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h45-09/02 Al Wahda(UAE) Vs Al-Ahli SFC BLV LƯU BỊ
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h40-09/02 Al-Baten Vs Al Ula FC BLV TRIỆU TỬ LONG
+https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-09/02 OFK Beograd Vs Cukaricki Stankom BLV MÃ SIÊU
+https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h05-09/02 Abha Vs Al-Zlfe BLV DƯƠNG QUÁ
+https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-09/02 Fasil Kenema Vs Hadiya Hossana BLV DƯƠNG CHÍ
 https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h30-09/02 Albirex Niigata FC Vs Hougang United FC BLV CHUNN
-https://hls.cdnok9.com/live/CHUN1/index.m3u8?expire=1890830700&sign=dbdc8ced2f1b21adf9d5a264bfe72141
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-09/02 Chainat FC Vs JL Chiangmai United FC BLV KENCHU
+https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h30-09/02 Mil Mugan Vs FK Kapaz Ganca BLV LÝ QUỲ
-https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:-1 group-title="Socolive_2",17h30: [BLV CHIVAS] İmişli FK vs FK Kapaz Ganca
-http://sharing.gotdns.ch:8091/socolive.php?id=485739
-#EXTINF:-1 group-title="Socolive_2",17h30: [BLV VITAMIN] İmişli FK vs FK Kapaz Ganca
-http://sharing.gotdns.ch:8091/socolive.php?id=400722
-#EXTINF:-1 group-title="Socolive_2",17h30: [BLV RAMBO] İmişli FK vs FK Kapaz Ganca
-http://sharing.gotdns.ch:8091/socolive.php?id=534055
-#EXTINF:-1 group-title="Socolive_2",17h30: [BLV GÔN] İmişli FK vs FK Kapaz Ganca
-http://sharing.gotdns.ch:8091/socolive.php?id=445260
-#EXTINF:-1 group-title="Socolive_2",18h00: [RICKHANTER] Thep Xanh Nam Dinh FC vs Hong Linh Ha Tinh
-http://sharing.gotdns.ch:8091/socolive.php?id=9912101
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV COCA] Thep Xanh Nam Dinh FC vs Hong Linh Ha Tinh
-http://sharing.gotdns.ch:8091/socolive.php?id=327159
-#EXTINF:-1 group-title="Socolive_2",18h00: [TẠ BIÊN GIỚI] Thep Xanh Nam Dinh FC vs Hong Linh Ha Tinh
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV TOMMY] Thep Xanh Nam Dinh FC vs Hong Linh Ha Tinh
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV TAP] Thep Xanh Nam Dinh FC vs Hong Linh Ha Tinh
-http://sharing.gotdns.ch:8091/socolive.php?id=9912041
-#EXTINF:-1 group-title="Socolive_2",18h00: [BLV MESSI] Thep Xanh Nam Dinh FC vs Hong Linh Ha Tinh
-http://sharing.gotdns.ch:8091/socolive.php?id=494201
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV EDRIC] Albirex Niigata FC vs Hougang United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=5126499
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV FIREMAN] Albirex Niigata FC vs Hougang United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV XAVI] Albirex Niigata FC vs Hougang United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=525090
-#EXTINF:-1 group-title="Socolive_2",18h30: [A PÁO] Albirex Niigata FC vs Hougang United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=235232
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV  TYPN] Lamphun Warriors vs Kanchanaburi Power FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912009
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV Củ Cải] Lamphun Warriors vs Kanchanaburi Power FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912091
-#EXTINF:-1 group-title="Socolive_2",18h30: [BLV KINH TẾ] Lamphun Warriors vs Kanchanaburi Power FC
-http://sharing.gotdns.ch:8091/socolive.php?id=532999
-#EXTINF:-1 group-title="Socolive_2",18h30: [TAM MAO] Lamphun Warriors vs Kanchanaburi Power FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912100
-#EXTINF:-1 group-title="Socolive_2",18h30: [SAO LA] Lamphun Warriors vs Kanchanaburi Power FC
-http://sharing.gotdns.ch:8091/socolive.php?id=462413
-#EXTINF:-1 group-title="Socolive_2",18h30: [SÙNG A MÚP] Lamphun Warriors vs Kanchanaburi Power FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912097
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-09/02 Al-Jabalain Vs Al Bukayriyah BLV A TỦA
+https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",21h00-09/02 Kayserispor Vs Kocaelispor BLV TÔN LẬP
+https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 #EXTINF:-1 group-title="Socolive_2",19h00: [BÚA TẠ] OFK Beograd vs FK Čukarički
 http://sharing.gotdns.ch:8091/socolive.php?id=570313
 #EXTINF:-1 group-title="Socolive_2",19h00: [BLV ANH TÀI] OFK Beograd vs FK Čukarički
@@ -825,6 +794,8 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-11/KenhCoBan.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=9904
 #EXTINF:-1 group-title="TruyenHinh_2",TV360 Livestream
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360.live/KenhCoBan.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Sự Kiện 6
+https://live.fptplay53.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
