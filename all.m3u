@@ -96,26 +96,23 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h00-09/02 Arsenal Vs Sunderland BLV VƯƠNG LUÂN REPLAY
-https://hls.cdnok9.com/live/TEST/index.m3u8?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h00-09/02 Liverpool Vs Manchester City BLV LEO
-https://hls.cdnok9.com/live/TEST2/index.m3u8?expire=1788427256&sign=1eeee2ecb43648dc5ef36b43282e16ae
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-09/02 Yarmanya United FC Vs Hantharwady United BLV NHỊ KA
 https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTINF:-1 group-title="Socolive_2",16h00: [LOGAN] Yarmanya United FC vs Hantharwady United
-http://sharing.gotdns.ch:8091/socolive.php?id=552832
-#EXTINF:-1 group-title="Socolive_2",16h00: [LÃO LÂM] Yarmanya United FC vs Hantharwady United
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV A BỆU] Yarmanya United FC vs Hantharwady United
-http://sharing.gotdns.ch:8091/socolive.php?id=484845
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV BÉO] Yarmanya United FC vs Hantharwady United
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV CÒ] Yarmanya United FC vs Hantharwady United
-http://sharing.gotdns.ch:8091/socolive.php?id=582342
-#EXTINF:-1 group-title="Socolive_2",16h00: [BLV SINGER] Yarmanya United FC vs Hantharwady United
-http://sharing.gotdns.ch:8091/socolive.php?id=9912102
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h30-09/02 Dagon FC Vs Ispe FC BLV LƯU BỊ
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",17h00-09/02 Suwon KT Vs Seoul Thunders BLV YẾN THANH
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h10-09/02 Persenus Nusantara Vs Putra Plaosan Martapura NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVNYop4ogZDmiKoi/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h30-09/02 Bocah Liar FC Vs Kartanegara FC NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVNYoouZPJri8iNx/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h30-09/02 Xorazm Urganch Vs FC Dietikon NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVNc9yZAHtQWpwLQ/playlist.m3u8
 #EXTINF:-1 group-title="Socolive_2",16h30: [BLV ROBBEN] Dagon Star United vs ISPE FC
 http://sharing.gotdns.ch:8091/socolive.php?id=527383
 #EXTINF:-1 group-title="Socolive_2",16h30: [BLV VIP] Dagon Star United vs ISPE FC
@@ -654,9 +651,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912035
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h45-10/02: [SÙNG A MÚP] Esteghlal Tehran vs Al-Hussein SC (Irbid)
 http://sharing.gotdns.ch:8091/socolive.php?id=9912097
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h45-10/02: [BLV VODKA] Esteghlal Tehran vs Al-Hussein SC (Irbid)
-http://sharing.gotdns.ch:8091/socolive.php?id=500605
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h45-10/02: [BLV BÉO] Esteghlal Tehran vs Al-Hussein SC (Irbid)
 http://sharing.gotdns.ch:8091/socolive.php?id=459401
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -668,6 +662,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912102
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h45-10/02: [BLV TAP] Esteghlal Tehran vs Al-Hussein SC (Irbid)
 http://sharing.gotdns.ch:8091/socolive.php?id=9912041
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",20h45-10/02: [BLV EDRIC] Esteghlal Tehran vs Al-Hussein SC (Irbid)
+http://sharing.gotdns.ch:8091/socolive.php?id=5126499
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",22h00-10/02: [BLV KAN] Sitra vs Al-Ain FC
 http://sharing.gotdns.ch:8091/socolive.php?id=283501
