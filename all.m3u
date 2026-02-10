@@ -95,57 +95,6 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",23h00-10/02 Al Zawraa Vs Al-Wasl BLV KHỔNG MINH
-https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",01h00-11/02 Sampdoria Vs Palermo BLV NGŨ CA
-https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h00-11/02 Al-Qadsia SC Vs Zakho BLV LÝ ỨNG
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",23h00-10/02 CSKA Sofia Vs CSKA 1948 Sofia BLV PHONG VÂN
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",01h15-11/02 Al-Ittihad Vs Al-Garrafa BLV LỮ BỐ
-https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV A BỆU] Tractor S.C. vs Al-Sadd
-http://sharing.gotdns.ch:8091/socolive.php?id=484845
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV TOMIA] Tractor S.C. vs Al-Sadd
-http://sharing.gotdns.ch:8091/socolive.php?id=9912008
-#EXTINF:-1 group-title="Socolive_2",23h00: [TẠ BIÊN GIỚI] Tractor S.C. vs Al-Sadd
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTINF:-1 group-title="Socolive_2",23h00: [CR Bưởi] Tractor S.C. vs Al-Sadd
-http://sharing.gotdns.ch:8091/socolive.php?id=387694
-#EXTINF:-1 group-title="Socolive_2",23h00: [SÙNG A MÚP] Tractor S.C. vs Al-Sadd
-http://sharing.gotdns.ch:8091/socolive.php?id=9912097
-#EXTINF:-1 group-title="Socolive_2",23h00: [GOAT] Tractor S.C. vs Al-Sadd
-http://sharing.gotdns.ch:8091/socolive.php?id=585206
-#EXTINF:-1 group-title="Socolive_2",23h00: [A PÁO] CSKA Sofia vs CSKA 1948 Sofia
-http://sharing.gotdns.ch:8091/socolive.php?id=235232
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV VIP] CSKA Sofia vs CSKA 1948 Sofia
-http://sharing.gotdns.ch:8091/socolive.php?id=491873
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV KEM] Al Zawraa vs Al-Wasl SC
-http://sharing.gotdns.ch:8091/socolive.php?id=513394
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV ENZO] Al Zawraa vs Al-Wasl SC
-http://sharing.gotdns.ch:8091/socolive.php?id=380460
-#EXTINF:-1 group-title="Socolive_2",23h00: [RED BULL] Al Zawraa vs Al-Wasl SC
-http://sharing.gotdns.ch:8091/socolive.php?id=547345
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV PEWPEW] Al Zawraa vs Al-Wasl SC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912015
-#EXTINF:-1 group-title="Socolive_2",23h00: [LÃO LÂM] Al Zawraa vs Al-Wasl SC
-http://sharing.gotdns.ch:8091/socolive.php?id=527384
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV ALEX] Al Zawraa vs Al-Wasl SC
-http://sharing.gotdns.ch:8091/socolive.php?id=532081
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV MIXI] Leixoes U23 vs Sporting CP U23
-http://sharing.gotdns.ch:8091/socolive.php?id=290928
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV TÔM] Leixoes U23 vs Sporting CP U23
-http://sharing.gotdns.ch:8091/socolive.php?id=561379
-#EXTINF:-1 group-title="Socolive_2",00h00: [Đình Bắc] Al Qadisiya SC vs Zakho SC
-http://sharing.gotdns.ch:8091/socolive.php?id=579144
-#EXTINF:-1 group-title="Socolive_2",00h00: [Lửng Mật] Al Qadisiya SC vs Zakho SC
-http://sharing.gotdns.ch:8091/socolive.php?id=566705
 #EXTINF:-1 group-title="Socolive_2",01h00: [BLV GÔN] Sampdoria vs Palermo
 http://sharing.gotdns.ch:8091/socolive.php?id=445260
 #EXTINF:-1 group-title="Socolive_2",01h00: [BLV ROBBEN] Sampdoria vs Palermo
