@@ -95,18 +95,6 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTINF:-1 group-title="Socolive_2",10h35: [CHAN SENA] Golden State Warriors vs Memphis Grizzlies
-http://sharing.gotdns.ch:8091/socolive.php?id=515530
-#EXTINF:-1 group-title="Socolive_2",10h35: [A CHÈ] Golden State Warriors vs Memphis Grizzlies
-http://sharing.gotdns.ch:8091/socolive.php?id=356042
-#EXTINF:-1 group-title="Socolive_2",10h35: [BLV HENRY] Los Angeles Lakers vs Oklahoma City Thunder
-http://sharing.gotdns.ch:8091/socolive.php?id=9912112
-#EXTINF:-1 group-title="Socolive_2",10h35: [BRIAN] Los Angeles Lakers vs Oklahoma City Thunder
-http://sharing.gotdns.ch:8091/socolive.php?id=9912106
-#EXTINF:-1 group-title="Socolive_2",10h35: [KING] Portland Trail Blazers vs Philadelphia 76ers
-http://sharing.gotdns.ch:8091/socolive.php?id=9912099
-#EXTINF:-1 group-title="Socolive_2",10h35: [HUNTER] Portland Trail Blazers vs Philadelphia 76ers
-http://sharing.gotdns.ch:8091/socolive.php?id=558264
 #EXTINF:-1 group-title="Socolive_2",16h00: [BLV VIP] Rakhine United FC vs Mahar United
 http://sharing.gotdns.ch:8091/socolive.php?id=491873
 #EXTINF:-1 group-title="Socolive_2",16h00: [CÔNG LÝ] Rakhine United FC vs Mahar United
@@ -2523,7 +2511,7 @@ https://absp-live.akamaized.net/dash/live/2099522/gmapt/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_4",cctv4 Asia
 http://t.061899.xyz/tl/tl.php?id=cctv4
 #EXTINF:-1 group-title="TruyenHinh_4",TVB Jade International
-http://php.jdshipin.com/TVOD/iptv.php?id=huali
+http://cdn6.163189.xyz/163189/jade
 #EXTINF:-1 group-title="TruyenHinh_4",TVB News International
 https://tvb.860775.xyz/I-NEWS
 #EXTINF:-1 group-title="TruyenHinh_4",TDM-Macau Satéllite
@@ -3943,9 +3931,9 @@ https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_4",DewanNegara
 https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_4",Astro AOD
-http://php.jdshipin.com/TVOD/iptv.php?id=aod
+https://o11.163189.xyz/stream/live/aod/
 #EXTINF:-1 group-title="TruyenHinh_4",Astro AEC
-http://php.jdshipin.com/smt.php?id=AEC
+https://o11.163189.xyz/stream/live/aec/
 #EXTINF:-1 group-title="TruyenHinh_4",Astro QJ
 http://php.jdshipin.com/smt.php?id=Quanjia
 #EXTINF:-1 group-title="TruyenHinh_4",Astro欢喜台
