@@ -111,14 +111,14 @@ http://sharing.gotdns.ch:8091/socolive.php?id=344370
 http://sharing.gotdns.ch:8091/socolive.php?id=9912060
 #EXTINF:-1 group-title="Socolive_2",17h00: [BLV ĐỐM] Ulsan HD FC vs Melbourne City
 http://sharing.gotdns.ch:8091/socolive.php?id=9912110
-#EXTINF:-1 group-title="Socolive_2",17h00: [BLV BÉO] Ulsan HD FC vs Melbourne City
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
 #EXTINF:-1 group-title="Socolive_2",17h00: [BLV 7UP] Ulsan HD FC vs Melbourne City
 http://sharing.gotdns.ch:8091/socolive.php?id=534219
 #EXTINF:-1 group-title="Socolive_2",17h00: [BLV TOMMY] Ulsan HD FC vs Melbourne City
 http://sharing.gotdns.ch:8091/socolive.php?id=414317
 #EXTINF:-1 group-title="Socolive_2",17h00: [CR Bưởi] Ulsan HD FC vs Melbourne City
 http://sharing.gotdns.ch:8091/socolive.php?id=387694
+#EXTINF:-1 group-title="Socolive_2",17h00: [BLV VOI] Ulsan HD FC vs Melbourne City
+http://sharing.gotdns.ch:8091/socolive.php?id=9912114
 #EXTINF:-1 group-title="Socolive_2",17h00: [BRIAN] Seoul Knights vs Goyang Sono
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTINF:-1 group-title="Socolive_2",17h00: [CHAN SENA] Seoul Knights vs Goyang Sono
@@ -512,9 +512,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=522086
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-12/02: [BLV BÉO] Sao Paulo vs Gremio
 http://sharing.gotdns.ch:8091/socolive.php?id=459401
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-12/02: [BLV KINH TẾ] Sao Paulo vs Gremio
-http://sharing.gotdns.ch:8091/socolive.php?id=532999
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-12/02: [BLV Hổ Lùn] Clube de Regatas Vasco da Gama vs Bahia
 http://sharing.gotdns.ch:8091/socolive.php?id=308080
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -536,9 +533,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-12/02: [KING] Toronto Raptors vs Detroit Pistons
 http://sharing.gotdns.ch:8091/socolive.php?id=9912099
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h00-12/02: [TẠ BIÊN GIỚI] Club America vs CD Olimpia
-http://sharing.gotdns.ch:8091/socolive.php?id=9912108
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h00-12/02: [THẠCH TÚ] Club America vs CD Olimpia
 http://sharing.gotdns.ch:8091/socolive.php?id=344370
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -553,6 +547,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912110
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h00-12/02: [BLV COCA] Club America vs CD Olimpia
 http://sharing.gotdns.ch:8091/socolive.php?id=327159
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h00-12/02: [BLV KINH TẾ] Club America vs CD Olimpia
+http://sharing.gotdns.ch:8091/socolive.php?id=532999
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h30-12/02: [BLV GÔN] Internacional de Bogota vs Deportivo Cali
 http://sharing.gotdns.ch:8091/socolive.php?id=445260
