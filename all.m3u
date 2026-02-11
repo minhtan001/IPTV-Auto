@@ -96,14 +96,20 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h00-12/02 Cuba U17 Vs Belize U17 NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MvYqgW44WPw3vvuWC/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h00-12/02 Chapecoense SC Vs Coritiba PR NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MvZ6LxT5g2g4NAthr/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",06h00-12/02 Atletico Mineiro Vs Remo Belem (PA) BLV PHONG VÂN
+https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h00-12/02 Mirassol Vs Cruzeiro BLV LÝ QUỲ
 https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",06h30-12/02 Millonarios Vs Aguilas Doradas BLV KENCHU
+https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",07h30-12/02 Toronto Raptors Vs Detroit Pistons BLV YẾN THANH
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h00-12/02 Ah so Santa SP Vs Ferroviaria SP NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYMUj1W2y9HjanPn/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h00-12/02 Ituano SP Vs Inter de Limeira NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvYMUj1W7N72hEcha/playlist.m3u8
@@ -114,8 +120,11 @@ https://auto.cdnok9.com/live/sd-6MvYMUj1VezLawKcrp/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h00-12/02 Rosario Central Vs Sportivo Belgrano NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvYquVrGAsHL5RTWk/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h00-12/02 Ah so Santa SP Vs Ferroviaria SP NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MvYMUj1W2y9HjanPn/playlist.m3u8
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h00-12/02 Chapecoense SC Vs Coritiba PR NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvZ6LxT5g2g4NAthr/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h00-12/02 Cuba U17 Vs Belize U17 NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYqgW44WPw3vvuWC/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h30-12/02 Gremio Prudente Vs Monte Azul SP NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvYMUj1W9ZauB4XrU/playlist.m3u8
@@ -132,32 +141,29 @@ https://auto.cdnok9.com/live/sd-6MvYMUj1WBm4metT1N/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",06h00-12/02 Cascavel PR Vs Andraus Brasil NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvVNGdTt1WGz6jjor/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",06h00-12/02 Atletico Mineiro Vs Remo Belem (PA) BLV PHONG VÂN
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",06h00-12/02 UNAN Managua Vs Real Madriz FC NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvVNKoKE9w7MvT6UL/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",06h30-12/02 Millonarios Vs Aguilas Doradas BLV KENCHU
-https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",07h00-12/02 Atletico Tucuman Reserve Vs Argentinos Jrs Reserves NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MvVNGYKK82WcXzgdz/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",07h00-12/02 Sporting JAX (W) Vs Spokane Zephyr (W) NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvYM2bMGVbvHX8WqS/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",07h00-12/02 Atletico Tucuman Reserve Vs Argentinos Jrs Reserves NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVNGYKK82WcXzgdz/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",07h15-12/02 Central Cordoba SDE Vs Gimnasia Jujuy BLV LÝ QUỲ
+https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",07h30-12/02 Alianza Lima Vs 2 de Mayo PJC NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvZ6HdmaBLnMnfuNt/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",08h00-12/02 Honduras U17 Vs Bermuda U17 NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MvYqgW441pgjhBzWY/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",08h00-12/02 Real Esteli Vs Diriangen NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvVNKoKE5Y9cxoGAY/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",08h00-12/02 El Salvador U17 Vs CuracaoU17 NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvYqgW44YbQvQkpf6/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",08h00-12/02 Honduras U17 Vs Bermuda U17 NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYqgW441pgjhBzWY/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",08h30-12/02 Internacional de Bogota Vs Deportivo Cali BLV KENCHU
 https://auto.cdnok9.com/live/sd-6MvYqrFafN9oTTdJbn/playlist.m3u8
