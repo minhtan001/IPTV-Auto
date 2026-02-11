@@ -95,44 +95,75 @@ http://iptv.nhadai.org/stream/bac-lieu
 http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
-#EXTINF:-1 group-title="Socolive_2",02h40: [BLV ROBBEN] Crystal Palace vs Burnley
-http://sharing.gotdns.ch:8091/socolive.php?id=527383
-#EXTINF:-1 group-title="Socolive_2",02h40: [BLV LIO] Crystal Palace vs Burnley
-http://sharing.gotdns.ch:8091/socolive.php?id=564362
-#EXTINF:-1 group-title="Socolive_2",02h40: [NGƯỜI THÉP] Crystal Palace vs Burnley
-http://sharing.gotdns.ch:8091/socolive.php?id=568233
-#EXTINF:-1 group-title="Socolive_2",02h40: [BLV VITAMIN] Crystal Palace vs Burnley
-http://sharing.gotdns.ch:8091/socolive.php?id=400722
-#EXTINF:-1 group-title="Socolive_2",02h45: [BLV EDRIC] FC Bayern Munich vs RB Leipzig
-http://sharing.gotdns.ch:8091/socolive.php?id=5126499
-#EXTINF:-1 group-title="Socolive_2",02h45: [BLV VOI] FC Bayern Munich vs RB Leipzig
-http://sharing.gotdns.ch:8091/socolive.php?id=9912114
-#EXTINF:-1 group-title="Socolive_2",02h45: [BLV MIXI] FC Bayern Munich vs RB Leipzig
-http://sharing.gotdns.ch:8091/socolive.php?id=290928
-#EXTINF:-1 group-title="Socolive_2",02h45: [LOKA] FC Bayern Munich vs RB Leipzig
-http://sharing.gotdns.ch:8091/socolive.php?id=589848
-#EXTINF:-1 group-title="Socolive_2",02h45: [CÔNG CHẤT] FC Bayern Munich vs RB Leipzig
-http://sharing.gotdns.ch:8091/socolive.php?id=291277
-#EXTINF:-1 group-title="Socolive_2",03h00: [Đình Bắc] Athletic Club vs Real Sociedad
-http://sharing.gotdns.ch:8091/socolive.php?id=579144
-#EXTINF:-1 group-title="Socolive_2",03h00: [Lửng Mật] Athletic Club vs Real Sociedad
-http://sharing.gotdns.ch:8091/socolive.php?id=566705
-#EXTINF:-1 group-title="Socolive_2",03h00: [BLV FIREMAN] Bologna vs Lazio
-http://sharing.gotdns.ch:8091/socolive.php?id=991140
-#EXTINF:-1 group-title="Socolive_2",03h00: [BLV TÔM] Bologna vs Lazio
-http://sharing.gotdns.ch:8091/socolive.php?id=561379
-#EXTINF:-1 group-title="Socolive_2",03h15: [BLV TOMIA] Sunderland vs Liverpool
-http://sharing.gotdns.ch:8091/socolive.php?id=9912008
-#EXTINF:-1 group-title="Socolive_2",03h15: [BLV 7UP] Sunderland vs Liverpool
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
-#EXTINF:-1 group-title="Socolive_2",03h15: [BLV TOMMY] Sunderland vs Liverpool
-http://sharing.gotdns.ch:8091/socolive.php?id=414317
-#EXTINF:-1 group-title="Socolive_2",03h15: [SAO LA] Sunderland vs Liverpool
-http://sharing.gotdns.ch:8091/socolive.php?id=462413
-#EXTINF:-1 group-title="Socolive_2",03h15: [SÙNG A MÚP] Sunderland vs Liverpool
-http://sharing.gotdns.ch:8091/socolive.php?id=9912097
-#EXTINF:-1 group-title="Socolive_2",03h15: [BLV VODKA] Sunderland vs Liverpool
-http://sharing.gotdns.ch:8091/socolive.php?id=500605
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",04h00-12/02 Argentina (W) U20 Vs Bolivia (W) U20 NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVcsne2UcgspEVuN/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",04h00-12/02 Peru (W) U20 Vs Brasil (W) U20 NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVcsne2WpAkJ4R4G/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",04h00-12/02 Matagalpa FC Vs ART Municipal Jalapa NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVNKnZjwdw6TgkNY/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h00-12/02 Ituano SP Vs Inter de Limeira NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYMUj1W7N72hEcha/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h00-12/02 Cuba U17 Vs Belize U17 NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYqgW44WPw3vvuWC/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h00-12/02 Chapecoense SC Vs Coritiba PR NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvZ6LxT5g2g4NAthr/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h00-12/02 Mirassol Vs Cruzeiro BLV LÝ QUỲ
+https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h00-12/02 Sertaozinho Vs Sao Bento NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYMUj1VezLawKcrp/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h00-12/02 Ah so Santa SP Vs Ferroviaria SP NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYMUj1W2y9HjanPn/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h00-12/02 Rosario Central Vs Sportivo Belgrano NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYquVrGAsHL5RTWk/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h30-12/02 Gremio Prudente Vs Monte Azul SP NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYMUj1W9ZauB4XrU/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h30-12/02 CA Votuporanguense SP Vs Taubate NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYMUj216nhqiEh3S/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",06h00-12/02 XV de Piracicaba Vs Esporte Clube Sao Jose SP NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYMUj1VhBpTR9Y1i/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",06h00-12/02 Oeste Vs Santo Andre NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYMUj1WBm4metT1N/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",06h00-12/02 Cascavel PR Vs Andraus Brasil NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVNGdTt1WGz6jjor/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",06h00-12/02 UNAN Managua Vs Real Madriz FC NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVNKoKE9w7MvT6UL/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",07h00-12/02 Sporting JAX (W) Vs Spokane Zephyr (W) NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYM2bMGVbvHX8WqS/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",07h00-12/02 Atletico Tucuman Reserve Vs Argentinos Jrs Reserves NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVNGYKK82WcXzgdz/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",07h30-12/02 Alianza Lima Vs 2 de Mayo PJC NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvZ6HdmaBLnMnfuNt/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",08h00-12/02 Real Esteli Vs Diriangen NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVNKoKE5Y9cxoGAY/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",08h00-12/02 El Salvador U17 Vs CuracaoU17 NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYqgW44YbQvQkpf6/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",08h00-12/02 Honduras U17 Vs Bermuda U17 NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYqgW441pgjhBzWY/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",08h30-12/02 Internacional de Bogota Vs Deportivo Cali BLV KENCHU
+https://auto.cdnok9.com/live/sd-6MvYqrFafN9oTTdJbn/playlist.m3u8
 #EXTINF:-1 group-title="Socolive_2",05h00: [BLV XAVI] Chapecoense SC vs Coritiba PR
 http://sharing.gotdns.ch:8091/socolive.php?id=525090
 #EXTINF:-1 group-title="Socolive_2",05h00: [BLV SÓI] Chapecoense SC vs Coritiba PR
