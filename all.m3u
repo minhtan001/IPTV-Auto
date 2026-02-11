@@ -512,6 +512,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=522086
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-12/02: [BLV BÉO] Sao Paulo vs Gremio
 http://sharing.gotdns.ch:8091/socolive.php?id=459401
 #EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-12/02: [BLV LONG] Sao Paulo vs Gremio
+http://sharing.gotdns.ch:8091/socolive.php?id=9912050
+#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-12/02: [BLV Hổ Lùn] Clube de Regatas Vasco da Gama vs Bahia
 http://sharing.gotdns.ch:8091/socolive.php?id=308080
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -554,14 +557,14 @@ http://sharing.gotdns.ch:8091/socolive.php?id=532999
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h30-12/02: [BLV GÔN] Internacional de Bogota vs Deportivo Cali
 http://sharing.gotdns.ch:8091/socolive.php?id=445260
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h30-12/02: [BLV SÓI] Internacional de Bogota vs Deportivo Cali
-http://sharing.gotdns.ch:8091/socolive.php?id=427562
-#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h30-12/02: [BLV  TYPN] Internacional de Bogota vs Deportivo Cali
 http://sharing.gotdns.ch:8091/socolive.php?id=9912009
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h30-12/02: [TAM MAO] Internacional de Bogota vs Deportivo Cali
 http://sharing.gotdns.ch:8091/socolive.php?id=9912100
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",08h30-12/02: [CÔNG CHẤT] Internacional de Bogota vs Deportivo Cali
+http://sharing.gotdns.ch:8091/socolive.php?id=291277
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",09h15-12/02: [BLV LUCAS] CS Cartagines vs Sporting FC
 http://sharing.gotdns.ch:8091/socolive.php?id=304148
@@ -771,7 +774,7 @@ https://hnlive.dramahay.xyz/live/atv/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",ONi1
 https://1.org.vn/oni1/?/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",ONi2
-https://d.org.vn/oni2-mbnlife/?/index.m3u8
+https://1.org.vn/oni2hd/?/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",ONi3
 https://1.org.vn/oni3/?/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",Sky Sport F1
@@ -990,6 +993,8 @@ https://liveh34.vtvprime.vn/hls/SCTV21/03.m3u8
 https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",SCTV Phim Tổng Hợp
 https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Box Movie 1
+https://livevlisctcdnw.seenow.vn/mean/BM1/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",Hollywood Classics
 https://toiyeuvietnam.dpdns.org/Start/VMT678_HW
 #EXTINF:-1 group-title="TruyenHinh_2",In The Box
