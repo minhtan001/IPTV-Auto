@@ -96,6 +96,9 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h30-12/02 Cairns Taipans Vs Melbourne United  BLV YẾN THANH
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h00-12/02 Manchester city Vs Liverpool BLV LEO
 https://hls.cdnok9.com/live/TEST/index.m3u8?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c
 #EXTVLCOPT:http-referrer=https://ls40.live/
@@ -117,8 +120,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912101
 http://sharing.gotdns.ch:8091/socolive.php?id=459401
 #EXTINF:-1 group-title="Socolive_2",17h00: [BLV 7UP] Pohang Steelers vs Gamba Osaka
 http://sharing.gotdns.ch:8091/socolive.php?id=534219
-#EXTINF:-1 group-title="Socolive_2",17h00: [RED BULL] Pohang Steelers vs Gamba Osaka
-http://sharing.gotdns.ch:8091/socolive.php?id=547345
+#EXTINF:-1 group-title="Socolive_2",17h00: [BLV TOMMY] Pohang Steelers vs Gamba Osaka
+http://sharing.gotdns.ch:8091/socolive.php?id=414317
 #EXTINF:-1 group-title="Socolive_2",17h00: [BRIAN] Mobis Phoebus vs Seoul Thunders
 http://sharing.gotdns.ch:8091/socolive.php?id=9912106
 #EXTINF:-1 group-title="Socolive_2",17h00: [BLV HENRY] Mobis Phoebus vs Seoul Thunders
@@ -1613,9 +1616,9 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-FM96-Thoi_su_Ha_Noi
 https://HaNoiIPTV.short.gy/HaNoiIPTV-FM90-Tin_tuc_va_Giao_thong_Ha_Noi
 #EXTINF:-1 group-title="TruyenHinh_3",CHƯƠNG TRÌNH PHÁT THANH ĐẶC BIỆT MỪNG XUÂN BÍNH NGỌ 2026
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-NBTV-Phat_thanh_Ninh_Binh
-#EXTINF:-1 group-title="TruyenHinh_3",FM93.7 • THP CHÍNH TRỊ - TỔNG HỢP
+#EXTINF:-1 group-title="TruyenHinh_3",FM 93.7 • THP CHÍNH TRỊ - TỔNG HỢP
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM93.7-THP_Radio-Phat_thanh_Hai_Phong
-#EXTINF:-1 group-title="TruyenHinh_3",FM102.2 • THP GIAO THÔNG
+#EXTINF:-1 group-title="TruyenHinh_3",FM 102.2 • THP GIAO THÔNG
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM102.2-THP_Giao_thong
 #EXTINF:-1 group-title="TruyenHinh_3",SCTV 4K
 https://HaNoiIPTV.short.gy/HaNoiIPTV-SCTV_4K
