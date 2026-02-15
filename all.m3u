@@ -96,30 +96,17 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h00-15/02 Kashiwa Reysol Vs Tokyo Verdy BLV KEVILL
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",11h00-15/02 JEF United Ichihara Chiba Vs Kawasaki Frontale BLV NHỊ KA
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h00-15/02 Avispa Fukuoka Vs Cerezo Osaka BLV NHỊ KA
 https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h30-15/02 Sydney Vs Perth BLV YẾN THANH
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:-1 group-title="Socolive_2",11h00: [BLV 7UP] JEF United Ichihara Chiba vs Kawasaki Frontale
-http://sharing.gotdns.ch:8091/socolive.php?id=534219
-#EXTINF:-1 group-title="Socolive_2",11h00: [TAM MAO] JEF United Ichihara Chiba vs Kawasaki Frontale
-http://sharing.gotdns.ch:8091/socolive.php?id=9912100
-#EXTINF:-1 group-title="Socolive_2",11h00: [BLV XAVI] JEF United Ichihara Chiba vs Kawasaki Frontale
-http://sharing.gotdns.ch:8091/socolive.php?id=525090
-#EXTINF:-1 group-title="Socolive_2",11h00: [BLV A WIN] JEF United Ichihara Chiba vs Kawasaki Frontale
-http://sharing.gotdns.ch:8091/socolive.php?id=536185
-#EXTINF:-1 group-title="Socolive_2",11h00: [BLV LUCAS] JEF United Ichihara Chiba vs Kawasaki Frontale
-http://sharing.gotdns.ch:8091/socolive.php?id=304148
-#EXTINF:-1 group-title="Socolive_2",11h00: [BLV Củ Cải] JEF United Ichihara Chiba vs Kawasaki Frontale
-http://sharing.gotdns.ch:8091/socolive.php?id=9912091
-#EXTINF:-1 group-title="Socolive_2",11h00: [CÔNG LÝ] Iwaki FC vs Fukushima United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=9912035
-#EXTINF:-1 group-title="Socolive_2",11h00: [BLV VITAMIN] Iwaki FC vs Fukushima United FC
-http://sharing.gotdns.ch:8091/socolive.php?id=400722
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",12h00-15/02 Kashiwa Reysol Vs Tokyo Verdy BLV KEVILL
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",14h00-15/02 Gamba Osaka Vs Nagoya Grampus BLV KEVILL
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTINF:-1 group-title="Socolive_2",12h00: [CR Bưởi] Kashiwa Reysol vs Tokyo Verdy
 http://sharing.gotdns.ch:8091/socolive.php?id=387694
 #EXTINF:-1 group-title="Socolive_2",12h00: [BLV MESSI] Kashiwa Reysol vs Tokyo Verdy
@@ -475,6 +462,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=336303
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h00-16/02: [SAO LA] RCD Mallorca vs Real Betis
 http://sharing.gotdns.ch:8091/socolive.php?id=462413
+#EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h00-16/02: [A PÁO] RCD Mallorca vs Real Betis
+http://sharing.gotdns.ch:8091/socolive.php?id=235232
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",03h30-16/02: [BLV GÔN] Sporting CP vs FC Famalicao
 http://sharing.gotdns.ch:8091/socolive.php?id=445260
