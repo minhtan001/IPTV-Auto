@@ -96,11 +96,11 @@ http://iptv.nhadai.org/stream/bac-ninh
 #EXTINF:-1 group-title="TruyenHinh" tvg-logo="http://iptv.nhadai.org/img/ben-tre.png",Bến Tre [Bến Tre]
 http://iptv.nhadai.org/stream/ben-tre
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h00-17/02 Sydney FC Vs Auckland FC BLV KHỔNG MINH
+https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",14h30-17/02 Seoul Thunders Vs Seoul Knights BLV YẾN THANH
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",13h00-17/02 Persigubin Pegunungan Bintang Vs Persilanny NHÀ ĐÀI
-https://auto.cdnok9.com/live/sd-6MvVNq9kkYLC6ni1S4/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",14h00-17/02 PS Badung Vs MIFA NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvVNq8zRL6hUzji12/playlist.m3u8
@@ -108,8 +108,11 @@ https://auto.cdnok9.com/live/sd-6MvVNq8zRL6hUzji12/playlist.m3u8
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",14h25-17/02 Barabai FC Vs Persemar Martapura NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvVNq9kkh87ai1g3e/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ls40.live/
-#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h00-17/02 Sydney FC Vs Auckland FC BLV KHỔNG MINH
-https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h45-17/02 Arambagh KS Vs Bashundhara Kings BLV NGŨ CA
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",15h45-17/02 Bangladesh Police Club Vs Fortis Limited BLV LÝ ỨNG
+https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 #EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-17/02 JF Khroub(W) Vs MZ Biskra (W) NHÀ ĐÀI
 https://auto.cdnok9.com/live/sd-6MvVNq8Fmxwv5wsect/playlist.m3u8
@@ -357,8 +360,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912008
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h00-18/02: [BLV VITAMIN] Istanbulspor vs Erokspor
 http://sharing.gotdns.ch:8091/socolive.php?id=400722
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h00-18/02: [BLV WUKONG] Istanbulspor vs Erokspor
-http://sharing.gotdns.ch:8091/socolive.php?id=511367
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h00-18/02: [BLV Hổ Lùn] Istanbulspor vs Erokspor
+http://sharing.gotdns.ch:8091/socolive.php?id=308080
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",00h45-18/02: [BLV DECO] Galatasaray vs Juventus
 http://sharing.gotdns.ch:8091/socolive.php?id=9912060
@@ -473,9 +476,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=414317
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-18/02: [BLV XAVI] Jaguares de Cordoba vs Independiente Santa Fe
 http://sharing.gotdns.ch:8091/socolive.php?id=525090
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-18/02: [BLV RAMBO] Liverpool URU vs Dep.Independiente Medellin
-http://sharing.gotdns.ch:8091/socolive.php?id=534055
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",07h30-18/02: [LOGAN] Liverpool URU vs Dep.Independiente Medellin
 http://sharing.gotdns.ch:8091/socolive.php?id=552832
