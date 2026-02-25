@@ -1,12 +1,34 @@
 #EXTM3U
-#EXTINF:-1 group-title="Socolive_2",15h00: [BLV SÓI] Tuloy FC vs Philippine Army FC
-http://sharing.gotdns.ch:8091/socolive.php?id=427562
-#EXTINF:-1 group-title="Socolive_2",15h00: [BLV EDRIC] Tuloy FC vs Philippine Army FC
-http://sharing.gotdns.ch:8091/socolive.php?id=5126499
-#EXTINF:-1 group-title="Socolive_2",15h00: [BLV TÔM] Hekari Souths United FC vs Bula FC
-http://sharing.gotdns.ch:8091/socolive.php?id=561379
-#EXTINF:-1 group-title="Socolive_2",15h00: [VỊT BẠC] Hekari Souths United FC vs Bula FC
-http://sharing.gotdns.ch:8091/socolive.php?id=474421
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h00-25/02 Mahar United Vs YANGON UNITED BLV LÝ ỨNG
+https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h30-25/02 Oita Trinita Vs Rayluck Shiga BLV TỐNG GIANG
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",16h30-25/02 Ispe FC Vs Shan United BLV DƯƠNG QUÁ
+https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",04h00-25/02 st Vincent the Grenadine U20 Vs Anguilla U20 NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6Mwd5koxVt3saQJTVE/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",04h00-25/02 Union Magdalena Vs Tigres Zipaquira NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvVcenABAMGqqvqeU/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h00-25/02 Huachipato Vs Carabobo FC NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvZ6HdmQKsr53sdVn/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",05h00-25/02 Martinique U20 Vs US Virgin Islands U20 NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6Mwd5koxVzeKBqnCwv/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-25/02 Shahdagh Qusar Vs Zaqatala FK BLV VĂN VỸ
+https://hls.cdnok9.com/live/VANVY/index.m3u8?expire=1830276060&sign=554d3c30c8d3453c1feb32142851729a
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-25/02 Leixoes U23 Vs Academico Viseu U23 BLV NGŨ CA
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",08h00-26/02 Irapuato Vs CF Atlante NHÀ ĐÀI
+https://auto.cdnok9.com/live/sd-6MvYqnv9qSEi3CWQkL/playlist.m3u8
 #EXTINF:-1 group-title="Socolive_2",16h00: [BLV LIO] Mahar United vs Yangon United
 http://sharing.gotdns.ch:8091/socolive.php?id=564362
 #EXTINF:-1 group-title="Socolive_2",16h00: [BLV Củ Cải] Mahar United vs Yangon United
@@ -65,10 +87,10 @@ http://sharing.gotdns.ch:8091/socolive.php?id=513394
 http://sharing.gotdns.ch:8091/socolive.php?id=285067
 #EXTINF:-1 group-title="Socolive_2",18h30: [BLV  TYPN] Nakhon Ratchasima Mazda FC vs Rayong FC
 http://sharing.gotdns.ch:8091/socolive.php?id=9912009
-#EXTINF:-1 group-title="Socolive_2",18h30: [BÚA TẠ] Nakhon Ratchasima Mazda FC vs Rayong FC
-http://sharing.gotdns.ch:8091/socolive.php?id=570313
 #EXTINF:-1 group-title="Socolive_2",18h30: [BLV WUKONG] Nakhon Ratchasima Mazda FC vs Rayong FC
 http://sharing.gotdns.ch:8091/socolive.php?id=511367
+#EXTINF:-1 group-title="Socolive_2",18h30: [BLV LONG] Nakhon Ratchasima Mazda FC vs Rayong FC
+http://sharing.gotdns.ch:8091/socolive.php?id=9912050
 #EXTINF:-1 group-title="Socolive_2",18h30: [BLV A WIN] Ayutthaya United vs Ratchaburi FC
 http://sharing.gotdns.ch:8091/socolive.php?id=536185
 #EXTINF:-1 group-title="Socolive_2",18h30: [BLV LIO] Ayutthaya United vs Ratchaburi FC
