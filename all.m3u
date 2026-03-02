@@ -1,5 +1,8 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-02/03 SC Poltava Vs Kudrivka BLV LEO
+https://hls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTVLCOPT:http-referrer=https://ls40.live/
 #EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h30-02/03 Farense U23 Vs Vizela U23 BLV NHỊ KA
 https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
 #EXTVLCOPT:http-referrer=https://ls40.live/
@@ -39,8 +42,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=9912097
 http://sharing.gotdns.ch:8091/socolive.php?id=9912009
 #EXTINF:-1 group-title="Socolive_2",20h30: [TAM MAO] PSM Makassar vs Persita Tangerang
 http://sharing.gotdns.ch:8091/socolive.php?id=9912100
-#EXTINF:-1 group-title="Socolive_2",20h30: [BLV TÔM] PSM Makassar vs Persita Tangerang
-http://sharing.gotdns.ch:8091/socolive.php?id=561379
 #EXTINF:-1 group-title="Socolive_2",20h30: [BLV CÒ] PSM Makassar vs Persita Tangerang
 http://sharing.gotdns.ch:8091/socolive.php?id=582342
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -52,9 +53,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=400722
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-02/03: [SON HÍP] Ludogorets Razgrad vs Lokomotiv Plovdiv
 http://sharing.gotdns.ch:8091/socolive.php?id=586938
-#EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-02/03: [BLV TÔM] Ludogorets Razgrad vs Lokomotiv Plovdiv
-http://sharing.gotdns.ch:8091/socolive.php?id=561379
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",23h00-02/03: [BLV ALEX] Ludogorets Razgrad vs Lokomotiv Plovdiv
 http://sharing.gotdns.ch:8091/socolive.php?id=532081
