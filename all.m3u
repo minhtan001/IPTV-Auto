@@ -1,22 +1,73 @@
 #EXTM3U
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV PEWPEW] Slavia Sofia vs Spartak Varna
-http://sharing.gotdns.ch:8091/socolive.php?id=9912015
-#EXTINF:-1 group-title="Socolive_2",23h00: [A PÁO] Slavia Sofia vs Spartak Varna
-http://sharing.gotdns.ch:8091/socolive.php?id=235232
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV WUKONG] Slavia Sofia vs Spartak Varna
-http://sharing.gotdns.ch:8091/socolive.php?id=511367
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV A BỆU] Slavia Sofia vs Spartak Varna
-http://sharing.gotdns.ch:8091/socolive.php?id=484845
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV VITAMIN] Rigas Futbola Skola vs Ogre United
-http://sharing.gotdns.ch:8091/socolive.php?id=400722
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV BÉO] Rigas Futbola Skola vs Ogre United
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV ADAM] FC Iberia 1999 Tbilisi vs Dila Gori
-http://sharing.gotdns.ch:8091/socolive.php?id=336303
-#EXTINF:-1 group-title="Socolive_2",23h00: [MR BÍCH] FC Iberia 1999 Tbilisi vs Dila Gori
-http://sharing.gotdns.ch:8091/socolive.php?id=285067
-#EXTINF:-1 group-title="Socolive_2",23h00: [BLV CÒ] FC Iberia 1999 Tbilisi vs Dila Gori
-http://sharing.gotdns.ch:8091/socolive.php?id=582342
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h30-07/03 Herfolge Boldklub Koge Vs Esbjerg BLV PHONG VÂN
+https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h00-07/03 Istra 1961 Pula Vs ZNK Osijek BLV VƯƠNG LUÂN
+https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h00-07/03 Sakaryaspor Vs Adana Demirspor BLV LỮ BỐ
+https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h30-07/03 SV Elversberg Vs Magdeburg BLV LÝ ỨNG
+https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",01h00-07/03 GD Chaves Vs Viseu BLV MÃ SIÊU
+https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h00-07/03 Pendikspor Vs Belediye Vanspor BLV NGŨ CA
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h00-07/03 Puszcza Niepolomice Vs Pogon Siedlce BLV QUAN VŨ
+https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h30-07/03 FK Csikszereda Miercurea Ciuc Vs Farul Constanta BLV VĂN VỸ
+https://hls.cdnok9.com/live/VANVY/index.m3u8?expire=1830276060&sign=554d3c30c8d3453c1feb32142851729a
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h00-07/03 AEK Larnaca Vs Akritas Chloraka BLV A TỦA
+https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",00h30-07/03 Schalke 04 Vs Arminia Bielefeld BLV DƯƠNG QUÁ
+https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",02h00-07/03 Al-Ahli SFC Vs Al-Ittihad BLV ĐOÀN DỰ
+https://hls.cdnok9.com/live/DOANDU1/index.m3u8?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",02h00-07/03 Al-Khaleej Vs Al-Hazm BLV MAYBACH
+https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h00-07/03 Sukhothai Vs Rayong FC BLV KHỔNG MINH
+https://auto.cdnok9.com/live/sd-6MvZ61ShZK3QuoryRn/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h30-07/03 Mohammedan SC Vs Bengaluru BLV TÂY MÔN KHÁNH
+https://auto.cdnok9.com/live/sd-6MvVNYr2XL5mJAhQ84/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h30-07/03 Ayutthaya United Vs DP Kanchanaburi BLV A TỦA
+https://auto.cdnok9.com/live/sd-6MvZ61ShZRdrXFLitU/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",18h35-07/03 Yunnan Yukun Vs Qingdao Manatee BLV CHUNN
+https://auto.cdnok9.com/live/hd-en-6MvVNtSxxWZRjC8dmv/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-07/03 Prachuap Khiri Khan Vs Muang Thong United BLV VĂN VỸ
+https://auto.cdnok9.com/live/sd-6MvZ61ShZPSNemWoja/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h00-07/03 Malut United Vs PSM Makassar BLV ĐOÀN DỰ
+https://auto.cdnok9.com/live/sd-6MuTNFmKjNP4R7B4UC/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h15-07/03 Mansfield Town Vs Arsenal BLV LƯU BỊ
+https://auto.cdnok9.com/live/hd-en-6MvVNq91bEoo8jBxse/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",19h30-07/03 Nakhon Ratchasima Vs Buriram United BLV GIÁO SƯ XOAY
+https://auto.cdnok9.com/live/sd-6MvZ61ShZW2pGCzZCG/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h00-07/03 Istanbul Basaksehir Vs Goztepe BLV LÝ QUỲ
+https://auto.cdnok9.com/live/hd-en-6MuTcMcGe82fMcbi3E/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-07/03 Borneo FC Samarinda Vs Persebaya Surabaya BLV MAYBACH
+https://auto.cdnok9.com/live/sd-6MuTNFkZjQhfw2tJxc/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls40.live/
+#EXTINF:-1 group-title="LuongSon_2" referer="https://ls40.live/",20h30-07/03 Persita Tangerang Vs Madura United BLV MÃ SIÊU
+https://auto.cdnok9.com/live/sd-6MuTNFkaF1Hxfj73kp/playlist.m3u8
 #EXTINF:-1 group-title="Socolive_2",00h00: [BÚA TẠ] NK Istra 1961 vs NK Osijek
 http://sharing.gotdns.ch:8091/socolive.php?id=570313
 #EXTINF:-1 group-title="Socolive_2",00h00: [BLV VOI] Pendikspor vs Belediye Vanspor
@@ -39,8 +90,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=290928
 http://sharing.gotdns.ch:8091/socolive.php?id=531989
 #EXTINF:-1 group-title="Socolive_2",00h30: [BLV RAMBO] FK Csikszereda Miercurea Ciuc vs Farul Constanta
 http://sharing.gotdns.ch:8091/socolive.php?id=534055
-#EXTINF:-1 group-title="Socolive_2",02h00: [BLV CÒ] Heracles Almelo vs FC Utrecht
-http://sharing.gotdns.ch:8091/socolive.php?id=582342
 #EXTINF:-1 group-title="Socolive_2",02h00: [NGƯỜI THÉP] Al-Ahli SFC vs Al Ittihad Club
 http://sharing.gotdns.ch:8091/socolive.php?id=568233
 #EXTINF:-1 group-title="Socolive_2",02h00: [KÉP] Al Hilal vs Al Najma(KSA)
@@ -73,8 +122,6 @@ http://sharing.gotdns.ch:8091/socolive.php?id=579055
 http://sharing.gotdns.ch:8091/socolive.php?id=336303
 #EXTINF:-1 group-title="Socolive_2",02h45: [BLV GÔN] Paris Saint Germain vs AS Monaco
 http://sharing.gotdns.ch:8091/socolive.php?id=445260
-#EXTINF:-1 group-title="Socolive_2",03h00: [BLV BÉO] Wolverhampton Wanderers vs Liverpool
-http://sharing.gotdns.ch:8091/socolive.php?id=459401
 #EXTINF:-1 group-title="Socolive_2",03h00: [BLV 7UP] Wolverhampton Wanderers vs Liverpool
 http://sharing.gotdns.ch:8091/socolive.php?id=534219
 #EXTINF:-1 group-title="Socolive_2",03h00: [BLV RAMBO] Wolverhampton Wanderers vs Liverpool
@@ -83,6 +130,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=534055
 http://sharing.gotdns.ch:8091/socolive.php?id=589848
 #EXTINF:-1 group-title="Socolive_2",03h00: [BLV MESSI] Wolverhampton Wanderers vs Liverpool
 http://sharing.gotdns.ch:8091/socolive.php?id=494201
+#EXTINF:-1 group-title="Socolive_2",03h00: [BLV VOI] Wolverhampton Wanderers vs Liverpool
+http://sharing.gotdns.ch:8091/socolive.php?id=9912114
 #EXTINF:-1 group-title="Socolive_2",03h00: [BLV TOMIA] RC Celta vs Real Madrid
 http://sharing.gotdns.ch:8091/socolive.php?id=9912008
 #EXTINF:-1 group-title="Socolive_2",03h00: [BLV MIXI] RC Celta vs Real Madrid
