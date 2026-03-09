@@ -207,6 +207,9 @@ http://sharing.gotdns.ch:8091/socolive.php?id=570313
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",01h00-10/03: [BLV WUKONG] CFR Cluj vs FC Dinamo 1948
 http://sharing.gotdns.ch:8091/socolive.php?id=511367
 #EXTVLCOPT:http-referrer=https://socolive12.co/
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",01h00-10/03: [THE KOP] CFR Cluj vs FC Dinamo 1948
+http://sharing.gotdns.ch:8091/socolive.php?id=581585
+#EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",02h00-10/03: [BLV A BỆU] West Ham United vs Brentford
 http://sharing.gotdns.ch:8091/socolive.php?id=484845
 #EXTVLCOPT:http-referrer=https://socolive12.co/
@@ -279,8 +282,8 @@ http://sharing.gotdns.ch:8091/socolive.php?id=474421
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",05h30-10/03: [THE KOP] Cienciano vs Sport Boys
 http://sharing.gotdns.ch:8091/socolive.php?id=581585
 #EXTVLCOPT:http-referrer=https://socolive12.co/
-#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",05h30-10/03: [BLV SÓI] Cienciano vs Sport Boys
-http://sharing.gotdns.ch:8091/socolive.php?id=427562
+#EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",05h30-10/03: [BLV ROBBEN] Cienciano vs Sport Boys
+http://sharing.gotdns.ch:8091/socolive.php?id=527383
 #EXTVLCOPT:http-referrer=https://socolive12.co/
 #EXTINF:-1 group-title="Socolive_2" referer="https://socolive12.co/",06h00-10/03: [BLV A TÚ] Universidad de Chile vs Universidad de Concepcion
 http://sharing.gotdns.ch:8091/socolive.php?id=557845
@@ -784,6 +787,8 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hoat-hinh/KenhCoBan.m3u8
 https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT2/manifest.mpd
 #EXTINF:-1 group-title="TruyenHinh_2",Event 1
 https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TruyenHinh_2",Event 2
+https://live.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TruyenHinh_2",VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 group-title="TruyenHinh_2",VTV2
